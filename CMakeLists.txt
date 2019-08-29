@@ -4,4 +4,4 @@ project(BOJ_sol)
 set(CMAKE_CXX_STANDARD 17)
 
 # change the number to run the corresponding problem
-add_executable(${PROJECT_NAME} problems/acmicpc_1000.cpp)
+add_executable(${PROJECT_NAME} problems/acmicpc_1008.cpp)
