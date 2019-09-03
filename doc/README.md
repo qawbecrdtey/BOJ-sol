@@ -2,17 +2,21 @@
 
 ## 번호순
 
-## 작업중
+1365 꼬인 전깃줄 ([문제 링크](https://www.acmicpc.net/problem/1365)) ([해설](1365.md)) ([소스 코드](../problems/acmicpc_1365.cpp))
 
-[1922 네트워크 연결](../problems/acmicpc_1922.cpp) ([링크](https://www.acmicpc.net/problem/1922))
+1922 네트워크 연결 ([문제 링크](https://www.acmicpc.net/problem/1922)) ([해설](1922.md)) ([소스 코드](../problems/acmicpc_1922.cpp))
+
+2493 탑 ([문제 링크](https://www.acmicpc.net/problem/2493)) ([해설](2493.md)) ([소스 코드](../problems/acmicpc_2493.cpp))
+
+2565 전깃줄 ([문제 링크](https://www.acmicpc.net/problem/2565)) ([해설](2565.md)) ([소스 코드](../problems/acmicpc_2565.cpp))
+
+2636 치즈 ([문제 링크](https://www.acmicpc.net/problem/2636)) ([해설](2636.md)) ([소스 코드](../problems/acmicpc_2636.cpp))
+
+## 작업중
 
 [2399 거리의 합](../problems/acmicpc_2399.cpp) ([링크](https://www.acmicpc.net/problem/2399))
 
-[2493 탑](../problems/acmicpc_2493.cpp) ([링크](https://www.acmicpc.net/problem/2493))
-
-[2565 전깃줄](../problems/acmicpc_2565.cpp) ([링크](https://www.acmicpc.net/problem/2565))
-
-[2636 치즈](../problems/acmicpc_2636.cpp) ([링크](https://www.acmicpc.net/problem/2636))
+[2548 대표 자연수](../problems/acmicpc_2548.cpp) ([링크](https://www.acmicpc.net/problem/2548))
 
 [2858 기숙사 바닥](../problems/acmicpc_2858.cpp) ([링크](https://www.acmicpc.net/problem/2858))
 
@@ -33,3 +37,11 @@
 [15988 1, 2, 3 더하기 3](../problems/acmicpc_15988.cpp) ([링크](https://www.acmicpc.net/problem/15988))
 
 [17263 Sort 마스터 배지훈](../problems/acmicpc_17263.cpp) ([링크](https://www.acmicpc.net/problem/17263))
+
+## Algorithms
+
+[BFS](BFS.md)
+
+[LIS](LIS.md)
+
+[MST](MST.md)
