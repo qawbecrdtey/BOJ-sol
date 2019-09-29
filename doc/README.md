@@ -14,17 +14,29 @@
 
 ## 작업중
 
+[1159 농구 경기](../problems/acmicpc_1159.cpp) ([링크](https://www.acmicpc.net/problem/1159))
+
+[1259 팰린드롬수](../problems/acmicpc_1259.cpp) ([링크](https://www.acmicpc.net/problem/1259))
+
+[2263 트리의 순회](../problems/acmicpc_2263.cpp) ([링크](https://www.acmicpc.net/problem/2263))
+
 [2399 거리의 합](../problems/acmicpc_2399.cpp) ([링크](https://www.acmicpc.net/problem/2399))
 
 [2548 대표 자연수](../problems/acmicpc_2548.cpp) ([링크](https://www.acmicpc.net/problem/2548))
 
 [2858 기숙사 바닥](../problems/acmicpc_2858.cpp) ([링크](https://www.acmicpc.net/problem/2858))
 
+[2903 중앙 이동 알고리즘](../problems/acmicpc_2903.cpp) ([링크](https://www.acmicpc.net/problem/2903))
+
 [2981 검문](../problems/acmicpc_2981.cpp) ([링크](https://www.acmicpc.net/problem/2981))
+
+[3986 좋은 단어](../problems/acmicpc_3986.cpp) ([링크](https://www.acmicpc.net/problem/3986))
 
 [4949 균형잡힌 세상](../problems/acmicpc_4949.cpp) ([링크](https://www.acmicpc.net/problem/4949))
 
 [5586 JOI와 IOI](../problems/acmicpc_5586.cpp) ([링크](https://www.acmicpc.net/problem/5586))
+
+[5639 이진 검색 트리](../problems/acmicpc_5639.cpp) ([링크](https://www.acmicpc.net/problem/5639))
 
 [9084 동전](../problems/acmicpc_9084.cpp) ([링크](https://www.acmicpc.net/problem/9084))
 
@@ -32,7 +44,15 @@
 
 [10768 특별한 날](../problems/acmicpc_10768.cpp) ([링크](https://www.acmicpc.net/problem/10768))
 
+[11772 POT](../problems/acmicpc_11772.cpp) ([링크](https://www.acmicpc.net/problem/11772))
+
+[11773 ESEJ](../problems/acmicpc_11773.cpp) ([링크](https://www.acmicpc.net/problem/11773))
+
+[11774 MOLEKULE](../problems/acmicpc_11774.cpp) ([링크](https://www.acmicpc.net/problem/11774))
+
 [12852 1로 만들기 2](../problems/acmicpc_12852.cpp) ([링크](https://www.acmicpc.net/problem/12852))
+
+[13345 Completing the Square](../problems/acmicpc_13345.cpp) ([링크](https://www.acmicpc.net/problem/13345))
 
 [15988 1, 2, 3 더하기 3](../problems/acmicpc_15988.cpp) ([링크](https://www.acmicpc.net/problem/15988))
 
@@ -41,6 +61,8 @@
 ## Algorithms
 
 [BFS](BFS.md)
+
+[KMP](KMP.md)
 
 [LIS](LIS.md)
 
