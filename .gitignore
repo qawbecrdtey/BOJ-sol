@@ -1,2 +1,7 @@
 build/
 CMakeLists.txt
+doc/LaTex files/*/*.aux
+doc/LaTex files/*/*.fdb_latexmk
+doc/LaTex files/*/*.fls
+doc/LaTex files/*/*.log
+doc/LaTex files/*/*.synctex.gz
