@@ -60,6 +60,8 @@
 
 [13345 Completing the Square](../problems/acmicpc_13345.cpp) ([링크](https://www.acmicpc.net/problem/13345))
 
+[15678 연세워터파크](../problems/acmicpc_15678.cpp) ([링크](https://www.acmicpc.net/problem/15678))
+
 [15988 1, 2, 3 더하기 3](../problems/acmicpc_15988.cpp) ([링크](https://www.acmicpc.net/problem/15988))
 
 [17263 Sort 마스터 배지훈](../problems/acmicpc_17263.cpp) ([링크](https://www.acmicpc.net/problem/17263))
