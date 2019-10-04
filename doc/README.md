@@ -30,15 +30,21 @@
 
 [1926 그림](../problems/acmicpc_1926.cpp) ([링크](https://www.acmicpc.net/problem/1926))
 
+[1965 상자넣기](../problems/acmicpc_1965.cpp) ([링크](https://www.acmicpc.net/problem/1965))
+
 [2213 트리의 독립집합](../problems/acmicpc_2213.cpp) ([링크](https://www.acmicpc.net/problem/2213))
 
 [2263 트리의 순회](../problems/acmicpc_2263.cpp) ([링크](https://www.acmicpc.net/problem/2263))
+
+[2352 반도체 설계](../problems/acmicpc_2352.cpp) ([링크](https://www.acmicpc.net/problem/2352))
 
 [2399 거리의 합](../problems/acmicpc_2399.cpp) ([링크](https://www.acmicpc.net/problem/2399))
 
 [2548 대표 자연수](../problems/acmicpc_2548.cpp) ([링크](https://www.acmicpc.net/problem/2548))
 
 [2903 중앙 이동 알고리즘](../problems/acmicpc_2903.cpp) ([링크](https://www.acmicpc.net/problem/2903))
+
+[3052 나머지](../problems/acmicpc_3052.cpp) ([링크](https://www.acmicpc.net/problem/3052))
 
 [3986 좋은 단어](../problems/acmicpc_3986.cpp) ([링크](https://www.acmicpc.net/problem/3986))
 
@@ -57,6 +63,8 @@
 [10768 특별한 날](../problems/acmicpc_10768.cpp) ([링크](https://www.acmicpc.net/problem/10768))
 
 [11003 최솟값 찾기](../problems/acmicpc_11003.cpp) ([링크](https://www.acmicpc.net/problem/11003))
+
+[11055 가장 큰 증가 부분 수열](../problems/acmicpc_11055.cpp) ([링크](https://www.acmicpc.net/problem/11055))
 
 [11772 POT](../problems/acmicpc_11772.cpp) ([링크](https://www.acmicpc.net/problem/11772))
 
