@@ -28,6 +28,8 @@
 
 [1259 팰린드롬수](../problems/acmicpc_1259.cpp) ([링크](https://www.acmicpc.net/problem/1259))
 
+[1408 24](../problems/acmicpc_1408.cpp) ([링크](https://www.acmicpc.net/problem/1408))
+
 [1926 그림](../problems/acmicpc_1926.cpp) ([링크](https://www.acmicpc.net/problem/1926))
 
 [1965 상자넣기](../problems/acmicpc_1965.cpp) ([링크](https://www.acmicpc.net/problem/1965))
@@ -40,11 +42,17 @@
 
 [2399 거리의 합](../problems/acmicpc_2399.cpp) ([링크](https://www.acmicpc.net/problem/2399))
 
+[2417 정수 제곱근](../problems/acmicpc_2417.cpp) ([링크](https://www.acmicpc.net/problem/2417))
+
 [2473 세 용액](../problems/acmicpc_2473.cpp) ([링크](https://www.acmicpc.net/problem/2473))
 
 [2548 대표 자연수](../problems/acmicpc_2548.cpp) ([링크](https://www.acmicpc.net/problem/2548))
 
 [2903 중앙 이동 알고리즘](../problems/acmicpc_2903.cpp) ([링크](https://www.acmicpc.net/problem/2903))
+
+[2954 창영이의 일기장](../problems/acmicpc_2954.cpp) ([링크](https://www.acmicpc.net/problem/2954))
+
+[3028 창영마을](../problems/acmicpc_3028.cpp) ([링크](https://www.acmicpc.net/problem/3028))
 
 [3052 나머지](../problems/acmicpc_3052.cpp) ([링크](https://www.acmicpc.net/problem/3052))
 
@@ -54,9 +62,15 @@
 
 [4949 균형잡힌 세상](../problems/acmicpc_4949.cpp) ([링크](https://www.acmicpc.net/problem/4949))
 
+[5635 생일](../problems/acmicpc_5635.cpp) ([링크](https://www.acmicpc.net/problem/5635))
+
 [5639 이진 검색 트리](../problems/acmicpc_5639.cpp) ([링크](https://www.acmicpc.net/problem/5639))
 
+[6502 동혁 피자](../problems/acmicpc_6502.cpp) ([링크](https://www.acmicpc.net/problem/6502))
+
 [9084 동전](../problems/acmicpc_9084.cpp) ([링크](https://www.acmicpc.net/problem/9084))
+
+[9300 Where’s the Rainbow](../problems/acmicpc_9300.cpp) ([링크](https://www.acmicpc.net/problem/9300))
 
 [9375 패션왕 신해빈](../problems/acmicpc_9375.cpp) ([링크](https://www.acmicpc.net/problem/9375))
 
@@ -70,7 +84,13 @@
 
 [11055 가장 큰 증가 부분 수열](../problems/acmicpc_11055.cpp) ([링크](https://www.acmicpc.net/problem/11055))
 
+[11382 꼬마 정민](../problems/acmicpc_11382.cpp) ([링크](https://www.acmicpc.net/problem/11382))
+
+[11557 Yangjojang of The Year](../problems/acmicpc_11557.cpp) ([링크](https://www.acmicpc.net/problem/11557))
+
 [11568 민균이의 계략](../problems/acmicpc_11568.cpp) ([링크](https://www.acmicpc.net/problem/11568))
+
+[11766 Rings](../problems/acmicpc_11766.cpp) ([링크](https://www.acmicpc.net/problem/11766))
 
 [11772 POT](../problems/acmicpc_11772.cpp) ([링크](https://www.acmicpc.net/problem/11772))
 
@@ -78,15 +98,25 @@
 
 [11774 MOLEKULE](../problems/acmicpc_11774.cpp) ([링크](https://www.acmicpc.net/problem/11774))
 
+[11931 8진수](../problems/acmicpc_11931.cpp) ([링크](https://www.acmicpc.net/problem/11931))
+
 [12015 가장 긴 증가하는 부분 수열 2](../problems/acmicpc_12015.cpp) ([링크](https://www.acmicpc.net/problem/12015))
 
 [12852 1로 만들기 2](../problems/acmicpc_12852.cpp) ([링크](https://www.acmicpc.net/problem/12852))
 
 [13345 Completing the Square](../problems/acmicpc_13345.cpp) ([링크](https://www.acmicpc.net/problem/13345))
 
+[13900 순서쌍의 곱의 합](../problems/acmicpc_13900.cpp) ([링크](https://www.acmicpc.net/problem/13900))
+
 [14646 욱제는 결정장애야!!](../problems/acmicpc_14646.cpp) ([링크](https://www.acmicpc.net/problem/14646))
 
+[14918 더하기](../problems/acmicpc_14918.cpp) ([링크](https://www.acmicpc.net/problem/14918))
+
 [15678 연세워터파크](../problems/acmicpc_15678.cpp) ([링크](https://www.acmicpc.net/problem/15678))
+
+[15701 순서쌍](../problems/acmicpc_15701.cpp) ([링크](https://www.acmicpc.net/problem/15701))
+
+[15702 중간고사 채점](../problems/acmicpc_15702.cpp) ([링크](https://www.acmicpc.net/problem/15702))
 
 [15780 멀티탭 충분하니?](../problems/acmicpc_15780.cpp) ([링크](https://www.acmicpc.net/problem/15780))
 
@@ -95,6 +125,8 @@
 [15970 화살표 그리기](../problems/acmicpc_15970.cpp) ([링크](https://www.acmicpc.net/problem/15970))
 
 [15988 1, 2, 3 더하기 3](../problems/acmicpc_15988.cpp) ([링크](https://www.acmicpc.net/problem/15988))
+
+[16953 A → B](../problems/acmicpc_16953.cpp) ([링크](https://www.acmicpc.net/problem/16953))
 
 [17263 Sort 마스터 배지훈](../problems/acmicpc_17263.cpp) ([링크](https://www.acmicpc.net/problem/17263))
 
