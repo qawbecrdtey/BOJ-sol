@@ -30,6 +30,8 @@
 
 [1408 24](../problems/acmicpc_1408.cpp) ([링크](https://www.acmicpc.net/problem/1408))
 
+[1919 애너그램 만들기](../problems/acmicpc_1919.cpp) ([링크](https://www.acmicpc.net/problem/1919))
+
 [1926 그림](../problems/acmicpc_1926.cpp) ([링크](https://www.acmicpc.net/problem/1926))
 
 [1965 상자넣기](../problems/acmicpc_1965.cpp) ([링크](https://www.acmicpc.net/problem/1965))
@@ -47,6 +49,8 @@
 [2473 세 용액](../problems/acmicpc_2473.cpp) ([링크](https://www.acmicpc.net/problem/2473))
 
 [2548 대표 자연수](../problems/acmicpc_2548.cpp) ([링크](https://www.acmicpc.net/problem/2548))
+
+[2810 컵홀더](../problems/acmicpc_2810.cpp) ([링크](https://www.acmicpc.net/problem/2810))
 
 [2903 중앙 이동 알고리즘](../problems/acmicpc_2903.cpp) ([링크](https://www.acmicpc.net/problem/2903))
 
@@ -68,6 +72,10 @@
 
 [6502 동혁 피자](../problems/acmicpc_6502.cpp) ([링크](https://www.acmicpc.net/problem/6502))
 
+[6996 애너그램](../problems/acmicpc_6996.cpp) ([링크](https://www.acmicpc.net/problem/6996))
+
+[8979 올림픽](../problems/acmicpc_8979.cpp) ([링크](https://www.acmicpc.net/problem/8979))
+
 [9084 동전](../problems/acmicpc_9084.cpp) ([링크](https://www.acmicpc.net/problem/9084))
 
 [9300 Where’s the Rainbow](../problems/acmicpc_9300.cpp) ([링크](https://www.acmicpc.net/problem/9300))
@@ -81,6 +89,8 @@
 [11000 강의실 배정](../problems/acmicpc_11000.cpp) ([링크](https://www.acmicpc.net/problem/11000))
 
 [11003 최솟값 찾기](../problems/acmicpc_11003.cpp) ([링크](https://www.acmicpc.net/problem/11003))
+
+[11004 K번째 수](../problems/acmicpc_11004.cpp) ([링크](https://www.acmicpc.net/problem/11004))
 
 [11055 가장 큰 증가 부분 수열](../problems/acmicpc_11055.cpp) ([링크](https://www.acmicpc.net/problem/11055))
 
