@@ -64,7 +64,11 @@
 
 [4386 별자리 만들기](../problems/acmicpc_4386.cpp) ([링크](https://www.acmicpc.net/problem/4386))
 
+[4564 숫자 카드놀이](../problems/acmicpc_4564.cpp) ([링크](https://www.acmicpc.net/problem/4564))
+
 [4949 균형잡힌 세상](../problems/acmicpc_4949.cpp) ([링크](https://www.acmicpc.net/problem/4949))
+
+[5054 주차의 신](../problems/acmicpc_5054.cpp) ([링크](https://www.acmicpc.net/problem/5054))
 
 [5635 생일](../problems/acmicpc_5635.cpp) ([링크](https://www.acmicpc.net/problem/5635))
 
@@ -137,6 +141,8 @@
 [15781 헬멧과 조끼](../problems/acmicpc_15781.cpp) ([링크](https://www.acmicpc.net/problem/15781))
 
 [15819 너의 핸들은](../problems/acmicpc_15819.cpp) ([링크](https://www.acmicpc.net/problem/15819))
+
+[15969 행복](../problems/acmicpc_15969.cpp) ([링크](https://www.acmicpc.net/problem/15969))
 
 [15970 화살표 그리기](../problems/acmicpc_15970.cpp) ([링크](https://www.acmicpc.net/problem/15970))
 
