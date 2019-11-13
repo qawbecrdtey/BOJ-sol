@@ -2,6 +2,8 @@
 
 ## 번호순
 
+1159 농구 경기 ([문제 링크](https://www.acmicpc.net/problem/1159)) ([해설](1159.md)) ([소스 코드](../problems/acmicpc_1159.cpp))
+
 1365 꼬인 전깃줄 ([문제 링크](https://www.acmicpc.net/problem/1365)) ([해설](1365.md)) ([소스 코드](../problems/acmicpc_1365.cpp))
 
 1922 네트워크 연결 ([문제 링크](https://www.acmicpc.net/problem/1922)) ([해설](1922.md)) ([소스 코드](../problems/acmicpc_1922.cpp))
@@ -24,9 +26,11 @@
 
 ## 작업중
 
-[1159 농구 경기](../problems/acmicpc_1159.cpp) ([링크](https://www.acmicpc.net/problem/1159))
-
 [1259 팰린드롬수](../problems/acmicpc_1259.cpp) ([링크](https://www.acmicpc.net/problem/1259))
+
+[1267 핸드폰 요금](../problems/acmicpc_1267.cpp) ([링크](https://www.acmicpc.net/problem/1267))
+
+[1276 교각 놓기](../problems/acmicpc_1276.cpp) ([링크](https://www.acmicpc.net/problem/1276))
 
 [1408 24](../problems/acmicpc_1408.cpp) ([링크](https://www.acmicpc.net/problem/1408))
 
@@ -163,6 +167,8 @@
 [16953 A → B](../problems/acmicpc_16953.cpp) ([링크](https://www.acmicpc.net/problem/16953))
 
 [17263 Sort 마스터 배지훈](../problems/acmicpc_17263.cpp) ([링크](https://www.acmicpc.net/problem/17263))
+
+[17466 N! mod P (1)](../problems/acmicpc_17466.cpp) ([링크](https://www.acmicpc.net/problem/17466))
 
 ## Algorithms
 
