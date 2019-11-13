@@ -28,6 +28,8 @@
 
 [1259 팰린드롬수](../problems/acmicpc_1259.cpp) ([링크](https://www.acmicpc.net/problem/1259))
 
+[1276 교각 놓기](../problems/acmicpc_1276.cpp) ([링크](https://www.acmicpc.net/problem/1276))
+
 [1408 24](../problems/acmicpc_1408.cpp) ([링크](https://www.acmicpc.net/problem/1408))
 
 [1919 애너그램 만들기](../problems/acmicpc_1919.cpp) ([링크](https://www.acmicpc.net/problem/1919))
