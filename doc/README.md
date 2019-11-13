@@ -56,6 +56,8 @@
 
 [2954 창영이의 일기장](../problems/acmicpc_2954.cpp) ([링크](https://www.acmicpc.net/problem/2954))
 
+[3003 킹, 퀸, 룩, 비숍, 나이트, 폰](../problems/acmicpc_3003.cpp) ([링크](https://www.acmicpc.net/problem/3003))
+
 [3028 창영마을](../problems/acmicpc_3028.cpp) ([링크](https://www.acmicpc.net/problem/3028))
 
 [3052 나머지](../problems/acmicpc_3052.cpp) ([링크](https://www.acmicpc.net/problem/3052))
@@ -77,6 +79,8 @@
 [6502 동혁 피자](../problems/acmicpc_6502.cpp) ([링크](https://www.acmicpc.net/problem/6502))
 
 [6996 애너그램](../problems/acmicpc_6996.cpp) ([링크](https://www.acmicpc.net/problem/6996))
+
+[7600 문자가 몇갤까](../problems/acmicpc_7600.cpp) ([링크](https://www.acmicpc.net/problem/7600))
 
 [8979 올림픽](../problems/acmicpc_8979.cpp) ([링크](https://www.acmicpc.net/problem/8979))
 
@@ -132,6 +136,8 @@
 
 [14918 더하기](../problems/acmicpc_14918.cpp) ([링크](https://www.acmicpc.net/problem/14918))
 
+[15439 Vera and Outfits](../problems/acmicpc_15439.cpp) ([링크](https://www.acmicpc.net/problem/15439))
+
 [15678 연세워터파크](../problems/acmicpc_15678.cpp) ([링크](https://www.acmicpc.net/problem/15678))
 
 [15701 순서쌍](../problems/acmicpc_15701.cpp) ([링크](https://www.acmicpc.net/problem/15701))
@@ -149,6 +155,10 @@
 [15970 화살표 그리기](../problems/acmicpc_15970.cpp) ([링크](https://www.acmicpc.net/problem/15970))
 
 [15988 1, 2, 3 더하기 3](../problems/acmicpc_15988.cpp) ([링크](https://www.acmicpc.net/problem/15988))
+
+[16394 홍익대학교](../problems/acmicpc_16394.cpp) ([링크](https://www.acmicpc.net/problem/16394))
+
+[16395 파스칼의 삼각형](../problems/acmicpc_16395.cpp) ([링크](https://www.acmicpc.net/problem/16395))
 
 [16953 A → B](../problems/acmicpc_16953.cpp) ([링크](https://www.acmicpc.net/problem/16953))
 
