@@ -90,6 +90,8 @@
 
 [9084 동전](../problems/acmicpc_9084.cpp) ([링크](https://www.acmicpc.net/problem/9084))
 
+[9252 LCS 2](../problems/acmicpc_9252.cpp) ([링크](https://www.acmicpc.net/problem/9252))
+
 [9300 Where’s the Rainbow](../problems/acmicpc_9300.cpp) ([링크](https://www.acmicpc.net/problem/9300))
 
 [9375 패션왕 신해빈](../problems/acmicpc_9375.cpp) ([링크](https://www.acmicpc.net/problem/9375))
