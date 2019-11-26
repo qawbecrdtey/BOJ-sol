@@ -84,6 +84,8 @@
 
 [6996 애너그램](../problems/acmicpc_6996.cpp) ([링크](https://www.acmicpc.net/problem/6996))
 
+[7523 Gauß](../problems/acmicpc_7523.cpp) ([링크](https://www.acmicpc.net/problem/7523))
+
 [7600 문자가 몇갤까](../problems/acmicpc_7600.cpp) ([링크](https://www.acmicpc.net/problem/7600))
 
 [8979 올림픽](../problems/acmicpc_8979.cpp) ([링크](https://www.acmicpc.net/problem/8979))
