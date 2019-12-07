@@ -106,6 +106,8 @@
 
 [9494 데구르르](../problems/acmicpc_9494.cpp) ([링크](https://www.acmicpc.net/problem/9494))
 
+[10253 헨리](../problems/acmicpc_10253.cpp) ([링크](https://www.acmicpc.net/problem/10253))
+
 [10372 Alarm Clock](../problems/acmicpc_10372.cpp) ([링크](https://www.acmicpc.net/problem/10372))
 
 [10768 특별한 날](../problems/acmicpc_10768.cpp) ([링크](https://www.acmicpc.net/problem/10768))
