@@ -34,6 +34,8 @@
 
 [1408 24](../problems/acmicpc_1408.cpp) ([링크](https://www.acmicpc.net/problem/1408))
 
+[1516 게임 개발](../problems/acmicpc_1516.cpp) ([링크](https://www.acmicpc.net/problem/1516))
+
 [1919 애너그램 만들기](../problems/acmicpc_1919.cpp) ([링크](https://www.acmicpc.net/problem/1919))
 
 [1926 그림](../problems/acmicpc_1926.cpp) ([링크](https://www.acmicpc.net/problem/1926))
