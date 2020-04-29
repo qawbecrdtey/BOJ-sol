@@ -84,6 +84,8 @@
 
 [5054 주차의 신](../problems/acmicpc_5054.cpp) ([링크](https://www.acmicpc.net/problem/5054))
 
+[5522 카드 게임](../problems/acmicpc_5522.cpp) ([링크](https://www.acmicpc.net/problem/5522))
+
 [5635 생일](../problems/acmicpc_5635.cpp) ([링크](https://www.acmicpc.net/problem/5635))
 
 [5639 이진 검색 트리](../problems/acmicpc_5639.cpp) ([링크](https://www.acmicpc.net/problem/5639))
@@ -165,6 +167,8 @@
 [15701 순서쌍](../problems/acmicpc_15701.cpp) ([링크](https://www.acmicpc.net/problem/15701))
 
 [15702 중간고사 채점](../problems/acmicpc_15702.cpp) ([링크](https://www.acmicpc.net/problem/15702))
+
+[15727 조별과제를 하려는데 조장이 사라졌다](../problems/acmicpc_15727.cpp) ([링크](https://www.acmicpc.net/problem/15727))
 
 [15780 멀티탭 충분하니?](../problems/acmicpc_15780.cpp) ([링크](https://www.acmicpc.net/problem/15780))
 
