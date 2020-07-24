@@ -38,6 +38,8 @@
 
 [1547 공](../problems/acmicpc_1547.cpp) ([링크](https://www.acmicpc.net/problem/1547))
 
+[1712 손익분기점](../problems/acmicpc_1712.cpp) ([링크](https://www.acmicpc.net/problem/1712))
+
 [1748 수 이어 쓰기 1](../problems/acmicpc_1748.cpp) ([링크](https://www.acmicpc.net/problem/1748))
 
 [1919 애너그램 만들기](../problems/acmicpc_1919.cpp) ([링크](https://www.acmicpc.net/problem/1919))
