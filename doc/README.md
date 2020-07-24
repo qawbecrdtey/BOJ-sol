@@ -190,6 +190,10 @@
 
 [16395 파스칼의 삼각형](../problems/acmicpc_16395.cpp) ([링크](https://www.acmicpc.net/problem/16395))
 
+[16433 주디와 당근농장](../problems/acmicpc_16433.cpp) ([링크](https://www.acmicpc.net/problem/16433))
+
+[16438 원숭이 스포츠](../problems/acmicpc_16438.cpp) ([링크](https://www.acmicpc.net/problem/16438))
+
 [16953 A → B](../problems/acmicpc_16953.cpp) ([링크](https://www.acmicpc.net/problem/16953))
 
 [17263 Sort 마스터 배지훈](../problems/acmicpc_17263.cpp) ([링크](https://www.acmicpc.net/problem/17263))
