@@ -124,6 +124,8 @@
 
 [10768 특별한 날](../problems/acmicpc_10768.cpp) ([링크](https://www.acmicpc.net/problem/10768))
 
+[10830 행렬 제곱](../problems/acmicpc_10830.cpp) ([링크](https://www.acmicpc.net/problem/10830))
+
 [10996 별 찍기 - 21](../problems/acmicpc_10996.cpp) ([링크](https://www.acmicpc.net/problem/10996))
 
 [11000 강의실 배정](../problems/acmicpc_11000.cpp) ([링크](https://www.acmicpc.net/problem/11000))
