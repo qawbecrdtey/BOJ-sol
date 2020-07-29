@@ -78,6 +78,8 @@
 
 [3052 나머지](../problems/acmicpc_3052.cpp) ([링크](https://www.acmicpc.net/problem/3052))
 
+[3059 등장하지 않는 문자의 합](../problems/acmicpc_3059.cpp) ([링크](https://www.acmicpc.net/problem/3059))
+
 [3986 좋은 단어](../problems/acmicpc_3986.cpp) ([링크](https://www.acmicpc.net/problem/3986))
 
 [4386 별자리 만들기](../problems/acmicpc_4386.cpp) ([링크](https://www.acmicpc.net/problem/4386))
@@ -114,11 +116,15 @@
 
 [9494 데구르르](../problems/acmicpc_9494.cpp) ([링크](https://www.acmicpc.net/problem/9494))
 
+[10173 니모를 찾아서](../problems/acmicpc_10173.cpp) ([링크](https://www.acmicpc.net/problem/10173))
+
 [10253 헨리](../problems/acmicpc_10253.cpp) ([링크](https://www.acmicpc.net/problem/10253))
 
 [10372 Alarm Clock](../problems/acmicpc_10372.cpp) ([링크](https://www.acmicpc.net/problem/10372))
 
 [10768 특별한 날](../problems/acmicpc_10768.cpp) ([링크](https://www.acmicpc.net/problem/10768))
+
+[10996 별 찍기 - 21](../problems/acmicpc_10996.cpp) ([링크](https://www.acmicpc.net/problem/10996))
 
 [11000 강의실 배정](../problems/acmicpc_11000.cpp) ([링크](https://www.acmicpc.net/problem/11000))
 
@@ -151,6 +157,8 @@
 [12893 적의 적](../problems/acmicpc_12893.cpp) ([링크](https://www.acmicpc.net/problem/12893))
 
 [12991 홍준이의 행렬](../problems/acmicpc_12991.cpp) ([링크](https://www.acmicpc.net/problem/12991))
+
+[13222 Matches](../problems/acmicpc_13222.cpp) ([링크](https://www.acmicpc.net/problem/13222))
 
 [13345 Completing the Square](../problems/acmicpc_13345.cpp) ([링크](https://www.acmicpc.net/problem/13345))
 
