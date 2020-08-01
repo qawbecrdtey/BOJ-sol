@@ -172,6 +172,10 @@
 
 [14646 욱제는 결정장애야!!](../problems/acmicpc_14646.cpp) ([링크](https://www.acmicpc.net/problem/14646))
 
+[14698 전생했더니 슬라임 연구자였던 건에 대하여 (Hard)](../problems/acmicpc_14698.cpp) ([링크](https://www.acmicpc.net/problem/14698))
+
+[14699 관악산 등산](../problems/acmicpc_14699.cpp) ([링크](https://www.acmicpc.net/problem/14699))
+
 [14918 더하기](../problems/acmicpc_14918.cpp) ([링크](https://www.acmicpc.net/problem/14918))
 
 [14935 FA](../problems/acmicpc_14935.cpp) ([링크](https://www.acmicpc.net/problem/14935))
