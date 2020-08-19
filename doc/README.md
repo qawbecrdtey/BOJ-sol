@@ -90,6 +90,8 @@
 
 [4564 숫자 카드놀이](../problems/acmicpc_4564.cpp) ([링크](https://www.acmicpc.net/problem/4564))
 
+[4641 Doubles](../problems/acmicpc_4641.cpp) ([링크](https://www.acmicpc.net/problem/4641))
+
 [4949 균형잡힌 세상](../problems/acmicpc_4949.cpp) ([링크](https://www.acmicpc.net/problem/4949))
 
 [5054 주차의 신](../problems/acmicpc_5054.cpp) ([링크](https://www.acmicpc.net/problem/5054))
@@ -227,6 +229,8 @@
 [17466 N! mod P (1)](../problems/acmicpc_17466.cpp) ([링크](https://www.acmicpc.net/problem/17466))
 
 [19563 개구리 1](../problems/acmicpc_19563.cpp) ([링크](https://www.acmicpc.net/problem/19563))
+
+[19572 가뭄(Small)](../problems/acmicpc_19572.cpp) ([링크](https://www.acmicpc.net/problem/19572))
 
 ## Algorithms
 
