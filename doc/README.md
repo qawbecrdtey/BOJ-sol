@@ -64,6 +64,8 @@
 
 [2473 세 용액](../problems/acmicpc_2473.cpp) ([링크](https://www.acmicpc.net/problem/2473))
 
+[2447 별 찍기 - 10](../problems/acmicpc_2447.cpp) ([링크](https://www.acmicpc.net/problem/2447))
+
 [2548 대표 자연수](../problems/acmicpc_2548.cpp) ([링크](https://www.acmicpc.net/problem/2548))
 
 [2775 부녀회장이 될테야](../problems/acmicpc_2775.cpp) ([링크](https://www.acmicpc.net/problem/2775))
