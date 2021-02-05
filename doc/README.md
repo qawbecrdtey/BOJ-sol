@@ -250,6 +250,8 @@
 
 [MST](MST.md)
 
+[SCC](SCC.md)
+
 ## Mathematics Background
 
 [Number theory 정수론](NumberTheory.md)
