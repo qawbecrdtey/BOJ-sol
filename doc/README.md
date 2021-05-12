@@ -236,6 +236,8 @@
 
 [17466 N! mod P (1)](../problems/acmicpc_17466.cpp) ([링크](https://www.acmicpc.net/problem/17466))
 
+[17869 Simple Collatz Sequence](../problems/acmicpc_17869.cpp) ([링크](https://www.acmicpc.net/problem/17869))
+
 [19563 개구리 1](../problems/acmicpc_19563.cpp) ([링크](https://www.acmicpc.net/problem/19563))
 
 [19572 가뭄(Small)](../problems/acmicpc_19572.cpp) ([링크](https://www.acmicpc.net/problem/19572))
