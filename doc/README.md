@@ -44,6 +44,8 @@
 
 [1748 수 이어 쓰기 1](../problems/acmicpc_1748.cpp) ([링크](https://www.acmicpc.net/problem/1748))
 
+[1759 암호 만들기](../problems/acmicpc_1759.cpp) ([링크](https://www.acmicpc.net/problem/1759))
+
 [1919 애너그램 만들기](../problems/acmicpc_1919.cpp) ([링크](https://www.acmicpc.net/problem/1919))
 
 [1926 그림](../problems/acmicpc_1926.cpp) ([링크](https://www.acmicpc.net/problem/1926))
