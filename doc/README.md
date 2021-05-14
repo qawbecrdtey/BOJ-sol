@@ -140,6 +140,8 @@
 
 [10830 행렬 제곱](../problems/acmicpc_10830.cpp) ([링크](https://www.acmicpc.net/problem/10830))
 
+[10972 다음 순열](../problems/acmicpc_10972.cpp) ([링크](https://www.acmicpc.net/problem/10972))
+
 [10990 별 찍기 - 15](../problems/acmicpc_10990.cpp) ([링크](https://www.acmicpc.net/problem/10990))
 
 [10996 별 찍기 - 21](../problems/acmicpc_10996.cpp) ([링크](https://www.acmicpc.net/problem/10996))
