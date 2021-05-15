@@ -26,6 +26,8 @@
 
 ## 작업중
 
+[1005 ACM Craft](../problems/acmicpc_1005.cpp) ([링크](https://www.acmicpc.net/problem/1005))
+
 [1259 팰린드롬수](../problems/acmicpc_1259.cpp) ([링크](https://www.acmicpc.net/problem/1259))
 
 [1267 핸드폰 요금](../problems/acmicpc_1267.cpp) ([링크](https://www.acmicpc.net/problem/1267))
