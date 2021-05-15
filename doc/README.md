@@ -34,6 +34,8 @@
 
 [1276 교각 놓기](../problems/acmicpc_1276.cpp) ([링크](https://www.acmicpc.net/problem/1276))
 
+[1296 데이트](../problems/acmicpc_1296.cpp) ([링크](https://www.acmicpc.net/problem/1296))
+
 [1408 24](../problems/acmicpc_1408.cpp) ([링크](https://www.acmicpc.net/problem/1408))
 
 [1438 가장 작은 직사각형](../problems/acmicpc_1438.cpp) ([링크](https://www.acmicpc.net/problem/1438))
