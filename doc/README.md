@@ -116,6 +116,8 @@
 
 [6502 동혁 피자](../problems/acmicpc_6502.cpp) ([링크](https://www.acmicpc.net/problem/6502))
 
+[6749 Next in line](../problems/acmicpc_6749.cpp) ([링크](https://www.acmicpc.net/problem/6749))
+
 [6996 애너그램](../problems/acmicpc_6996.cpp) ([링크](https://www.acmicpc.net/problem/6996))
 
 [7523 Gauß](../problems/acmicpc_7523.cpp) ([링크](https://www.acmicpc.net/problem/7523))
