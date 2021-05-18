@@ -250,6 +250,8 @@
 
 [17263 Sort 마스터 배지훈](../problems/acmicpc_17263.cpp) ([링크](https://www.acmicpc.net/problem/17263))
 
+[17284 Vending Machine](../problems/acmicpc_17284.cpp) ([링크](https://www.acmicpc.net/problem/17284))
+
 [17362 수학은 체육과목 입니다 2](../problems/acmicpc_17362.cpp) ([링크](https://www.acmicpc.net/problem/17362))
 
 [17363 우유가 넘어지면?](../problems/acmicpc_17363.cpp) ([링크](https://www.acmicpc.net/problem/17363))
