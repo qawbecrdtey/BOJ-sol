@@ -132,6 +132,8 @@
 
 [9084 동전](../problems/acmicpc_9084.cpp) ([링크](https://www.acmicpc.net/problem/9084))
 
+[9205 맥주 마시면서 걸어가기](../problems/acmicpc_9205.cpp) ([링크](https://www.acmicpc.net/problem/9205))
+
 [9252 LCS 2](../problems/acmicpc_9252.cpp) ([링크](https://www.acmicpc.net/problem/9252))
 
 [9300 Where’s the Rainbow](../problems/acmicpc_9300.cpp) ([링크](https://www.acmicpc.net/problem/9300))
