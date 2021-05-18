@@ -28,6 +28,8 @@
 
 [1005 ACM Craft](../problems/acmicpc_1005.cpp) ([링크](https://www.acmicpc.net/problem/1005))
 
+[1007 벡터 매칭](../problems/acmicpc_1007.cpp) ([링크](https://www.acmicpc.net/problem/1007))
+
 [1259 팰린드롬수](../problems/acmicpc_1259.cpp) ([링크](https://www.acmicpc.net/problem/1259))
 
 [1267 핸드폰 요금](../problems/acmicpc_1267.cpp) ([링크](https://www.acmicpc.net/problem/1267))
@@ -123,6 +125,8 @@
 [7523 Gauß](../problems/acmicpc_7523.cpp) ([링크](https://www.acmicpc.net/problem/7523))
 
 [7600 문자가 몇갤까](../problems/acmicpc_7600.cpp) ([링크](https://www.acmicpc.net/problem/7600))
+
+[8370 Plane](../problems/acmicpc_8370.cpp) ([링크](https://www.acmicpc.net/problem/8370))
 
 [8979 올림픽](../problems/acmicpc_8979.cpp) ([링크](https://www.acmicpc.net/problem/8979))
 
