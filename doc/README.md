@@ -62,6 +62,8 @@
 
 [1965 상자넣기](../problems/acmicpc_1965.cpp) ([링크](https://www.acmicpc.net/problem/1965))
 
+[2042 구간 합 구하기](../problems/acmicpc_2042.cpp) ([링크](https://www.acmicpc.net/problem/2042))
+
 [2164 카드2](../problems/acmicpc_2164.cpp) ([링크](https://www.acmicpc.net/problem/2164))
 
 [2213 트리의 독립집합](../problems/acmicpc_2213.cpp) ([링크](https://www.acmicpc.net/problem/2213))
