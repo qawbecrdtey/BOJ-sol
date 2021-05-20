@@ -158,6 +158,8 @@
 
 [10372 Alarm Clock](../problems/acmicpc_10372.cpp) ([링크](https://www.acmicpc.net/problem/10372))
 
+[10569 다면체](../problems/acmicpc_10569.cpp) ([링크](https://www.acmicpc.net/problem/10569))
+
 [10768 특별한 날](../problems/acmicpc_10768.cpp) ([링크](https://www.acmicpc.net/problem/10768))
 
 [10830 행렬 제곱](../problems/acmicpc_10830.cpp) ([링크](https://www.acmicpc.net/problem/10830))
