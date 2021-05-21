@@ -74,6 +74,8 @@
 
 [2352 반도체 설계](../problems/acmicpc_2352.cpp) ([링크](https://www.acmicpc.net/problem/2352))
 
+[2357 최솟값과 최댓값](../problems/acmicpc_2357.cpp) ([링크](https://www.acmicpc.net/problem/2357))
+
 [2399 거리의 합](../problems/acmicpc_2399.cpp) ([링크](https://www.acmicpc.net/problem/2399))
 
 [2410 2의 멱수의 합](../problems/acmicpc_2410.cpp) ([링크](https://www.acmicpc.net/problem/2410))
