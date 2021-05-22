@@ -284,6 +284,8 @@
 
 [19572 가뭄(Small)](../problems/acmicpc_19572.cpp) ([링크](https://www.acmicpc.net/problem/19572))
 
+[19698 헛간 청약](../problems/acmicpc_19698.cpp) ([링크](https://www.acmicpc.net/problem/19698))
+
 [20205 교수님 그림이 깨지는데요?](../problems/acmicpc_20205.cpp) ([링크](https://www.acmicpc.net/problem/20205))
 
 [21300 Bottle Return](../problems/acmicpc_21300.cpp) ([링크](https://www.acmicpc.net/problem/21300))
