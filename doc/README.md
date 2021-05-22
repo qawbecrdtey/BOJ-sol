@@ -204,6 +204,8 @@
 
 [12015 가장 긴 증가하는 부분 수열 2](../problems/acmicpc_12015.cpp) ([링크](https://www.acmicpc.net/problem/12015))
 
+[12789 도키도키 간식드리미](../problems/acmicpc_12789.cpp) ([링크](https://www.acmicpc.net/problem/12789))
+
 [12852 1로 만들기 2](../problems/acmicpc_12852.cpp) ([링크](https://www.acmicpc.net/problem/12852))
 
 [12893 적의 적](../problems/acmicpc_12893.cpp) ([링크](https://www.acmicpc.net/problem/12893))
