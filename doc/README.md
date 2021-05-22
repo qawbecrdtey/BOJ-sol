@@ -40,6 +40,8 @@
 
 [1408 24](../problems/acmicpc_1408.cpp) ([링크](https://www.acmicpc.net/problem/1408))
 
+[1437 수 분해](../problems/acmicpc_1437.cpp) ([링크](https://www.acmicpc.net/problem/1437))
+
 [1438 가장 작은 직사각형](../problems/acmicpc_1438.cpp) ([링크](https://www.acmicpc.net/problem/1438))
 
 [1516 게임 개발](../problems/acmicpc_1516.cpp) ([링크](https://www.acmicpc.net/problem/1516))
