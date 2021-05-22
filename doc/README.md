@@ -282,6 +282,8 @@
 
 [17869 Simple Collatz Sequence](../problems/acmicpc_17869.cpp) ([링크](https://www.acmicpc.net/problem/17869))
 
+[18870 좌표 압축](../problems/acmicpc_18870.cpp) ([링크](https://www.acmicpc.net/problem/18870))
+
 [19563 개구리 1](../problems/acmicpc_19563.cpp) ([링크](https://www.acmicpc.net/problem/19563))
 
 [19572 가뭄(Small)](../problems/acmicpc_19572.cpp) ([링크](https://www.acmicpc.net/problem/19572))
