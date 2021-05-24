@@ -240,6 +240,8 @@
 
 [15439 Vera and Outfits](../problems/acmicpc_15439.cpp) ([링크](https://www.acmicpc.net/problem/15439))
 
+[15654 N과 M (5)](../problems/acmicpc_15654.cpp) ([링크](https://www.acmicpc.net/problem/15654))
+
 [15678 연세워터파크](../problems/acmicpc_15678.cpp) ([링크](https://www.acmicpc.net/problem/15678))
 
 [15701 순서쌍](../problems/acmicpc_15701.cpp) ([링크](https://www.acmicpc.net/problem/15701))
