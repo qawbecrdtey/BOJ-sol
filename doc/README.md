@@ -30,6 +30,8 @@
 
 [1007 벡터 매칭](../problems/acmicpc_1007.cpp) ([링크](https://www.acmicpc.net/problem/1007))
 
+[1018 체스판 다시 칠하기](../problems/acmicpc_1018.cpp) ([링크](https://www.acmicpc.net/problem/1018))
+
 [1259 팰린드롬수](../problems/acmicpc_1259.cpp) ([링크](https://www.acmicpc.net/problem/1259))
 
 [1267 핸드폰 요금](../problems/acmicpc_1267.cpp) ([링크](https://www.acmicpc.net/problem/1267))
