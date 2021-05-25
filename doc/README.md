@@ -44,6 +44,8 @@
 
 [1296 데이트](../problems/acmicpc_1296.cpp) ([링크](https://www.acmicpc.net/problem/1296))
 
+[1300 K번째 수](../problems/acmicpc_1300.cpp) ([링크](https://www.acmicpc.net/problem/1300))
+
 [1389 케빈 베이컨의 6단계 법칙](../problems/acmicpc_1389.cpp) ([링크](https://www.acmicpc.net/problem/1389))
 
 [1408 24](../problems/acmicpc_1408.cpp) ([링크](https://www.acmicpc.net/problem/1408))
