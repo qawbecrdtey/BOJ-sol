@@ -92,6 +92,8 @@
 
 [2166 다각형의 면적](../problems/acmicpc_2166.cpp) ([링크](https://www.acmicpc.net/problem/2166))
 
+[2206 벽 부수고 이동하기](../problems/acmicpc_2206.cpp) ([링크](https://www.acmicpc.net/problem/2206))
+
 [2213 트리의 독립집합](../problems/acmicpc_2213.cpp) ([링크](https://www.acmicpc.net/problem/2213))
 
 [2263 트리의 순회](../problems/acmicpc_2263.cpp) ([링크](https://www.acmicpc.net/problem/2263))
