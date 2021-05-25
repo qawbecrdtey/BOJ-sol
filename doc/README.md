@@ -242,6 +242,8 @@
 
 [12037 Polynesiaglot (Small1)](../problems/acmicpc_12037.cpp) ([링크](https://www.acmicpc.net/problem/12037))
 
+[12038 Polynesiaglot (Small2)](../problems/acmicpc_12038.cpp) ([링크](https://www.acmicpc.net/problem/12038))
+
 [12789 도키도키 간식드리미](../problems/acmicpc_12789.cpp) ([링크](https://www.acmicpc.net/problem/12789))
 
 [12852 1로 만들기 2](../problems/acmicpc_12852.cpp) ([링크](https://www.acmicpc.net/problem/12852))
