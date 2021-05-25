@@ -66,6 +66,8 @@
 
 [1644 소수의 연속합](../problems/acmicpc_1644.cpp) ([링크](https://www.acmicpc.net/problem/1644))
 
+[1655 가운데를 말해요](../problems/acmicpc_1655.cpp) ([링크](https://www.acmicpc.net/problem/1655))
+
 [1707 이분 그래프](../problems/acmicpc_1707.cpp) ([링크](https://www.acmicpc.net/problem/1707))
 
 [1712 손익분기점](../problems/acmicpc_1712.cpp) ([링크](https://www.acmicpc.net/problem/1712))
