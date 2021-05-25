@@ -100,6 +100,8 @@
 
 [2548 대표 자연수](../problems/acmicpc_2548.cpp) ([링크](https://www.acmicpc.net/problem/2548))
 
+[2630 색종이 만들기](../problems/acmicpc_2630.cpp) ([링크](https://www.acmicpc.net/problem/2630))
+
 [2775 부녀회장이 될테야](../problems/acmicpc_2775.cpp) ([링크](https://www.acmicpc.net/problem/2775))
 
 [2810 컵홀더](../problems/acmicpc_2810.cpp) ([링크](https://www.acmicpc.net/problem/2810))
