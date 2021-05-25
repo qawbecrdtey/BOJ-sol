@@ -46,6 +46,8 @@
 
 [1408 24](../problems/acmicpc_1408.cpp) ([링크](https://www.acmicpc.net/problem/1408))
 
+[1431 시리얼 번호](../problems/acmicpc_1431.cpp) ([링크](https://www.acmicpc.net/problem/1431))
+
 [1436 영화감독 숌](../problems/acmicpc_1436.cpp) ([링크](https://www.acmicpc.net/problem/1436))
 
 [1437 수 분해](../problems/acmicpc_1437.cpp) ([링크](https://www.acmicpc.net/problem/1437))
