@@ -38,6 +38,8 @@
 
 [1267 핸드폰 요금](../problems/acmicpc_1267.cpp) ([링크](https://www.acmicpc.net/problem/1267))
 
+[1269 대칭 차집합](../problems/acmicpc_1269.cpp) ([링크](https://www.acmicpc.net/problem/1269))
+
 [1276 교각 놓기](../problems/acmicpc_1276.cpp) ([링크](https://www.acmicpc.net/problem/1276))
 
 [1296 데이트](../problems/acmicpc_1296.cpp) ([링크](https://www.acmicpc.net/problem/1296))
