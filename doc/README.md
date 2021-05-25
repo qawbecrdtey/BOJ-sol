@@ -54,6 +54,8 @@
 
 [1547 공](../problems/acmicpc_1547.cpp) ([링크](https://www.acmicpc.net/problem/1547))
 
+[1620 나는야 포켓몬 마스터 이다솜](../problems/acmicpc_1620.cpp) ([링크](https://www.acmicpc.net/problem/1620))
+
 [1644 소수의 연속합](../problems/acmicpc_1644.cpp) ([링크](https://www.acmicpc.net/problem/1644))
 
 [1707 이분 그래프](../problems/acmicpc_1707.cpp) ([링크](https://www.acmicpc.net/problem/1707))
