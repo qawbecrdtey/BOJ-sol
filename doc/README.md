@@ -100,6 +100,8 @@
 
 [2213 트리의 독립집합](../problems/acmicpc_2213.cpp) ([링크](https://www.acmicpc.net/problem/2213))
 
+[2250 트리의 높이와 너비](../problems/acmicpc_2250.cpp) ([링크](https://www.acmicpc.net/problem/2250))
+
 [2263 트리의 순회](../problems/acmicpc_2263.cpp) ([링크](https://www.acmicpc.net/problem/2263))
 
 [2352 반도체 설계](../problems/acmicpc_2352.cpp) ([링크](https://www.acmicpc.net/problem/2352))
