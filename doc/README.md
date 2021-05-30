@@ -224,6 +224,8 @@
 
 [10990 별 찍기 - 15](../problems/acmicpc_10990.cpp) ([링크](https://www.acmicpc.net/problem/10990))
 
+[10991 별 찍기 - 16](../problems/acmicpc_10991.cpp) ([링크](https://www.acmicpc.net/problem/10991))
+
 [10996 별 찍기 - 21](../problems/acmicpc_10996.cpp) ([링크](https://www.acmicpc.net/problem/10996))
 
 [11000 강의실 배정](../problems/acmicpc_11000.cpp) ([링크](https://www.acmicpc.net/problem/11000))
