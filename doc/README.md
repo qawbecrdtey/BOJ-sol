@@ -238,6 +238,8 @@
 
 [11382 꼬마 정민](../problems/acmicpc_11382.cpp) ([링크](https://www.acmicpc.net/problem/11382))
 
+[11505 구간 곱 구하기](../problems/acmicpc_11505.cpp) ([링크](https://www.acmicpc.net/problem/11505))
+
 [11557 Yangjojang of The Year](../problems/acmicpc_11557.cpp) ([링크](https://www.acmicpc.net/problem/11557))
 
 [11568 민균이의 계략](../problems/acmicpc_11568.cpp) ([링크](https://www.acmicpc.net/problem/11568))
