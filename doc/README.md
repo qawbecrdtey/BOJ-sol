@@ -74,6 +74,8 @@
 
 [1712 손익분기점](../problems/acmicpc_1712.cpp) ([링크](https://www.acmicpc.net/problem/1712))
 
+[1725 히스토그램](../problems/acmicpc_1725.cpp) ([링크](https://www.acmicpc.net/problem/1725))
+
 [1748 소수&팰린드롬](../problems/acmicpc_1747.cpp) ([링크](https://www.acmicpc.net/problem/1747))
 
 [1748 수 이어 쓰기 1](../problems/acmicpc_1748.cpp) ([링크](https://www.acmicpc.net/problem/1748))
