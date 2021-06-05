@@ -260,6 +260,8 @@
 
 [11774 MOLEKULE](../problems/acmicpc_11774.cpp) ([링크](https://www.acmicpc.net/problem/11774))
 
+[11779 최소비용 구하기 2](../problems/acmicpc_11779.cpp) ([링크](https://www.acmicpc.net/problem/11779))
+
 [11931 8진수](../problems/acmicpc_11931.cpp) ([링크](https://www.acmicpc.net/problem/11931))
 
 [12015 가장 긴 증가하는 부분 수열 2](../problems/acmicpc_12015.cpp) ([링크](https://www.acmicpc.net/problem/12015))
