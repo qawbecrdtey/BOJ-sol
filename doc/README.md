@@ -298,6 +298,8 @@
 
 [13900 순서쌍의 곱의 합](../problems/acmicpc_13900.cpp) ([링크](https://www.acmicpc.net/problem/13900))
 
+[14002 가장 긴 증가하는 부분 수열 4](../problems/acmicpc_14002.cpp) ([링크](https://www.acmicpc.net/problem/14002))
+
 [14003 가장 긴 증가하는 부분 수열 5](../problems/acmicpc_14003.cpp) ([링크](https://www.acmicpc.net/problem/14003))
 
 [14646 욱제는 결정장애야!!](../problems/acmicpc_14646.cpp) ([링크](https://www.acmicpc.net/problem/14646))
