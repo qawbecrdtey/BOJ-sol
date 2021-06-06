@@ -52,6 +52,8 @@
 
 [1389 케빈 베이컨의 6단계 법칙](../problems/acmicpc_1389.cpp) ([링크](https://www.acmicpc.net/problem/1389))
 
+[1406 에디터](../problems/acmicpc_1406.cpp) ([링크](https://www.acmicpc.net/problem/1406))
+
 [1408 24](../problems/acmicpc_1408.cpp) ([링크](https://www.acmicpc.net/problem/1408))
 
 [1431 시리얼 번호](../problems/acmicpc_1431.cpp) ([링크](https://www.acmicpc.net/problem/1431))
