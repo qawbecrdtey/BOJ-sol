@@ -42,6 +42,8 @@
 
 [1269 대칭 차집합](../problems/acmicpc_1269.cpp) ([링크](https://www.acmicpc.net/problem/1269))
 
+[1275 커피숍2](../problems/acmicpc_1275.cpp) ([링크](https://www.acmicpc.net/problem/1275))
+
 [1276 교각 놓기](../problems/acmicpc_1276.cpp) ([링크](https://www.acmicpc.net/problem/1276))
 
 [1296 데이트](../problems/acmicpc_1296.cpp) ([링크](https://www.acmicpc.net/problem/1296))
