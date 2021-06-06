@@ -368,6 +368,8 @@
 
 [16485 작도하자! - ②](../problems/acmicpc_16485.cpp) ([링크](https://www.acmicpc.net/problem/16485))
 
+[16496 큰 수 만들기](../problems/acmicpc_16496.cpp) ([링크](https://www.acmicpc.net/problem/16496))
+
 [16693 Pizza Deal](../problems/acmicpc_16693.cpp) ([링크](https://www.acmicpc.net/problem/16693))
 
 [16953 A → B](../problems/acmicpc_16953.cpp) ([링크](https://www.acmicpc.net/problem/16953))
