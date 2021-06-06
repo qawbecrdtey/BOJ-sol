@@ -76,6 +76,8 @@
 
 [1655 가운데를 말해요](../problems/acmicpc_1655.cpp) ([링크](https://www.acmicpc.net/problem/1655))
 
+[1689 겹치는 선분](../problems/acmicpc_1689.cpp) ([링크](https://www.acmicpc.net/problem/1689))
+
 [1707 이분 그래프](../problems/acmicpc_1707.cpp) ([링크](https://www.acmicpc.net/problem/1707))
 
 [1712 손익분기점](../problems/acmicpc_1712.cpp) ([링크](https://www.acmicpc.net/problem/1712))
