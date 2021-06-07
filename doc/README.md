@@ -36,6 +36,8 @@
 
 [1074 Z](../problems/acmicpc_1074.cpp) ([링크](https://www.acmicpc.net/problem/1074))
 
+[1252 이진수 덧셈](../problems/acmicpc_1252.cpp) ([링크](https://www.acmicpc.net/problem/1252))
+
 [1259 팰린드롬수](../problems/acmicpc_1259.cpp) ([링크](https://www.acmicpc.net/problem/1259))
 
 [1267 핸드폰 요금](../problems/acmicpc_1267.cpp) ([링크](https://www.acmicpc.net/problem/1267))
@@ -397,6 +399,8 @@
 [19572 가뭄(Small)](../problems/acmicpc_19572.cpp) ([링크](https://www.acmicpc.net/problem/19572))
 
 [19698 헛간 청약](../problems/acmicpc_19698.cpp) ([링크](https://www.acmicpc.net/problem/19698))
+
+[20170 Commemorative Dice](../problems/acmicpc_20170.cpp) ([링크](https://www.acmicpc.net/problem/20170))
 
 [20205 교수님 그림이 깨지는데요?](../problems/acmicpc_20205.cpp) ([링크](https://www.acmicpc.net/problem/20205))
 
