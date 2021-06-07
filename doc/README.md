@@ -68,6 +68,8 @@
 
 [1438 가장 작은 직사각형](../problems/acmicpc_1438.cpp) ([링크](https://www.acmicpc.net/problem/1438))
 
+[1459 걷기](../problems/acmicpc_1459.cpp) ([링크](https://www.acmicpc.net/problem/1459))
+
 [1516 게임 개발](../problems/acmicpc_1516.cpp) ([링크](https://www.acmicpc.net/problem/1516))
 
 [1535 안녕](../problems/acmicpc_1535.cpp) ([링크](https://www.acmicpc.net/problem/1535))
