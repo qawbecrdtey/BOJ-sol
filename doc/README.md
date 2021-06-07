@@ -78,6 +78,8 @@
 
 [1655 가운데를 말해요](../problems/acmicpc_1655.cpp) ([링크](https://www.acmicpc.net/problem/1655))
 
+[1673 치킨 쿠폰](../problems/acmicpc_1673.cpp) ([링크](https://www.acmicpc.net/problem/1673))
+
 [1689 겹치는 선분](../problems/acmicpc_1689.cpp) ([링크](https://www.acmicpc.net/problem/1689))
 
 [1700 멀티탭 스케줄링](../problems/acmicpc_1700.cpp) ([링크](https://www.acmicpc.net/problem/1700))
