@@ -44,6 +44,8 @@
 
 [1259 팰린드롬수](../problems/acmicpc_1259.cpp) ([링크](https://www.acmicpc.net/problem/1259))
 
+[1264 모음의 개수](../problems/acmicpc_1264.cpp) ([링크](https://www.acmicpc.net/problem/1264))
+
 [1267 핸드폰 요금](../problems/acmicpc_1267.cpp) ([링크](https://www.acmicpc.net/problem/1267))
 
 [1269 대칭 차집합](../problems/acmicpc_1269.cpp) ([링크](https://www.acmicpc.net/problem/1269))
