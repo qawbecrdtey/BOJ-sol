@@ -152,6 +152,8 @@
 
 [2417 정수 제곱근](../problems/acmicpc_2417.cpp) ([링크](https://www.acmicpc.net/problem/2417))
 
+[2467 용액](../problems/acmicpc_2467.cpp) ([링크](https://www.acmicpc.net/problem/2467))
+
 [2473 세 용액](../problems/acmicpc_2473.cpp) ([링크](https://www.acmicpc.net/problem/2473))
 
 [2447 별 찍기 - 10](../problems/acmicpc_2447.cpp) ([링크](https://www.acmicpc.net/problem/2447))
