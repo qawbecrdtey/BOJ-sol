@@ -154,6 +154,8 @@
 
 [2447 별 찍기 - 10](../problems/acmicpc_2447.cpp) ([링크](https://www.acmicpc.net/problem/2447))
 
+[2470 두 용액](../problems/acmicpc_2470.cpp) ([링크](https://www.acmicpc.net/problem/2470))
+
 [2548 대표 자연수](../problems/acmicpc_2548.cpp) ([링크](https://www.acmicpc.net/problem/2548))
 
 [2630 색종이 만들기](../problems/acmicpc_2630.cpp) ([링크](https://www.acmicpc.net/problem/2630))
