@@ -252,6 +252,8 @@
 
 [9375 패션왕 신해빈](../problems/acmicpc_9375.cpp) ([링크](https://www.acmicpc.net/problem/9375))
 
+[9466 텀 프로젝트](../problems/acmicpc_9466.cpp) ([링크](https://www.acmicpc.net/problem/9466))
+
 [9494 데구르르](../problems/acmicpc_9494.cpp) ([링크](https://www.acmicpc.net/problem/9494))
 
 [9655 돌 게임](../problems/acmicpc_9655.cpp) ([링크](https://www.acmicpc.net/problem/9655))
