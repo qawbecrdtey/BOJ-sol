@@ -84,6 +84,8 @@
 
 [1620 나는야 포켓몬 마스터 이다솜](../problems/acmicpc_1620.cpp) ([링크](https://www.acmicpc.net/problem/1620))
 
+[1637 날카로운 눈](../problems/acmicpc_1637.cpp) ([링크](https://www.acmicpc.net/problem/1637))
+
 [1644 소수의 연속합](../problems/acmicpc_1644.cpp) ([링크](https://www.acmicpc.net/problem/1644))
 
 [1655 가운데를 말해요](../problems/acmicpc_1655.cpp) ([링크](https://www.acmicpc.net/problem/1655))
