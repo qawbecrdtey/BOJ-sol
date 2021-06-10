@@ -206,6 +206,8 @@
 
 [5054 주차의 신](../problems/acmicpc_5054.cpp) ([링크](https://www.acmicpc.net/problem/5054))
 
+[5430 AC](../problems/acmicpc_5430.cpp) ([링크](https://www.acmicpc.net/problem/5430))
+
 [5522 카드 게임](../problems/acmicpc_5522.cpp) ([링크](https://www.acmicpc.net/problem/5522))
 
 [5635 생일](../problems/acmicpc_5635.cpp) ([링크](https://www.acmicpc.net/problem/5635))
