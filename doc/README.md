@@ -262,6 +262,8 @@
 
 [10173 니모를 찾아서](../problems/acmicpc_10173.cpp) ([링크](https://www.acmicpc.net/problem/10173))
 
+[10227 삶의 질](../problems/acmicpc_10227.cpp) ([링크](https://www.acmicpc.net/problem/10227))
+
 [10253 헨리](../problems/acmicpc_10253.cpp) ([링크](https://www.acmicpc.net/problem/10253))
 
 [10372 Alarm Clock](../problems/acmicpc_10372.cpp) ([링크](https://www.acmicpc.net/problem/10372))
