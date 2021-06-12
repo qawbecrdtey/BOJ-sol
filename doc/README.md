@@ -38,6 +38,8 @@
 
 [1111 IQ Test](../problems/acmicpc_1111.cpp) ([링크](https://www.acmicpc.net/problem/1111))
 
+[1208 부분수열의 합 2](../problems/acmicpc_1208.cpp) ([링크](https://www.acmicpc.net/problem/1208))
+
 [1222 홍준 프로그래밍 대회](../problems/acmicpc_1222.cpp) ([링크](https://www.acmicpc.net/problem/1222))
 
 [1252 이진수 덧셈](../problems/acmicpc_1252.cpp) ([링크](https://www.acmicpc.net/problem/1252))
