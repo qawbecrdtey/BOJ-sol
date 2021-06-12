@@ -444,6 +444,8 @@
 
 [19698 헛간 청약](../problems/acmicpc_19698.cpp) ([링크](https://www.acmicpc.net/problem/19698))
 
+[20040 사이클 게임](../problems/acmicpc_20040.cpp) ([링크](https://www.acmicpc.net/problem/20040))
+
 [20170 Commemorative Dice](../problems/acmicpc_20170.cpp) ([링크](https://www.acmicpc.net/problem/20170))
 
 [20205 교수님 그림이 깨지는데요?](../problems/acmicpc_20205.cpp) ([링크](https://www.acmicpc.net/problem/20205))
