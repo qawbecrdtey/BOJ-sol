@@ -278,6 +278,8 @@
 
 [10801 카드게임](../problems/acmicpc_10801.cpp) ([링크](https://www.acmicpc.net/problem/10801))
 
+[10804 카드 역배치](../problems/acmicpc_10804.cpp) ([링크](https://www.acmicpc.net/problem/10804))
+
 [10819 차이를 최대로](../problems/acmicpc_10819.cpp) ([링크](https://www.acmicpc.net/problem/10819))
 
 [10830 행렬 제곱](../problems/acmicpc_10830.cpp) ([링크](https://www.acmicpc.net/problem/10830))
