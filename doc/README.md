@@ -194,6 +194,8 @@
 
 [3986 좋은 단어](../problems/acmicpc_3986.cpp) ([링크](https://www.acmicpc.net/problem/3986))
 
+[4195 친구 네트워크](../problems/acmicpc_4195.cpp) ([링크](https://www.acmicpc.net/problem/4195))
+
 [4355 서로소](../problems/acmicpc_4355.cpp) ([링크](https://www.acmicpc.net/problem/4355))
 
 [4386 별자리 만들기](../problems/acmicpc_4386.cpp) ([링크](https://www.acmicpc.net/problem/4386))
