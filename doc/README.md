@@ -432,6 +432,8 @@
 
 [18111 마인크래프트](../problems/acmicpc_18111.cpp) ([링크](https://www.acmicpc.net/problem/18111))
 
+[18247 겨울왕국 티켓 예매](../problems/acmicpc_18247.cpp) ([링크](https://www.acmicpc.net/problem/18247))
+
 [18870 좌표 압축](../problems/acmicpc_18870.cpp) ([링크](https://www.acmicpc.net/problem/18870))
 
 [19563 개구리 1](../problems/acmicpc_19563.cpp) ([링크](https://www.acmicpc.net/problem/19563))
