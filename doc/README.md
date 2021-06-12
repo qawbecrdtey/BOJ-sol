@@ -274,6 +274,8 @@
 
 [10768 특별한 날](../problems/acmicpc_10768.cpp) ([링크](https://www.acmicpc.net/problem/10768))
 
+[10800 컬러볼](../problems/acmicpc_10800.cpp) ([링크](https://www.acmicpc.net/problem/10800))
+
 [10801 카드게임](../problems/acmicpc_10801.cpp) ([링크](https://www.acmicpc.net/problem/10801))
 
 [10819 차이를 최대로](../problems/acmicpc_10819.cpp) ([링크](https://www.acmicpc.net/problem/10819))
