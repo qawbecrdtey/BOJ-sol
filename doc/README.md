@@ -368,6 +368,8 @@
 
 [14003 가장 긴 증가하는 부분 수열 5](../problems/acmicpc_14003.cpp) ([링크](https://www.acmicpc.net/problem/14003))
 
+[14428 수열과 쿼리 16](../problems/acmicpc_14428.cpp) ([링크](https://www.acmicpc.net/problem/14428))
+
 [14646 욱제는 결정장애야!!](../problems/acmicpc_14646.cpp) ([링크](https://www.acmicpc.net/problem/14646))
 
 [14698 전생했더니 슬라임 연구자였던 건에 대하여 (Hard)](../problems/acmicpc_14698.cpp) ([링크](https://www.acmicpc.net/problem/14698))
