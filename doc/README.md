@@ -170,6 +170,8 @@
 
 [2548 대표 자연수](../problems/acmicpc_2548.cpp) ([링크](https://www.acmicpc.net/problem/2548))
 
+[2623 음악프로그램](../problems/acmicpc_2623.cpp) ([링크](https://www.acmicpc.net/problem/2623))
+
 [2630 색종이 만들기](../problems/acmicpc_2630.cpp) ([링크](https://www.acmicpc.net/problem/2630))
 
 [2637 장난감조립](../problems/acmicpc_2637.cpp) ([링크](https://www.acmicpc.net/problem/2637))
