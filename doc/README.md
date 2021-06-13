@@ -84,6 +84,8 @@
 
 [1547 공](../problems/acmicpc_1547.cpp) ([링크](https://www.acmicpc.net/problem/1547))
 
+[1565 수학](../problems/acmicpc_1565.cpp) ([링크](https://www.acmicpc.net/problem/1565))
+
 [1620 나는야 포켓몬 마스터 이다솜](../problems/acmicpc_1620.cpp) ([링크](https://www.acmicpc.net/problem/1620))
 
 [1637 날카로운 눈](../problems/acmicpc_1637.cpp) ([링크](https://www.acmicpc.net/problem/1637))
