@@ -434,6 +434,8 @@
 
 [16693 Pizza Deal](../problems/acmicpc_16693.cpp) ([링크](https://www.acmicpc.net/problem/16693))
 
+[16864 So You Like Your Food Hot?](../problems/acmicpc_16864.cpp) ([링크](https://www.acmicpc.net/problem/16864))
+
 [16953 A → B](../problems/acmicpc_16953.cpp) ([링크](https://www.acmicpc.net/problem/16953))
 
 [17263 Sort 마스터 배지훈](../problems/acmicpc_17263.cpp) ([링크](https://www.acmicpc.net/problem/17263))
