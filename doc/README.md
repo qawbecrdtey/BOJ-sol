@@ -456,6 +456,8 @@
 
 [17869 Simple Collatz Sequence](../problems/acmicpc_17869.cpp) ([링크](https://www.acmicpc.net/problem/17869))
 
+[17939 Gazzzua](../problems/acmicpc_17939.cpp) ([링크](https://www.acmicpc.net/problem/17939))
+
 [18111 마인크래프트](../problems/acmicpc_18111.cpp) ([링크](https://www.acmicpc.net/problem/18111))
 
 [18247 겨울왕국 티켓 예매](../problems/acmicpc_18247.cpp) ([링크](https://www.acmicpc.net/problem/18247))
