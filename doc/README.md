@@ -238,6 +238,8 @@
 
 [6549 히스토그램에서 가장 큰 직사각형](../problems/acmicpc_6549.cpp) ([링크](https://www.acmicpc.net/problem/6549))
 
+[6588 골드바흐의 추측](../problems/acmicpc_6588.cpp) ([링크](https://www.acmicpc.net/problem/6588))
+
 [6749 Next in line](../problems/acmicpc_6749.cpp) ([링크](https://www.acmicpc.net/problem/6749))
 
 [6996 애너그램](../problems/acmicpc_6996.cpp) ([링크](https://www.acmicpc.net/problem/6996))
