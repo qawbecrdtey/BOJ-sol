@@ -382,6 +382,8 @@
 
 [14003 가장 긴 증가하는 부분 수열 5](../problems/acmicpc_14003.cpp) ([링크](https://www.acmicpc.net/problem/14003))
 
+[14172 Moocast](../problems/acmicpc_14172.cpp) ([링크](https://www.acmicpc.net/problem/14172))
+
 [14428 수열과 쿼리 16](../problems/acmicpc_14428.cpp) ([링크](https://www.acmicpc.net/problem/14428))
 
 [14467 소가 길을 건너간 이유 1](../problems/acmicpc_14467.cpp) ([링크](https://www.acmicpc.net/problem/14467))
