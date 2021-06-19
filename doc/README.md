@@ -170,6 +170,8 @@
 
 [2470 두 용액](../problems/acmicpc_2470.cpp) ([링크](https://www.acmicpc.net/problem/2470))
 
+[2491 수열](../problems/acmicpc_2491.cpp) ([링크](https://www.acmicpc.net/problem/2491))
+
 [2548 대표 자연수](../problems/acmicpc_2548.cpp) ([링크](https://www.acmicpc.net/problem/2548))
 
 [2607 비슷한 단어](../problems/acmicpc_2607.cpp) ([링크](https://www.acmicpc.net/problem/2607))
