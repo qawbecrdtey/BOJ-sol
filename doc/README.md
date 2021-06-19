@@ -172,6 +172,8 @@
 
 [2548 대표 자연수](../problems/acmicpc_2548.cpp) ([링크](https://www.acmicpc.net/problem/2548))
 
+[2607 비슷한 단어](../problems/acmicpc_2607.cpp) ([링크](https://www.acmicpc.net/problem/2607))
+
 [2623 음악프로그램](../problems/acmicpc_2623.cpp) ([링크](https://www.acmicpc.net/problem/2623))
 
 [2630 색종이 만들기](../problems/acmicpc_2630.cpp) ([링크](https://www.acmicpc.net/problem/2630))
