@@ -482,6 +482,8 @@
 
 [20254 Site Score](../problems/acmicpc_20254.cpp) ([링크](https://www.acmicpc.net/problem/20254))
 
+[20650 Do You Know Your ABCs?](../problems/acmicpc_20650.cpp) ([링크](https://www.acmicpc.net/problem/20650))
+
 [21300 Bottle Return](../problems/acmicpc_21300.cpp) ([링크](https://www.acmicpc.net/problem/21300))
 
 [21756 지우개](../problems/acmicpc_21756.cpp) ([링크](https://www.acmicpc.net/problem/21756))
