@@ -490,6 +490,8 @@
 
 [21756 지우개](../problems/acmicpc_21756.cpp) ([링크](https://www.acmicpc.net/problem/21756))
 
+[21964 선린인터넷고등학교 교가](../problems/acmicpc_21964.cpp) ([링크](https://www.acmicpc.net/problem/21964))
+
 ## Algorithms
 
 [BFS](BFS.md)
