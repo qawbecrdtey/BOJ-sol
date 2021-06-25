@@ -96,6 +96,8 @@
 
 [1644 소수의 연속합](../problems/acmicpc_1644.cpp) ([링크](https://www.acmicpc.net/problem/1644))
 
+[1647 도시 분할 계획](../problems/acmicpc_1647.cpp) ([링크](https://www.acmicpc.net/problem/1647))
+
 [1655 가운데를 말해요](../problems/acmicpc_1655.cpp) ([링크](https://www.acmicpc.net/problem/1655))
 
 [1673 치킨 쿠폰](../problems/acmicpc_1673.cpp) ([링크](https://www.acmicpc.net/problem/1673))
