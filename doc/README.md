@@ -142,6 +142,8 @@
 
 [2042 구간 합 구하기](../problems/acmicpc_2042.cpp) ([링크](https://www.acmicpc.net/problem/2042))
 
+[2086 피보나치 수의 합](../problems/acmicpc_2086.cpp) ([링크](https://www.acmicpc.net/problem/2086))
+
 [2108 통계학](../problems/acmicpc_2108.cpp) ([링크](https://www.acmicpc.net/problem/2108))
 
 [2150 Strongly Connected Component](../problems/acmicpc_2150.cpp) ([링크](https://www.acmicpc.net/problem/2150))
