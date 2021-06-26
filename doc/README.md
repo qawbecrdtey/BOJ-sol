@@ -400,6 +400,8 @@
 
 [14428 수열과 쿼리 16](../problems/acmicpc_14428.cpp) ([링크](https://www.acmicpc.net/problem/14428))
 
+[14438 수열과 쿼리 17](../problems/acmicpc_14438.cpp) ([링크](https://www.acmicpc.net/problem/14438))
+
 [14467 소가 길을 건너간 이유 1](../problems/acmicpc_14467.cpp) ([링크](https://www.acmicpc.net/problem/14467))
 
 [14646 욱제는 결정장애야!!](../problems/acmicpc_14646.cpp) ([링크](https://www.acmicpc.net/problem/14646))
