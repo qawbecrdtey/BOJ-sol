@@ -44,6 +44,8 @@
 
 [1222 홍준 프로그래밍 대회](../problems/acmicpc_1222.cpp) ([링크](https://www.acmicpc.net/problem/1222))
 
+[1247 부호](../problems/acmicpc_1247.cpp) ([링크](https://www.acmicpc.net/problem/1247))
+
 [1252 이진수 덧셈](../problems/acmicpc_1252.cpp) ([링크](https://www.acmicpc.net/problem/1252))
 
 [1259 팰린드롬수](../problems/acmicpc_1259.cpp) ([링크](https://www.acmicpc.net/problem/1259))
