@@ -490,6 +490,10 @@
 
 [19698 헛간 청약](../problems/acmicpc_19698.cpp) ([링크](https://www.acmicpc.net/problem/19698))
 
+[19699 소-난다!](../problems/acmicpc_19699.cpp) ([링크](https://www.acmicpc.net/problem/19699))
+
+[19700 수업](../problems/acmicpc_19700.cpp) ([링크](https://www.acmicpc.net/problem/19700))
+
 [20040 사이클 게임](../problems/acmicpc_20040.cpp) ([링크](https://www.acmicpc.net/problem/20040))
 
 [20170 Commemorative Dice](../problems/acmicpc_20170.cpp) ([링크](https://www.acmicpc.net/problem/20170))
