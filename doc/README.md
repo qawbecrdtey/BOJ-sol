@@ -294,6 +294,8 @@
 
 [9466 텀 프로젝트](../problems/acmicpc_9466.cpp) ([링크](https://www.acmicpc.net/problem/9466))
 
+[9469 폰 노이만](../problems/acmicpc_9469.cpp) ([링크](https://www.acmicpc.net/problem/9469))
+
 [9494 데구르르](../problems/acmicpc_9494.cpp) ([링크](https://www.acmicpc.net/problem/9494))
 
 [9655 돌 게임](../problems/acmicpc_9655.cpp) ([링크](https://www.acmicpc.net/problem/9655))
@@ -341,6 +343,8 @@
 [11004 K번째 수](../problems/acmicpc_11004.cpp) ([링크](https://www.acmicpc.net/problem/11004))
 
 [11055 가장 큰 증가 부분 수열](../problems/acmicpc_11055.cpp) ([링크](https://www.acmicpc.net/problem/11055))
+
+[11320 삼각 무늬 - 1](../problems/acmicpc_11320.cpp) ([링크](https://www.acmicpc.net/problem/11320))
 
 [11382 꼬마 정민](../problems/acmicpc_11382.cpp) ([링크](https://www.acmicpc.net/problem/11382))
 
