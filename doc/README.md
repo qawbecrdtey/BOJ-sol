@@ -498,6 +498,8 @@
 
 [17466 N! mod P (1)](../problems/acmicpc_17466.cpp) ([링크](https://www.acmicpc.net/problem/17466))
 
+[17618 신기한 수](../problems/acmicpc_17618.cpp) ([링크](https://www.acmicpc.net/problem/17618))
+
 [17869 Simple Collatz Sequence](../problems/acmicpc_17869.cpp) ([링크](https://www.acmicpc.net/problem/17869))
 
 [17939 Gazzzua](../problems/acmicpc_17939.cpp) ([링크](https://www.acmicpc.net/problem/17939))
