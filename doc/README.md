@@ -348,6 +348,8 @@
 
 [11055 가장 큰 증가 부분 수열](../problems/acmicpc_11055.cpp) ([링크](https://www.acmicpc.net/problem/11055))
 
+[11312 삼각 무늬 - 2](../problems/acmicpc_11312.cpp) ([링크](https://www.acmicpc.net/problem/11312))
+
 [11320 삼각 무늬 - 1](../problems/acmicpc_11320.cpp) ([링크](https://www.acmicpc.net/problem/11320))
 
 [11382 꼬마 정민](../problems/acmicpc_11382.cpp) ([링크](https://www.acmicpc.net/problem/11382))
