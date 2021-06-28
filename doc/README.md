@@ -296,6 +296,8 @@
 
 [9655 돌 게임](../problems/acmicpc_9655.cpp) ([링크](https://www.acmicpc.net/problem/9655))
 
+[9713 Sum of Odd Sequence](../problems/acmicpc_9713.cpp) ([링크](https://www.acmicpc.net/problem/9713))
+
 [10162 전자레인지](../problems/acmicpc_10162.cpp) ([링크](https://www.acmicpc.net/problem/10162))
 
 [10173 니모를 찾아서](../problems/acmicpc_10173.cpp) ([링크](https://www.acmicpc.net/problem/10173))
