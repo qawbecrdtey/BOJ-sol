@@ -462,6 +462,8 @@
 
 [16134 조합 (Combination)](../problems/acmicpc_16134.cpp) ([링크](https://www.acmicpc.net/problem/16134))
 
+[16283 Farm](../problems/acmicpc_16283.cpp) ([링크](https://www.acmicpc.net/problem/16283))
+
 [16287 Parcel](../problems/acmicpc_16287.cpp) ([링크](https://www.acmicpc.net/problem/16287))
 
 [16394 홍익대학교](../problems/acmicpc_16394.cpp) ([링크](https://www.acmicpc.net/problem/16394))
