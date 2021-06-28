@@ -40,6 +40,8 @@
 
 [1114 통나무 자르기](../problems/acmicpc_1114.cpp) ([링크](https://www.acmicpc.net/problem/1114))
 
+[1188 음식 평론가](../problems/acmicpc_1188.cpp) ([링크](https://www.acmicpc.net/problem/1188))
+
 [1208 부분수열의 합 2](../problems/acmicpc_1208.cpp) ([링크](https://www.acmicpc.net/problem/1208))
 
 [1222 홍준 프로그래밍 대회](../problems/acmicpc_1222.cpp) ([링크](https://www.acmicpc.net/problem/1222))
