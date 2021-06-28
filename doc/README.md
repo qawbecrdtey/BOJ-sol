@@ -422,6 +422,8 @@
 
 [14467 소가 길을 건너간 이유 1](../problems/acmicpc_14467.cpp) ([링크](https://www.acmicpc.net/problem/14467))
 
+[14491 9진수](../problems/acmicpc_14491.cpp) ([링크](https://www.acmicpc.net/problem/14491))
+
 [14568 2017 연세대학교 프로그래밍 경시대회](../problems/acmicpc_14568.cpp) ([링크](https://www.acmicpc.net/problem/14568))
 
 [14646 욱제는 결정장애야!!](../problems/acmicpc_14646.cpp) ([링크](https://www.acmicpc.net/problem/14646))
