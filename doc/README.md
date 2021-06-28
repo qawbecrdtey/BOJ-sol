@@ -426,6 +426,8 @@
 
 [14568 2017 연세대학교 프로그래밍 경시대회](../problems/acmicpc_14568.cpp) ([링크](https://www.acmicpc.net/problem/14568))
 
+[14579 덧셈과 곱셈](../problems/acmicpc_14579.cpp) ([링크](https://www.acmicpc.net/problem/14579))
+
 [14646 욱제는 결정장애야!!](../problems/acmicpc_14646.cpp) ([링크](https://www.acmicpc.net/problem/14646))
 
 [14698 전생했더니 슬라임 연구자였던 건에 대하여 (Hard)](../problems/acmicpc_14698.cpp) ([링크](https://www.acmicpc.net/problem/14698))
