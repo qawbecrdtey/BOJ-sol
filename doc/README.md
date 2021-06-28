@@ -238,6 +238,8 @@
 
 [5054 주차의 신](../problems/acmicpc_5054.cpp) ([링크](https://www.acmicpc.net/problem/5054))
 
+[5217 쌍의 합](../problems/acmicpc_5217.cpp) ([링크](https://www.acmicpc.net/problem/5217))
+
 [5237 Connected or Not Connected](../problems/acmicpc_5237.cpp) ([링크](https://www.acmicpc.net/problem/5237))
 
 [5430 AC](../problems/acmicpc_5430.cpp) ([링크](https://www.acmicpc.net/problem/5430))
