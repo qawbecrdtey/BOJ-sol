@@ -86,6 +86,8 @@
 
 [1459 걷기](../problems/acmicpc_1459.cpp) ([링크](https://www.acmicpc.net/problem/1459))
 
+[1504 특정한 최단 경로](../problems/acmicpc_1504.cpp) ([링크](https://www.acmicpc.net/problem/1504))
+
 [1516 게임 개발](../problems/acmicpc_1516.cpp) ([링크](https://www.acmicpc.net/problem/1516))
 
 [1535 안녕](../problems/acmicpc_1535.cpp) ([링크](https://www.acmicpc.net/problem/1535))
