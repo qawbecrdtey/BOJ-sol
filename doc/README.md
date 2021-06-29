@@ -546,6 +546,8 @@
 
 [21756 지우개](../problems/acmicpc_21756.cpp) ([링크](https://www.acmicpc.net/problem/21756))
 
+[21940 가운데에서 만나기](../problems/acmicpc_21940.cpp) ([링크](https://www.acmicpc.net/problem/21940))
+
 [21964 선린인터넷고등학교 교가](../problems/acmicpc_21964.cpp) ([링크](https://www.acmicpc.net/problem/21964))
 
 [21965 드높은 남산 위에 우뚝 선](../problems/acmicpc_21965.cpp) ([링크](https://www.acmicpc.net/problem/21965))
