@@ -374,6 +374,8 @@
 
 [11568 민균이의 계략](../problems/acmicpc_11568.cpp) ([링크](https://www.acmicpc.net/problem/11568))
 
+[11660 구간 합 구하기 5](../problems/acmicpc_11660.cpp) ([링크](https://www.acmicpc.net/problem/11660))
+
 [11766 Rings](../problems/acmicpc_11766.cpp) ([링크](https://www.acmicpc.net/problem/11766))
 
 [11772 POT](../problems/acmicpc_11772.cpp) ([링크](https://www.acmicpc.net/problem/11772))
