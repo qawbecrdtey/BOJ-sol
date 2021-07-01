@@ -146,6 +146,8 @@
 
 [1976 여행 가자](../problems/acmicpc_1976.cpp) ([링크](https://www.acmicpc.net/problem/1976))
 
+[1989 부분배열 고르기 2](../problems/acmicpc_1989.cpp) ([링크](https://www.acmicpc.net/problem/1989))
+
 [2022 사다리](../problems/acmicpc_2022.cpp) ([링크](https://www.acmicpc.net/problem/2022))
 
 [2042 구간 합 구하기](../problems/acmicpc_2042.cpp) ([링크](https://www.acmicpc.net/problem/2042))
