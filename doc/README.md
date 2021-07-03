@@ -274,6 +274,8 @@
 
 [7453 합이 0인 네 정수](../problems/acmicpc_7453.cpp) ([링크](https://www.acmicpc.net/problem/7453))
 
+[7469 K번째 수](../problems/acmicpc_7469.cpp) ([링크](https://www.acmicpc.net/problem/7469))
+
 [7523 Gauß](../problems/acmicpc_7523.cpp) ([링크](https://www.acmicpc.net/problem/7523))
 
 [7568 덩치](../problems/acmicpc_7568.cpp) ([링크](https://www.acmicpc.net/problem/7568))
