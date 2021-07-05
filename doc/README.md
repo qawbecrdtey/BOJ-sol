@@ -72,6 +72,8 @@
 
 [1351 무한 수열](../problems/acmicpc_1351.cpp) ([링크](https://www.acmicpc.net/problem/1351))
 
+[1354 무한 수열 2](../problems/acmicpc_1354.cpp) ([링크](https://www.acmicpc.net/problem/1354))
+
 [1389 케빈 베이컨의 6단계 법칙](../problems/acmicpc_1389.cpp) ([링크](https://www.acmicpc.net/problem/1389))
 
 [1398 동전 문제](../problems/acmicpc_1398.cpp) ([링크](https://www.acmicpc.net/problem/1398))
