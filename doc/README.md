@@ -70,6 +70,8 @@
 
 [1339 최소비용 구하기 2](../problems/acmicpc_1339.cpp) ([링크](https://www.acmicpc.net/problem/1339))
 
+[1351 무한 수열](../problems/acmicpc_1351.cpp) ([링크](https://www.acmicpc.net/problem/1351))
+
 [1389 케빈 베이컨의 6단계 법칙](../problems/acmicpc_1389.cpp) ([링크](https://www.acmicpc.net/problem/1389))
 
 [1398 동전 문제](../problems/acmicpc_1398.cpp) ([링크](https://www.acmicpc.net/problem/1398))
@@ -535,6 +537,8 @@
 [17466 N! mod P (1)](../problems/acmicpc_17466.cpp) ([링크](https://www.acmicpc.net/problem/17466))
 
 [17618 신기한 수](../problems/acmicpc_17618.cpp) ([링크](https://www.acmicpc.net/problem/17618))
+
+[17626 Four Squares](../problems/acmicpc_17626.cpp) ([링크](https://www.acmicpc.net/problem/17626))
 
 [17869 Simple Collatz Sequence](../problems/acmicpc_17869.cpp) ([링크](https://www.acmicpc.net/problem/17869))
 
