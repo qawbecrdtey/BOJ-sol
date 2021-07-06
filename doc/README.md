@@ -166,6 +166,8 @@
 
 [2108 통계학](../problems/acmicpc_2108.cpp) ([링크](https://www.acmicpc.net/problem/2108))
 
+[2110 공유기 설치](../problems/acmicpc_2110.cpp) ([링크](https://www.acmicpc.net/problem/2110))
+
 [2150 Strongly Connected Component](../problems/acmicpc_2150.cpp) ([링크](https://www.acmicpc.net/problem/2150))
 
 [2164 카드2](../problems/acmicpc_2164.cpp) ([링크](https://www.acmicpc.net/problem/2164))
