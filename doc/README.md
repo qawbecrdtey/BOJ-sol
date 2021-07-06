@@ -32,6 +32,8 @@
 
 [1018 체스판 다시 칠하기](../problems/acmicpc_1018.cpp) ([링크](https://www.acmicpc.net/problem/1018))
 
+[1021 회전하는 큐](../problems/acmicpc_1021.cpp) ([링크](https://www.acmicpc.net/problem/1021))
+
 [1059 좋은 구간](../problems/acmicpc_1059.cpp) ([링크](https://www.acmicpc.net/problem/1059))
 
 [1074 Z](../problems/acmicpc_1074.cpp) ([링크](https://www.acmicpc.net/problem/1074))
