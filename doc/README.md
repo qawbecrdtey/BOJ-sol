@@ -178,6 +178,8 @@
 
 [2250 트리의 높이와 너비](../problems/acmicpc_2250.cpp) ([링크](https://www.acmicpc.net/problem/2250))
 
+[2261 가장 가까운 두 점](../problems/acmicpc_2261.cpp) ([링크](https://www.acmicpc.net/problem/2261))
+
 [2263 트리의 순회](../problems/acmicpc_2263.cpp) ([링크](https://www.acmicpc.net/problem/2263))
 
 [2268 수들의 합](../problems/acmicpc_2268.cpp) ([링크](https://www.acmicpc.net/problem/2268))
