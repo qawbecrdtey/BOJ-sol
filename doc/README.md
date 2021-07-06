@@ -524,6 +524,8 @@
 
 [16953 A → B](../problems/acmicpc_16953.cpp) ([링크](https://www.acmicpc.net/problem/16953))
 
+[17164 Rainbow Beads](../problems/acmicpc_17164.cpp) ([링크](https://www.acmicpc.net/problem/17164))
+
 [17245 서버실](../problems/acmicpc_17245.cpp) ([링크](https://www.acmicpc.net/problem/17245))
 
 [17263 Sort 마스터 배지훈](../problems/acmicpc_17263.cpp) ([링크](https://www.acmicpc.net/problem/17263))
