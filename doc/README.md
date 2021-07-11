@@ -216,6 +216,8 @@
 
 [2637 장난감조립](../problems/acmicpc_2637.cpp) ([링크](https://www.acmicpc.net/problem/2637))
 
+[2669 직사각형 네개의 합집합의 면적 구하기](../problems/acmicpc_2669.cpp) ([링크](https://www.acmicpc.net/problem/2669))
+
 [2670 연속부분최대곱](../problems/acmicpc_2670.cpp) ([링크](https://www.acmicpc.net/problem/2670))
 
 [2775 부녀회장이 될테야](../problems/acmicpc_2775.cpp) ([링크](https://www.acmicpc.net/problem/2775))
