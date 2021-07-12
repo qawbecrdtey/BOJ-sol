@@ -422,6 +422,8 @@
 
 [12039 Polynesiaglot (Large)](../problems/acmicpc_12039.cpp) ([링크](https://www.acmicpc.net/problem/12039))
 
+[12728 n제곱 계산](../problems/acmicpc_12728.cpp) ([링크](https://www.acmicpc.net/problem/12728))
+
 [12738 가장 긴 증가하는 부분 수열 3](../problems/acmicpc_12738.cpp) ([링크](https://www.acmicpc.net/problem/12738))
 
 [12789 도키도키 간식드리미](../problems/acmicpc_12789.cpp) ([링크](https://www.acmicpc.net/problem/12789))
