@@ -372,6 +372,8 @@
 
 [10868 최솟값](../problems/acmicpc_10868.cpp) ([링크](https://www.acmicpc.net/problem/10868))
 
+[10874 이교수님의 시험](../problems/acmicpc_10874.cpp) ([링크](https://www.acmicpc.net/problem/10874))
+
 [10972 다음 순열](../problems/acmicpc_10972.cpp) ([링크](https://www.acmicpc.net/problem/10972))
 
 [10990 별 찍기 - 15](../problems/acmicpc_10990.cpp) ([링크](https://www.acmicpc.net/problem/10990))
