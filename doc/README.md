@@ -338,6 +338,8 @@
 
 [9657 돌 게임 3](../problems/acmicpc_9657.cpp) ([링크](https://www.acmicpc.net/problem/9657))
 
+[9658 돌 게임 4](../problems/acmicpc_9658.cpp) ([링크](https://www.acmicpc.net/problem/9658))
+
 [9713 Sum of Odd Sequence](../problems/acmicpc_9713.cpp) ([링크](https://www.acmicpc.net/problem/9713))
 
 [10162 전자레인지](../problems/acmicpc_10162.cpp) ([링크](https://www.acmicpc.net/problem/10162))
