@@ -366,6 +366,8 @@
 
 [10819 차이를 최대로](../problems/acmicpc_10819.cpp) ([링크](https://www.acmicpc.net/problem/10819))
 
+[10822 더하기](../problems/acmicpc_10822.cpp) ([링크](https://www.acmicpc.net/problem/10822))
+
 [10830 행렬 제곱](../problems/acmicpc_10830.cpp) ([링크](https://www.acmicpc.net/problem/10830))
 
 [10868 최솟값](../problems/acmicpc_10868.cpp) ([링크](https://www.acmicpc.net/problem/10868))
