@@ -30,6 +30,8 @@
 
 [1007 벡터 매칭](../problems/acmicpc_1007.cpp) ([링크](https://www.acmicpc.net/problem/1007))
 
+[1016 제곱 ㄴㄴ 수](../problems/acmicpc_1016.cpp) ([링크](https://www.acmicpc.net/problem/1016))
+
 [1018 체스판 다시 칠하기](../problems/acmicpc_1018.cpp) ([링크](https://www.acmicpc.net/problem/1018))
 
 [1021 회전하는 큐](../problems/acmicpc_1021.cpp) ([링크](https://www.acmicpc.net/problem/1021))
