@@ -572,6 +572,8 @@
 
 [16953 A → B](../problems/acmicpc_16953.cpp) ([링크](https://www.acmicpc.net/problem/16953))
 
+[16975 수열과 쿼리 21](../problems/acmicpc_16975.cpp) ([링크](https://www.acmicpc.net/problem/16975))
+
 [17164 Rainbow Beads](../problems/acmicpc_17164.cpp) ([링크](https://www.acmicpc.net/problem/17164))
 
 [17245 서버실](../problems/acmicpc_17245.cpp) ([링크](https://www.acmicpc.net/problem/17245))
