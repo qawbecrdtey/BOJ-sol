@@ -284,6 +284,8 @@
 
 [5676 음주 코딩](../problems/acmicpc_5676.cpp) ([링크](https://www.acmicpc.net/problem/5676))
 
+[6198 옥상 정원 꾸미기](../problems/acmicpc_6198.cpp) ([링크](https://www.acmicpc.net/problem/6198))
+
 [6322 직각 삼각형의 두 변](../problems/acmicpc_6322.cpp) ([링크](https://www.acmicpc.net/problem/6322))
 
 [6362 Unimodal Palindromic Decompositions](../problems/acmicpc_6362.cpp) ([링크](https://www.acmicpc.net/problem/6362))
