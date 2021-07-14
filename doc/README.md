@@ -484,6 +484,8 @@
 
 [14172 Moocast](../problems/acmicpc_14172.cpp) ([링크](https://www.acmicpc.net/problem/14172))
 
+[14427 수열과 쿼리 15](../problems/acmicpc_14428.cpp) ([링크](https://www.acmicpc.net/problem/14428))
+
 [14428 수열과 쿼리 16](../problems/acmicpc_14428.cpp) ([링크](https://www.acmicpc.net/problem/14428))
 
 [14438 수열과 쿼리 17](../problems/acmicpc_14438.cpp) ([링크](https://www.acmicpc.net/problem/14438))
