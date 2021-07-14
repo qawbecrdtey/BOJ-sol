@@ -234,6 +234,8 @@
 
 [2903 중앙 이동 알고리즘](../problems/acmicpc_2903.cpp) ([링크](https://www.acmicpc.net/problem/2903))
 
+[2921 도미노](../problems/acmicpc_2921.cpp) ([링크](https://www.acmicpc.net/problem/2921))
+
 [2954 창영이의 일기장](../problems/acmicpc_2954.cpp) ([링크](https://www.acmicpc.net/problem/2954))
 
 [3003 킹, 퀸, 룩, 비숍, 나이트, 폰](../problems/acmicpc_3003.cpp) ([링크](https://www.acmicpc.net/problem/3003))
