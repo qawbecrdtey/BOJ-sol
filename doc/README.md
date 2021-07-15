@@ -398,6 +398,8 @@
 
 [10996 별 찍기 - 21](../problems/acmicpc_10996.cpp) ([링크](https://www.acmicpc.net/problem/10996))
 
+[10999 구간 합 구하기 2](../problems/acmicpc_10999.cpp) ([링크](https://www.acmicpc.net/problem/10999))
+
 [11000 강의실 배정](../problems/acmicpc_11000.cpp) ([링크](https://www.acmicpc.net/problem/11000))
 
 [11003 최솟값 찾기](../problems/acmicpc_11003.cpp) ([링크](https://www.acmicpc.net/problem/11003))
