@@ -106,6 +106,8 @@
 
 [1547 공](../problems/acmicpc_1547.cpp) ([링크](https://www.acmicpc.net/problem/1547))
 
+[1557 제곱 ㄴㄴ](../problems/acmicpc_1557.cpp) ([링크](https://www.acmicpc.net/problem/1557))
+
 [1562 계단 수](../problems/acmicpc_1562.cpp) ([링크](https://www.acmicpc.net/problem/1562))
 
 [1565 수학](../problems/acmicpc_1565.cpp) ([링크](https://www.acmicpc.net/problem/1565))
