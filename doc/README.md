@@ -288,6 +288,8 @@
 
 [5522 카드 게임](../problems/acmicpc_5522.cpp) ([링크](https://www.acmicpc.net/problem/5522))
 
+[5525 IOIOI](../problems/acmicpc_5525.cpp) ([링크](https://www.acmicpc.net/problem/5525))
+
 [5635 생일](../problems/acmicpc_5635.cpp) ([링크](https://www.acmicpc.net/problem/5635))
 
 [5639 이진 검색 트리](../problems/acmicpc_5639.cpp) ([링크](https://www.acmicpc.net/problem/5639))
