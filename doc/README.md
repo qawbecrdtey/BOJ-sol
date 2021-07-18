@@ -618,6 +618,8 @@
 
 [18301 Rats](../problems/acmicpc_18301.cpp) ([링크](https://www.acmicpc.net/problem/18301))
 
+[18436 수열과 쿼리 37](../problems/acmicpc_18436.cpp) ([링크](https://www.acmicpc.net/problem/18436))
+
 [18870 좌표 압축](../problems/acmicpc_18870.cpp) ([링크](https://www.acmicpc.net/problem/18870))
 
 [18883 N M 찍기](../problems/acmicpc_18883.cpp) ([링크](https://www.acmicpc.net/problem/18883))
