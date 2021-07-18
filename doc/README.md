@@ -624,6 +624,8 @@
 
 [19700 수업](../problems/acmicpc_19700.cpp) ([링크](https://www.acmicpc.net/problem/19700))
 
+[20001 고무오리 디버깅](../problems/acmicpc_20001.cpp) ([링크](https://www.acmicpc.net/problem/20001))
+
 [20040 사이클 게임](../problems/acmicpc_20040.cpp) ([링크](https://www.acmicpc.net/problem/20040))
 
 [20170 Commemorative Dice](../problems/acmicpc_20170.cpp) ([링크](https://www.acmicpc.net/problem/20170))
