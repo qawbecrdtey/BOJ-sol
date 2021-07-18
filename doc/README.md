@@ -660,6 +660,8 @@
 
 [21965 드높은 남산 위에 우뚝 선](../problems/acmicpc_21965.cpp) ([링크](https://www.acmicpc.net/problem/21965))
 
+[22113 창영이와 버스](../problems/acmicpc_22113.cpp) ([링크](https://www.acmicpc.net/problem/22113))
+
 ## Algorithms
 
 [BFS](BFS.md)
