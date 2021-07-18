@@ -628,6 +628,8 @@
 
 [20002 사과나무](../problems/acmicpc_20002.cpp) ([링크](https://www.acmicpc.net/problem/20002))
 
+[20003 거스름돈이 싫어요](../problems/acmicpc_20003.cpp) ([링크](https://www.acmicpc.net/problem/20003))
+
 [20040 사이클 게임](../problems/acmicpc_20040.cpp) ([링크](https://www.acmicpc.net/problem/20040))
 
 [20170 Commemorative Dice](../problems/acmicpc_20170.cpp) ([링크](https://www.acmicpc.net/problem/20170))
