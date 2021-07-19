@@ -326,6 +326,8 @@
 
 [8370 Plane](../problems/acmicpc_8370.cpp) ([링크](https://www.acmicpc.net/problem/8370))
 
+[8892 팰린드롬](../problems/acmicpc_8892.cpp) ([링크](https://www.acmicpc.net/problem/8892))
+
 [8986 전봇대](../problems/acmicpc_8986.cpp) ([링크](https://www.acmicpc.net/problem/8986))
 
 [8979 올림픽](../problems/acmicpc_8979.cpp) ([링크](https://www.acmicpc.net/problem/8979))
