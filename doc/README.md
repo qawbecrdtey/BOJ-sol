@@ -82,6 +82,8 @@
 
 [1389 케빈 베이컨의 6단계 법칙](../problems/acmicpc_1389.cpp) ([링크](https://www.acmicpc.net/problem/1389))
 
+[1395 스위치](../problems/acmicpc_1395.cpp) ([링크](https://www.acmicpc.net/problem/1395))
+
 [1398 동전 문제](../problems/acmicpc_1398.cpp) ([링크](https://www.acmicpc.net/problem/1398))
 
 [1406 에디터](../problems/acmicpc_1406.cpp) ([링크](https://www.acmicpc.net/problem/1406))
