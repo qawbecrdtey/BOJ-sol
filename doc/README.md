@@ -296,6 +296,8 @@
 
 [5544 리그](../problems/acmicpc_5544.cpp) ([링크](https://www.acmicpc.net/problem/5544))
 
+[5545 최고의 피자](../problems/acmicpc_5545.cpp) ([링크](https://www.acmicpc.net/problem/5545))
+
 [5635 생일](../problems/acmicpc_5635.cpp) ([링크](https://www.acmicpc.net/problem/5635))
 
 [5639 이진 검색 트리](../problems/acmicpc_5639.cpp) ([링크](https://www.acmicpc.net/problem/5639))
