@@ -636,6 +636,8 @@
 
 [18883 N M 찍기](../problems/acmicpc_18883.cpp) ([링크](https://www.acmicpc.net/problem/18883))
 
+[19532 수학은 비대면강의입니다](../problems/acmicpc_19532.cpp) ([링크](https://www.acmicpc.net/problem/19532))
+
 [19563 개구리 1](../problems/acmicpc_19563.cpp) ([링크](https://www.acmicpc.net/problem/19563))
 
 [19572 가뭄(Small)](../problems/acmicpc_19572.cpp) ([링크](https://www.acmicpc.net/problem/19572))
