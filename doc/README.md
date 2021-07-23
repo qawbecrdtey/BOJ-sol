@@ -524,6 +524,8 @@
 
 [14491 9진수](../problems/acmicpc_14491.cpp) ([링크](https://www.acmicpc.net/problem/14491))
 
+[14544 Vote](../problems/acmicpc_14544.cpp) ([링크](https://www.acmicpc.net/problem/14544))
+
 [14568 2017 연세대학교 프로그래밍 경시대회](../problems/acmicpc_14568.cpp) ([링크](https://www.acmicpc.net/problem/14568))
 
 [14579 덧셈과 곱셈](../problems/acmicpc_14579.cpp) ([링크](https://www.acmicpc.net/problem/14579))
