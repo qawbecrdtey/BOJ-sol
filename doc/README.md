@@ -52,6 +52,8 @@
 
 [1233 주사위](../problems/acmicpc_1233.cpp) ([링크](https://www.acmicpc.net/problem/1233))
 
+[1241 머리 톡톡](../problems/acmicpc_1241.cpp) ([링크](https://www.acmicpc.net/problem/1241))
+
 [1247 부호](../problems/acmicpc_1247.cpp) ([링크](https://www.acmicpc.net/problem/1247))
 
 [1252 이진수 덧셈](../problems/acmicpc_1252.cpp) ([링크](https://www.acmicpc.net/problem/1252))
