@@ -582,6 +582,8 @@
 
 [15819 너의 핸들은](../problems/acmicpc_15819.cpp) ([링크](https://www.acmicpc.net/problem/15819))
 
+[15824 너 봄에는 캡사이신이 맛있단다](../problems/acmicpc_15824.cpp) ([링크](https://www.acmicpc.net/problem/15824))
+
 [15829 Hashing](../problems/acmicpc_15829.cpp) ([링크](https://www.acmicpc.net/problem/15829))
 
 [15917 노솔브 방지문제야!!](../problems/acmicpc_15917.cpp) ([링크](https://www.acmicpc.net/problem/15917))
