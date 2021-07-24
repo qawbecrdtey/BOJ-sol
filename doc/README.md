@@ -496,6 +496,8 @@
 
 [13163 닉네임에 갓 붙이기](../problems/acmicpc_13163.cpp) ([링크](https://www.acmicpc.net/problem/13163))
 
+[13164 행복 유치원](../problems/acmicpc_13164.cpp) ([링크](https://www.acmicpc.net/problem/13164))
+
 [13222 Matches](../problems/acmicpc_13222.cpp) ([링크](https://www.acmicpc.net/problem/13222))
 
 [13345 Completing the Square](../problems/acmicpc_13345.cpp) ([링크](https://www.acmicpc.net/problem/13345))
