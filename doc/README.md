@@ -146,6 +146,8 @@
 
 [1748 수 이어 쓰기 1](../problems/acmicpc_1748.cpp) ([링크](https://www.acmicpc.net/problem/1748))
 
+[1756 피자 굽기](../problems/acmicpc_1756.cpp) ([링크](https://www.acmicpc.net/problem/1756))
+
 [1759 암호 만들기](../problems/acmicpc_1759.cpp) ([링크](https://www.acmicpc.net/problem/1759))
 
 [1780 종이의 개수](../problems/acmicpc_1780.cpp) ([링크](https://www.acmicpc.net/problem/1780))
