@@ -422,6 +422,8 @@
 
 [10992 별 찍기 - 17](../problems/acmicpc_10992.cpp) ([링크](https://www.acmicpc.net/problem/10992))
 
+[10995 별 찍기 - 20](../problems/acmicpc_10995.cpp) ([링크](https://www.acmicpc.net/problem/10995))
+
 [10996 별 찍기 - 21](../problems/acmicpc_10996.cpp) ([링크](https://www.acmicpc.net/problem/10996))
 
 [10999 구간 합 구하기 2](../problems/acmicpc_10999.cpp) ([링크](https://www.acmicpc.net/problem/10999))
