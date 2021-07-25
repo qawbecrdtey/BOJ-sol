@@ -434,6 +434,8 @@
 
 [11004 K번째 수](../problems/acmicpc_11004.cpp) ([링크](https://www.acmicpc.net/problem/11004))
 
+[11024 더하기 4](../problems/acmicpc_11024.cpp) ([링크](https://www.acmicpc.net/problem/11024))
+
 [11055 가장 큰 증가 부분 수열](../problems/acmicpc_11055.cpp) ([링크](https://www.acmicpc.net/problem/11055))
 
 [11098 첼시를 도와줘!](../problems/acmicpc_11098.cpp) ([링크](https://www.acmicpc.net/problem/11098))
