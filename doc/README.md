@@ -606,6 +606,8 @@
 
 [15784 질투진서](../problems/acmicpc_15784.cpp) ([링크](https://www.acmicpc.net/problem/15784))
 
+[15791 세진이의 미팅](../problems/acmicpc_15791.cpp) ([링크](https://www.acmicpc.net/problem/15791))
+
 [15819 너의 핸들은](../problems/acmicpc_15819.cpp) ([링크](https://www.acmicpc.net/problem/15819))
 
 [15824 너 봄에는 캡사이신이 맛있단다](../problems/acmicpc_15824.cpp) ([링크](https://www.acmicpc.net/problem/15824))
