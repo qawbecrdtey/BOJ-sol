@@ -246,6 +246,8 @@
 
 [2810 컵홀더](../problems/acmicpc_2810.cpp) ([링크](https://www.acmicpc.net/problem/2810))
 
+[2824 최대공약수](../problems/acmicpc_2824.cpp) ([링크](https://www.acmicpc.net/problem/2824))
+
 [2854 문제 출제](../problems/acmicpc_2854.cpp) ([링크](https://www.acmicpc.net/problem/2854))
 
 [2896 무알콜 칵테일](../problems/acmicpc_2896.cpp) ([링크](https://www.acmicpc.net/problem/2896))
