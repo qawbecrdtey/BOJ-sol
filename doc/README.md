@@ -318,6 +318,8 @@
 
 [5676 음주 코딩](../problems/acmicpc_5676.cpp) ([링크](https://www.acmicpc.net/problem/5676))
 
+[5893 17배](../problems/acmicpc_5893.cpp) ([링크](https://www.acmicpc.net/problem/5893))
+
 [6198 옥상 정원 꾸미기](../problems/acmicpc_6198.cpp) ([링크](https://www.acmicpc.net/problem/6198))
 
 [6322 직각 삼각형의 두 변](../problems/acmicpc_6322.cpp) ([링크](https://www.acmicpc.net/problem/6322))
