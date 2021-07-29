@@ -476,6 +476,8 @@
 
 [11931 8진수](../problems/acmicpc_11931.cpp) ([링크](https://www.acmicpc.net/problem/11931))
 
+[11948 과목선택](../problems/acmicpc_11948.cpp) ([링크](https://www.acmicpc.net/problem/11948))
+
 [12015 가장 긴 증가하는 부분 수열 2](../problems/acmicpc_12015.cpp) ([링크](https://www.acmicpc.net/problem/12015))
 
 [12037 Polynesiaglot (Small1)](../problems/acmicpc_12037.cpp) ([링크](https://www.acmicpc.net/problem/12037))
