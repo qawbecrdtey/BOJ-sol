@@ -508,6 +508,8 @@
 
 [12893 적의 적](../problems/acmicpc_12893.cpp) ([링크](https://www.acmicpc.net/problem/12893))
 
+[12899 데이터 구조](../problems/acmicpc_12899.cpp) ([링크](https://www.acmicpc.net/problem/12899))
+
 [12904 A와 B](../problems/acmicpc_12904.cpp) ([링크](https://www.acmicpc.net/problem/12904))
 
 [12991 홍준이의 행렬](../problems/acmicpc_12991.cpp) ([링크](https://www.acmicpc.net/problem/12991))
