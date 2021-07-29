@@ -524,6 +524,8 @@
 
 [13222 Matches](../problems/acmicpc_13222.cpp) ([링크](https://www.acmicpc.net/problem/13222))
 
+[13239 Combinations](../problems/acmicpc_13239.cpp) ([링크](https://www.acmicpc.net/problem/13239))
+
 [13345 Completing the Square](../problems/acmicpc_13345.cpp) ([링크](https://www.acmicpc.net/problem/13345))
 
 [13424 비밀 모임](../problems/acmicpc_13424.cpp) ([링크](https://www.acmicpc.net/problem/13424))
