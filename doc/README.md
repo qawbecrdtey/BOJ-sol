@@ -288,6 +288,8 @@
 
 [4386 별자리 만들기](../problems/acmicpc_4386.cpp) ([링크](https://www.acmicpc.net/problem/4386))
 
+[4447 좋은놈 나쁜놈](../problems/acmicpc_4447.cpp) ([링크](https://www.acmicpc.net/problem/4447))
+
 [4564 숫자 카드놀이](../problems/acmicpc_4564.cpp) ([링크](https://www.acmicpc.net/problem/4564))
 
 [4641 Doubles](../problems/acmicpc_4641.cpp) ([링크](https://www.acmicpc.net/problem/4641))
