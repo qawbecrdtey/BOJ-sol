@@ -214,6 +214,8 @@
 
 [2399 거리의 합](../problems/acmicpc_2399.cpp) ([링크](https://www.acmicpc.net/problem/2399))
 
+[2407 조합](../problems/acmicpc_2407.cpp) ([링크](https://www.acmicpc.net/problem/2407))
+
 [2410 2의 멱수의 합](../problems/acmicpc_2410.cpp) ([링크](https://www.acmicpc.net/problem/2410))
 
 [2417 정수 제곱근](../problems/acmicpc_2417.cpp) ([링크](https://www.acmicpc.net/problem/2417))
