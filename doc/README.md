@@ -112,6 +112,8 @@
 
 [1547 공](../problems/acmicpc_1547.cpp) ([링크](https://www.acmicpc.net/problem/1547))
 
+[1551 수열의 변화](../problems/acmicpc_1551.cpp) ([링크](https://www.acmicpc.net/problem/1551))
+
 [1557 제곱 ㄴㄴ](../problems/acmicpc_1557.cpp) ([링크](https://www.acmicpc.net/problem/1557))
 
 [1562 계단 수](../problems/acmicpc_1562.cpp) ([링크](https://www.acmicpc.net/problem/1562))
