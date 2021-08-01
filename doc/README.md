@@ -524,6 +524,8 @@
 
 [12904 A와 B](../problems/acmicpc_12904.cpp) ([링크](https://www.acmicpc.net/problem/12904))
 
+[12925 Numbers](../problems/acmicpc_12925.cpp) ([링크](https://www.acmicpc.net/problem/12925))
+
 [12991 홍준이의 행렬](../problems/acmicpc_12991.cpp) ([링크](https://www.acmicpc.net/problem/12991))
 
 [13160 최대 클리크 구하기](../problems/acmicpc_13160.cpp) ([링크](https://www.acmicpc.net/problem/13160))
@@ -535,6 +537,8 @@
 [13222 Matches](../problems/acmicpc_13222.cpp) ([링크](https://www.acmicpc.net/problem/13222))
 
 [13239 Combinations](../problems/acmicpc_13239.cpp) ([링크](https://www.acmicpc.net/problem/13239))
+
+[13300 방 배정](../problems/acmicpc_13300.cpp) ([링크](https://www.acmicpc.net/problem/13300))
 
 [13345 Completing the Square](../problems/acmicpc_13345.cpp) ([링크](https://www.acmicpc.net/problem/13345))
 
