@@ -288,6 +288,8 @@
 
 [3743 완벽한 선거!](../problems/acmicpc_3743.cpp) ([링크](https://www.acmicpc.net/problem/3743))
 
+[3943 헤일스톤 수열](../problems/acmicpc_3943.cpp) ([링크](https://www.acmicpc.net/problem/3943))
+
 [3986 좋은 단어](../problems/acmicpc_3986.cpp) ([링크](https://www.acmicpc.net/problem/3986))
 
 [4097 수익](../problems/acmicpc_4097.cpp) ([링크](https://www.acmicpc.net/problem/4097))
