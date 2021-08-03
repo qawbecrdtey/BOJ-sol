@@ -422,6 +422,8 @@
 
 [10569 다면체](../problems/acmicpc_10569.cpp) ([링크](https://www.acmicpc.net/problem/10569))
 
+[10570 Favorite Number](../problems/acmicpc_10570.cpp) ([링크](https://www.acmicpc.net/problem/10570))
+
 [10599 페르시아의 왕들](../problems/acmicpc_10599.cpp) ([링크](https://www.acmicpc.net/problem/10599))
 
 [10768 특별한 날](../problems/acmicpc_10768.cpp) ([링크](https://www.acmicpc.net/problem/10768))
