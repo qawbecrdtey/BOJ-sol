@@ -202,6 +202,8 @@
 
 [2206 벽 부수고 이동하기](../problems/acmicpc_2206.cpp) ([링크](https://www.acmicpc.net/problem/2206))
 
+[2207 가위바위보](../problems/acmicpc_2207.cpp) ([링크](https://www.acmicpc.net/problem/2207))
+
 [2213 트리의 독립집합](../problems/acmicpc_2213.cpp) ([링크](https://www.acmicpc.net/problem/2213))
 
 [2250 트리의 높이와 너비](../problems/acmicpc_2250.cpp) ([링크](https://www.acmicpc.net/problem/2250))
