@@ -286,6 +286,8 @@
 
 [3648 아이돌](../problems/acmicpc_3648.cpp) ([링크](https://www.acmicpc.net/problem/3648))
 
+[3743 완벽한 선거!](../problems/acmicpc_3743.cpp) ([링크](https://www.acmicpc.net/problem/3743))
+
 [3986 좋은 단어](../problems/acmicpc_3986.cpp) ([링크](https://www.acmicpc.net/problem/3986))
 
 [4097 수익](../problems/acmicpc_4097.cpp) ([링크](https://www.acmicpc.net/problem/4097))
