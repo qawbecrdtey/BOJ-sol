@@ -468,6 +468,8 @@
 
 [11277 2-SAT - 1](../problems/acmicpc_11277.cpp) ([링크](https://www.acmicpc.net/problem/11277))
 
+[11278 2-SAT - 2](../problems/acmicpc_11278.cpp) ([링크](https://www.acmicpc.net/problem/11278))
+
 [11280 2-SAT - 3](../problems/acmicpc_11280.cpp) ([링크](https://www.acmicpc.net/problem/11280))
 
 [11281 2-SAT - 4](../problems/acmicpc_11281.cpp) ([링크](https://www.acmicpc.net/problem/11281))
