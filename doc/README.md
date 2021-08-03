@@ -524,6 +524,8 @@
 
 [12738 가장 긴 증가하는 부분 수열 3](../problems/acmicpc_12738.cpp) ([링크](https://www.acmicpc.net/problem/12738))
 
+[12779 상품 is 뭔들](../problems/acmicpc_12779.cpp) ([링크](https://www.acmicpc.net/problem/12779))
+
 [12789 도키도키 간식드리미](../problems/acmicpc_12789.cpp) ([링크](https://www.acmicpc.net/problem/12789))
 
 [12837 가계부 (Hard)](../problems/acmicpc_12837.cpp) ([링크](https://www.acmicpc.net/problem/12837))
