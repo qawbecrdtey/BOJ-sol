@@ -680,6 +680,8 @@
 
 [16287 Parcel](../problems/acmicpc_16287.cpp) ([링크](https://www.acmicpc.net/problem/16287))
 
+[16367 TV Show Game](../problems/acmicpc_16367.cpp) ([링크](https://www.acmicpc.net/problem/16367))
+
 [16394 홍익대학교](../problems/acmicpc_16394.cpp) ([링크](https://www.acmicpc.net/problem/16394))
 
 [16395 파스칼의 삼각형](../problems/acmicpc_16395.cpp) ([링크](https://www.acmicpc.net/problem/16395))
