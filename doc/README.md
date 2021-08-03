@@ -340,6 +340,8 @@
 
 [5676 음주 코딩](../problems/acmicpc_5676.cpp) ([링크](https://www.acmicpc.net/problem/5676))
 
+[5691 평균 중앙값 문제](../problems/acmicpc_5691.cpp) ([링크](https://www.acmicpc.net/problem/5691))
+
 [5893 17배](../problems/acmicpc_5893.cpp) ([링크](https://www.acmicpc.net/problem/5893))
 
 [6198 옥상 정원 꾸미기](../problems/acmicpc_6198.cpp) ([링크](https://www.acmicpc.net/problem/6198))
