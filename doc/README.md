@@ -776,6 +776,8 @@
 
 [20499 Darius님 한타 안 함?](../problems/acmicpc_20499.cpp) ([링크](https://www.acmicpc.net/problem/20499))
 
+[20528 끝말잇기](../problems/acmicpc_20528.cpp) ([링크](https://www.acmicpc.net/problem/20528))
+
 [20650 Do You Know Your ABCs?](../problems/acmicpc_20650.cpp) ([링크](https://www.acmicpc.net/problem/20650))
 
 [21300 Bottle Return](../problems/acmicpc_21300.cpp) ([링크](https://www.acmicpc.net/problem/21300))
