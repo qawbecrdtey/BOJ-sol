@@ -72,6 +72,8 @@
 
 [1276 교각 놓기](../problems/acmicpc_1276.cpp) ([링크](https://www.acmicpc.net/problem/1276))
 
+[1284 집 주소](../problems/acmicpc_1284.cpp) ([링크](https://www.acmicpc.net/problem/1284))
+
 [1296 데이트](../problems/acmicpc_1296.cpp) ([링크](https://www.acmicpc.net/problem/1296))
 
 [1300 K번째 수](../problems/acmicpc_1300.cpp) ([링크](https://www.acmicpc.net/problem/1300))
@@ -200,6 +202,8 @@
 
 [2206 벽 부수고 이동하기](../problems/acmicpc_2206.cpp) ([링크](https://www.acmicpc.net/problem/2206))
 
+[2207 가위바위보](../problems/acmicpc_2207.cpp) ([링크](https://www.acmicpc.net/problem/2207))
+
 [2213 트리의 독립집합](../problems/acmicpc_2213.cpp) ([링크](https://www.acmicpc.net/problem/2213))
 
 [2250 트리의 높이와 너비](../problems/acmicpc_2250.cpp) ([링크](https://www.acmicpc.net/problem/2250))
@@ -280,6 +284,12 @@
 
 [3566 대형 스크린](../problems/acmicpc_3566.cpp) ([링크](https://www.acmicpc.net/problem/3566))
 
+[3648 아이돌](../problems/acmicpc_3648.cpp) ([링크](https://www.acmicpc.net/problem/3648))
+
+[3743 완벽한 선거!](../problems/acmicpc_3743.cpp) ([링크](https://www.acmicpc.net/problem/3743))
+
+[3943 헤일스톤 수열](../problems/acmicpc_3943.cpp) ([링크](https://www.acmicpc.net/problem/3943))
+
 [3986 좋은 단어](../problems/acmicpc_3986.cpp) ([링크](https://www.acmicpc.net/problem/3986))
 
 [4097 수익](../problems/acmicpc_4097.cpp) ([링크](https://www.acmicpc.net/problem/4097))
@@ -326,11 +336,15 @@
 
 [5576 콘테스트](../problems/acmicpc_5576.cpp) ([링크](https://www.acmicpc.net/problem/5576))
 
+[5618 공약수](../problems/acmicpc_5618.cpp) ([링크](https://www.acmicpc.net/problem/5618))
+
 [5635 생일](../problems/acmicpc_5635.cpp) ([링크](https://www.acmicpc.net/problem/5635))
 
 [5639 이진 검색 트리](../problems/acmicpc_5639.cpp) ([링크](https://www.acmicpc.net/problem/5639))
 
 [5676 음주 코딩](../problems/acmicpc_5676.cpp) ([링크](https://www.acmicpc.net/problem/5676))
+
+[5691 평균 중앙값 문제](../problems/acmicpc_5691.cpp) ([링크](https://www.acmicpc.net/problem/5691))
 
 [5893 17배](../problems/acmicpc_5893.cpp) ([링크](https://www.acmicpc.net/problem/5893))
 
@@ -410,6 +424,8 @@
 
 [10569 다면체](../problems/acmicpc_10569.cpp) ([링크](https://www.acmicpc.net/problem/10569))
 
+[10570 Favorite Number](../problems/acmicpc_10570.cpp) ([링크](https://www.acmicpc.net/problem/10570))
+
 [10599 페르시아의 왕들](../problems/acmicpc_10599.cpp) ([링크](https://www.acmicpc.net/problem/10599))
 
 [10768 특별한 날](../problems/acmicpc_10768.cpp) ([링크](https://www.acmicpc.net/problem/10768))
@@ -459,6 +475,10 @@
 [11055 가장 큰 증가 부분 수열](../problems/acmicpc_11055.cpp) ([링크](https://www.acmicpc.net/problem/11055))
 
 [11098 첼시를 도와줘!](../problems/acmicpc_11098.cpp) ([링크](https://www.acmicpc.net/problem/11098))
+
+[11277 2-SAT - 1](../problems/acmicpc_11277.cpp) ([링크](https://www.acmicpc.net/problem/11277))
+
+[11278 2-SAT - 2](../problems/acmicpc_11278.cpp) ([링크](https://www.acmicpc.net/problem/11278))
 
 [11280 2-SAT - 3](../problems/acmicpc_11280.cpp) ([링크](https://www.acmicpc.net/problem/11280))
 
@@ -512,6 +532,8 @@
 
 [12738 가장 긴 증가하는 부분 수열 3](../problems/acmicpc_12738.cpp) ([링크](https://www.acmicpc.net/problem/12738))
 
+[12779 상품 is 뭔들](../problems/acmicpc_12779.cpp) ([링크](https://www.acmicpc.net/problem/12779))
+
 [12789 도키도키 간식드리미](../problems/acmicpc_12789.cpp) ([링크](https://www.acmicpc.net/problem/12789))
 
 [12837 가계부 (Hard)](../problems/acmicpc_12837.cpp) ([링크](https://www.acmicpc.net/problem/12837))
@@ -555,6 +577,8 @@
 [13544 수열과 쿼리 3](../problems/acmicpc_13544.cpp) ([링크](https://www.acmicpc.net/problem/13544))
 
 [13549 숨바꼭질 3](../problems/acmicpc_13549.cpp) ([링크](https://www.acmicpc.net/problem/13549))
+
+[13565 침투](../problems/acmicpc_13565.cpp) ([링크](https://www.acmicpc.net/problem/13565))
 
 [13699 점화식](../problems/acmicpc_13699.cpp) ([링크](https://www.acmicpc.net/problem/13699))
 
@@ -660,6 +684,8 @@
 
 [16287 Parcel](../problems/acmicpc_16287.cpp) ([링크](https://www.acmicpc.net/problem/16287))
 
+[16367 TV Show Game](../problems/acmicpc_16367.cpp) ([링크](https://www.acmicpc.net/problem/16367))
+
 [16394 홍익대학교](../problems/acmicpc_16394.cpp) ([링크](https://www.acmicpc.net/problem/16394))
 
 [16395 파스칼의 삼각형](../problems/acmicpc_16395.cpp) ([링크](https://www.acmicpc.net/problem/16395))
@@ -703,6 +729,8 @@
 [17408 수열과 쿼리 24](../problems/acmicpc_17408.cpp) ([링크](https://www.acmicpc.net/problem/17408))
 
 [17466 N! mod P (1)](../problems/acmicpc_17466.cpp) ([링크](https://www.acmicpc.net/problem/17466))
+
+[17608 막대기](../problems/acmicpc_17608.cpp) ([링크](https://www.acmicpc.net/problem/17608))
 
 [17618 신기한 수](../problems/acmicpc_17618.cpp) ([링크](https://www.acmicpc.net/problem/17618))
 
@@ -761,6 +789,8 @@
 [20492 세금](../problems/acmicpc_20492.cpp) ([링크](https://www.acmicpc.net/problem/20492))
 
 [20499 Darius님 한타 안 함?](../problems/acmicpc_20499.cpp) ([링크](https://www.acmicpc.net/problem/20499))
+
+[20528 끝말잇기](../problems/acmicpc_20528.cpp) ([링크](https://www.acmicpc.net/problem/20528))
 
 [20650 Do You Know Your ABCs?](../problems/acmicpc_20650.cpp) ([링크](https://www.acmicpc.net/problem/20650))
 
