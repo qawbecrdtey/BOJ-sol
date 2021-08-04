@@ -156,6 +156,8 @@
 
 [1759 암호 만들기](../problems/acmicpc_1759.cpp) ([링크](https://www.acmicpc.net/problem/1759))
 
+[1761 정점들의 거리](../problems/acmicpc_1761.cpp) ([링크](https://www.acmicpc.net/problem/1761))
+
 [1780 종이의 개수](../problems/acmicpc_1780.cpp) ([링크](https://www.acmicpc.net/problem/1780))
 
 [1862 미터계](../problems/acmicpc_1862.cpp) ([링크](https://www.acmicpc.net/problem/1862))
