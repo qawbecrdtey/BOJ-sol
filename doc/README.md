@@ -286,6 +286,8 @@
 
 [3566 대형 스크린](../problems/acmicpc_3566.cpp) ([링크](https://www.acmicpc.net/problem/3566))
 
+[3584 가장 가까운 공통 조상](../problems/acmicpc_3584.cpp) ([링크](https://www.acmicpc.net/problem/3584))
+
 [3648 아이돌](../problems/acmicpc_3648.cpp) ([링크](https://www.acmicpc.net/problem/3648))
 
 [3743 완벽한 선거!](../problems/acmicpc_3743.cpp) ([링크](https://www.acmicpc.net/problem/3743))
