@@ -410,6 +410,8 @@
 
 [9469 폰 노이만](../problems/acmicpc_9469.cpp) ([링크](https://www.acmicpc.net/problem/9469))
 
+[9492 Perfect Shuffle](../problems/acmicpc_9492.cpp) ([링크](https://www.acmicpc.net/problem/9492))
+
 [9494 데구르르](../problems/acmicpc_9494.cpp) ([링크](https://www.acmicpc.net/problem/9494))
 
 [9655 돌 게임](../problems/acmicpc_9655.cpp) ([링크](https://www.acmicpc.net/problem/9655))
