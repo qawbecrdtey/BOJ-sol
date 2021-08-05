@@ -716,6 +716,8 @@
 
 [16485 작도하자! - ②](../problems/acmicpc_16485.cpp) ([링크](https://www.acmicpc.net/problem/16485))
 
+[16486 운동장 한 바퀴](../problems/acmicpc_16486.cpp) ([링크](https://www.acmicpc.net/problem/16486))
+
 [16496 큰 수 만들기](../problems/acmicpc_16496.cpp) ([링크](https://www.acmicpc.net/problem/16496))
 
 [16693 Pizza Deal](../problems/acmicpc_16693.cpp) ([링크](https://www.acmicpc.net/problem/16693))
