@@ -330,6 +330,8 @@
 
 [5237 Connected or Not Connected](../problems/acmicpc_5237.cpp) ([링크](https://www.acmicpc.net/problem/5237))
 
+[5347 LCM](../problems/acmicpc_5347.cpp) ([링크](https://www.acmicpc.net/problem/5347))
+
 [5430 AC](../problems/acmicpc_5430.cpp) ([링크](https://www.acmicpc.net/problem/5430))
 
 [5522 카드 게임](../problems/acmicpc_5522.cpp) ([링크](https://www.acmicpc.net/problem/5522))
@@ -699,6 +701,8 @@
 [15829 Hashing](../problems/acmicpc_15829.cpp) ([링크](https://www.acmicpc.net/problem/15829))
 
 [15917 노솔브 방지문제야!!](../problems/acmicpc_15917.cpp) ([링크](https://www.acmicpc.net/problem/15917))
+
+[15965 K번째 소수](../problems/acmicpc_15965.cpp) ([링크](https://www.acmicpc.net/problem/15965))
 
 [15969 행복](../problems/acmicpc_15969.cpp) ([링크](https://www.acmicpc.net/problem/15969))
 
