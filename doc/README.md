@@ -616,6 +616,8 @@
 
 [13900 순서쌍의 곱의 합](../problems/acmicpc_13900.cpp) ([링크](https://www.acmicpc.net/problem/13900))
 
+[13913 숨바꼭질 4](../problems/acmicpc_13913.cpp) ([링크](https://www.acmicpc.net/problem/13913))
+
 [13977 이항 계수와 쿼리](../problems/acmicpc_13977.cpp) ([링크](https://www.acmicpc.net/problem/13977))
 
 [14002 가장 긴 증가하는 부분 수열 4](../problems/acmicpc_14002.cpp) ([링크](https://www.acmicpc.net/problem/14002))
