@@ -746,6 +746,8 @@
 
 [16975 수열과 쿼리 21](../problems/acmicpc_16975.cpp) ([링크](https://www.acmicpc.net/problem/16975))
 
+[16978 수열과 쿼리 22](../problems/acmicpc_16978.cpp) ([링크](https://www.acmicpc.net/problem/16978))
+
 [17164 Rainbow Beads](../problems/acmicpc_17164.cpp) ([링크](https://www.acmicpc.net/problem/17164))
 
 [17245 서버실](../problems/acmicpc_17245.cpp) ([링크](https://www.acmicpc.net/problem/17245))
