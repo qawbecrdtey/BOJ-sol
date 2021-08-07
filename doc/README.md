@@ -212,6 +212,8 @@
 
 [2213 트리의 독립집합](../problems/acmicpc_2213.cpp) ([링크](https://www.acmicpc.net/problem/2213))
 
+[2243 사탕상자](../problems/acmicpc_2243.cpp) ([링크](https://www.acmicpc.net/problem/2243))
+
 [2250 트리의 높이와 너비](../problems/acmicpc_2250.cpp) ([링크](https://www.acmicpc.net/problem/2250))
 
 [2261 가장 가까운 두 점](../problems/acmicpc_2261.cpp) ([링크](https://www.acmicpc.net/problem/2261))
