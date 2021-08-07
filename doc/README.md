@@ -160,6 +160,8 @@
 
 [1761 정점들의 거리](../problems/acmicpc_1761.cpp) ([링크](https://www.acmicpc.net/problem/1761))
 
+[1773 폭죽쇼](../problems/acmicpc_1773.cpp) ([링크](https://www.acmicpc.net/problem/1773))
+
 [1780 종이의 개수](../problems/acmicpc_1780.cpp) ([링크](https://www.acmicpc.net/problem/1780))
 
 [1862 미터계](../problems/acmicpc_1862.cpp) ([링크](https://www.acmicpc.net/problem/1862))
@@ -288,6 +290,8 @@
 
 [3566 대형 스크린](../problems/acmicpc_3566.cpp) ([링크](https://www.acmicpc.net/problem/3566))
 
+[3584 가장 가까운 공통 조상](../problems/acmicpc_3584.cpp) ([링크](https://www.acmicpc.net/problem/3584))
+
 [3648 아이돌](../problems/acmicpc_3648.cpp) ([링크](https://www.acmicpc.net/problem/3648))
 
 [3743 완벽한 선거!](../problems/acmicpc_3743.cpp) ([링크](https://www.acmicpc.net/problem/3743))
@@ -382,6 +386,8 @@
 
 [7662 이중 우선순위 큐](../problems/acmicpc_7662.cpp) ([링크](https://www.acmicpc.net/problem/7662))
 
+[7677 Fibonacci](../problems/acmicpc_7677.cpp) ([링크](https://www.acmicpc.net/problem/7677))
+
 [8370 Plane](../problems/acmicpc_8370.cpp) ([링크](https://www.acmicpc.net/problem/8370))
 
 [8892 팰린드롬](../problems/acmicpc_8892.cpp) ([링크](https://www.acmicpc.net/problem/8892))
@@ -406,6 +412,8 @@
 
 [9469 폰 노이만](../problems/acmicpc_9469.cpp) ([링크](https://www.acmicpc.net/problem/9469))
 
+[9492 Perfect Shuffle](../problems/acmicpc_9492.cpp) ([링크](https://www.acmicpc.net/problem/9492))
+
 [9494 데구르르](../problems/acmicpc_9494.cpp) ([링크](https://www.acmicpc.net/problem/9494))
 
 [9655 돌 게임](../problems/acmicpc_9655.cpp) ([링크](https://www.acmicpc.net/problem/9655))
@@ -428,6 +436,8 @@
 
 [10372 Alarm Clock](../problems/acmicpc_10372.cpp) ([링크](https://www.acmicpc.net/problem/10372))
 
+[10409 서버](../problems/acmicpc_10409.cpp) ([링크](https://www.acmicpc.net/problem/10409))
+
 [10569 다면체](../problems/acmicpc_10569.cpp) ([링크](https://www.acmicpc.net/problem/10569))
 
 [10570 Favorite Number](../problems/acmicpc_10570.cpp) ([링크](https://www.acmicpc.net/problem/10570))
@@ -447,6 +457,8 @@
 [10819 차이를 최대로](../problems/acmicpc_10819.cpp) ([링크](https://www.acmicpc.net/problem/10819))
 
 [10822 더하기](../problems/acmicpc_10822.cpp) ([링크](https://www.acmicpc.net/problem/10822))
+
+[10829 이진수 변환](../problems/acmicpc_10829.cpp) ([링크](https://www.acmicpc.net/problem/10829))
 
 [10830 행렬 제곱](../problems/acmicpc_10830.cpp) ([링크](https://www.acmicpc.net/problem/10830))
 
@@ -634,6 +646,8 @@
 
 [14699 관악산 등산](../problems/acmicpc_14699.cpp) ([링크](https://www.acmicpc.net/problem/14699))
 
+[14761 FizzBuzz](../problems/acmicpc_14761.cpp) ([링크](https://www.acmicpc.net/problem/14761))
+
 [14860 GCD 곱](../problems/acmicpc_14860.cpp) ([링크](https://www.acmicpc.net/problem/14860))
 
 [14918 더하기](../problems/acmicpc_14918.cpp) ([링크](https://www.acmicpc.net/problem/14918))
@@ -643,6 +657,8 @@
 [15353 큰 수 A+B (2)](../problems/acmicpc_15353.cpp) ([링크](https://www.acmicpc.net/problem/15353))
 
 [15439 Vera and Outfits](../problems/acmicpc_15439.cpp) ([링크](https://www.acmicpc.net/problem/15439))
+
+[15480 LCA와 쿼리](../problems/acmicpc_15480.cpp) ([링크](https://www.acmicpc.net/problem/15480))
 
 [15517 Array Manipulation at Moloco (Hard)](../problems/acmicpc_15517.cpp) ([링크](https://www.acmicpc.net/problem/15517))
 
@@ -709,6 +725,8 @@
 [16483 접시 안의 원](../problems/acmicpc_16483.cpp) ([링크](https://www.acmicpc.net/problem/16483))
 
 [16485 작도하자! - ②](../problems/acmicpc_16485.cpp) ([링크](https://www.acmicpc.net/problem/16485))
+
+[16486 운동장 한 바퀴](../problems/acmicpc_16486.cpp) ([링크](https://www.acmicpc.net/problem/16486))
 
 [16496 큰 수 만들기](../problems/acmicpc_16496.cpp) ([링크](https://www.acmicpc.net/problem/16496))
 
