@@ -242,6 +242,8 @@
 
 [2491 수열](../problems/acmicpc_2491.cpp) ([링크](https://www.acmicpc.net/problem/2491))
 
+[2533 사회망 서비스(SNS)](../problems/acmicpc_2533.cpp) ([링크](https://www.acmicpc.net/problem/2533))
+
 [2548 대표 자연수](../problems/acmicpc_2548.cpp) ([링크](https://www.acmicpc.net/problem/2548))
 
 [2607 비슷한 단어](../problems/acmicpc_2607.cpp) ([링크](https://www.acmicpc.net/problem/2607))
