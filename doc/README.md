@@ -594,6 +594,8 @@
 
 [12865 평범한 배낭](../problems/acmicpc_12865.cpp) ([링크](https://www.acmicpc.net/problem/12865))
 
+[12871 무한 문자열](../problems/acmicpc_12871.cpp) ([링크](https://www.acmicpc.net/problem/12871))
+
 [12893 적의 적](../problems/acmicpc_12893.cpp) ([링크](https://www.acmicpc.net/problem/12893))
 
 [12899 데이터 구조](../problems/acmicpc_12899.cpp) ([링크](https://www.acmicpc.net/problem/12899))
