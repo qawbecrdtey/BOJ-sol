@@ -790,6 +790,8 @@
 
 [17608 막대기](../problems/acmicpc_17608.cpp) ([링크](https://www.acmicpc.net/problem/17608))
 
+[17614 369](../problems/acmicpc_17614.cpp) ([링크](https://www.acmicpc.net/problem/17614))
+
 [17618 신기한 수](../problems/acmicpc_17618.cpp) ([링크](https://www.acmicpc.net/problem/17618))
 
 [17626 Four Squares](../problems/acmicpc_17626.cpp) ([링크](https://www.acmicpc.net/problem/17626))
