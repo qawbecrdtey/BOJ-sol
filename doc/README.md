@@ -48,6 +48,8 @@
 
 [1153 네 개의 소수](../problems/acmicpc_1153.cpp) ([링크](https://www.acmicpc.net/problem/1153))
 
+[1154 팀 편성](../problems/acmicpc_1154.cpp) ([링크](https://www.acmicpc.net/problem/1154))
+
 [1188 음식 평론가](../problems/acmicpc_1188.cpp) ([링크](https://www.acmicpc.net/problem/1188))
 
 [1208 부분수열의 합 2](../problems/acmicpc_1208.cpp) ([링크](https://www.acmicpc.net/problem/1208))
