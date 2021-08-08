@@ -480,6 +480,8 @@
 
 [10822 더하기](../problems/acmicpc_10822.cpp) ([링크](https://www.acmicpc.net/problem/10822))
 
+[10823 더하기 2](../problems/acmicpc_10823.cpp) ([링크](https://www.acmicpc.net/problem/10823))
+
 [10829 이진수 변환](../problems/acmicpc_10829.cpp) ([링크](https://www.acmicpc.net/problem/10829))
 
 [10830 행렬 제곱](../problems/acmicpc_10830.cpp) ([링크](https://www.acmicpc.net/problem/10830))
