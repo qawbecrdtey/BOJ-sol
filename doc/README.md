@@ -770,6 +770,8 @@
 
 [17408 수열과 쿼리 24](../problems/acmicpc_17408.cpp) ([링크](https://www.acmicpc.net/problem/17408))
 
+[17412 도시 왕복하기 1](../problems/acmicpc_17412.cpp) ([링크](https://www.acmicpc.net/problem/17412))
+
 [17466 N! mod P (1)](../problems/acmicpc_17466.cpp) ([링크](https://www.acmicpc.net/problem/17466))
 
 [17608 막대기](../problems/acmicpc_17608.cpp) ([링크](https://www.acmicpc.net/problem/17608))
