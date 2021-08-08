@@ -814,6 +814,8 @@
 
 [18301 Rats](../problems/acmicpc_18301.cpp) ([링크](https://www.acmicpc.net/problem/18301))
 
+[18398 HOMWRK](../problems/acmicpc_18398.cpp) ([링크](https://www.acmicpc.net/problem/18398))
+
 [18436 수열과 쿼리 37](../problems/acmicpc_18436.cpp) ([링크](https://www.acmicpc.net/problem/18436))
 
 [18870 좌표 압축](../problems/acmicpc_18870.cpp) ([링크](https://www.acmicpc.net/problem/18870))
