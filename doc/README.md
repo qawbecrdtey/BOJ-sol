@@ -320,6 +320,8 @@
 
 [4564 숫자 카드놀이](../problems/acmicpc_4564.cpp) ([링크](https://www.acmicpc.net/problem/4564))
 
+[4619 루트](../problems/acmicpc_4619.cpp) ([링크](https://www.acmicpc.net/problem/4619))
+
 [4641 Doubles](../problems/acmicpc_4641.cpp) ([링크](https://www.acmicpc.net/problem/4641))
 
 [4803 트리](../problems/acmicpc_4803.cpp) ([링크](https://www.acmicpc.net/problem/4803))
