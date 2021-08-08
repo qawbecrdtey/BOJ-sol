@@ -840,6 +840,8 @@
 
 [20040 사이클 게임](../problems/acmicpc_20040.cpp) ([링크](https://www.acmicpc.net/problem/20040))
 
+[20053 최소, 최대 2](../problems/acmicpc_20053.cpp) ([링크](https://www.acmicpc.net/problem/20053))
+
 [20170 Commemorative Dice](../problems/acmicpc_20170.cpp) ([링크](https://www.acmicpc.net/problem/20170))
 
 [20205 교수님 그림이 깨지는데요?](../problems/acmicpc_20205.cpp) ([링크](https://www.acmicpc.net/problem/20205))
