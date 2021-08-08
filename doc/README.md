@@ -378,6 +378,8 @@
 
 [6362 Unimodal Palindromic Decompositions](../problems/acmicpc_6362.cpp) ([링크](https://www.acmicpc.net/problem/6362))
 
+[6378 디지털 루트](../problems/acmicpc_6378.cpp) ([링크](https://www.acmicpc.net/problem/6378))
+
 [6502 동혁 피자](../problems/acmicpc_6502.cpp) ([링크](https://www.acmicpc.net/problem/6502))
 
 [6549 히스토그램에서 가장 큰 직사각형](../problems/acmicpc_6549.cpp) ([링크](https://www.acmicpc.net/problem/6549))
