@@ -376,6 +376,8 @@
 
 [5893 17배](../problems/acmicpc_5893.cpp) ([링크](https://www.acmicpc.net/problem/5893))
 
+[6086 최대 유량](../problems/acmicpc_6086.cpp) ([링크](https://www.acmicpc.net/problem/6086))
+
 [6198 옥상 정원 꾸미기](../problems/acmicpc_6198.cpp) ([링크](https://www.acmicpc.net/problem/6198))
 
 [6321 IBM 빼기 1](../problems/acmicpc_6321.cpp) ([링크](https://www.acmicpc.net/problem/6321))
