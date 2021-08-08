@@ -444,6 +444,8 @@
 
 [10162 전자레인지](../problems/acmicpc_10162.cpp) ([링크](https://www.acmicpc.net/problem/10162))
 
+[10163 색종이](../problems/acmicpc_10163.cpp) ([링크](https://www.acmicpc.net/problem/10163))
+
 [10173 니모를 찾아서](../problems/acmicpc_10173.cpp) ([링크](https://www.acmicpc.net/problem/10173))
 
 [10211 Maximum Subarray](../problems/acmicpc_10211.cpp) ([링크](https://www.acmicpc.net/problem/10211))
