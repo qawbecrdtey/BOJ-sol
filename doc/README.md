@@ -44,6 +44,8 @@
 
 [1114 통나무 자르기](../problems/acmicpc_1114.cpp) ([링크](https://www.acmicpc.net/problem/1114))
 
+[1145 적어도 대부분의 배수](../problems/acmicpc_1145.cpp) ([링크](https://www.acmicpc.net/problem/1145))
+
 [1153 네 개의 소수](../problems/acmicpc_1153.cpp) ([링크](https://www.acmicpc.net/problem/1153))
 
 [1188 음식 평론가](../problems/acmicpc_1188.cpp) ([링크](https://www.acmicpc.net/problem/1188))
