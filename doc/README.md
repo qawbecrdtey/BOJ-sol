@@ -840,6 +840,8 @@
 
 [20650 Do You Know Your ABCs?](../problems/acmicpc_20650.cpp) ([링크](https://www.acmicpc.net/problem/20650))
 
+[21185 Some Sum](../problems/acmicpc_21185.cpp) ([링크](https://www.acmicpc.net/problem/21185))
+
 [21300 Bottle Return](../problems/acmicpc_21300.cpp) ([링크](https://www.acmicpc.net/problem/21300))
 
 [21557 불꽃놀이](../problems/acmicpc_21557.cpp) ([링크](https://www.acmicpc.net/problem/21557))
