@@ -628,6 +628,8 @@
 
 [13771 Presents](../problems/acmicpc_13771.cpp) ([링크](https://www.acmicpc.net/problem/13771))
 
+[13866 팀 나누기](../problems/acmicpc_13866.cpp) ([링크](https://www.acmicpc.net/problem/13866))
+
 [13900 순서쌍의 곱의 합](../problems/acmicpc_13900.cpp) ([링크](https://www.acmicpc.net/problem/13900))
 
 [13913 숨바꼭질 4](../problems/acmicpc_13913.cpp) ([링크](https://www.acmicpc.net/problem/13913))
