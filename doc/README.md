@@ -606,6 +606,8 @@
 
 [12844 XOR](../problems/acmicpc_12844.cpp) ([링크](https://www.acmicpc.net/problem/12844))
 
+[12846 무서운 아르바이트](../problems/acmicpc_12846.cpp) ([링크](https://www.acmicpc.net/problem/12846))
+
 [12852 1로 만들기 2](../problems/acmicpc_12852.cpp) ([링크](https://www.acmicpc.net/problem/12852))
 
 [12865 평범한 배낭](../problems/acmicpc_12865.cpp) ([링크](https://www.acmicpc.net/problem/12865))
