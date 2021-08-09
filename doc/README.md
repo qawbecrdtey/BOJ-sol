@@ -462,6 +462,8 @@
 
 [9724 Perfect Cube](../problems/acmicpc_9724.cpp) ([링크](https://www.acmicpc.net/problem/9724))
 
+[10090 Counting Inversions](../problems/acmicpc_10090.cpp) ([링크](https://www.acmicpc.net/problem/10090))
+
 [10162 전자레인지](../problems/acmicpc_10162.cpp) ([링크](https://www.acmicpc.net/problem/10162))
 
 [10163 색종이](../problems/acmicpc_10163.cpp) ([링크](https://www.acmicpc.net/problem/10163))
