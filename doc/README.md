@@ -242,6 +242,8 @@
 
 [2417 정수 제곱근](../problems/acmicpc_2417.cpp) ([링크](https://www.acmicpc.net/problem/2417))
 
+[2435 기상청 인턴 신현수](../problems/acmicpc_2435.cpp) ([링크](https://www.acmicpc.net/problem/2435))
+
 [2436 공약수](../problems/acmicpc_2436.cpp) ([링크](https://www.acmicpc.net/problem/2436))
 
 [2467 용액](../problems/acmicpc_2467.cpp) ([링크](https://www.acmicpc.net/problem/2467))
