@@ -422,6 +422,8 @@
 
 [7677 Fibonacci](../problems/acmicpc_7677.cpp) ([링크](https://www.acmicpc.net/problem/7677))
 
+[7789 텔레프라임](../problems/acmicpc_7789.cpp) ([링크](https://www.acmicpc.net/problem/7789))
+
 [8370 Plane](../problems/acmicpc_8370.cpp) ([링크](https://www.acmicpc.net/problem/8370))
 
 [8892 팰린드롬](../problems/acmicpc_8892.cpp) ([링크](https://www.acmicpc.net/problem/8892))
