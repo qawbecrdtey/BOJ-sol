@@ -434,6 +434,8 @@
 
 [8979 올림픽](../problems/acmicpc_8979.cpp) ([링크](https://www.acmicpc.net/problem/8979))
 
+[9094 수학적 호기심](../problems/acmicpc_9094.cpp) ([링크](https://www.acmicpc.net/problem/9094))
+
 [9076 점수 집계](../problems/acmicpc_9076.cpp) ([링크](https://www.acmicpc.net/problem/9076))
 
 [9084 동전](../problems/acmicpc_9084.cpp) ([링크](https://www.acmicpc.net/problem/9084))
