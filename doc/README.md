@@ -714,6 +714,8 @@
 
 [14860 GCD 곱](../problems/acmicpc_14860.cpp) ([링크](https://www.acmicpc.net/problem/14860))
 
+[14916 거스름돈](../problems/acmicpc_14916.cpp) ([링크](https://www.acmicpc.net/problem/14916))
+
 [14918 더하기](../problems/acmicpc_14918.cpp) ([링크](https://www.acmicpc.net/problem/14918))
 
 [14935 FA](../problems/acmicpc_14935.cpp) ([링크](https://www.acmicpc.net/problem/14935))
