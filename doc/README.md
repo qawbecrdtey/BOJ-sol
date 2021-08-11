@@ -708,6 +708,10 @@
 
 [14579 덧셈과 곱셈](../problems/acmicpc_14579.cpp) ([링크](https://www.acmicpc.net/problem/14579))
 
+[1460 피자 (Small)](../problems/acmicpc_14606.cpp) ([링크](https://www.acmicpc.net/problem/14606))
+
+[14607 피자 (Large)](../problems/acmicpc_14607.cpp) ([링크](https://www.acmicpc.net/problem/14607))
+
 [14646 욱제는 결정장애야!!](../problems/acmicpc_14646.cpp) ([링크](https://www.acmicpc.net/problem/14646))
 
 [14698 전생했더니 슬라임 연구자였던 건에 대하여 (Hard)](../problems/acmicpc_14698.cpp) ([링크](https://www.acmicpc.net/problem/14698))
