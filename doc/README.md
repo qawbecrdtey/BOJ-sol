@@ -256,6 +256,8 @@
 
 [2491 수열](../problems/acmicpc_2491.cpp) ([링크](https://www.acmicpc.net/problem/2491))
 
+[2502 떡 먹는 호랑이](../problems/acmicpc_2502.cpp) ([링크](https://www.acmicpc.net/problem/2502))
+
 [2533 사회망 서비스(SNS)](../problems/acmicpc_2533.cpp) ([링크](https://www.acmicpc.net/problem/2533))
 
 [2548 대표 자연수](../problems/acmicpc_2548.cpp) ([링크](https://www.acmicpc.net/problem/2548))
@@ -708,7 +710,7 @@
 
 [14579 덧셈과 곱셈](../problems/acmicpc_14579.cpp) ([링크](https://www.acmicpc.net/problem/14579))
 
-[1460 피자 (Small)](../problems/acmicpc_14606.cpp) ([링크](https://www.acmicpc.net/problem/14606))
+[14606 피자 (Small)](../problems/acmicpc_14606.cpp) ([링크](https://www.acmicpc.net/problem/14606))
 
 [14607 피자 (Large)](../problems/acmicpc_14607.cpp) ([링크](https://www.acmicpc.net/problem/14607))
 
