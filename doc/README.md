@@ -214,6 +214,8 @@
 
 [2166 다각형의 면적](../problems/acmicpc_2166.cpp) ([링크](https://www.acmicpc.net/problem/2166))
 
+[2170 선 긋기](../problems/acmicpc_2170.cpp) ([링크](https://www.acmicpc.net/problem/2170))
+
 [2206 벽 부수고 이동하기](../problems/acmicpc_2206.cpp) ([링크](https://www.acmicpc.net/problem/2206))
 
 [2207 가위바위보](../problems/acmicpc_2207.cpp) ([링크](https://www.acmicpc.net/problem/2207))
