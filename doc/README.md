@@ -116,6 +116,8 @@
 
 [1516 게임 개발](../problems/acmicpc_1516.cpp) ([링크](https://www.acmicpc.net/problem/1516))
 
+[1517 버블 소트](../problems/acmicpc_1517.cpp) ([링크](https://www.acmicpc.net/problem/1517))
+
 [1526 가장 큰 금민수](../problems/acmicpc_1526.cpp) ([링크](https://www.acmicpc.net/problem/1526))
 
 [1535 안녕](../problems/acmicpc_1535.cpp) ([링크](https://www.acmicpc.net/problem/1535))
