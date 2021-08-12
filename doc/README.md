@@ -788,6 +788,8 @@
 
 [15988 1, 2, 3 더하기 3](../problems/acmicpc_15988.cpp) ([링크](https://www.acmicpc.net/problem/15988))
 
+[15990 1, 2, 3 더하기 5](../problems/acmicpc_15990.cpp) ([링크](https://www.acmicpc.net/problem/15990))
+
 [16134 조합 (Combination)](../problems/acmicpc_16134.cpp) ([링크](https://www.acmicpc.net/problem/16134))
 
 [16283 Farm](../problems/acmicpc_16283.cpp) ([링크](https://www.acmicpc.net/problem/16283))
