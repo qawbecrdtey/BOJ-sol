@@ -342,6 +342,8 @@
 
 [4806 줄 세기](../problems/acmicpc_4806.cpp) ([링크](https://www.acmicpc.net/problem/4806))
 
+[4811 알약](../problems/acmicpc_4811.cpp) ([링크](https://www.acmicpc.net/problem/4811))
+
 [4880 다음수](../problems/acmicpc_4880.cpp) ([링크](https://www.acmicpc.net/problem/4880))
 
 [4949 균형잡힌 세상](../problems/acmicpc_4949.cpp) ([링크](https://www.acmicpc.net/problem/4949))
