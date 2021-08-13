@@ -844,6 +844,8 @@
 
 [17350 2루수 이름이 뭐야](../problems/acmicpc_17350.cpp) ([링크](https://www.acmicpc.net/problem/17350))
 
+[17352 여러분의 다리가 되어 드리겠습니다!](../problems/acmicpc_17352.cpp) ([링크](https://www.acmicpc.net/problem/17352))
+
 [17362 수학은 체육과목 입니다 2](../problems/acmicpc_17362.cpp) ([링크](https://www.acmicpc.net/problem/17362))
 
 [17363 우유가 넘어지면?](../problems/acmicpc_17363.cpp) ([링크](https://www.acmicpc.net/problem/17363))
