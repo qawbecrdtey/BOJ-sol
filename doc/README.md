@@ -262,6 +262,8 @@
 
 [2502 떡 먹는 호랑이](../problems/acmicpc_2502.cpp) ([링크](https://www.acmicpc.net/problem/2502))
 
+[2503 숫자 야구](../problems/acmicpc_2503.cpp) ([링크](https://www.acmicpc.net/problem/2503))
+
 [2533 사회망 서비스(SNS)](../problems/acmicpc_2533.cpp) ([링크](https://www.acmicpc.net/problem/2533))
 
 [2548 대표 자연수](../problems/acmicpc_2548.cpp) ([링크](https://www.acmicpc.net/problem/2548))
