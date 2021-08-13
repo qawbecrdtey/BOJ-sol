@@ -598,6 +598,8 @@
 
 [11774 MOLEKULE](../problems/acmicpc_11774.cpp) ([링크](https://www.acmicpc.net/problem/11774))
 
+[11778 피보나치 수와 최대공약수](../problems/acmicpc_11778.cpp) ([링크](https://www.acmicpc.net/problem/11778))
+
 [11779 최소비용 구하기 2](../problems/acmicpc_11779.cpp) ([링크](https://www.acmicpc.net/problem/11779))
 
 [11816 8진수, 10진수, 16진수](../problems/acmicpc_11816.cpp) ([링크](https://www.acmicpc.net/problem/11816))
