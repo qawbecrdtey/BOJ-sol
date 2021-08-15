@@ -300,6 +300,8 @@
 
 [3003 킹, 퀸, 룩, 비숍, 나이트, 폰](../problems/acmicpc_3003.cpp) ([링크](https://www.acmicpc.net/problem/3003))
 
+[3004 체스판 조각](../problems/acmicpc_3004.cpp) ([링크](https://www.acmicpc.net/problem/3004))
+
 [3009 네 번째 점](../problems/acmicpc_3009.cpp) ([링크](https://www.acmicpc.net/problem/3009))
 
 [3028 창영마을](../problems/acmicpc_3028.cpp) ([링크](https://www.acmicpc.net/problem/3028))
