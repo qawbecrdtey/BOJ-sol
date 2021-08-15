@@ -830,6 +830,8 @@
 
 [16496 큰 수 만들기](../problems/acmicpc_16496.cpp) ([링크](https://www.acmicpc.net/problem/16496))
 
+[16563 어려운 소인수분해](../problems/acmicpc_16563.cpp) ([링크](https://www.acmicpc.net/problem/16563))
+
 [16693 Pizza Deal](../problems/acmicpc_16693.cpp) ([링크](https://www.acmicpc.net/problem/16693))
 
 [16864 So You Like Your Food Hot?](../problems/acmicpc_16864.cpp) ([링크](https://www.acmicpc.net/problem/16864))
