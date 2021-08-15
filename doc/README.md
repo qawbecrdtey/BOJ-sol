@@ -256,6 +256,8 @@
 
 [2447 별 찍기 - 10](../problems/acmicpc_2447.cpp) ([링크](https://www.acmicpc.net/problem/2447))
 
+[2448 별 찍기 - 11](../problems/acmicpc_2448.cpp) ([링크](https://www.acmicpc.net/problem/2448))
+
 [2470 두 용액](../problems/acmicpc_2470.cpp) ([링크](https://www.acmicpc.net/problem/2470))
 
 [2491 수열](../problems/acmicpc_2491.cpp) ([링크](https://www.acmicpc.net/problem/2491))
