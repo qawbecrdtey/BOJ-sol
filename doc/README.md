@@ -832,6 +832,8 @@
 
 [16496 큰 수 만들기](../problems/acmicpc_16496.cpp) ([링크](https://www.acmicpc.net/problem/16496))
 
+[16515 책 정리](../problems/acmicpc_16515.cpp) ([링크](https://www.acmicpc.net/problem/16515))
+
 [16563 어려운 소인수분해](../problems/acmicpc_16563.cpp) ([링크](https://www.acmicpc.net/problem/16563))
 
 [16693 Pizza Deal](../problems/acmicpc_16693.cpp) ([링크](https://www.acmicpc.net/problem/16693))
