@@ -404,6 +404,8 @@
 
 [5691 평균 중앙값 문제](../problems/acmicpc_5691.cpp) ([링크](https://www.acmicpc.net/problem/5691))
 
+[5704 팬그램](../problems/acmicpc_5704.cpp) ([링크](https://www.acmicpc.net/problem/5704))
+
 [5893 17배](../problems/acmicpc_5893.cpp) ([링크](https://www.acmicpc.net/problem/5893))
 
 [6064 카잉 달력](../problems/acmicpc_6064.cpp) ([링크](https://www.acmicpc.net/problem/6064))
