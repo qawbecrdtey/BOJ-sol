@@ -106,6 +106,8 @@
 
 [1431 시리얼 번호](../problems/acmicpc_1431.cpp) ([링크](https://www.acmicpc.net/problem/1431))
 
+[1434 책 정리](../problems/acmicpc_1434.cpp) ([링크](https://www.acmicpc.net/problem/1434))
+
 [1436 영화감독 숌](../problems/acmicpc_1436.cpp) ([링크](https://www.acmicpc.net/problem/1436))
 
 [1437 수 분해](../problems/acmicpc_1437.cpp) ([링크](https://www.acmicpc.net/problem/1437))
@@ -832,7 +834,7 @@
 
 [16496 큰 수 만들기](../problems/acmicpc_16496.cpp) ([링크](https://www.acmicpc.net/problem/16496))
 
-[16515 책 정리](../problems/acmicpc_16515.cpp) ([링크](https://www.acmicpc.net/problem/16515))
+[16515 Euler’s Number](../problems/acmicpc_16515.cpp) ([링크](https://www.acmicpc.net/problem/16515))
 
 [16563 어려운 소인수분해](../problems/acmicpc_16563.cpp) ([링크](https://www.acmicpc.net/problem/16563))
 
