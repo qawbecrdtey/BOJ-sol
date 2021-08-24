@@ -288,6 +288,8 @@
 
 [2670 연속부분최대곱](../problems/acmicpc_2670.cpp) ([링크](https://www.acmicpc.net/problem/2670))
 
+[2731 1379와 세제곱](../problems/acmicpc_2731.cpp) ([링크](https://www.acmicpc.net/problem/2731))
+
 [2775 부녀회장이 될테야](../problems/acmicpc_2775.cpp) ([링크](https://www.acmicpc.net/problem/2775))
 
 [2810 컵홀더](../problems/acmicpc_2810.cpp) ([링크](https://www.acmicpc.net/problem/2810))
