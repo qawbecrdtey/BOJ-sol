@@ -178,6 +178,8 @@
 
 [1780 종이의 개수](../problems/acmicpc_1780.cpp) ([링크](https://www.acmicpc.net/problem/1780))
 
+[1786 찾기](../problems/acmicpc_1786.cpp) ([링크](https://www.acmicpc.net/problem/1786))
+
 [1862 미터계](../problems/acmicpc_1862.cpp) ([링크](https://www.acmicpc.net/problem/1862))
 
 [1919 애너그램 만들기](../problems/acmicpc_1919.cpp) ([링크](https://www.acmicpc.net/problem/1919))
