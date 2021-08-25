@@ -850,6 +850,8 @@
 
 [16496 큰 수 만들기](../problems/acmicpc_16496.cpp) ([링크](https://www.acmicpc.net/problem/16496))
 
+[16502 그녀를 찾아서](../problems/acmicpc_16502.cpp) ([링크](https://www.acmicpc.net/problem/16502))
+
 [16515 Euler’s Number](../problems/acmicpc_16515.cpp) ([링크](https://www.acmicpc.net/problem/16515))
 
 [16563 어려운 소인수분해](../problems/acmicpc_16563.cpp) ([링크](https://www.acmicpc.net/problem/16563))
