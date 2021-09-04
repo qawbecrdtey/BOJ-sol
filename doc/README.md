@@ -406,6 +406,8 @@
 
 [5618 공약수](../problems/acmicpc_5618.cpp) ([링크](https://www.acmicpc.net/problem/5618))
 
+[5624 좋은 수](../problems/acmicpc_5624.cpp) ([링크](https://www.acmicpc.net/problem/5624))
+
 [5635 생일](../problems/acmicpc_5635.cpp) ([링크](https://www.acmicpc.net/problem/5635))
 
 [5639 이진 검색 트리](../problems/acmicpc_5639.cpp) ([링크](https://www.acmicpc.net/problem/5639))
