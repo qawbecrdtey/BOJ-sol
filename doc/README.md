@@ -334,6 +334,8 @@
 
 [3743 완벽한 선거!](../problems/acmicpc_3743.cpp) ([링크](https://www.acmicpc.net/problem/3743))
 
+[3745 오름세](../problems/acmicpc_3745.cpp) ([링크](https://www.acmicpc.net/problem/3745))
+
 [3943 헤일스톤 수열](../problems/acmicpc_3943.cpp) ([링크](https://www.acmicpc.net/problem/3943))
 
 [3986 좋은 단어](../problems/acmicpc_3986.cpp) ([링크](https://www.acmicpc.net/problem/3986))
