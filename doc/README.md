@@ -620,6 +620,8 @@
 
 [11442 홀수번째 피보나치 수의 합](../problems/acmicpc_11442.cpp) ([링크](https://www.acmicpc.net/problem/11442))
 
+[11443 짝수번째 피보나치 수의 합](../problems/acmicpc_11443.cpp) ([링크](https://www.acmicpc.net/problem/11443))
+
 [11444 피보나치 수 6](../problems/acmicpc_11444.cpp) ([링크](https://www.acmicpc.net/problem/11444))
 
 [11505 구간 곱 구하기](../problems/acmicpc_11505.cpp) ([링크](https://www.acmicpc.net/problem/11505))
