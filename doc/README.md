@@ -614,6 +614,8 @@
 
 [11438 LCA 2](../problems/acmicpc_11438.cpp) ([링크](https://www.acmicpc.net/problem/11438))
 
+[11440 피보나치 수의 제곱의 합](../problems/acmicpc_11440.cpp) ([링크](https://www.acmicpc.net/problem/11440))
+
 [11441 합 구하기](../problems/acmicpc_11441.cpp) ([링크](https://www.acmicpc.net/problem/11441))
 
 [11444 피보나치 수 6](../problems/acmicpc_11444.cpp) ([링크](https://www.acmicpc.net/problem/11444))
