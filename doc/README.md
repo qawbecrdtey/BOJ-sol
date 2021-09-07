@@ -192,6 +192,8 @@
 
 [1946 신입 사원](../problems/acmicpc_1946.cpp) ([링크](https://www.acmicpc.net/problem/1946))
 
+[1949 우수 마을](../problems/acmicpc_1949.cpp) ([링크](https://www.acmicpc.net/problem/1949))
+
 [1956 운동](../problems/acmicpc_1956.cpp) ([링크](https://www.acmicpc.net/problem/1956))
 
 [1958 LCS 3](../problems/acmicpc_1958.cpp) ([링크](https://www.acmicpc.net/problem/1958))
