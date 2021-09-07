@@ -56,6 +56,8 @@
 
 [1208 부분수열의 합 2](../problems/acmicpc_1208.cpp) ([링크](https://www.acmicpc.net/problem/1208))
 
+[1214 쿨한 물건 구매](../problems/acmicpc_1214.cpp) ([링크](https://www.acmicpc.net/problem/1214))
+
 [1222 홍준 프로그래밍 대회](../problems/acmicpc_1222.cpp) ([링크](https://www.acmicpc.net/problem/1222))
 
 [1233 주사위](../problems/acmicpc_1233.cpp) ([링크](https://www.acmicpc.net/problem/1233))
