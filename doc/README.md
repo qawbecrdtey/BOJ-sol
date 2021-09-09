@@ -818,6 +818,8 @@
 
 [15702 중간고사 채점](../problems/acmicpc_15702.cpp) ([링크](https://www.acmicpc.net/problem/15702))
 
+[15726 이칙연산](../problems/acmicpc_15726.cpp) ([링크](https://www.acmicpc.net/problem/15726))
+
 [15727 조별과제를 하려는데 조장이 사라졌다](../problems/acmicpc_15727.cpp) ([링크](https://www.acmicpc.net/problem/15727))
 
 [15780 멀티탭 충분하니?](../problems/acmicpc_15780.cpp) ([링크](https://www.acmicpc.net/problem/15780))
