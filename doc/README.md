@@ -790,6 +790,8 @@
 
 [14918 더하기](../problems/acmicpc_14918.cpp) ([링크](https://www.acmicpc.net/problem/14918))
 
+[14927 전구 끄기](../problems/acmicpc_14927.cpp) ([링크](https://www.acmicpc.net/problem/14927))
+
 [14931 물수제비 (SUJEBI)](../problems/acmicpc_14931.cpp) ([링크](https://www.acmicpc.net/problem/14931))
 
 [14935 FA](../problems/acmicpc_14935.cpp) ([링크](https://www.acmicpc.net/problem/14935))
