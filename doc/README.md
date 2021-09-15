@@ -824,6 +824,8 @@
 
 [15702 중간고사 채점](../problems/acmicpc_15702.cpp) ([링크](https://www.acmicpc.net/problem/15702))
 
+[15719 중복된 숫자](../problems/acmicpc_15719.cpp) ([링크](https://www.acmicpc.net/problem/15719))
+
 [15726 이칙연산](../problems/acmicpc_15726.cpp) ([링크](https://www.acmicpc.net/problem/15726))
 
 [15727 조별과제를 하려는데 조장이 사라졌다](../problems/acmicpc_15727.cpp) ([링크](https://www.acmicpc.net/problem/15727))
