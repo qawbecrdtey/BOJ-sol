@@ -746,6 +746,8 @@
 
 [14215 세 막대](../problems/acmicpc_14215.cpp) ([링크](https://www.acmicpc.net/problem/14215))
 
+[14225 부분수열의 합](../problems/acmicpc_14225.cpp) ([링크](https://www.acmicpc.net/problem/14225))
+
 [14245 XOR](../problems/acmicpc_14245.cpp) ([링크](https://www.acmicpc.net/problem/14245))
 
 [14289 본대 산책 3](../problems/acmicpc_14289.cpp) ([링크](https://www.acmicpc.net/problem/14289))
