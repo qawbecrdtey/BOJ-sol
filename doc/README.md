@@ -398,6 +398,8 @@
 
 [5354 J박스](../problems/acmicpc_5354.cpp) ([링크](https://www.acmicpc.net/problem/5354))
 
+[5355 화성 수학](../problems/acmicpc_5355.cpp) ([링크](https://www.acmicpc.net/problem/5355))
+
 [5430 AC](../problems/acmicpc_5430.cpp) ([링크](https://www.acmicpc.net/problem/5430))
 
 [5522 카드 게임](../problems/acmicpc_5522.cpp) ([링크](https://www.acmicpc.net/problem/5522))
