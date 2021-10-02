@@ -364,6 +364,8 @@
 
 [4458 첫 글자를 대문자로](../problems/acmicpc_4458.cpp) ([링크](https://www.acmicpc.net/problem/4458))
 
+[4562 No Brainer](../problems/acmicpc_4562.cpp) ([링크](https://www.acmicpc.net/problem/4562))
+
 [4564 숫자 카드놀이](../problems/acmicpc_4564.cpp) ([링크](https://www.acmicpc.net/problem/4564))
 
 [4592 중복을 없애자](../problems/acmicpc_4592.cpp) ([링크](https://www.acmicpc.net/problem/4592))
