@@ -474,6 +474,8 @@
 
 [8394 악수](../problems/acmicpc_8394.cpp) ([링크](https://www.acmicpc.net/problem/8394))
 
+[8595 히든 넘버](../problems/acmicpc_8595.cpp) ([링크](https://www.acmicpc.net/problem/8595))
+
 [8892 팰린드롬](../problems/acmicpc_8892.cpp) ([링크](https://www.acmicpc.net/problem/8892))
 
 [8986 전봇대](../problems/acmicpc_8986.cpp) ([링크](https://www.acmicpc.net/problem/8986))
