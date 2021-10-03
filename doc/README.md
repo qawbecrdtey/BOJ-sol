@@ -308,6 +308,8 @@
 
 [2854 문제 출제](../problems/acmicpc_2854.cpp) ([링크](https://www.acmicpc.net/problem/2854))
 
+[2857 FBI](../problems/acmicpc_2857.cpp) ([링크](https://www.acmicpc.net/problem/2857))
+
 [2896 무알콜 칵테일](../problems/acmicpc_2896.cpp) ([링크](https://www.acmicpc.net/problem/2896))
 
 [2903 중앙 이동 알고리즘](../problems/acmicpc_2903.cpp) ([링크](https://www.acmicpc.net/problem/2903))
