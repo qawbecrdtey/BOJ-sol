@@ -1022,6 +1022,8 @@
 
 [21557 불꽃놀이](../problems/acmicpc_21557.cpp) ([링크](https://www.acmicpc.net/problem/21557))
 
+[21734 SMUPC의 등장](../problems/acmicpc_21734.cpp) ([링크](https://www.acmicpc.net/problem/21734))
+
 [21756 지우개](../problems/acmicpc_21756.cpp) ([링크](https://www.acmicpc.net/problem/21756))
 
 [21940 가운데에서 만나기](../problems/acmicpc_21940.cpp) ([링크](https://www.acmicpc.net/problem/21940))
