@@ -504,6 +504,8 @@
 
 [9375 패션왕 신해빈](../problems/acmicpc_9375.cpp) ([링크](https://www.acmicpc.net/problem/9375))
 
+[9417 최대 GCD](../problems/acmicpc_9417.cpp) ([링크](https://www.acmicpc.net/problem/9417))
+
 [9466 텀 프로젝트](../problems/acmicpc_9466.cpp) ([링크](https://www.acmicpc.net/problem/9466))
 
 [9469 폰 노이만](../problems/acmicpc_9469.cpp) ([링크](https://www.acmicpc.net/problem/9469))
