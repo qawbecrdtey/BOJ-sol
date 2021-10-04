@@ -948,6 +948,8 @@
 
 [17412 도시 왕복하기 1](../problems/acmicpc_17412.cpp) ([링크](https://www.acmicpc.net/problem/17412))
 
+[17427 약수의 합 2](../problems/acmicpc_17427.cpp) ([링크](https://www.acmicpc.net/problem/17427))
+
 [17466 N! mod P (1)](../problems/acmicpc_17466.cpp) ([링크](https://www.acmicpc.net/problem/17466))
 
 [17608 막대기](../problems/acmicpc_17608.cpp) ([링크](https://www.acmicpc.net/problem/17608))
