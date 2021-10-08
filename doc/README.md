@@ -802,6 +802,8 @@
 
 [14699 관악산 등산](../problems/acmicpc_14699.cpp) ([링크](https://www.acmicpc.net/problem/14699))
 
+[14728 벼락치기](../problems/acmicpc_14728.cpp) ([링크](https://www.acmicpc.net/problem/14728))
+
 [14761 FizzBuzz](../problems/acmicpc_14761.cpp) ([링크](https://www.acmicpc.net/problem/14761))
 
 [14860 GCD 곱](../problems/acmicpc_14860.cpp) ([링크](https://www.acmicpc.net/problem/14860))
