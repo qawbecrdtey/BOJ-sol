@@ -754,6 +754,8 @@
 
 [13913 숨바꼭질 4](../problems/acmicpc_13913.cpp) ([링크](https://www.acmicpc.net/problem/13913))
 
+[13925 수열과 쿼리 13](../problems/acmicpc_13925.cpp) ([링크](https://www.acmicpc.net/problem/13925))
+
 [13977 이항 계수와 쿼리](../problems/acmicpc_13977.cpp) ([링크](https://www.acmicpc.net/problem/13977))
 
 [14002 가장 긴 증가하는 부분 수열 4](../problems/acmicpc_14002.cpp) ([링크](https://www.acmicpc.net/problem/14002))
