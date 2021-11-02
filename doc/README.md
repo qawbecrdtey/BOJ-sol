@@ -1068,6 +1068,8 @@
 
 [23037 5의 수난](../problems/acmicpc_23037.cpp) ([링크](https://www.acmicpc.net/problem/23037))
 
+[23327 리그전 오브 레전드](../problems/acmicpc_23327.cpp) ([링크](https://www.acmicpc.net/problem/23327))
+
 ## Algorithms
 
 [BFS](BFS.md)
