@@ -446,6 +446,8 @@
 
 [6086 최대 유량](../problems/acmicpc_6086.cpp) ([링크](https://www.acmicpc.net/problem/6086))
 
+[6186 Best Grass](../problems/acmicpc_6186.cpp) ([링크](https://www.acmicpc.net/problem/6186))
+
 [6198 옥상 정원 꾸미기](../problems/acmicpc_6198.cpp) ([링크](https://www.acmicpc.net/problem/6198))
 
 [6321 IBM 빼기 1](../problems/acmicpc_6321.cpp) ([링크](https://www.acmicpc.net/problem/6321))
@@ -845,6 +847,8 @@
 [15562 네트워크](../problems/acmicpc_15562.cpp) ([링크](https://www.acmicpc.net/problem/15562))
 
 [15624 피보나치 수 7](../problems/acmicpc_15624.cpp) ([링크](https://www.acmicpc.net/problem/15624))
+
+[15633 Fan Death](../problems/acmicpc_15633.cpp) ([링크](https://www.acmicpc.net/problem/15633))
 
 [15654 N과 M (5)](../problems/acmicpc_15654.cpp) ([링크](https://www.acmicpc.net/problem/15654))
 
