@@ -354,6 +354,8 @@
 
 [3745 오름세](../problems/acmicpc_3745.cpp) ([링크](https://www.acmicpc.net/problem/3745))
 
+[3933 라그랑주의 네 제곱수 정리](../problems/acmicpc_3933.cpp) ([링크](https://www.acmicpc.net/problem/3933))
+
 [3943 헤일스톤 수열](../problems/acmicpc_3943.cpp) ([링크](https://www.acmicpc.net/problem/3943))
 
 [3986 좋은 단어](../problems/acmicpc_3986.cpp) ([링크](https://www.acmicpc.net/problem/3986))
