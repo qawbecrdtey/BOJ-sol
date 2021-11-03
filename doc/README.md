@@ -812,6 +812,8 @@
 
 [14607 피자 (Large)](../problems/acmicpc_14607.cpp) ([링크](https://www.acmicpc.net/problem/14607))
 
+[14614 Calculate!](../problems/acmicpc_14614.cpp) ([링크](https://www.acmicpc.net/problem/14614))
+
 [14646 욱제는 결정장애야!!](../problems/acmicpc_14646.cpp) ([링크](https://www.acmicpc.net/problem/14646))
 
 [14659 한조서열정리하고옴ㅋㅋ](../problems/acmicpc_14659.cpp) ([링크](https://www.acmicpc.net/problem/14659))
