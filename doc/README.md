@@ -552,6 +552,8 @@
 
 [10409 서버](../problems/acmicpc_10409.cpp) ([링크](https://www.acmicpc.net/problem/10409))
 
+[10419 지각](../problems/acmicpc_10419.cpp) ([링크](https://www.acmicpc.net/problem/10419))
+
 [10569 다면체](../problems/acmicpc_10569.cpp) ([링크](https://www.acmicpc.net/problem/10569))
 
 [10570 Favorite Number](../problems/acmicpc_10570.cpp) ([링크](https://www.acmicpc.net/problem/10570))
