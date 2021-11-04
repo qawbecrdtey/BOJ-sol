@@ -344,6 +344,8 @@
 
 [3273 두 수의 합](../problems/acmicpc_3273.cpp) ([링크](https://www.acmicpc.net/problem/3273))
 
+[3474 교수가 된 현우](../problems/acmicpc_3474.cpp) ([링크](https://www.acmicpc.net/problem/3474))
+
 [3566 대형 스크린](../problems/acmicpc_3566.cpp) ([링크](https://www.acmicpc.net/problem/3566))
 
 [3584 가장 가까운 공통 조상](../problems/acmicpc_3584.cpp) ([링크](https://www.acmicpc.net/problem/3584))
