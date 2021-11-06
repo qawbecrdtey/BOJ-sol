@@ -592,6 +592,8 @@
 
 [10874 이교수님의 시험](../problems/acmicpc_10874.cpp) ([링크](https://www.acmicpc.net/problem/10874))
 
+[10917 Your life](../problems/acmicpc_10917.cpp) ([링크](https://www.acmicpc.net/problem/10917))
+
 [10972 다음 순열](../problems/acmicpc_10972.cpp) ([링크](https://www.acmicpc.net/problem/10972))
 
 [10973 이전 순열](../problems/acmicpc_10973.cpp) ([링크](https://www.acmicpc.net/problem/10973))
