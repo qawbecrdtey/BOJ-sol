@@ -764,6 +764,8 @@
 
 [13711 LCS 4](../problems/acmicpc_13711.cpp) ([링크](https://www.acmicpc.net/problem/13711))
 
+[13752 히스토그램](../problems/acmicpc_13752.cpp) ([링크](https://www.acmicpc.net/problem/13752))
+
 [13771 Presents](../problems/acmicpc_13771.cpp) ([링크](https://www.acmicpc.net/problem/13771))
 
 [13866 팀 나누기](../problems/acmicpc_13866.cpp) ([링크](https://www.acmicpc.net/problem/13866))
