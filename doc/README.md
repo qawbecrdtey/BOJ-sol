@@ -946,6 +946,8 @@
 
 [16563 어려운 소인수분해](../problems/acmicpc_16563.cpp) ([링크](https://www.acmicpc.net/problem/16563))
 
+[16673 고려대학교에는 공식 와인이 있다](../problems/acmicpc_16673.cpp) ([링크](https://www.acmicpc.net/problem/16673))
+
 [16693 Pizza Deal](../problems/acmicpc_16693.cpp) ([링크](https://www.acmicpc.net/problem/16693))
 
 [16864 So You Like Your Food Hot?](../problems/acmicpc_16864.cpp) ([링크](https://www.acmicpc.net/problem/16864))
