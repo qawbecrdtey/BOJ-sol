@@ -542,6 +542,8 @@
 
 [9724 Perfect Cube](../problems/acmicpc_9724.cpp) ([링크](https://www.acmicpc.net/problem/9724))
 
+[9884 Euclid](../problems/acmicpc_9884.cpp) ([링크](https://www.acmicpc.net/problem/9884))
+
 [10090 Counting Inversions](../problems/acmicpc_10090.cpp) ([링크](https://www.acmicpc.net/problem/10090))
 
 [10162 전자레인지](../problems/acmicpc_10162.cpp) ([링크](https://www.acmicpc.net/problem/10162))
