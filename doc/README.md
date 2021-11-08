@@ -732,6 +732,8 @@
 
 [12904 A와 B](../problems/acmicpc_12904.cpp) ([링크](https://www.acmicpc.net/problem/12904))
 
+[12919 A와 B 2](../problems/acmicpc_12919.cpp) ([링크](https://www.acmicpc.net/problem/12919))
+
 [12925 Numbers](../problems/acmicpc_12925.cpp) ([링크](https://www.acmicpc.net/problem/12925))
 
 [12991 홍준이의 행렬](../problems/acmicpc_12991.cpp) ([링크](https://www.acmicpc.net/problem/12991))
