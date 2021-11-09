@@ -476,6 +476,8 @@
 
 [6780 Sumac Sequences](../problems/acmicpc_6780.cpp) ([링크](https://www.acmicpc.net/problem/6780))
 
+[6794 What is n, Daddy?](../problems/acmicpc_6794.cpp) ([링크](https://www.acmicpc.net/problem/6794))
+
 [6996 애너그램](../problems/acmicpc_6996.cpp) ([링크](https://www.acmicpc.net/problem/6996))
 
 [7453 합이 0인 네 정수](../problems/acmicpc_7453.cpp) ([링크](https://www.acmicpc.net/problem/7453))
