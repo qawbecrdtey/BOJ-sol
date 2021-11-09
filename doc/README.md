@@ -1102,6 +1102,8 @@
 
 [23037 5의 수난](../problems/acmicpc_23037.cpp) ([링크](https://www.acmicpc.net/problem/23037))
 
+[23275 Knot Knowledge](../problems/acmicpc_23275.cpp) ([링크](https://www.acmicpc.net/problem/23275))
+
 [23278 영화 평가](../problems/acmicpc_23278.cpp) ([링크](https://www.acmicpc.net/problem/23278))
 
 [23303 이 문제는 D2 입니다.](../problems/acmicpc_23303.cpp) ([링크](https://www.acmicpc.net/problem/23303))
