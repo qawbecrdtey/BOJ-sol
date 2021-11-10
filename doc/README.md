@@ -1004,6 +1004,8 @@
 
 [17478 재귀함수가 뭔가요?](../problems/acmicpc_17478.cpp) ([링크](https://www.acmicpc.net/problem/17478))
 
+[17496 스타후르츠](../problems/acmicpc_17496.cpp) ([링크](https://www.acmicpc.net/problem/17496))
+
 [17608 막대기](../problems/acmicpc_17608.cpp) ([링크](https://www.acmicpc.net/problem/17608))
 
 [17614 369](../problems/acmicpc_17614.cpp) ([링크](https://www.acmicpc.net/problem/17614))
