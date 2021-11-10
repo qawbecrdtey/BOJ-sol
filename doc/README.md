@@ -134,6 +134,8 @@
 
 [1526 가장 큰 금민수](../problems/acmicpc_1526.cpp) ([링크](https://www.acmicpc.net/problem/1526))
 
+[1531 투명](../problems/acmicpc_1531.cpp) ([링크](https://www.acmicpc.net/problem/1531))
+
 [1535 안녕](../problems/acmicpc_1535.cpp) ([링크](https://www.acmicpc.net/problem/1535))
 
 [1547 공](../problems/acmicpc_1547.cpp) ([링크](https://www.acmicpc.net/problem/1547))
