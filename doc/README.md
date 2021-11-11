@@ -548,6 +548,8 @@
 
 [9659 돌 게임 5](../problems/acmicpc_9659.cpp) ([링크](https://www.acmicpc.net/problem/9659))
 
+[9660 돌 게임 6](../problems/acmicpc_9660.cpp) ([링크](https://www.acmicpc.net/problem/9660))
+
 [9713 Sum of Odd Sequence](../problems/acmicpc_9713.cpp) ([링크](https://www.acmicpc.net/problem/9713))
 
 [9724 Perfect Cube](../problems/acmicpc_9724.cpp) ([링크](https://www.acmicpc.net/problem/9724))
