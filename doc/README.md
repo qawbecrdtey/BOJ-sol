@@ -160,6 +160,8 @@
 
 [1673 치킨 쿠폰](../problems/acmicpc_1673.cpp) ([링크](https://www.acmicpc.net/problem/1673))
 
+[1684 같은 나머지](../problems/acmicpc_1684.cpp) ([링크](https://www.acmicpc.net/problem/1684))
+
 [1687 행렬 찾기](../problems/acmicpc_1687.cpp) ([링크](https://www.acmicpc.net/problem/1687))
 
 [1689 겹치는 선분](../problems/acmicpc_1689.cpp) ([링크](https://www.acmicpc.net/problem/1689))
