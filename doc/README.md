@@ -810,6 +810,8 @@
 
 [14245 XOR](../problems/acmicpc_14245.cpp) ([링크](https://www.acmicpc.net/problem/14245))
 
+[14264 정육각형과 삼각형](../problems/acmicpc_14264.cpp) ([링크](https://www.acmicpc.net/problem/14264))
+
 [14289 본대 산책 3](../problems/acmicpc_14289.cpp) ([링크](https://www.acmicpc.net/problem/14289))
 
 [14427 수열과 쿼리 15](../problems/acmicpc_14428.cpp) ([링크](https://www.acmicpc.net/problem/14428))
