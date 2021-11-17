@@ -1054,6 +1054,8 @@
 
 [19572 가뭄(Small)](../problems/acmicpc_19572.cpp) ([링크](https://www.acmicpc.net/problem/19572))
 
+[19577 수학은 재밌어](../problems/acmicpc_19577.cpp) ([링크](https://www.acmicpc.net/problem/19577))
+
 [19698 헛간 청약](../problems/acmicpc_19698.cpp) ([링크](https://www.acmicpc.net/problem/19698))
 
 [19699 소-난다!](../problems/acmicpc_19699.cpp) ([링크](https://www.acmicpc.net/problem/19699))
