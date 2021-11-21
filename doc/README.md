@@ -1120,6 +1120,8 @@
 
 [22357 경품 추첨](../problems/acmicpc_22357.cpp) ([링크](https://www.acmicpc.net/problem/22357))
 
+[22966 가장 쉬운 문제를 찾는 문제](../problems/acmicpc_22966.cpp) ([링크](https://www.acmicpc.net/problem/22966))
+
 [23037 5의 수난](../problems/acmicpc_23037.cpp) ([링크](https://www.acmicpc.net/problem/23037))
 
 [23275 Knot Knowledge](../problems/acmicpc_23275.cpp) ([링크](https://www.acmicpc.net/problem/23275))
