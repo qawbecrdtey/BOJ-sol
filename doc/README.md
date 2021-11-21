@@ -938,6 +938,8 @@
 
 [16208 귀찮음](../problems/acmicpc_16208.cpp) ([링크](https://www.acmicpc.net/problem/16208))
 
+[16233 수학 문제](../problems/acmicpc_16233.cpp) ([링크](https://www.acmicpc.net/problem/16233))
+
 [16283 Farm](../problems/acmicpc_16283.cpp) ([링크](https://www.acmicpc.net/problem/16283))
 
 [16287 Parcel](../problems/acmicpc_16287.cpp) ([링크](https://www.acmicpc.net/problem/16287))
