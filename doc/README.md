@@ -984,6 +984,8 @@
 
 [16978 수열과 쿼리 22](../problems/acmicpc_16978.cpp) ([링크](https://www.acmicpc.net/problem/16978))
 
+[17094 Serious Problem](../problems/acmicpc_17094.cpp) ([링크](https://www.acmicpc.net/problem/17094))
+
 [17164 Rainbow Beads](../problems/acmicpc_17164.cpp) ([링크](https://www.acmicpc.net/problem/17164))
 
 [17219 비밀번호 찾기](../problems/acmicpc_17219.cpp) ([링크](https://www.acmicpc.net/problem/17219))
