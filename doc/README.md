@@ -680,6 +680,8 @@
 
 [11505 구간 곱 구하기](../problems/acmicpc_11505.cpp) ([링크](https://www.acmicpc.net/problem/11505))
 
+[11506 占쏙옙](../problems/acmicpc_11506.cpp) ([링크](https://www.acmicpc.net/problem/11506))
+
 [11557 Yangjojang of The Year](../problems/acmicpc_11557.cpp) ([링크](https://www.acmicpc.net/problem/11557))
 
 [11568 민균이의 계략](../problems/acmicpc_11568.cpp) ([링크](https://www.acmicpc.net/problem/11568))
