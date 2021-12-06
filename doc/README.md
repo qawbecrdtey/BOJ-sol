@@ -946,6 +946,8 @@
 
 [16233 수학 문제](../problems/acmicpc_16233.cpp) ([링크](https://www.acmicpc.net/problem/16233))
 
+[16212 정열적인 정렬](../problems/acmicpc_16212.cpp) ([링크](https://www.acmicpc.net/problem/16212))
+
 [16283 Farm](../problems/acmicpc_16283.cpp) ([링크](https://www.acmicpc.net/problem/16283))
 
 [16287 Parcel](../problems/acmicpc_16287.cpp) ([링크](https://www.acmicpc.net/problem/16287))
