@@ -514,6 +514,8 @@
 
 [8892 팰린드롬](../problems/acmicpc_8892.cpp) ([링크](https://www.acmicpc.net/problem/8892))
 
+[8949 대충 더해](../problems/acmicpc_8949.cpp) ([링크](https://www.acmicpc.net/problem/8949))
+
 [8986 전봇대](../problems/acmicpc_8986.cpp) ([링크](https://www.acmicpc.net/problem/8986))
 
 [8979 올림픽](../problems/acmicpc_8979.cpp) ([링크](https://www.acmicpc.net/problem/8979))
