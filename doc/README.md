@@ -546,6 +546,8 @@
 
 [9469 폰 노이만](../problems/acmicpc_9469.cpp) ([링크](https://www.acmicpc.net/problem/9469))
 
+[9488 The n Days of Christmas](../problems/acmicpc_9488.cpp) ([링크](https://www.acmicpc.net/problem/9488))
+
 [9492 Perfect Shuffle](../problems/acmicpc_9492.cpp) ([링크](https://www.acmicpc.net/problem/9492))
 
 [9494 데구르르](../problems/acmicpc_9494.cpp) ([링크](https://www.acmicpc.net/problem/9494))
