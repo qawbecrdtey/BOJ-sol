@@ -996,6 +996,8 @@
 
 [16864 So You Like Your Food Hot?](../problems/acmicpc_16864.cpp) ([링크](https://www.acmicpc.net/problem/16864))
 
+[16891 탄성 충돌](../problems/acmicpc_16891.cpp) ([링크](https://www.acmicpc.net/problem/16891))
+
 [16894 약수 게임](../problems/acmicpc_16894.cpp) ([링크](https://www.acmicpc.net/problem/16894))
 
 [16953 A → B](../problems/acmicpc_16953.cpp) ([링크](https://www.acmicpc.net/problem/16953))
