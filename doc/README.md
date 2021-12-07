@@ -858,6 +858,8 @@
 
 [14646 욱제는 결정장애야!!](../problems/acmicpc_14646.cpp) ([링크](https://www.acmicpc.net/problem/14646))
 
+[14656 조교는 새디스트야!!](../problems/acmicpc_14656.cpp) ([링크](https://www.acmicpc.net/problem/14656))
+
 [14659 한조서열정리하고옴ㅋㅋ](../problems/acmicpc_14659.cpp) ([링크](https://www.acmicpc.net/problem/14659))
 
 [14698 전생했더니 슬라임 연구자였던 건에 대하여 (Hard)](../problems/acmicpc_14698.cpp) ([링크](https://www.acmicpc.net/problem/14698))
