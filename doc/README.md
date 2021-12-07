@@ -1158,6 +1158,8 @@
 
 [23327 리그전 오브 레전드](../problems/acmicpc_23327.cpp) ([링크](https://www.acmicpc.net/problem/23327))
 
+[23568 Find the House](../problems/acmicpc_23568.cpp) ([링크](https://www.acmicpc.net/problem/23568))
+
 ## Algorithms
 
 [BFS](BFS.md)
