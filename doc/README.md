@@ -828,6 +828,8 @@
 
 [14289 본대 산책 3](../problems/acmicpc_14289.cpp) ([링크](https://www.acmicpc.net/problem/14289))
 
+[14405 피카츄](../problems/acmicpc_14405.cpp) ([링크](https://www.acmicpc.net/problem/14405))
+
 [14427 수열과 쿼리 15](../problems/acmicpc_14428.cpp) ([링크](https://www.acmicpc.net/problem/14428))
 
 [14428 수열과 쿼리 16](../problems/acmicpc_14428.cpp) ([링크](https://www.acmicpc.net/problem/14428))
