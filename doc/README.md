@@ -692,6 +692,8 @@
 
 [11506 占쏙옙](../problems/acmicpc_11506.cpp) ([링크](https://www.acmicpc.net/problem/11506))
 
+[11522 Sum Kind of Problem](../problems/acmicpc_11522.cpp) ([링크](https://www.acmicpc.net/problem/11522))
+
 [11557 Yangjojang of The Year](../problems/acmicpc_11557.cpp) ([링크](https://www.acmicpc.net/problem/11557))
 
 [11568 민균이의 계략](../problems/acmicpc_11568.cpp) ([링크](https://www.acmicpc.net/problem/11568))
