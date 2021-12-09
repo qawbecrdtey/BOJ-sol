@@ -1168,6 +1168,8 @@
 
 [23278 영화 평가](../problems/acmicpc_23278.cpp) ([링크](https://www.acmicpc.net/problem/23278))
 
+[23287 제곱수](../problems/acmicpc_23287.cpp) ([링크](https://www.acmicpc.net/problem/23287))
+
 [23303 이 문제는 D2 입니다.](../problems/acmicpc_23303.cpp) ([링크](https://www.acmicpc.net/problem/23303))
 
 [23327 리그전 오브 레전드](../problems/acmicpc_23327.cpp) ([링크](https://www.acmicpc.net/problem/23327))
