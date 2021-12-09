@@ -960,6 +960,8 @@
 
 [15970 화살표 그리기](../problems/acmicpc_15970.cpp) ([링크](https://www.acmicpc.net/problem/15970))
 
+[15981 상자 열기](../problems/acmicpc_15981.cpp) ([링크](https://www.acmicpc.net/problem/15981))
+
 [15988 1, 2, 3 더하기 3](../problems/acmicpc_15988.cpp) ([링크](https://www.acmicpc.net/problem/15988))
 
 [15990 1, 2, 3 더하기 5](../problems/acmicpc_15990.cpp) ([링크](https://www.acmicpc.net/problem/15990))
