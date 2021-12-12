@@ -226,6 +226,8 @@
 
 [2022 사다리](../problems/acmicpc_2022.cpp) ([링크](https://www.acmicpc.net/problem/2022))
 
+[2028 자기복제수](../problems/acmicpc_2028.cpp) ([링크](https://www.acmicpc.net/problem/2028))
+
 [2042 구간 합 구하기](../problems/acmicpc_2042.cpp) ([링크](https://www.acmicpc.net/problem/2042))
 
 [2086 피보나치 수의 합](../problems/acmicpc_2086.cpp) ([링크](https://www.acmicpc.net/problem/2086))
