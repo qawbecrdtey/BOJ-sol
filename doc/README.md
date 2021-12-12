@@ -888,9 +888,11 @@
 
 [14860 GCD 곱](../problems/acmicpc_14860.cpp) ([링크](https://www.acmicpc.net/problem/14860))
 
-[14916 거스름돈](../problems/acmicpc_14916.cpp) ([링크](https://www.acmicpc.net/problem/14916))
+[14914 사과와 바나나 나눠주기](../problems/acmicpc_14914.cpp) ([링크](https://www.acmicpc.net/problem/14914))
 
 [14915 진수 변환기](../problems/acmicpc_14915.cpp) ([링크](https://www.acmicpc.net/problem/14915))
+
+[14916 거스름돈](../problems/acmicpc_14916.cpp) ([링크](https://www.acmicpc.net/problem/14916))
 
 [14918 더하기](../problems/acmicpc_14918.cpp) ([링크](https://www.acmicpc.net/problem/14918))
 
