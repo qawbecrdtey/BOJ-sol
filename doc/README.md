@@ -1002,6 +1002,8 @@
 
 [16502 그녀를 찾아서](../problems/acmicpc_16502.cpp) ([링크](https://www.acmicpc.net/problem/16502))
 
+[16504 종이접기](../problems/acmicpc_16504.cpp) ([링크](https://www.acmicpc.net/problem/16504))
+
 [16515 Euler’s Number](../problems/acmicpc_16515.cpp) ([링크](https://www.acmicpc.net/problem/16515))
 
 [16561 3의 배수](../problems/acmicpc_16561.cpp) ([링크](https://www.acmicpc.net/problem/16561))
