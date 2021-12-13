@@ -786,6 +786,8 @@
 
 [13222 Matches](../problems/acmicpc_13222.cpp) ([링크](https://www.acmicpc.net/problem/13222))
 
+[13223 소금 폭탄](../problems/acmicpc_13223.cpp) ([링크](https://www.acmicpc.net/problem/13223))
+
 [13239 Combinations](../problems/acmicpc_13239.cpp) ([링크](https://www.acmicpc.net/problem/13239))
 
 [13300 방 배정](../problems/acmicpc_13300.cpp) ([링크](https://www.acmicpc.net/problem/13300))
