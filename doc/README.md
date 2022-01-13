@@ -828,6 +828,8 @@
 
 [13977 이항 계수와 쿼리](../problems/acmicpc_13977.cpp) ([링크](https://www.acmicpc.net/problem/13977))
 
+[13985 Equality](../problems/acmicpc_13985.cpp) ([링크](https://www.acmicpc.net/problem/13985))
+
 [14002 가장 긴 증가하는 부분 수열 4](../problems/acmicpc_14002.cpp) ([링크](https://www.acmicpc.net/problem/14002))
 
 [14003 가장 긴 증가하는 부분 수열 5](../problems/acmicpc_14003.cpp) ([링크](https://www.acmicpc.net/problem/14003))
