@@ -854,6 +854,8 @@
 
 [14467 소가 길을 건너간 이유 1](../problems/acmicpc_14467.cpp) ([링크](https://www.acmicpc.net/problem/14467))
 
+[14470 전자레인지](../problems/acmicpc_14470.cpp) ([링크](https://www.acmicpc.net/problem/14470))
+
 [14491 9진수](../problems/acmicpc_14491.cpp) ([링크](https://www.acmicpc.net/problem/14491))
 
 [14494 다이나믹이 뭐예요?](../problems/acmicpc_14494.cpp) ([링크](https://www.acmicpc.net/problem/14494))
