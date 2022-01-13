@@ -966,6 +966,8 @@
 
 [15917 노솔브 방지문제야!!](../problems/acmicpc_15917.cpp) ([링크](https://www.acmicpc.net/problem/15917))
 
+[15921 수찬은 마린보이야!!](../problems/acmicpc_15921.cpp) ([링크](https://www.acmicpc.net/problem/15921))
+
 [15953 상금 헌터](../problems/acmicpc_15953.cpp) ([링크](https://www.acmicpc.net/problem/15953))
 
 [15965 K번째 소수](../problems/acmicpc_15965.cpp) ([링크](https://www.acmicpc.net/problem/15965))
