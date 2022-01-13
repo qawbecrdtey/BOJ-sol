@@ -524,6 +524,8 @@
 
 [8595 히든 넘버](../problems/acmicpc_8595.cpp) ([링크](https://www.acmicpc.net/problem/8595))
 
+[8871 Zadanie próbne 2](../problems/acmicpc_8871.cpp) ([링크](https://www.acmicpc.net/problem/8871))
+
 [8892 팰린드롬](../problems/acmicpc_8892.cpp) ([링크](https://www.acmicpc.net/problem/8892))
 
 [8949 대충 더해](../problems/acmicpc_8949.cpp) ([링크](https://www.acmicpc.net/problem/8949))
@@ -1191,6 +1193,12 @@
 [23530 Not A + B](../problems/acmicpc_23530.cpp) ([링크](https://www.acmicpc.net/problem/23530))
 
 [23568 Find the House](../problems/acmicpc_23568.cpp) ([링크](https://www.acmicpc.net/problem/23568))
+
+[24078 余り (Remainder)](../problems/acmicpc_24078.cpp) ([링크](https://www.acmicpc.net/problem/24078))
+
+[24082 立方体 (Cube)](../problems/acmicpc_24082.cpp) ([링크](https://www.acmicpc.net/problem/24082))
+
+[24086 身長 (Height)](../problems/acmicpc_24086.cpp) ([링크](https://www.acmicpc.net/problem/24086))
 
 ## Algorithms
 
