@@ -1182,6 +1182,8 @@
 
 [22357 경품 추첨](../problems/acmicpc_22357.cpp) ([링크](https://www.acmicpc.net/problem/22357))
 
+[22398 백발백준하는 명사수](../problems/acmicpc_22398.cpp) ([링크](https://www.acmicpc.net/problem/22398))
+
 [22966 가장 쉬운 문제를 찾는 문제](../problems/acmicpc_22966.cpp) ([링크](https://www.acmicpc.net/problem/22966))
 
 [23037 5의 수난](../problems/acmicpc_23037.cpp) ([링크](https://www.acmicpc.net/problem/23037))
