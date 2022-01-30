@@ -156,6 +156,8 @@
 
 [1647 도시 분할 계획](../problems/acmicpc_1647.cpp) ([링크](https://www.acmicpc.net/problem/1647))
 
+[1648 격자판 채우기](../problems/acmicpc_1648.cpp) ([링크](https://www.acmicpc.net/problem/1648))
+
 [1655 가운데를 말해요](../problems/acmicpc_1655.cpp) ([링크](https://www.acmicpc.net/problem/1655))
 
 [1673 치킨 쿠폰](../problems/acmicpc_1673.cpp) ([링크](https://www.acmicpc.net/problem/1673))
