@@ -234,6 +234,8 @@
 
 [2086 피보나치 수의 합](../problems/acmicpc_2086.cpp) ([링크](https://www.acmicpc.net/problem/2086))
 
+[2098 외판원 순회](../problems/acmicpc_2098.cpp) ([링크](https://www.acmicpc.net/problem/2098))
+
 [2104 부분배열 고르기](../problems/acmicpc_2104.cpp) ([링크](https://www.acmicpc.net/problem/2104))
 
 [2108 통계학](../problems/acmicpc_2108.cpp) ([링크](https://www.acmicpc.net/problem/2108))
