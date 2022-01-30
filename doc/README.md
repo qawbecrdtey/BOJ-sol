@@ -306,6 +306,8 @@
 
 [2517 달리기](../problems/acmicpc_2517.cpp) ([링크](https://www.acmicpc.net/problem/2517))
 
+[2529 부등호](../problems/acmicpc_2529.cpp) ([링크](https://www.acmicpc.net/problem/2529))
+
 [2533 사회망 서비스(SNS)](../problems/acmicpc_2533.cpp) ([링크](https://www.acmicpc.net/problem/2533))
 
 [2548 대표 자연수](../problems/acmicpc_2548.cpp) ([링크](https://www.acmicpc.net/problem/2548))
