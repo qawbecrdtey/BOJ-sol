@@ -1218,6 +1218,8 @@
 
 [24082 立方体 (Cube)](../problems/acmicpc_24082.cpp) ([링크](https://www.acmicpc.net/problem/24082))
 
+[24083 短針 (Hour Hand)](../problems/acmicpc_24083.cpp) ([링크](https://www.acmicpc.net/problem/24083))
+
 [24086 身長 (Height)](../problems/acmicpc_24086.cpp) ([링크](https://www.acmicpc.net/problem/24086))
 
 ## Algorithms
