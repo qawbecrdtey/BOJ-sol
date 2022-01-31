@@ -42,6 +42,8 @@
 
 [1074 Z](../problems/acmicpc_1074.cpp) ([링크](https://www.acmicpc.net/problem/1074))
 
+[1107 리모컨](../problems/acmicpc_1107.cpp) ([링크](https://www.acmicpc.net/problem/1107))
+
 [1111 IQ Test](../problems/acmicpc_1111.cpp) ([링크](https://www.acmicpc.net/problem/1111))
 
 [1114 통나무 자르기](../problems/acmicpc_1114.cpp) ([링크](https://www.acmicpc.net/problem/1114))
