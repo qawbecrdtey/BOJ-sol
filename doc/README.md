@@ -220,6 +220,8 @@
 
 [1965 상자넣기](../problems/acmicpc_1965.cpp) ([링크](https://www.acmicpc.net/problem/1965))
 
+[1969 DNA](../problems/acmicpc_1969.cpp) ([링크](https://www.acmicpc.net/problem/1969))
+
 [1976 여행 가자](../problems/acmicpc_1976.cpp) ([링크](https://www.acmicpc.net/problem/1976))
 
 [1989 부분배열 고르기 2](../problems/acmicpc_1989.cpp) ([링크](https://www.acmicpc.net/problem/1989))
