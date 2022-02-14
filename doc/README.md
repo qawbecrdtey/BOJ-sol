@@ -778,6 +778,8 @@
 
 [12991 홍준이의 행렬](../problems/acmicpc_12991.cpp) ([링크](https://www.acmicpc.net/problem/12991))
 
+[13015 별 찍기 - 23](../problems/acmicpc_13015.cpp) ([링크](https://www.acmicpc.net/problem/13015))
+
 [13160 최대 클리크 구하기](../problems/acmicpc_13160.cpp) ([링크](https://www.acmicpc.net/problem/13160))
 
 [13163 닉네임에 갓 붙이기](../problems/acmicpc_13163.cpp) ([링크](https://www.acmicpc.net/problem/13163))
