@@ -42,6 +42,8 @@
 
 [1074 Z](../problems/acmicpc_1074.cpp) ([링크](https://www.acmicpc.net/problem/1074))
 
+[1107 리모컨](../problems/acmicpc_1107.cpp) ([링크](https://www.acmicpc.net/problem/1107))
+
 [1111 IQ Test](../problems/acmicpc_1111.cpp) ([링크](https://www.acmicpc.net/problem/1111))
 
 [1114 통나무 자르기](../problems/acmicpc_1114.cpp) ([링크](https://www.acmicpc.net/problem/1114))
@@ -156,6 +158,8 @@
 
 [1647 도시 분할 계획](../problems/acmicpc_1647.cpp) ([링크](https://www.acmicpc.net/problem/1647))
 
+[1648 격자판 채우기](../problems/acmicpc_1648.cpp) ([링크](https://www.acmicpc.net/problem/1648))
+
 [1655 가운데를 말해요](../problems/acmicpc_1655.cpp) ([링크](https://www.acmicpc.net/problem/1655))
 
 [1673 치킨 쿠폰](../problems/acmicpc_1673.cpp) ([링크](https://www.acmicpc.net/problem/1673))
@@ -216,6 +220,8 @@
 
 [1965 상자넣기](../problems/acmicpc_1965.cpp) ([링크](https://www.acmicpc.net/problem/1965))
 
+[1969 DNA](../problems/acmicpc_1969.cpp) ([링크](https://www.acmicpc.net/problem/1969))
+
 [1976 여행 가자](../problems/acmicpc_1976.cpp) ([링크](https://www.acmicpc.net/problem/1976))
 
 [1989 부분배열 고르기 2](../problems/acmicpc_1989.cpp) ([링크](https://www.acmicpc.net/problem/1989))
@@ -231,6 +237,8 @@
 [2042 구간 합 구하기](../problems/acmicpc_2042.cpp) ([링크](https://www.acmicpc.net/problem/2042))
 
 [2086 피보나치 수의 합](../problems/acmicpc_2086.cpp) ([링크](https://www.acmicpc.net/problem/2086))
+
+[2098 외판원 순회](../problems/acmicpc_2098.cpp) ([링크](https://www.acmicpc.net/problem/2098))
 
 [2104 부분배열 고르기](../problems/acmicpc_2104.cpp) ([링크](https://www.acmicpc.net/problem/2104))
 
@@ -301,6 +309,8 @@
 [2503 숫자 야구](../problems/acmicpc_2503.cpp) ([링크](https://www.acmicpc.net/problem/2503))
 
 [2517 달리기](../problems/acmicpc_2517.cpp) ([링크](https://www.acmicpc.net/problem/2517))
+
+[2529 부등호](../problems/acmicpc_2529.cpp) ([링크](https://www.acmicpc.net/problem/2529))
 
 [2533 사회망 서비스(SNS)](../problems/acmicpc_2533.cpp) ([링크](https://www.acmicpc.net/problem/2533))
 
@@ -523,6 +533,8 @@
 [8464 Non-Squarefree Numbers](../problems/acmicpc_8464.cpp) ([링크](https://www.acmicpc.net/problem/8464))
 
 [8595 히든 넘버](../problems/acmicpc_8595.cpp) ([링크](https://www.acmicpc.net/problem/8595))
+
+[8871 Zadanie próbne 2](../problems/acmicpc_8871.cpp) ([링크](https://www.acmicpc.net/problem/8871))
 
 [8892 팰린드롬](../problems/acmicpc_8892.cpp) ([링크](https://www.acmicpc.net/problem/8892))
 
@@ -786,7 +798,11 @@
 
 [13164 행복 유치원](../problems/acmicpc_13164.cpp) ([링크](https://www.acmicpc.net/problem/13164))
 
+[13172 Σ](../problems/acmicpc_13172.cpp) ([링크](https://www.acmicpc.net/problem/13172))
+
 [13222 Matches](../problems/acmicpc_13222.cpp) ([링크](https://www.acmicpc.net/problem/13222))
+
+[13223 소금 폭탄](../problems/acmicpc_13223.cpp) ([링크](https://www.acmicpc.net/problem/13223))
 
 [13239 Combinations](../problems/acmicpc_13239.cpp) ([링크](https://www.acmicpc.net/problem/13239))
 
@@ -826,6 +842,8 @@
 
 [13977 이항 계수와 쿼리](../problems/acmicpc_13977.cpp) ([링크](https://www.acmicpc.net/problem/13977))
 
+[13985 Equality](../problems/acmicpc_13985.cpp) ([링크](https://www.acmicpc.net/problem/13985))
+
 [14002 가장 긴 증가하는 부분 수열 4](../problems/acmicpc_14002.cpp) ([링크](https://www.acmicpc.net/problem/14002))
 
 [14003 가장 긴 증가하는 부분 수열 5](../problems/acmicpc_14003.cpp) ([링크](https://www.acmicpc.net/problem/14003))
@@ -851,6 +869,8 @@
 [14438 수열과 쿼리 17](../problems/acmicpc_14438.cpp) ([링크](https://www.acmicpc.net/problem/14438))
 
 [14467 소가 길을 건너간 이유 1](../problems/acmicpc_14467.cpp) ([링크](https://www.acmicpc.net/problem/14467))
+
+[14470 전자레인지](../problems/acmicpc_14470.cpp) ([링크](https://www.acmicpc.net/problem/14470))
 
 [14491 9진수](../problems/acmicpc_14491.cpp) ([링크](https://www.acmicpc.net/problem/14491))
 
@@ -884,11 +904,15 @@
 
 [14699 관악산 등산](../problems/acmicpc_14699.cpp) ([링크](https://www.acmicpc.net/problem/14699))
 
+[14725 개미굴](../problems/acmicpc_14725.cpp) ([링크](https://www.acmicpc.net/problem/14725))
+
 [14728 벼락치기](../problems/acmicpc_14728.cpp) ([링크](https://www.acmicpc.net/problem/14728))
 
 [14761 FizzBuzz](../problems/acmicpc_14761.cpp) ([링크](https://www.acmicpc.net/problem/14761))
 
 [14860 GCD 곱](../problems/acmicpc_14860.cpp) ([링크](https://www.acmicpc.net/problem/14860))
+
+[14909 양수 개수 세기](../problems/acmicpc_14909.cpp) ([링크](https://www.acmicpc.net/problem/14909))
 
 [14914 사과와 바나나 나눠주기](../problems/acmicpc_14914.cpp) ([링크](https://www.acmicpc.net/problem/14914))
 
@@ -897,6 +921,8 @@
 [14916 거스름돈](../problems/acmicpc_14916.cpp) ([링크](https://www.acmicpc.net/problem/14916))
 
 [14918 더하기](../problems/acmicpc_14918.cpp) ([링크](https://www.acmicpc.net/problem/14918))
+
+[14922 부분평균](../problems/acmicpc_14922.cpp) ([링크](https://www.acmicpc.net/problem/14922))
 
 [14927 전구 끄기](../problems/acmicpc_14927.cpp) ([링크](https://www.acmicpc.net/problem/14927))
 
@@ -959,6 +985,8 @@
 [15873 공백 없는 A+B](../problems/acmicpc_15873.cpp) ([링크](https://www.acmicpc.net/problem/15873))
 
 [15917 노솔브 방지문제야!!](../problems/acmicpc_15917.cpp) ([링크](https://www.acmicpc.net/problem/15917))
+
+[15921 수찬은 마린보이야!!](../problems/acmicpc_15921.cpp) ([링크](https://www.acmicpc.net/problem/15921))
 
 [15953 상금 헌터](../problems/acmicpc_15953.cpp) ([링크](https://www.acmicpc.net/problem/15953))
 
@@ -1172,6 +1200,8 @@
 
 [22357 경품 추첨](../problems/acmicpc_22357.cpp) ([링크](https://www.acmicpc.net/problem/22357))
 
+[22398 백발백준하는 명사수](../problems/acmicpc_22398.cpp) ([링크](https://www.acmicpc.net/problem/22398))
+
 [22966 가장 쉬운 문제를 찾는 문제](../problems/acmicpc_22966.cpp) ([링크](https://www.acmicpc.net/problem/22966))
 
 [23037 5의 수난](../problems/acmicpc_23037.cpp) ([링크](https://www.acmicpc.net/problem/23037))
@@ -1189,6 +1219,14 @@
 [23530 Not A + B](../problems/acmicpc_23530.cpp) ([링크](https://www.acmicpc.net/problem/23530))
 
 [23568 Find the House](../problems/acmicpc_23568.cpp) ([링크](https://www.acmicpc.net/problem/23568))
+
+[24078 余り (Remainder)](../problems/acmicpc_24078.cpp) ([링크](https://www.acmicpc.net/problem/24078))
+
+[24082 立方体 (Cube)](../problems/acmicpc_24082.cpp) ([링크](https://www.acmicpc.net/problem/24082))
+
+[24083 短針 (Hour Hand)](../problems/acmicpc_24083.cpp) ([링크](https://www.acmicpc.net/problem/24083))
+
+[24086 身長 (Height)](../problems/acmicpc_24086.cpp) ([링크](https://www.acmicpc.net/problem/24086))
 
 ## Algorithms
 
