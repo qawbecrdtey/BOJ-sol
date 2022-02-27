@@ -806,6 +806,8 @@
 
 [13239 Combinations](../problems/acmicpc_13239.cpp) ([링크](https://www.acmicpc.net/problem/13239))
 
+[13279 곱의 합 쿼리](../problems/acmicpc_13279.cpp) ([링크](https://www.acmicpc.net/problem/13279))
+
 [13300 방 배정](../problems/acmicpc_13300.cpp) ([링크](https://www.acmicpc.net/problem/13300))
 
 [13345 Completing the Square](../problems/acmicpc_13345.cpp) ([링크](https://www.acmicpc.net/problem/13345))
