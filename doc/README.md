@@ -1246,6 +1246,8 @@
 
 [23805 골뱅이 찍기 - 돌아간 ㄹ](../problems/acmicpc_23805.cpp) ([링크](https://www.acmicpc.net/problem/23805))
 
+[23806 골뱅이 찍기 - ㅁ](../problems/acmicpc_23806.cpp) ([링크](https://www.acmicpc.net/problem/23806))
+
 [24078 余り (Remainder)](../problems/acmicpc_24078.cpp) ([링크](https://www.acmicpc.net/problem/24078))
 
 [24082 立方体 (Cube)](../problems/acmicpc_24082.cpp) ([링크](https://www.acmicpc.net/problem/24082))
