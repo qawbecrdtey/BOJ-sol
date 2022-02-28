@@ -40,6 +40,8 @@
 
 [1059 좋은 구간](../problems/acmicpc_1059.cpp) ([링크](https://www.acmicpc.net/problem/1059))
 
+[1067 이동](../problems/acmicpc_1067.cpp) ([링크](https://www.acmicpc.net/problem/1067))
+
 [1074 Z](../problems/acmicpc_1074.cpp) ([링크](https://www.acmicpc.net/problem/1074))
 
 [1107 리모컨](../problems/acmicpc_1107.cpp) ([링크](https://www.acmicpc.net/problem/1107))
