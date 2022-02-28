@@ -618,6 +618,8 @@
 
 [10419 지각](../problems/acmicpc_10419.cpp) ([링크](https://www.acmicpc.net/problem/10419))
 
+[10539 수빈이와 수열](../problems/acmicpc_10539.cpp) ([링크](https://www.acmicpc.net/problem/10539))
+
 [10569 다면체](../problems/acmicpc_10569.cpp) ([링크](https://www.acmicpc.net/problem/10569))
 
 [10570 Favorite Number](../problems/acmicpc_10570.cpp) ([링크](https://www.acmicpc.net/problem/10570))
