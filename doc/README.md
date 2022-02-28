@@ -96,6 +96,8 @@
 
 [1300 K번째 수](../problems/acmicpc_1300.cpp) ([링크](https://www.acmicpc.net/problem/1300))
 
+[1312 소수](../problems/acmicpc_1312.cpp) ([링크](https://www.acmicpc.net/problem/1312))
+
 [1326 폴짝폴짝](../problems/acmicpc_1326.cpp) ([링크](https://www.acmicpc.net/problem/1326))
 
 [1339 최소비용 구하기 2](../problems/acmicpc_1339.cpp) ([링크](https://www.acmicpc.net/problem/1339))
