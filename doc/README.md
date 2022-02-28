@@ -566,6 +566,8 @@
 
 [9417 최대 GCD](../problems/acmicpc_9417.cpp) ([링크](https://www.acmicpc.net/problem/9417))
 
+[9437 사라진 페이지 찾기](../problems/acmicpc_9437.cpp) ([링크](https://www.acmicpc.net/problem/9437))
+
 [9466 텀 프로젝트](../problems/acmicpc_9466.cpp) ([링크](https://www.acmicpc.net/problem/9466))
 
 [9469 폰 노이만](../problems/acmicpc_9469.cpp) ([링크](https://www.acmicpc.net/problem/9469))
