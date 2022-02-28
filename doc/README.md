@@ -358,6 +358,8 @@
 
 [2954 창영이의 일기장](../problems/acmicpc_2954.cpp) ([링크](https://www.acmicpc.net/problem/2954))
 
+[2959 거북이](../problems/acmicpc_2959.cpp) ([링크](https://www.acmicpc.net/problem/2959))
+
 [3003 킹, 퀸, 룩, 비숍, 나이트, 폰](../problems/acmicpc_3003.cpp) ([링크](https://www.acmicpc.net/problem/3003))
 
 [3004 체스판 조각](../problems/acmicpc_3004.cpp) ([링크](https://www.acmicpc.net/problem/3004))
