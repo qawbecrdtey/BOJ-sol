@@ -1238,6 +1238,8 @@
 
 [23568 Find the House](../problems/acmicpc_23568.cpp) ([링크](https://www.acmicpc.net/problem/23568))
 
+[23802 골뱅이 찍기 - 뒤집힌 ㄱ](../problems/acmicpc_23802.cpp) ([링크](https://www.acmicpc.net/problem/23802))
+
 [24078 余り (Remainder)](../problems/acmicpc_24078.cpp) ([링크](https://www.acmicpc.net/problem/24078))
 
 [24082 立方体 (Cube)](../problems/acmicpc_24082.cpp) ([링크](https://www.acmicpc.net/problem/24082))
