@@ -574,6 +574,8 @@
 
 [9492 Perfect Shuffle](../problems/acmicpc_9492.cpp) ([링크](https://www.acmicpc.net/problem/9492))
 
+[9493 길면 기차, 기차는 빨라, 빠른 것은 비행기](../problems/acmicpc_9493.cpp) ([링크](https://www.acmicpc.net/problem/9493))
+
 [9494 데구르르](../problems/acmicpc_9494.cpp) ([링크](https://www.acmicpc.net/problem/9494))
 
 [9655 돌 게임](../problems/acmicpc_9655.cpp) ([링크](https://www.acmicpc.net/problem/9655))
