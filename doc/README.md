@@ -318,6 +318,8 @@
 
 [2533 사회망 서비스(SNS)](../problems/acmicpc_2533.cpp) ([링크](https://www.acmicpc.net/problem/2533))
 
+[2547 사탕 선생 고창영](../problems/acmicpc_2547.cpp) ([링크](https://www.acmicpc.net/problem/2547))
+
 [2548 대표 자연수](../problems/acmicpc_2548.cpp) ([링크](https://www.acmicpc.net/problem/2548))
 
 [2553 마지막 팩토리얼 수](../problems/acmicpc_2553.cpp) ([링크](https://www.acmicpc.net/problem/2553))
