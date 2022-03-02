@@ -1224,6 +1224,8 @@
 
 [21968 선린의 터를](../problems/acmicpc_21968.cpp) ([링크](https://www.acmicpc.net/problem/21968))
 
+[22289 큰 수 곱셈 (3)](../problems/acmicpc_22289.cpp) ([링크](https://www.acmicpc.net/problem/22289))
+
 [22113 창영이와 버스](../problems/acmicpc_22113.cpp) ([링크](https://www.acmicpc.net/problem/22113))
 
 [22357 경품 추첨](../problems/acmicpc_22357.cpp) ([링크](https://www.acmicpc.net/problem/22357))
