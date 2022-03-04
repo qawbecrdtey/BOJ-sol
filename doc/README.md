@@ -334,6 +334,8 @@
 
 [2630 색종이 만들기](../problems/acmicpc_2630.cpp) ([링크](https://www.acmicpc.net/problem/2630))
 
+[2631 줄세우기](../problems/acmicpc_2631.cpp) ([링크](https://www.acmicpc.net/problem/2631))
+
 [2637 장난감조립](../problems/acmicpc_2637.cpp) ([링크](https://www.acmicpc.net/problem/2637))
 
 [2669 직사각형 네개의 합집합의 면적 구하기](../problems/acmicpc_2669.cpp) ([링크](https://www.acmicpc.net/problem/2669))
