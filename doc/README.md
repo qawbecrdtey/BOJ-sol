@@ -846,6 +846,8 @@
 
 [13565 침투](../problems/acmicpc_13565.cpp) ([링크](https://www.acmicpc.net/problem/13565))
 
+[13575 보석 가게](../problems/acmicpc_13575.cpp) ([링크](https://www.acmicpc.net/problem/13575))
+
 [13699 점화식](../problems/acmicpc_13699.cpp) ([링크](https://www.acmicpc.net/problem/13699))
 
 [13711 LCS 4](../problems/acmicpc_13711.cpp) ([링크](https://www.acmicpc.net/problem/13711))
