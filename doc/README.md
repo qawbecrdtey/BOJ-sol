@@ -246,6 +246,8 @@
 
 [2042 구간 합 구하기](../problems/acmicpc_2042.cpp) ([링크](https://www.acmicpc.net/problem/2042))
 
+[2057 팩토리얼 분해](../problems/acmicpc_2057.cpp) ([링크](https://www.acmicpc.net/problem/2057))
+
 [2086 피보나치 수의 합](../problems/acmicpc_2086.cpp) ([링크](https://www.acmicpc.net/problem/2086))
 
 [2098 외판원 순회](../problems/acmicpc_2098.cpp) ([링크](https://www.acmicpc.net/problem/2098))
