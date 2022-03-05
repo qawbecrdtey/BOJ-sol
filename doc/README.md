@@ -570,6 +570,8 @@
 
 [9205 맥주 마시면서 걸어가기](../problems/acmicpc_9205.cpp) ([링크](https://www.acmicpc.net/problem/9205))
 
+[9251 LCS](../problems/acmicpc_9251.cpp) ([링크](https://www.acmicpc.net/problem/9251))
+
 [9252 LCS 2](../problems/acmicpc_9252.cpp) ([링크](https://www.acmicpc.net/problem/9252))
 
 [9300 Where’s the Rainbow](../problems/acmicpc_9300.cpp) ([링크](https://www.acmicpc.net/problem/9300))
