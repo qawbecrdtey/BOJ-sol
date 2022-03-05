@@ -40,6 +40,8 @@
 
 [1059 좋은 구간](../problems/acmicpc_1059.cpp) ([링크](https://www.acmicpc.net/problem/1059))
 
+[1064 평행사변형](../problems/acmicpc_1064.cpp) ([링크](https://www.acmicpc.net/problem/1064))
+
 [1067 이동](../problems/acmicpc_1067.cpp) ([링크](https://www.acmicpc.net/problem/1067))
 
 [1074 Z](../problems/acmicpc_1074.cpp) ([링크](https://www.acmicpc.net/problem/1074))
