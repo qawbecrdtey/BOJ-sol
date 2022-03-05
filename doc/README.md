@@ -1286,6 +1286,8 @@
 
 [24086 身長 (Height)](../problems/acmicpc_24086.cpp) ([링크](https://www.acmicpc.net/problem/24086))
 
+[24568 Cupcake Party](../problems/acmicpc_24568.cpp) ([링크](https://www.acmicpc.net/problem/24568))
+
 ## Algorithms
 
 [BFS](BFS.md)
