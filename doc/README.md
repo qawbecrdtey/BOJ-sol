@@ -158,6 +158,8 @@
 
 [1562 계단 수](../problems/acmicpc_1562.cpp) ([링크](https://www.acmicpc.net/problem/1562))
 
+[1564 팩토리얼5](../problems/acmicpc_1564.cpp) ([링크](https://www.acmicpc.net/problem/1564))
+
 [1565 수학](../problems/acmicpc_1565.cpp) ([링크](https://www.acmicpc.net/problem/1565))
 
 [1620 나는야 포켓몬 마스터 이다솜](../problems/acmicpc_1620.cpp) ([링크](https://www.acmicpc.net/problem/1620))
