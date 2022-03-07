@@ -138,6 +138,8 @@
 
 [1504 특정한 최단 경로](../problems/acmicpc_1504.cpp) ([링크](https://www.acmicpc.net/problem/1504))
 
+[1509 팰린드롬 분할](../problems/acmicpc_1509.cpp) ([링크](https://www.acmicpc.net/problem/1509))
+
 [1516 게임 개발](../problems/acmicpc_1516.cpp) ([링크](https://www.acmicpc.net/problem/1516))
 
 [1517 버블 소트](../problems/acmicpc_1517.cpp) ([링크](https://www.acmicpc.net/problem/1517))
