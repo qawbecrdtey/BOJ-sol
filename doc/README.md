@@ -1304,6 +1304,8 @@
 
 [23812 골뱅이 찍기 - 돌아간 ㅍ](../problems/acmicpc_23812.cpp) ([링크](https://www.acmicpc.net/problem/23812))
 
+[23825 SASA 모형을 만들어보자](../problems/acmicpc_23825.cpp) ([링크](https://www.acmicpc.net/problem/23825))
+
 [24078 余り (Remainder)](../problems/acmicpc_24078.cpp) ([링크](https://www.acmicpc.net/problem/24078))
 
 [24082 立方体 (Cube)](../problems/acmicpc_24082.cpp) ([링크](https://www.acmicpc.net/problem/24082))
