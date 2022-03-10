@@ -1054,6 +1054,8 @@
 
 [15990 1, 2, 3 더하기 5](../problems/acmicpc_15990.cpp) ([링크](https://www.acmicpc.net/problem/15990))
 
+[15995 잉여역수 구하기](../problems/acmicpc_15995.cpp) ([링크](https://www.acmicpc.net/problem/15995))
+
 [16134 조합 (Combination)](../problems/acmicpc_16134.cpp) ([링크](https://www.acmicpc.net/problem/16134))
 
 [16208 귀찮음](../problems/acmicpc_16208.cpp) ([링크](https://www.acmicpc.net/problem/16208))
