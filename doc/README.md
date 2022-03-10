@@ -956,6 +956,8 @@
 
 [14860 GCD 곱](../problems/acmicpc_14860.cpp) ([링크](https://www.acmicpc.net/problem/14860))
 
+[14881 물통 문제](../problems/acmicpc_14881.cpp) ([링크](https://www.acmicpc.net/problem/14881))
+
 [14909 양수 개수 세기](../problems/acmicpc_14909.cpp) ([링크](https://www.acmicpc.net/problem/14909))
 
 [14914 사과와 바나나 나눠주기](../problems/acmicpc_14914.cpp) ([링크](https://www.acmicpc.net/problem/14914))
