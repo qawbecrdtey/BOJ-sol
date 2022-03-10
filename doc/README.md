@@ -846,6 +846,8 @@
 
 [13239 Combinations](../problems/acmicpc_13239.cpp) ([링크](https://www.acmicpc.net/problem/13239))
 
+[13251 조약돌 꺼내기](../problems/acmicpc_13251.cpp) ([링크](https://www.acmicpc.net/problem/13251))
+
 [13279 곱의 합 쿼리](../problems/acmicpc_13279.cpp) ([링크](https://www.acmicpc.net/problem/13279))
 
 [13300 방 배정](../problems/acmicpc_13300.cpp) ([링크](https://www.acmicpc.net/problem/13300))
