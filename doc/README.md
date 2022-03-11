@@ -1254,6 +1254,8 @@
 
 [20299 3대 측정](../problems/acmicpc_20299.cpp) ([링크](https://www.acmicpc.net/problem/20299))
 
+[20361 일우는 야바위꾼](../problems/acmicpc_20361.cpp) ([링크](https://www.acmicpc.net/problem/20361))
+
 [20492 세금](../problems/acmicpc_20492.cpp) ([링크](https://www.acmicpc.net/problem/20492))
 
 [20499 Darius님 한타 안 함?](../problems/acmicpc_20499.cpp) ([링크](https://www.acmicpc.net/problem/20499))
