@@ -1270,6 +1270,8 @@
 
 [21557 불꽃놀이](../problems/acmicpc_21557.cpp) ([링크](https://www.acmicpc.net/problem/21557))
 
+[21567 숫자의 개수 2](../problems/acmicpc_21567.cpp) ([링크](https://www.acmicpc.net/problem/21567))
+
 [21591 Laptop Sticker](../problems/acmicpc_21591.cpp) ([링크](https://www.acmicpc.net/problem/21591))
 
 [21734 SMUPC의 등장](../problems/acmicpc_21734.cpp) ([링크](https://www.acmicpc.net/problem/21734))
