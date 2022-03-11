@@ -390,6 +390,8 @@
 
 [3028 창영마을](../problems/acmicpc_3028.cpp) ([링크](https://www.acmicpc.net/problem/3028))
 
+[3035 스캐너](../problems/acmicpc_3035.cpp) ([링크](https://www.acmicpc.net/problem/3035))
+
 [3052 나머지](../problems/acmicpc_3052.cpp) ([링크](https://www.acmicpc.net/problem/3052))
 
 [3059 등장하지 않는 문자의 합](../problems/acmicpc_3059.cpp) ([링크](https://www.acmicpc.net/problem/3059))
