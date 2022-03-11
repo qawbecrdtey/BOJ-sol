@@ -464,6 +464,8 @@
 
 [5026 박사 과정](../problems/acmicpc_5026.cpp) ([링크](https://www.acmicpc.net/problem/5026))
 
+[5032 탄산 음료](../problems/acmicpc_5032.cpp) ([링크](https://www.acmicpc.net/problem/5032))
+
 [5054 주차의 신](../problems/acmicpc_5054.cpp) ([링크](https://www.acmicpc.net/problem/5054))
 
 [5073 삼각형과 세 변](../problems/acmicpc_5073.cpp) ([링크](https://www.acmicpc.net/problem/5073))
