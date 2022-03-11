@@ -302,6 +302,8 @@
 
 [2357 최솟값과 최댓값](../problems/acmicpc_2357.cpp) ([링크](https://www.acmicpc.net/problem/2357))
 
+[2386 도비의 영어 공부](../problems/acmicpc_2386.cpp) ([링크](https://www.acmicpc.net/problem/2386))
+
 [2399 거리의 합](../problems/acmicpc_2399.cpp) ([링크](https://www.acmicpc.net/problem/2399))
 
 [2407 조합](../problems/acmicpc_2407.cpp) ([링크](https://www.acmicpc.net/problem/2407))
