@@ -1252,6 +1252,8 @@
 
 [20254 Site Score](../problems/acmicpc_20254.cpp) ([링크](https://www.acmicpc.net/problem/20254))
 
+[20299 3대 측정](../problems/acmicpc_20299.cpp) ([링크](https://www.acmicpc.net/problem/20299))
+
 [20492 세금](../problems/acmicpc_20492.cpp) ([링크](https://www.acmicpc.net/problem/20492))
 
 [20499 Darius님 한타 안 함?](../problems/acmicpc_20499.cpp) ([링크](https://www.acmicpc.net/problem/20499))
