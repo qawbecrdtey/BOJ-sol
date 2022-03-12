@@ -424,6 +424,8 @@
 
 [3986 좋은 단어](../problems/acmicpc_3986.cpp) ([링크](https://www.acmicpc.net/problem/3986))
 
+[4072 Words](../problems/acmicpc_4072.cpp) ([링크](https://www.acmicpc.net/problem/4072))
+
 [4097 수익](../problems/acmicpc_4097.cpp) ([링크](https://www.acmicpc.net/problem/4097))
 
 [4150 피보나치 수](../problems/acmicpc_4150.cpp) ([링크](https://www.acmicpc.net/problem/4150))
