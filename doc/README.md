@@ -618,6 +618,8 @@
 
 [9494 데구르르](../problems/acmicpc_9494.cpp) ([링크](https://www.acmicpc.net/problem/9494))
 
+[9575 행운의 수](../problems/acmicpc_9575.cpp) ([링크](https://www.acmicpc.net/problem/9575))
+
 [9655 돌 게임](../problems/acmicpc_9655.cpp) ([링크](https://www.acmicpc.net/problem/9655))
 
 [9657 돌 게임 3](../problems/acmicpc_9657.cpp) ([링크](https://www.acmicpc.net/problem/9657))
