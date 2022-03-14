@@ -542,6 +542,8 @@
 
 [6588 골드바흐의 추측](../problems/acmicpc_6588.cpp) ([링크](https://www.acmicpc.net/problem/6588))
 
+[6662 Divisors](../problems/acmicpc_6662.cpp) ([링크](https://www.acmicpc.net/problem/6662))
+
 [6749 Next in line](../problems/acmicpc_6749.cpp) ([링크](https://www.acmicpc.net/problem/6749))
 
 [6778 Which Alien?](../problems/acmicpc_6778.cpp) ([링크](https://www.acmicpc.net/problem/6778))
