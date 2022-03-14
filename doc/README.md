@@ -1146,6 +1146,8 @@
 
 [16894 약수 게임](../problems/acmicpc_16894.cpp) ([링크](https://www.acmicpc.net/problem/16894))
 
+[16928 뱀과 사다리 게임](../problems/acmicpc_16928.cpp) ([링크](https://www.acmicpc.net/problem/16928))
+
 [16953 A → B](../problems/acmicpc_16953.cpp) ([링크](https://www.acmicpc.net/problem/16953))
 
 [16975 수열과 쿼리 21](../problems/acmicpc_16975.cpp) ([링크](https://www.acmicpc.net/problem/16975))
