@@ -526,6 +526,8 @@
 
 [6198 옥상 정원 꾸미기](../problems/acmicpc_6198.cpp) ([링크](https://www.acmicpc.net/problem/6198))
 
+[6219 소수의 자격](../problems/acmicpc_6219.cpp) ([링크](https://www.acmicpc.net/problem/6219))
+
 [6321 IBM 빼기 1](../problems/acmicpc_6321.cpp) ([링크](https://www.acmicpc.net/problem/6321))
 
 [6322 직각 삼각형의 두 변](../problems/acmicpc_6322.cpp) ([링크](https://www.acmicpc.net/problem/6322))
