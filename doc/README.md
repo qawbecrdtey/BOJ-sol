@@ -808,6 +808,8 @@
 
 [11868 님 게임 2](../problems/acmicpc_11868.cpp) ([링크](https://www.acmicpc.net/problem/11868))
 
+[11896 다각형](../problems/acmicpc_11896.cpp) ([링크](https://www.acmicpc.net/problem/11896))
+
 [11931 8진수](../problems/acmicpc_11931.cpp) ([링크](https://www.acmicpc.net/problem/11931))
 
 [11948 과목선택](../problems/acmicpc_11948.cpp) ([링크](https://www.acmicpc.net/problem/11948))
