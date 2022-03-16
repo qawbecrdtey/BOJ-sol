@@ -1108,6 +1108,8 @@
 
 [16134 조합 (Combination)](../problems/acmicpc_16134.cpp) ([링크](https://www.acmicpc.net/problem/16134))
 
+[16168 퍼레이드](../problems/acmicpc_16168.cpp) ([링크](https://www.acmicpc.net/problem/16168))
+
 [16208 귀찮음](../problems/acmicpc_16208.cpp) ([링크](https://www.acmicpc.net/problem/16208))
 
 [16233 수학 문제](../problems/acmicpc_16233.cpp) ([링크](https://www.acmicpc.net/problem/16233))
