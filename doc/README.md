@@ -562,6 +562,8 @@
 
 [7469 K번째 수](../problems/acmicpc_7469.cpp) ([링크](https://www.acmicpc.net/problem/7469))
 
+[7489 팩토리얼](../problems/acmicpc_7489.cpp) ([링크](https://www.acmicpc.net/problem/7489))
+
 [7523 Gauß](../problems/acmicpc_7523.cpp) ([링크](https://www.acmicpc.net/problem/7523))
 
 [7568 덩치](../problems/acmicpc_7568.cpp) ([링크](https://www.acmicpc.net/problem/7568))
