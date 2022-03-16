@@ -52,6 +52,8 @@
 
 [1114 통나무 자르기](../problems/acmicpc_1114.cpp) ([링크](https://www.acmicpc.net/problem/1114))
 
+[1124 언더프라임](../problems/acmicpc_1124.cpp) ([링크](https://www.acmicpc.net/problem/1124))
+
 [1145 적어도 대부분의 배수](../problems/acmicpc_1145.cpp) ([링크](https://www.acmicpc.net/problem/1145))
 
 [1153 네 개의 소수](../problems/acmicpc_1153.cpp) ([링크](https://www.acmicpc.net/problem/1153))
