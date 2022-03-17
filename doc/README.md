@@ -200,6 +200,8 @@
 
 [1740 거듭제곱](../problems/acmicpc_1740.cpp) ([링크](https://www.acmicpc.net/problem/1740))
 
+[1743 음식물 피하기](../problems/acmicpc_1743.cpp) ([링크](https://www.acmicpc.net/problem/1743))
+
 [1747 소수&팰린드롬](../problems/acmicpc_1747.cpp) ([링크](https://www.acmicpc.net/problem/1747))
 
 [1748 수 이어 쓰기 1](../problems/acmicpc_1748.cpp) ([링크](https://www.acmicpc.net/problem/1748))
