@@ -1248,6 +1248,8 @@
 
 [18301 Rats](../problems/acmicpc_18301.cpp) ([링크](https://www.acmicpc.net/problem/18301))
 
+[18352 특정 거리의 도시 찾기](../problems/acmicpc_18352.cpp) ([링크](https://www.acmicpc.net/problem/18352))
+
 [18398 HOMWRK](../problems/acmicpc_18398.cpp) ([링크](https://www.acmicpc.net/problem/18398))
 
 [18436 수열과 쿼리 37](../problems/acmicpc_18436.cpp) ([링크](https://www.acmicpc.net/problem/18436))
