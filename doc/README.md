@@ -200,6 +200,8 @@
 
 [1740 거듭제곱](../problems/acmicpc_1740.cpp) ([링크](https://www.acmicpc.net/problem/1740))
 
+[1743 음식물 피하기](../problems/acmicpc_1743.cpp) ([링크](https://www.acmicpc.net/problem/1743))
+
 [1747 소수&팰린드롬](../problems/acmicpc_1747.cpp) ([링크](https://www.acmicpc.net/problem/1747))
 
 [1748 수 이어 쓰기 1](../problems/acmicpc_1748.cpp) ([링크](https://www.acmicpc.net/problem/1748))
@@ -1250,6 +1252,8 @@
 
 [18301 Rats](../problems/acmicpc_18301.cpp) ([링크](https://www.acmicpc.net/problem/18301))
 
+[18352 특정 거리의 도시 찾기](../problems/acmicpc_18352.cpp) ([링크](https://www.acmicpc.net/problem/18352))
+
 [18398 HOMWRK](../problems/acmicpc_18398.cpp) ([링크](https://www.acmicpc.net/problem/18398))
 
 [18436 수열과 쿼리 37](../problems/acmicpc_18436.cpp) ([링크](https://www.acmicpc.net/problem/18436))
@@ -1389,6 +1393,8 @@
 [24086 身長 (Height)](../problems/acmicpc_24086.cpp) ([링크](https://www.acmicpc.net/problem/24086))
 
 [24389 2의 보수](../problems/acmicpc_24389.cpp) ([링크](https://www.acmicpc.net/problem/24389))
+
+[24523 내 뒤에 나와 다른 수](../problems/acmicpc_24523.cpp) ([링크](https://www.acmicpc.net/problem/24523))
 
 [24568 Cupcake Party](../problems/acmicpc_24568.cpp) ([링크](https://www.acmicpc.net/problem/24568))
 
