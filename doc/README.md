@@ -896,6 +896,8 @@
 
 [13345 Completing the Square](../problems/acmicpc_13345.cpp) ([링크](https://www.acmicpc.net/problem/13345))
 
+[13410 거꾸로 구구단](../problems/acmicpc_13410.cpp) ([링크](https://www.acmicpc.net/problem/13410))
+
 [13419 탕수육](../problems/acmicpc_13419.cpp) ([링크](https://www.acmicpc.net/problem/13419))
 
 [13424 비밀 모임](../problems/acmicpc_13424.cpp) ([링크](https://www.acmicpc.net/problem/13424))
