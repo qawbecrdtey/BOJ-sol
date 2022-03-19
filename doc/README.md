@@ -1398,6 +1398,8 @@
 
 [24568 Cupcake Party](../problems/acmicpc_24568.cpp) ([링크](https://www.acmicpc.net/problem/24568))
 
+[24736 Football Scoring](../problems/acmicpc_24736.cpp) ([링크](https://www.acmicpc.net/problem/24736))
+
 ## Algorithms
 
 [BFS](BFS.md)
