@@ -610,6 +610,8 @@
 
 [9252 LCS 2](../problems/acmicpc_9252.cpp) ([링크](https://www.acmicpc.net/problem/9252))
 
+[9288 More Dice](../problems/acmicpc_9288.cpp) ([링크](https://www.acmicpc.net/problem/9288))
+
 [9299 Math Tutoring](../problems/acmicpc_9299.cpp) ([링크](https://www.acmicpc.net/problem/9299))
 
 [9300 Where’s the Rainbow](../problems/acmicpc_9300.cpp) ([링크](https://www.acmicpc.net/problem/9300))
