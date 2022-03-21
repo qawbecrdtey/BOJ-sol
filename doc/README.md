@@ -976,6 +976,8 @@
 
 [14544 Vote](../problems/acmicpc_14544.cpp) ([링크](https://www.acmicpc.net/problem/14544))
 
+[14545 Square](../problems/acmicpc_14545.cpp) ([링크](https://www.acmicpc.net/problem/14545))
+
 [14563 완전수](../problems/acmicpc_14563.cpp) ([링크](https://www.acmicpc.net/problem/14563))
 
 [14565 역원(Inverse) 구하기](../problems/acmicpc_14565.cpp) ([링크](https://www.acmicpc.net/problem/14565))
