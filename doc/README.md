@@ -610,6 +610,8 @@
 
 [9252 LCS 2](../problems/acmicpc_9252.cpp) ([링크](https://www.acmicpc.net/problem/9252))
 
+[9299 Math Tutoring](../problems/acmicpc_9299.cpp) ([링크](https://www.acmicpc.net/problem/9299))
+
 [9300 Where’s the Rainbow](../problems/acmicpc_9300.cpp) ([링크](https://www.acmicpc.net/problem/9300))
 
 [9375 패션왕 신해빈](../problems/acmicpc_9375.cpp) ([링크](https://www.acmicpc.net/problem/9375))
