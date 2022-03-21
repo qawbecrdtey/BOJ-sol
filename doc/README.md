@@ -724,6 +724,8 @@
 
 [10973 이전 순열](../problems/acmicpc_10973.cpp) ([링크](https://www.acmicpc.net/problem/10973))
 
+[10986 나머지 합](../problems/acmicpc_10986.cpp) ([링크](https://www.acmicpc.net/problem/10986))
+
 [10990 별 찍기 - 15](../problems/acmicpc_10990.cpp) ([링크](https://www.acmicpc.net/problem/10990))
 
 [10991 별 찍기 - 16](../problems/acmicpc_10991.cpp) ([링크](https://www.acmicpc.net/problem/10991))
