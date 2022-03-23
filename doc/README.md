@@ -592,6 +592,8 @@
 
 [8949 대충 더해](../problems/acmicpc_8949.cpp) ([링크](https://www.acmicpc.net/problem/8949))
 
+[8974 희주의 수학시험](../problems/acmicpc_8974.cpp) ([링크](https://www.acmicpc.net/problem/8974))
+
 [8986 전봇대](../problems/acmicpc_8986.cpp) ([링크](https://www.acmicpc.net/problem/8986))
 
 [8979 올림픽](../problems/acmicpc_8979.cpp) ([링크](https://www.acmicpc.net/problem/8979))
