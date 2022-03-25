@@ -754,6 +754,8 @@
 
 [11062 카드 게임](../problems/acmicpc_11062.cpp) ([링크](https://www.acmicpc.net/problem/11062))
 
+[11068 회문인 수](../problems/acmicpc_11068.cpp) ([링크](https://www.acmicpc.net/problem/11068))
+
 [11098 첼시를 도와줘!](../problems/acmicpc_11098.cpp) ([링크](https://www.acmicpc.net/problem/11098))
 
 [11104 Fridge of Your Dreams](../problems/acmicpc_11104.cpp) ([링크](https://www.acmicpc.net/problem/11104))
