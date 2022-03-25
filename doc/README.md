@@ -570,6 +570,8 @@
 
 [7568 덩치](../problems/acmicpc_7568.cpp) ([링크](https://www.acmicpc.net/problem/7568))
 
+[7569 토마토](../problems/acmicpc_7569.cpp) ([링크](https://www.acmicpc.net/problem/7569))
+
 [7600 문자가 몇갤까](../problems/acmicpc_7600.cpp) ([링크](https://www.acmicpc.net/problem/7600))
 
 [7662 이중 우선순위 큐](../problems/acmicpc_7662.cpp) ([링크](https://www.acmicpc.net/problem/7662))
