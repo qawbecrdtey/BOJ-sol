@@ -1126,6 +1126,8 @@
 
 [15921 수찬은 마린보이야!!](../problems/acmicpc_15921.cpp) ([링크](https://www.acmicpc.net/problem/15921))
 
+[15924 욱제는 사과팬이야!!](../problems/acmicpc_15924.cpp) ([링크](https://www.acmicpc.net/problem/15924))
+
 [15953 상금 헌터](../problems/acmicpc_15953.cpp) ([링크](https://www.acmicpc.net/problem/15953))
 
 [15965 K번째 소수](../problems/acmicpc_15965.cpp) ([링크](https://www.acmicpc.net/problem/15965))
