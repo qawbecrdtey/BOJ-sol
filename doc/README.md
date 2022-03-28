@@ -928,6 +928,8 @@
 
 [13424 비밀 모임](../problems/acmicpc_13424.cpp) ([링크](https://www.acmicpc.net/problem/13424))
 
+[13430 합 구하기](../problems/acmicpc_13430.cpp) ([링크](https://www.acmicpc.net/problem/13430))
+
 [13458 시험 감독](../problems/acmicpc_13458.cpp) ([링크](https://www.acmicpc.net/problem/13458))
 
 [13537 수열과 쿼리 1](../problems/acmicpc_13537.cpp) ([링크](https://www.acmicpc.net/problem/13537))
