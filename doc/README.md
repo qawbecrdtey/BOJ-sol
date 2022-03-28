@@ -60,6 +60,8 @@
 
 [1154 팀 편성](../problems/acmicpc_1154.cpp) ([링크](https://www.acmicpc.net/problem/1154))
 
+[1160 Random Number Generator](../problems/acmicpc_1160.cpp) ([링크](https://www.acmicpc.net/problem/1160))
+
 [1188 음식 평론가](../problems/acmicpc_1188.cpp) ([링크](https://www.acmicpc.net/problem/1188))
 
 [1199 오일러 회로](../problems/acmicpc_1199.cpp) ([링크](https://www.acmicpc.net/problem/1199))
