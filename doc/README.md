@@ -1436,6 +1436,8 @@
 
 [24568 Cupcake Party](../problems/acmicpc_24568.cpp) ([링크](https://www.acmicpc.net/problem/24568))
 
+[24608 Average Character](../problems/acmicpc_24608.cpp) ([링크](https://www.acmicpc.net/problem/24608))
+
 [24736 Football Scoring](../problems/acmicpc_24736.cpp) ([링크](https://www.acmicpc.net/problem/24736))
 
 [24883 자동완성](../problems/acmicpc_24883.cpp) ([링크](https://www.acmicpc.net/problem/24883))
