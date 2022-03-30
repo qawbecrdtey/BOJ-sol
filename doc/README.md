@@ -670,6 +670,8 @@
 
 [10173 니모를 찾아서](../problems/acmicpc_10173.cpp) ([링크](https://www.acmicpc.net/problem/10173))
 
+[10174 팰린드롬](../problems/acmicpc_10174.cpp) ([링크](https://www.acmicpc.net/problem/10174))
+
 [10211 Maximum Subarray](../problems/acmicpc_10211.cpp) ([링크](https://www.acmicpc.net/problem/10211))
 
 [10227 삶의 질](../problems/acmicpc_10227.cpp) ([링크](https://www.acmicpc.net/problem/10227))
