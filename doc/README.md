@@ -926,6 +926,8 @@
 
 [13225 Divisors](../problems/acmicpc_13225.cpp) ([링크](https://www.acmicpc.net/problem/13225))
 
+[13226 Divisors Again](../problems/acmicpc_13226.cpp) ([링크](https://www.acmicpc.net/problem/13226))
+
 [13239 Combinations](../problems/acmicpc_13239.cpp) ([링크](https://www.acmicpc.net/problem/13239))
 
 [13251 조약돌 꺼내기](../problems/acmicpc_13251.cpp) ([링크](https://www.acmicpc.net/problem/13251))
