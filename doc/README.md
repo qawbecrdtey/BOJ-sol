@@ -554,6 +554,8 @@
 
 [6662 Divisors](../problems/acmicpc_6662.cpp) ([링크](https://www.acmicpc.net/problem/6662))
 
+[6679 싱기한 네자리 숫자](../problems/acmicpc_6679.cpp) ([링크](https://www.acmicpc.net/problem/6679))
+
 [6749 Next in line](../problems/acmicpc_6749.cpp) ([링크](https://www.acmicpc.net/problem/6749))
 
 [6778 Which Alien?](../problems/acmicpc_6778.cpp) ([링크](https://www.acmicpc.net/problem/6778))
@@ -635,6 +637,8 @@
 [9466 텀 프로젝트](../problems/acmicpc_9466.cpp) ([링크](https://www.acmicpc.net/problem/9466))
 
 [9469 폰 노이만](../problems/acmicpc_9469.cpp) ([링크](https://www.acmicpc.net/problem/9469))
+
+[9471 피사노 주기](../problems/acmicpc_9471.cpp) ([링크](https://www.acmicpc.net/problem/9471))
 
 [9488 The n Days of Christmas](../problems/acmicpc_9488.cpp) ([링크](https://www.acmicpc.net/problem/9488))
 
