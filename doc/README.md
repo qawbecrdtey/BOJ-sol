@@ -992,6 +992,8 @@
 
 [14225 부분수열의 합](../problems/acmicpc_14225.cpp) ([링크](https://www.acmicpc.net/problem/14225))
 
+[14244 트리 만들기](../problems/acmicpc_14244.cpp) ([링크](https://www.acmicpc.net/problem/14244))
+
 [14245 XOR](../problems/acmicpc_14245.cpp) ([링크](https://www.acmicpc.net/problem/14245))
 
 [14264 정육각형과 삼각형](../problems/acmicpc_14264.cpp) ([링크](https://www.acmicpc.net/problem/14264))
