@@ -170,6 +170,8 @@
 
 [1620 나는야 포켓몬 마스터 이다솜](../problems/acmicpc_1620.cpp) ([링크](https://www.acmicpc.net/problem/1620))
 
+[1622 공통 순열](../problems/acmicpc_1622.cpp) ([링크](https://www.acmicpc.net/problem/1622))
+
 [1637 날카로운 눈](../problems/acmicpc_1637.cpp) ([링크](https://www.acmicpc.net/problem/1637))
 
 [1644 소수의 연속합](../problems/acmicpc_1644.cpp) ([링크](https://www.acmicpc.net/problem/1644))
