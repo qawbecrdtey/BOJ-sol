@@ -688,6 +688,8 @@
 
 [10372 Alarm Clock](../problems/acmicpc_10372.cpp) ([링크](https://www.acmicpc.net/problem/10372))
 
+[10384 팬그램](../problems/acmicpc_10384.cpp) ([링크](https://www.acmicpc.net/problem/10384))
+
 [10407 2 타워](../problems/acmicpc_10407.cpp) ([링크](https://www.acmicpc.net/problem/10407))
 
 [10409 서버](../problems/acmicpc_10409.cpp) ([링크](https://www.acmicpc.net/problem/10409))
