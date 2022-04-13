@@ -1418,6 +1418,8 @@
 
 [23037 5의 수난](../problems/acmicpc_23037.cpp) ([링크](https://www.acmicpc.net/problem/23037))
 
+[23048 자연수 색칠하기](../problems/acmicpc_23048.cpp) ([링크](https://www.acmicpc.net/problem/23048))
+
 [23275 Knot Knowledge](../problems/acmicpc_23275.cpp) ([링크](https://www.acmicpc.net/problem/23275))
 
 [23278 영화 평가](../problems/acmicpc_23278.cpp) ([링크](https://www.acmicpc.net/problem/23278))
@@ -1461,6 +1463,8 @@
 [24083 短針 (Hour Hand)](../problems/acmicpc_24083.cpp) ([링크](https://www.acmicpc.net/problem/24083))
 
 [24086 身長 (Height)](../problems/acmicpc_24086.cpp) ([링크](https://www.acmicpc.net/problem/24086))
+
+[24183 Affischutskicket](../problems/acmicpc_24183.cpp) ([링크](https://www.acmicpc.net/problem/24183))
 
 [24389 2의 보수](../problems/acmicpc_24389.cpp) ([링크](https://www.acmicpc.net/problem/24389))
 
