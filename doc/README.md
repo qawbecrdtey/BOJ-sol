@@ -448,6 +448,8 @@
 
 [4195 친구 네트워크](../problems/acmicpc_4195.cpp) ([링크](https://www.acmicpc.net/problem/4195))
 
+[4233 가짜소수](../problems/acmicpc_4233.cpp) ([링크](https://www.acmicpc.net/problem/4233))
+
 [4299 AFC 윔블던](../problems/acmicpc_4299.cpp) ([링크](https://www.acmicpc.net/problem/4299))
 
 [4355 서로소](../problems/acmicpc_4355.cpp) ([링크](https://www.acmicpc.net/problem/4355))
