@@ -1384,6 +1384,8 @@
 
 [21300 Bottle Return](../problems/acmicpc_21300.cpp) ([링크](https://www.acmicpc.net/problem/21300))
 
+[21335 Another Eruption](../problems/acmicpc_21335.cpp) ([링크](https://www.acmicpc.net/problem/21335))
+
 [21557 불꽃놀이](../problems/acmicpc_21557.cpp) ([링크](https://www.acmicpc.net/problem/21557))
 
 [21567 숫자의 개수 2](../problems/acmicpc_21567.cpp) ([링크](https://www.acmicpc.net/problem/21567))
