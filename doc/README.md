@@ -1436,6 +1436,8 @@
 
 [23568 Find the House](../problems/acmicpc_23568.cpp) ([링크](https://www.acmicpc.net/problem/23568))
 
+[23794 골뱅이 찍기 - 정사각형](../problems/acmicpc_23794.cpp) ([링크](https://www.acmicpc.net/problem/23794))
+
 [23802 골뱅이 찍기 - 뒤집힌 ㄱ](../problems/acmicpc_23802.cpp) ([링크](https://www.acmicpc.net/problem/23802))
 
 [23803 골뱅이 찍기 - ㄴ](../problems/acmicpc_23803.cpp) ([링크](https://www.acmicpc.net/problem/23803))
