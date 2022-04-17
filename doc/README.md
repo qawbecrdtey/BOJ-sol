@@ -1366,6 +1366,8 @@
 
 [20205 교수님 그림이 깨지는데요?](../problems/acmicpc_20205.cpp) ([링크](https://www.acmicpc.net/problem/20205))
 
+[20215 Cutting Corners](../problems/acmicpc_20215.cpp) ([링크](https://www.acmicpc.net/problem/20215))
+
 [20254 Site Score](../problems/acmicpc_20254.cpp) ([링크](https://www.acmicpc.net/problem/20254))
 
 [20299 3대 측정](../problems/acmicpc_20299.cpp) ([링크](https://www.acmicpc.net/problem/20299))
