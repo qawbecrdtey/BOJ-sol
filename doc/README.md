@@ -474,6 +474,8 @@
 
 [4779 칸토어 집합](../problems/acmicpc_4779.cpp) ([링크](https://www.acmicpc.net/problem/4779))
 
+[4792 레드 블루 스패닝 트리](../problems/acmicpc_4792.cpp) ([링크](https://www.acmicpc.net/problem/4792))
+
 [4803 트리](../problems/acmicpc_4803.cpp) ([링크](https://www.acmicpc.net/problem/4803))
 
 [4806 줄 세기](../problems/acmicpc_4806.cpp) ([링크](https://www.acmicpc.net/problem/4806))
