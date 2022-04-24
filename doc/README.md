@@ -372,6 +372,8 @@
 
 [2670 연속부분최대곱](../problems/acmicpc_2670.cpp) ([링크](https://www.acmicpc.net/problem/2670))
 
+[2684 동전 게임](../problems/acmicpc_2684.cpp) ([링크](https://www.acmicpc.net/problem/2684))
+
 [2729 이진수 덧셈](../problems/acmicpc_2729.cpp) ([링크](https://www.acmicpc.net/problem/2729))
 
 [2731 1379와 세제곱](../problems/acmicpc_2731.cpp) ([링크](https://www.acmicpc.net/problem/2731))
