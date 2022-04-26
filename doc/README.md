@@ -1490,6 +1490,8 @@
 
 [24086 身長 (Height)](../problems/acmicpc_24086.cpp) ([링크](https://www.acmicpc.net/problem/24086))
 
+[24087 アイスクリーム (Ice Cream)](../problems/acmicpc_24087.cpp) ([링크](https://www.acmicpc.net/problem/24087))
+
 [24183 Affischutskicket](../problems/acmicpc_24183.cpp) ([링크](https://www.acmicpc.net/problem/24183))
 
 [24389 2의 보수](../problems/acmicpc_24389.cpp) ([링크](https://www.acmicpc.net/problem/24389))
