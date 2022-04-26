@@ -602,6 +602,8 @@
 
 [7789 텔레프라임](../problems/acmicpc_7789.cpp) ([링크](https://www.acmicpc.net/problem/7789))
 
+[7869 두 원](../problems/acmicpc_7869.cpp) ([링크](https://www.acmicpc.net/problem/7869))
+
 [8370 Plane](../problems/acmicpc_8370.cpp) ([링크](https://www.acmicpc.net/problem/8370))
 
 [8394 악수](../problems/acmicpc_8394.cpp) ([링크](https://www.acmicpc.net/problem/8394))
