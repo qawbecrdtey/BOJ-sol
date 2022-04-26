@@ -1288,6 +1288,8 @@
 
 [17284 Vending Machine](../problems/acmicpc_17284.cpp) ([링크](https://www.acmicpc.net/problem/17284))
 
+[17285 XORChic](../problems/acmicpc_17285.cpp) ([링크](https://www.acmicpc.net/problem/17285))
+
 [17350 2루수 이름이 뭐야](../problems/acmicpc_17350.cpp) ([링크](https://www.acmicpc.net/problem/17350))
 
 [17352 여러분의 다리가 되어 드리겠습니다!](../problems/acmicpc_17352.cpp) ([링크](https://www.acmicpc.net/problem/17352))
