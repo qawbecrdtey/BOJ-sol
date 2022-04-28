@@ -544,6 +544,8 @@
 
 [5704 팬그램](../problems/acmicpc_5704.cpp) ([링크](https://www.acmicpc.net/problem/5704))
 
+[5751 Head or Tail](../problems/acmicpc_5751.cpp) ([링크](https://www.acmicpc.net/problem/5751))
+
 [5893 17배](../problems/acmicpc_5893.cpp) ([링크](https://www.acmicpc.net/problem/5893))
 
 [6064 카잉 달력](../problems/acmicpc_6064.cpp) ([링크](https://www.acmicpc.net/problem/6064))
