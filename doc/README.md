@@ -1126,6 +1126,8 @@
 
 [15178 Angles](../problems/acmicpc_15178.cpp) ([링크](https://www.acmicpc.net/problem/15178))
 
+[15233 Final Score](../problems/acmicpc_15233.cpp) ([링크](https://www.acmicpc.net/problem/15233))
+
 [15353 큰 수 A+B (2)](../problems/acmicpc_15353.cpp) ([링크](https://www.acmicpc.net/problem/15353))
 
 [15439 Vera and Outfits](../problems/acmicpc_15439.cpp) ([링크](https://www.acmicpc.net/problem/15439))
