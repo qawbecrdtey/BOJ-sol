@@ -416,6 +416,10 @@
 
 [3059 등장하지 않는 문자의 합](../problems/acmicpc_3059.cpp) ([링크](https://www.acmicpc.net/problem/3059))
 
+[3184 양](../problems/acmicpc_3184.cpp) ([링크](https://www.acmicpc.net/problem/3184))
+
+[3187 양치기 꿍](../problems/acmicpc_3187.cpp) ([링크](https://www.acmicpc.net/problem/3187))
+
 [3257 발코딩](../problems/acmicpc_3257.cpp) ([링크](https://www.acmicpc.net/problem/3257))
 
 [3273 두 수의 합](../problems/acmicpc_3273.cpp) ([링크](https://www.acmicpc.net/problem/3273))
