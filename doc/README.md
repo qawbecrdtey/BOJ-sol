@@ -116,6 +116,8 @@
 
 [1354 무한 수열 2](../problems/acmicpc_1354.cpp) ([링크](https://www.acmicpc.net/problem/1354))
 
+[1356 유진수](../problems/acmicpc_1356.cpp) ([링크](https://www.acmicpc.net/problem/1356))
+
 [1389 케빈 베이컨의 6단계 법칙](../problems/acmicpc_1389.cpp) ([링크](https://www.acmicpc.net/problem/1389))
 
 [1395 스위치](../problems/acmicpc_1395.cpp) ([링크](https://www.acmicpc.net/problem/1395))
