@@ -1280,6 +1280,8 @@
 
 [16978 수열과 쿼리 22](../problems/acmicpc_16978.cpp) ([링크](https://www.acmicpc.net/problem/16978))
 
+[16993 연속합과 쿼리](../problems/acmicpc_16993.cpp) ([링크](https://www.acmicpc.net/problem/16993))
+
 [17009 Winning Score](../problems/acmicpc_17009.cpp) ([링크](https://www.acmicpc.net/problem/17009))
 
 [17094 Serious Problem](../problems/acmicpc_17094.cpp) ([링크](https://www.acmicpc.net/problem/17094))
