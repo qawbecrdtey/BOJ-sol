@@ -1368,6 +1368,8 @@
 
 [18247 겨울왕국 티켓 예매](../problems/acmicpc_18247.cpp) ([링크](https://www.acmicpc.net/problem/18247))
 
+[18265 MooBuzz](../problems/acmicpc_18265.cpp) ([링크](https://www.acmicpc.net/problem/18265))
+
 [18301 Rats](../problems/acmicpc_18301.cpp) ([링크](https://www.acmicpc.net/problem/18301))
 
 [18352 특정 거리의 도시 찾기](../problems/acmicpc_18352.cpp) ([링크](https://www.acmicpc.net/problem/18352))
