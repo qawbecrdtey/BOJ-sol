@@ -476,6 +476,8 @@
 
 [4562 No Brainer](../problems/acmicpc_4562.cpp) ([링크](https://www.acmicpc.net/problem/4562))
 
+[4563 리벤지 오브 피타고라스](../problems/acmicpc_4563.cpp) ([링크](https://www.acmicpc.net/problem/4563))
+
 [4564 숫자 카드놀이](../problems/acmicpc_4564.cpp) ([링크](https://www.acmicpc.net/problem/4564))
 
 [4592 중복을 없애자](../problems/acmicpc_4592.cpp) ([링크](https://www.acmicpc.net/problem/4592))
