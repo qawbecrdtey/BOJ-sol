@@ -1,23 +1,16 @@
-#include <stdio.h>
+#include <iostream>
 #include <stack>
-#include <utility>
 using namespace std;
-int main(){
-    int n;
-    scanf("%d",&n);
-    stack<pair<int,int>> s;
-    for(int i=1;i<=n;i++){
-        int a;
-        scanf("%d",&a);
-        while(!s.empty()&&s.top().second<a){
-            s.pop();
-        }
-        if(s.empty()){
-            printf("0 ");
-            s.push(make_pair(i,a));
-            continue;
-        }
-        printf("%d ",s.top().first);
-        s.push(make_pair(i,a));
-    }
+int main() {
+	ios_base::sync_with_stdio(false);
+	cin.tie(nullptr); cout.tie(nullptr);
+	stack<pair<int, int>> s;
+	int n; cin >> n;
+	for(int i = 1; i <= n; i++) {
+		int x; cin >> x;
+		while(!s.empty() && s.top().second < x) s.pop();
+		if(s.empty()) cout << "0 ";
+		else cout << s.top().first << ' ';
+		s.push({ i, x });
+	}
 }
