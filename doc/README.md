@@ -378,6 +378,8 @@
 
 [2684 동전 게임](../problems/acmicpc_2684.cpp) ([링크](https://www.acmicpc.net/problem/2684))
 
+[2697 다음수 구하기](../problems/acmicpc_2697.cpp) ([링크](https://www.acmicpc.net/problem/2697))
+
 [2725 보이는 점의 개수](../problems/acmicpc_2725.cpp) ([링크](https://www.acmicpc.net/problem/2725))
 
 [2729 이진수 덧셈](../problems/acmicpc_2729.cpp) ([링크](https://www.acmicpc.net/problem/2729))
