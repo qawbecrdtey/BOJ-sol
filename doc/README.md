@@ -1054,6 +1054,8 @@
 
 [14438 수열과 쿼리 17](../problems/acmicpc_14438.cpp) ([링크](https://www.acmicpc.net/problem/14438))
 
+[14440 정수 수열](../problems/acmicpc_14440.cpp) ([링크](https://www.acmicpc.net/problem/14440))
+
 [14467 소가 길을 건너간 이유 1](../problems/acmicpc_14467.cpp) ([링크](https://www.acmicpc.net/problem/14467))
 
 [14470 전자레인지](../problems/acmicpc_14470.cpp) ([링크](https://www.acmicpc.net/problem/14470))
