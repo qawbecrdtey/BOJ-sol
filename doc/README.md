@@ -1048,7 +1048,9 @@
 
 [14405 피카츄](../problems/acmicpc_14405.cpp) ([링크](https://www.acmicpc.net/problem/14405))
 
-[14427 수열과 쿼리 15](../problems/acmicpc_14428.cpp) ([링크](https://www.acmicpc.net/problem/14428))
+[14425 문자열 집합](../problems/acmicpc_14425.cpp) ([링크](https://www.acmicpc.net/problem/14425))
+
+[14427 수열과 쿼리 15](../problems/acmicpc_14427.cpp) ([링크](https://www.acmicpc.net/problem/14427))
 
 [14428 수열과 쿼리 16](../problems/acmicpc_14428.cpp) ([링크](https://www.acmicpc.net/problem/14428))
 
