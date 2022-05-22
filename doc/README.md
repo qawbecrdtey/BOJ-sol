@@ -856,6 +856,8 @@
 
 [11444 피보나치 수 6](../problems/acmicpc_11444.cpp) ([링크](https://www.acmicpc.net/problem/11444))
 
+[11478 서로 다른 부분 문자열의 개수](../problems/acmicpc_11478.cpp) ([링크](https://www.acmicpc.net/problem/11478))
+
 [11505 구간 곱 구하기](../problems/acmicpc_11505.cpp) ([링크](https://www.acmicpc.net/problem/11505))
 
 [11506 占쏙옙](../problems/acmicpc_11506.cpp) ([링크](https://www.acmicpc.net/problem/11506))
