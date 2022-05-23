@@ -1292,6 +1292,8 @@
 
 [16693 Pizza Deal](../problems/acmicpc_16693.cpp) ([링크](https://www.acmicpc.net/problem/16693))
 
+[16755 Magnus](../problems/acmicpc_16755.cpp) ([링크](https://www.acmicpc.net/problem/16755))
+
 [16864 So You Like Your Food Hot?](../problems/acmicpc_16864.cpp) ([링크](https://www.acmicpc.net/problem/16864))
 
 [16891 탄성 충돌](../problems/acmicpc_16891.cpp) ([링크](https://www.acmicpc.net/problem/16891))
