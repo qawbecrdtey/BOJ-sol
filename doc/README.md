@@ -988,6 +988,8 @@
 
 [13300 방 배정](../problems/acmicpc_13300.cpp) ([링크](https://www.acmicpc.net/problem/13300))
 
+[13322 접두사 배열](../problems/acmicpc_13322.cpp) ([링크](https://www.acmicpc.net/problem/13322))
+
 [13345 Completing the Square](../problems/acmicpc_13345.cpp) ([링크](https://www.acmicpc.net/problem/13345))
 
 [13410 거꾸로 구구단](../problems/acmicpc_13410.cpp) ([링크](https://www.acmicpc.net/problem/13410))
