@@ -1250,6 +1250,8 @@
 
 [16134 조합 (Combination)](../problems/acmicpc_16134.cpp) ([링크](https://www.acmicpc.net/problem/16134))
 
+[16139 인간-컴퓨터 상호작용](../problems/acmicpc_16139.cpp) ([링크](https://www.acmicpc.net/problem/16139))
+
 [16168 퍼레이드](../problems/acmicpc_16168.cpp) ([링크](https://www.acmicpc.net/problem/16168))
 
 [16171 나는 친구가 적다 (Small)](../problems/acmicpc_16171.cpp) ([링크](https://www.acmicpc.net/problem/16171))
