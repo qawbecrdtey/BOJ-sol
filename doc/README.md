@@ -1236,6 +1236,8 @@
 
 [15924 욱제는 사과팬이야!!](../problems/acmicpc_15924.cpp) ([링크](https://www.acmicpc.net/problem/15924))
 
+[15948 간단한 문제](../problems/acmicpc_15948.cpp) ([링크](https://www.acmicpc.net/problem/15948))
+
 [15953 상금 헌터](../problems/acmicpc_15953.cpp) ([링크](https://www.acmicpc.net/problem/15953))
 
 [15965 K번째 소수](../problems/acmicpc_15965.cpp) ([링크](https://www.acmicpc.net/problem/15965))
