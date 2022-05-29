@@ -196,6 +196,8 @@
 
 [1700 멀티탭 스케줄링](../problems/acmicpc_1700.cpp) ([링크](https://www.acmicpc.net/problem/1700))
 
+[1704 붕어빵타이쿤](../problems/acmicpc_1704.cpp) ([링크](https://www.acmicpc.net/problem/1704))
+
 [1707 이분 그래프](../problems/acmicpc_1707.cpp) ([링크](https://www.acmicpc.net/problem/1707))
 
 [1712 손익분기점](../problems/acmicpc_1712.cpp) ([링크](https://www.acmicpc.net/problem/1712))
