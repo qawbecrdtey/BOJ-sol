@@ -966,6 +966,8 @@
 
 [13073 Sums](../problems/acmicpc_13073.cpp) ([링크](https://www.acmicpc.net/problem/13073))
 
+[13146 같은 수로 만들기 2](../problems/acmicpc_13146.cpp) ([링크](https://www.acmicpc.net/problem/13146))
+
 [13160 최대 클리크 구하기](../problems/acmicpc_13160.cpp) ([링크](https://www.acmicpc.net/problem/13160))
 
 [13163 닉네임에 갓 붙이기](../problems/acmicpc_13163.cpp) ([링크](https://www.acmicpc.net/problem/13163))
