@@ -630,6 +630,8 @@
 
 [7869 두 원](../problems/acmicpc_7869.cpp) ([링크](https://www.acmicpc.net/problem/7869))
 
+[7891 Can you add this?](../problems/acmicpc_7891.cpp) ([링크](https://www.acmicpc.net/problem/7891))
+
 [8370 Plane](../problems/acmicpc_8370.cpp) ([링크](https://www.acmicpc.net/problem/8370))
 
 [8394 악수](../problems/acmicpc_8394.cpp) ([링크](https://www.acmicpc.net/problem/8394))
