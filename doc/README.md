@@ -772,6 +772,8 @@
 
 [10804 카드 역배치](../problems/acmicpc_10804.cpp) ([링크](https://www.acmicpc.net/problem/10804))
 
+[10810 공 넣기](../problems/acmicpc_10810.cpp) ([링크](https://www.acmicpc.net/problem/10810))
+
 [10819 차이를 최대로](../problems/acmicpc_10819.cpp) ([링크](https://www.acmicpc.net/problem/10819))
 
 [10822 더하기](../problems/acmicpc_10822.cpp) ([링크](https://www.acmicpc.net/problem/10822))
