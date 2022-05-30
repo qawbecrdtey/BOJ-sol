@@ -392,6 +392,8 @@
 
 [2775 부녀회장이 될테야](../problems/acmicpc_2775.cpp) ([링크](https://www.acmicpc.net/problem/2775))
 
+[2783 삼각 김밥](../problems/acmicpc_2783.cpp) ([링크](https://www.acmicpc.net/problem/2783))
+
 [2810 컵홀더](../problems/acmicpc_2810.cpp) ([링크](https://www.acmicpc.net/problem/2810))
 
 [2824 최대공약수](../problems/acmicpc_2824.cpp) ([링크](https://www.acmicpc.net/problem/2824))
