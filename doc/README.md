@@ -638,6 +638,8 @@
 
 [8464 Non-Squarefree Numbers](../problems/acmicpc_8464.cpp) ([링크](https://www.acmicpc.net/problem/8464))
 
+[8545 Zadanie próbne](../problems/acmicpc_8545.cpp) ([링크](https://www.acmicpc.net/problem/8545))
+
 [8595 히든 넘버](../problems/acmicpc_8595.cpp) ([링크](https://www.acmicpc.net/problem/8595))
 
 [8723 Patyki](../problems/acmicpc_8723.cpp) ([링크](https://www.acmicpc.net/problem/8723))
