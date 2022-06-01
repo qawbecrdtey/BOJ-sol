@@ -1214,6 +1214,8 @@
 
 [15719 중복된 숫자](../problems/acmicpc_15719.cpp) ([링크](https://www.acmicpc.net/problem/15719))
 
+[15720 카우버거](../problems/acmicpc_15720.cpp) ([링크](https://www.acmicpc.net/problem/15720))
+
 [15725 다항함수의 미분](../problems/acmicpc_15725.cpp) ([링크](https://www.acmicpc.net/problem/15725))
 
 [15726 이칙연산](../problems/acmicpc_15726.cpp) ([링크](https://www.acmicpc.net/problem/15726))
