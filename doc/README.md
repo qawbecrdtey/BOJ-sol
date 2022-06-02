@@ -1506,6 +1506,8 @@
 
 [21612 Boiling Water](../problems/acmicpc_21612.cpp) ([링크](https://www.acmicpc.net/problem/21612))
 
+[21631 Checkers](../problems/acmicpc_21631.cpp) ([링크](https://www.acmicpc.net/problem/21631))
+
 [21734 SMUPC의 등장](../problems/acmicpc_21734.cpp) ([링크](https://www.acmicpc.net/problem/21734))
 
 [21756 지우개](../problems/acmicpc_21756.cpp) ([링크](https://www.acmicpc.net/problem/21756))
