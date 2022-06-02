@@ -1538,6 +1538,8 @@
 
 [23048 자연수 색칠하기](../problems/acmicpc_23048.cpp) ([링크](https://www.acmicpc.net/problem/23048))
 
+[23235 The Fastest Sorting Algorithm In The World](../problems/acmicpc_23235.cpp) ([링크](https://www.acmicpc.net/problem/23235))
+
 [23275 Knot Knowledge](../problems/acmicpc_23275.cpp) ([링크](https://www.acmicpc.net/problem/23275))
 
 [23278 영화 평가](../problems/acmicpc_23278.cpp) ([링크](https://www.acmicpc.net/problem/23278))
