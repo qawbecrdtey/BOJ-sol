@@ -1118,6 +1118,8 @@
 
 [14646 욱제는 결정장애야!!](../problems/acmicpc_14646.cpp) ([링크](https://www.acmicpc.net/problem/14646))
 
+[14648 쿼리 맛보기](../problems/acmicpc_14648.cpp) ([링크](https://www.acmicpc.net/problem/14648))
+
 [14656 조교는 새디스트야!!](../problems/acmicpc_14656.cpp) ([링크](https://www.acmicpc.net/problem/14656))
 
 [14659 한조서열정리하고옴ㅋㅋ](../problems/acmicpc_14659.cpp) ([링크](https://www.acmicpc.net/problem/14659))
