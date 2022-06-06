@@ -1594,6 +1594,10 @@
 
 [24183 Affischutskicket](../problems/acmicpc_24183.cpp) ([링크](https://www.acmicpc.net/problem/24183))
 
+[24265 알고리즘 수업 - 알고리즘의 수행 시간 4](../problems/acmicpc_24265.cpp) ([링크](https://www.acmicpc.net/problem/24265))
+
+[24266 알고리즘 수업 - 알고리즘의 수행 시간 5](../problems/acmicpc_24266.cpp) ([링크](https://www.acmicpc.net/problem/24266))
+
 [24267 알고리즘 수업 - 알고리즘의 수행 시간 6](../problems/acmicpc_24267.cpp) ([링크](https://www.acmicpc.net/problem/24267))
 
 [24389 2의 보수](../problems/acmicpc_24389.cpp) ([링크](https://www.acmicpc.net/problem/24389))
