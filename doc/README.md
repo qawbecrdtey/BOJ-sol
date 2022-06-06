@@ -1616,6 +1616,8 @@
 
 [24883 자동완성](../problems/acmicpc_24883.cpp) ([링크](https://www.acmicpc.net/problem/24883))
 
+[25238 가희와 방어율 무시](../problems/acmicpc_25238.cpp) ([링크](https://www.acmicpc.net/problem/25238))
+
 ## Algorithms
 
 [BFS](BFS.md)
