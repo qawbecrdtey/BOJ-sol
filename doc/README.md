@@ -228,6 +228,8 @@
 
 [1813 논리학 교수](../problems/acmicpc_1813.cpp) ([링크](https://www.acmicpc.net/problem/1813))
 
+[1822 차집합](../problems/acmicpc_1822.cpp) ([링크](https://www.acmicpc.net/problem/1822))
+
 [1823 수확](../problems/acmicpc_1823.cpp) ([링크](https://www.acmicpc.net/problem/1823))
 
 [1849 순열](../problems/acmicpc_1849.cpp) ([링크](https://www.acmicpc.net/problem/1849))
