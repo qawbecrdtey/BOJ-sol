@@ -476,6 +476,8 @@
 
 [4299 AFC 윔블던](../problems/acmicpc_4299.cpp) ([링크](https://www.acmicpc.net/problem/4299))
 
+[4312 3의 제곱](../problems/acmicpc_4312.cpp) ([링크](https://www.acmicpc.net/problem/4312))
+
 [4355 서로소](../problems/acmicpc_4355.cpp) ([링크](https://www.acmicpc.net/problem/4355))
 
 [4375 1](../problems/acmicpc_4375.cpp) ([링크](https://www.acmicpc.net/problem/4375))
