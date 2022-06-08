@@ -726,6 +726,8 @@
 
 [9735 삼차 방정식 풀기](../problems/acmicpc_9735.cpp) ([링크](https://www.acmicpc.net/problem/9735))
 
+[9753 짝 곱](../problems/acmicpc_9753.cpp) ([링크](https://www.acmicpc.net/problem/9753))
+
 [9884 Euclid](../problems/acmicpc_9884.cpp) ([링크](https://www.acmicpc.net/problem/9884))
 
 [10090 Counting Inversions](../problems/acmicpc_10090.cpp) ([링크](https://www.acmicpc.net/problem/10090))
