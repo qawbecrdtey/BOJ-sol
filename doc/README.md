@@ -1258,6 +1258,8 @@
 
 [15921 수찬은 마린보이야!!](../problems/acmicpc_15921.cpp) ([링크](https://www.acmicpc.net/problem/15921))
 
+[15922 아우으 우아으이야!!](../problems/acmicpc_15922.cpp) ([링크](https://www.acmicpc.net/problem/15922))
+
 [15924 욱제는 사과팬이야!!](../problems/acmicpc_15924.cpp) ([링크](https://www.acmicpc.net/problem/15924))
 
 [15948 간단한 문제](../problems/acmicpc_15948.cpp) ([링크](https://www.acmicpc.net/problem/15948))
