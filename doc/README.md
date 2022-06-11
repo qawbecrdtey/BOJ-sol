@@ -1558,6 +1558,8 @@
 
 [23048 자연수 색칠하기](../problems/acmicpc_23048.cpp) ([링크](https://www.acmicpc.net/problem/23048))
 
+[23175 Histogram Sequence 3](../problems/acmicpc_23175.cpp) ([링크](https://www.acmicpc.net/problem/23175))
+
 [23235 The Fastest Sorting Algorithm In The World](../problems/acmicpc_23235.cpp) ([링크](https://www.acmicpc.net/problem/23235))
 
 [23275 Knot Knowledge](../problems/acmicpc_23275.cpp) ([링크](https://www.acmicpc.net/problem/23275))
