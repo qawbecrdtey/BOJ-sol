@@ -1350,6 +1350,8 @@
 
 [16953 A → B](../problems/acmicpc_16953.cpp) ([링크](https://www.acmicpc.net/problem/16953))
 
+[16965 구간과 쿼리](../problems/acmicpc_16965.cpp) ([링크](https://www.acmicpc.net/problem/16965))
+
 [16975 수열과 쿼리 21](../problems/acmicpc_16975.cpp) ([링크](https://www.acmicpc.net/problem/16975))
 
 [16978 수열과 쿼리 22](../problems/acmicpc_16978.cpp) ([링크](https://www.acmicpc.net/problem/16978))
