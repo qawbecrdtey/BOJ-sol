@@ -1076,6 +1076,8 @@
 
 [14225 부분수열의 합](../problems/acmicpc_14225.cpp) ([링크](https://www.acmicpc.net/problem/14225))
 
+[14226 이모티콘](../problems/acmicpc_14226.cpp) ([링크](https://www.acmicpc.net/problem/14226))
+
 [14244 트리 만들기](../problems/acmicpc_14244.cpp) ([링크](https://www.acmicpc.net/problem/14244))
 
 [14245 XOR](../problems/acmicpc_14245.cpp) ([링크](https://www.acmicpc.net/problem/14245))
