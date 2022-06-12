@@ -950,6 +950,8 @@
 
 [12781 PIZZA ALVOLOC](../problems/acmicpc_12781.cpp) ([링크](https://www.acmicpc.net/problem/12781))
 
+[12784 인하니카 공화국](../problems/acmicpc_12784.cpp) ([링크](https://www.acmicpc.net/problem/12784))
+
 [12789 도키도키 간식드리미](../problems/acmicpc_12789.cpp) ([링크](https://www.acmicpc.net/problem/12789))
 
 [12813 이진수 연산](../problems/acmicpc_12813.cpp) ([링크](https://www.acmicpc.net/problem/12813))
