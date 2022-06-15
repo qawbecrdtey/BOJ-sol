@@ -1638,6 +1638,8 @@
 
 [24736 Football Scoring](../problems/acmicpc_24736.cpp) ([링크](https://www.acmicpc.net/problem/24736))
 
+[24830 Broken Calculator](../problems/acmicpc_24830.cpp) ([링크](https://www.acmicpc.net/problem/24830))
+
 [24860 Counting Antibodies](../problems/acmicpc_24860.cpp) ([링크](https://www.acmicpc.net/problem/24860))
 
 [24883 자동완성](../problems/acmicpc_24883.cpp) ([링크](https://www.acmicpc.net/problem/24883))
