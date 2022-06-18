@@ -1070,6 +1070,8 @@
 
 [14173 Square Pasture](../problems/acmicpc_14173.cpp) ([링크](https://www.acmicpc.net/problem/14173))
 
+[14175 The Cow-Signal](../problems/acmicpc_14175.cpp) ([링크](https://www.acmicpc.net/problem/14175))
+
 [14215 세 막대](../problems/acmicpc_14215.cpp) ([링크](https://www.acmicpc.net/problem/14215))
 
 [14218 그래프 탐색 2](../problems/acmicpc_14218.cpp) ([링크](https://www.acmicpc.net/problem/14218))
