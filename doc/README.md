@@ -772,6 +772,8 @@
 
 [10599 페르시아의 왕들](../problems/acmicpc_10599.cpp) ([링크](https://www.acmicpc.net/problem/10599))
 
+[10698 Ahmed Aly](../problems/acmicpc_10698.cpp) ([링크](https://www.acmicpc.net/problem/10698))
+
 [10709 기상캐스터](../problems/acmicpc_10709.cpp) ([링크](https://www.acmicpc.net/problem/10709))
 
 [10768 특별한 날](../problems/acmicpc_10768.cpp) ([링크](https://www.acmicpc.net/problem/10768))
