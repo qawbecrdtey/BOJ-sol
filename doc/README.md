@@ -742,6 +742,8 @@
 
 [10174 팰린드롬](../problems/acmicpc_10174.cpp) ([링크](https://www.acmicpc.net/problem/10174))
 
+[10177 Magic Squares](../problems/acmicpc_10177.cpp) ([링크](https://www.acmicpc.net/problem/10177))
+
 [10182 AcidBase](../problems/acmicpc_10182.cpp) ([링크](https://www.acmicpc.net/problem/10182))
 
 [10211 Maximum Subarray](../problems/acmicpc_10211.cpp) ([링크](https://www.acmicpc.net/problem/10211))
