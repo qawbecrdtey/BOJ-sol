@@ -1376,6 +1376,8 @@
 
 [17009 Winning Score](../problems/acmicpc_17009.cpp) ([링크](https://www.acmicpc.net/problem/17009))
 
+[17087 숨바꼭질 6](../problems/acmicpc_17087.cpp) ([링크](https://www.acmicpc.net/problem/17087))
+
 [17094 Serious Problem](../problems/acmicpc_17094.cpp) ([링크](https://www.acmicpc.net/problem/17094))
 
 [17104 골드바흐 파티션 2](../problems/acmicpc_17104.cpp) ([링크](https://www.acmicpc.net/problem/17104))
