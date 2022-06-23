@@ -112,6 +112,8 @@
 
 [1339 최소비용 구하기 2](../problems/acmicpc_1339.cpp) ([링크](https://www.acmicpc.net/problem/1339))
 
+[1343 폴리오미노](../problems/acmicpc_1343.cpp) ([링크](https://www.acmicpc.net/problem/1343))
+
 [1351 무한 수열](../problems/acmicpc_1351.cpp) ([링크](https://www.acmicpc.net/problem/1351))
 
 [1354 무한 수열 2](../problems/acmicpc_1354.cpp) ([링크](https://www.acmicpc.net/problem/1354))
