@@ -1406,6 +1406,8 @@
 
 [17245 서버실](../problems/acmicpc_17245.cpp) ([링크](https://www.acmicpc.net/problem/17245))
 
+[17252 삼삼한 수](../problems/acmicpc_17252.cpp) ([링크](https://www.acmicpc.net/problem/17252))
+
 [17256 달달함이 넘쳐흘러](../problems/acmicpc_17256.cpp) ([링크](https://www.acmicpc.net/problem/17256))
 
 [17263 Sort 마스터 배지훈](../problems/acmicpc_17263.cpp) ([링크](https://www.acmicpc.net/problem/17263))
