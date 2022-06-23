@@ -630,6 +630,8 @@
 
 [7586 Cuboids](../problems/acmicpc_7586.cpp) ([링크](https://www.acmicpc.net/problem/7586))
 
+[7596 MP3 Songs](../problems/acmicpc_7596.cpp) ([링크](https://www.acmicpc.net/problem/7596))
+
 [7600 문자가 몇갤까](../problems/acmicpc_7600.cpp) ([링크](https://www.acmicpc.net/problem/7600))
 
 [7662 이중 우선순위 큐](../problems/acmicpc_7662.cpp) ([링크](https://www.acmicpc.net/problem/7662))
