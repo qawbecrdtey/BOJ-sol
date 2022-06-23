@@ -1052,6 +1052,8 @@
 
 [13699 점화식](../problems/acmicpc_13699.cpp) ([링크](https://www.acmicpc.net/problem/13699))
 
+[13701 중복 제거](../problems/acmicpc_13701.cpp) ([링크](https://www.acmicpc.net/problem/13701))
+
 [13711 LCS 4](../problems/acmicpc_13711.cpp) ([링크](https://www.acmicpc.net/problem/13711))
 
 [13728 행렬식과 GCD](../problems/acmicpc_13728.cpp) ([링크](https://www.acmicpc.net/problem/13728))
