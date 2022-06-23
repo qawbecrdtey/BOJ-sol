@@ -1026,6 +1026,8 @@
 
 [13279 곱의 합 쿼리](../problems/acmicpc_13279.cpp) ([링크](https://www.acmicpc.net/problem/13279))
 
+[13288 A New Alphabet](../problems/acmicpc_13288.cpp) ([링크](https://www.acmicpc.net/problem/13288))
+
 [13300 방 배정](../problems/acmicpc_13300.cpp) ([링크](https://www.acmicpc.net/problem/13300))
 
 [13322 접두사 배열](../problems/acmicpc_13322.cpp) ([링크](https://www.acmicpc.net/problem/13322))
