@@ -552,6 +552,8 @@
 
 [5525 IOIOI](../problems/acmicpc_5525.cpp) ([링크](https://www.acmicpc.net/problem/5525))
 
+[5533 유니크](../problems/acmicpc_5533.cpp) ([링크](https://www.acmicpc.net/problem/5533))
+
 [5543 상근날드](../problems/acmicpc_5543.cpp) ([링크](https://www.acmicpc.net/problem/5543))
 
 [5544 리그](../problems/acmicpc_5544.cpp) ([링크](https://www.acmicpc.net/problem/5544))
