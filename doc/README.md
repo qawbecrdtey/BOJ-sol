@@ -302,6 +302,8 @@
 
 [2188 축사 배정](../problems/acmicpc_2188.cpp) ([링크](https://www.acmicpc.net/problem/2188))
 
+[2204 도비의 난독증 테스트](../problems/acmicpc_2204.cpp) ([링크](https://www.acmicpc.net/problem/2204))
+
 [2206 벽 부수고 이동하기](../problems/acmicpc_2206.cpp) ([링크](https://www.acmicpc.net/problem/2206))
 
 [2207 가위바위보](../problems/acmicpc_2207.cpp) ([링크](https://www.acmicpc.net/problem/2207))
