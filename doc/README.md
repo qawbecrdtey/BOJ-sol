@@ -1704,6 +1704,8 @@
 
 [25238 가희와 방어율 무시](../problems/acmicpc_25238.cpp) ([링크](https://www.acmicpc.net/problem/25238))
 
+[25304 영수증](../problems/acmicpc_25304.cpp) ([링크](https://www.acmicpc.net/problem/25304))
+
 ## Algorithms
 
 [BFS](BFS.md)
