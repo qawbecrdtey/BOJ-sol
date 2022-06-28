@@ -698,6 +698,8 @@
 
 [9205 맥주 마시면서 걸어가기](../problems/acmicpc_9205.cpp) ([링크](https://www.acmicpc.net/problem/9205))
 
+[9226 도깨비말](../problems/acmicpc_9226.cpp) ([링크](https://www.acmicpc.net/problem/9226))
+
 [9237 이장님 초대](../problems/acmicpc_9237.cpp) ([링크](https://www.acmicpc.net/problem/9237))
 
 [9251 LCS](../problems/acmicpc_9251.cpp) ([링크](https://www.acmicpc.net/problem/9251))
