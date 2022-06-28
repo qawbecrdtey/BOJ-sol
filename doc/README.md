@@ -678,13 +678,15 @@
 
 [8979 올림픽](../problems/acmicpc_8979.cpp) ([링크](https://www.acmicpc.net/problem/8979))
 
-[9019 DSLR](../problems/acmicpc_9019.cpp) ([링크](https://www.acmicpc.net/problem/9019))
+[9015 정사각형](../problems/acmicpc_9015.cpp) ([링크](https://www.acmicpc.net/problem/9015))
 
-[9094 수학적 호기심](../problems/acmicpc_9094.cpp) ([링크](https://www.acmicpc.net/problem/9094))
+[9019 DSLR](../problems/acmicpc_9019.cpp) ([링크](https://www.acmicpc.net/problem/9019))
 
 [9076 점수 집계](../problems/acmicpc_9076.cpp) ([링크](https://www.acmicpc.net/problem/9076))
 
 [9084 동전](../problems/acmicpc_9084.cpp) ([링크](https://www.acmicpc.net/problem/9084))
+
+[9094 수학적 호기심](../problems/acmicpc_9094.cpp) ([링크](https://www.acmicpc.net/problem/9094))
 
 [9205 맥주 마시면서 걸어가기](../problems/acmicpc_9205.cpp) ([링크](https://www.acmicpc.net/problem/9205))
 
