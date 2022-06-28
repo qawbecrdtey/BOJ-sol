@@ -940,6 +940,8 @@
 
 [11690 LCM(1, 2, ..., n)](../problems/acmicpc_11690.cpp) ([링크](https://www.acmicpc.net/problem/11690))
 
+[11691 LCM(i, j)](../problems/acmicpc_11691.cpp) ([링크](https://www.acmicpc.net/problem/11691))
+
 [11735 정산소](../problems/acmicpc_11735.cpp) ([링크](https://www.acmicpc.net/problem/11735))
 
 [11766 Rings](../problems/acmicpc_11766.cpp) ([링크](https://www.acmicpc.net/problem/11766))
