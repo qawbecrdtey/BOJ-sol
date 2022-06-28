@@ -544,6 +544,8 @@
 
 [5217 쌍의 합](../problems/acmicpc_5217.cpp) ([링크](https://www.acmicpc.net/problem/5217))
 
+[5236 Longest Decreasing Suffix](../problems/acmicpc_5236.cpp) ([링크](https://www.acmicpc.net/problem/5236))
+
 [5237 Connected or Not Connected](../problems/acmicpc_5237.cpp) ([링크](https://www.acmicpc.net/problem/5237))
 
 [5347 LCM](../problems/acmicpc_5347.cpp) ([링크](https://www.acmicpc.net/problem/5347))
