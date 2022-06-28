@@ -432,6 +432,8 @@
 
 [3009 네 번째 점](../problems/acmicpc_3009.cpp) ([링크](https://www.acmicpc.net/problem/3009))
 
+[3023 마술사 이민혁](../problems/acmicpc_3023.cpp) ([링크](https://www.acmicpc.net/problem/3023))
+
 [3028 창영마을](../problems/acmicpc_3028.cpp) ([링크](https://www.acmicpc.net/problem/3028))
 
 [3035 스캐너](../problems/acmicpc_3035.cpp) ([링크](https://www.acmicpc.net/problem/3035))
