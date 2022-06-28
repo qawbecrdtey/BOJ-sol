@@ -1548,6 +1548,8 @@
 
 [20053 최소, 최대 2](../problems/acmicpc_20053.cpp) ([링크](https://www.acmicpc.net/problem/20053))
 
+[20112 사토르 마방진](../problems/acmicpc_20112.cpp) ([링크](https://www.acmicpc.net/problem/20112))
+
 [20124 모르고리즘 회장님 추천 받습니다](../problems/acmicpc_20124.cpp) ([링크](https://www.acmicpc.net/problem/20124))
 
 [20170 Commemorative Dice](../problems/acmicpc_20170.cpp) ([링크](https://www.acmicpc.net/problem/20170))
