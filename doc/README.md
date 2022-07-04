@@ -1730,6 +1730,8 @@
 
 [25311 UCPC에서 가장 쉬운 문제 번호는?](../problems/acmicpc_25311.cpp) ([링크](https://www.acmicpc.net/problem/25311))
 
+[25314 코딩은 체육과목 입니다](../problems/acmicpc_25314.cpp) ([링크](https://www.acmicpc.net/problem/25314))
+
 ## Algorithms
 
 [BFS](BFS.md)
