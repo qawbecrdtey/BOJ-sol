@@ -1128,6 +1128,8 @@
 
 [14218 그래프 탐색 2](../problems/acmicpc_14218.cpp) ([링크](https://www.acmicpc.net/problem/14218))
 
+[14219 막대과자 포장](../problems/acmicpc_14219.cpp) ([링크](https://www.acmicpc.net/problem/14219))
+
 [14225 부분수열의 합](../problems/acmicpc_14225.cpp) ([링크](https://www.acmicpc.net/problem/14225))
 
 [14226 이모티콘](../problems/acmicpc_14226.cpp) ([링크](https://www.acmicpc.net/problem/14226))
