@@ -802,6 +802,8 @@
 
 [10422 괄호](../problems/acmicpc_10422.cpp) ([링크](https://www.acmicpc.net/problem/10422))
 
+[10464 XOR](../problems/acmicpc_10464.cpp) ([링크](https://www.acmicpc.net/problem/10464))
+
 [10480 Oddities](../problems/acmicpc_10480.cpp) ([링크](https://www.acmicpc.net/problem/10480))
 
 [10531 Golf Bot](../problems/acmicpc_10531.cpp) ([링크](https://www.acmicpc.net/problem/10531))
