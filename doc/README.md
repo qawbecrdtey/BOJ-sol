@@ -1738,6 +1738,8 @@
 
 [25304 영수증](../problems/acmicpc_25304.cpp) ([링크](https://www.acmicpc.net/problem/25304))
 
+[25306 연속 XOR](../problems/acmicpc_25306.cpp) ([링크](https://www.acmicpc.net/problem/25306))
+
 [25311 UCPC에서 가장 쉬운 문제 번호는?](../problems/acmicpc_25311.cpp) ([링크](https://www.acmicpc.net/problem/25311))
 
 [25314 코딩은 체육과목 입니다](../problems/acmicpc_25314.cpp) ([링크](https://www.acmicpc.net/problem/25314))
