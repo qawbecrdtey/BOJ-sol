@@ -238,6 +238,8 @@
 
 [1823 수확](../problems/acmicpc_1823.cpp) ([링크](https://www.acmicpc.net/problem/1823))
 
+[1835 카드](../problems/acmicpc_1835.cpp) ([링크](https://www.acmicpc.net/problem/1835))
+
 [1849 순열](../problems/acmicpc_1849.cpp) ([링크](https://www.acmicpc.net/problem/1849))
 
 [1862 미터계](../problems/acmicpc_1862.cpp) ([링크](https://www.acmicpc.net/problem/1862))
