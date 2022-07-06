@@ -238,6 +238,8 @@
 
 [1823 수확](../problems/acmicpc_1823.cpp) ([링크](https://www.acmicpc.net/problem/1823))
 
+[1835 카드](../problems/acmicpc_1835.cpp) ([링크](https://www.acmicpc.net/problem/1835))
+
 [1849 순열](../problems/acmicpc_1849.cpp) ([링크](https://www.acmicpc.net/problem/1849))
 
 [1862 미터계](../problems/acmicpc_1862.cpp) ([링크](https://www.acmicpc.net/problem/1862))
@@ -800,6 +802,8 @@
 
 [10422 괄호](../problems/acmicpc_10422.cpp) ([링크](https://www.acmicpc.net/problem/10422))
 
+[10464 XOR](../problems/acmicpc_10464.cpp) ([링크](https://www.acmicpc.net/problem/10464))
+
 [10480 Oddities](../problems/acmicpc_10480.cpp) ([링크](https://www.acmicpc.net/problem/10480))
 
 [10531 Golf Bot](../problems/acmicpc_10531.cpp) ([링크](https://www.acmicpc.net/problem/10531))
@@ -1200,6 +1204,8 @@
 
 [14699 관악산 등산](../problems/acmicpc_14699.cpp) ([링크](https://www.acmicpc.net/problem/14699))
 
+[14720 우유 축제](../problems/acmicpc_14720.cpp) ([링크](https://www.acmicpc.net/problem/14720))
+
 [14725 개미굴](../problems/acmicpc_14725.cpp) ([링크](https://www.acmicpc.net/problem/14725))
 
 [14728 벼락치기](../problems/acmicpc_14728.cpp) ([링크](https://www.acmicpc.net/problem/14728))
@@ -1451,6 +1457,8 @@
 [17252 삼삼한 수](../problems/acmicpc_17252.cpp) ([링크](https://www.acmicpc.net/problem/17252))
 
 [17256 달달함이 넘쳐흘러](../problems/acmicpc_17256.cpp) ([링크](https://www.acmicpc.net/problem/17256))
+
+[17262 팬덤이 넘쳐흘러](../problems/acmicpc_17262.cpp) ([링크](https://www.acmicpc.net/problem/17262))
 
 [17263 Sort 마스터 배지훈](../problems/acmicpc_17263.cpp) ([링크](https://www.acmicpc.net/problem/17263))
 
@@ -1733,6 +1741,8 @@
 [25238 가희와 방어율 무시](../problems/acmicpc_25238.cpp) ([링크](https://www.acmicpc.net/problem/25238))
 
 [25304 영수증](../problems/acmicpc_25304.cpp) ([링크](https://www.acmicpc.net/problem/25304))
+
+[25306 연속 XOR](../problems/acmicpc_25306.cpp) ([링크](https://www.acmicpc.net/problem/25306))
 
 [25311 UCPC에서 가장 쉬운 문제 번호는?](../problems/acmicpc_25311.cpp) ([링크](https://www.acmicpc.net/problem/25311))
 
