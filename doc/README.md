@@ -1496,6 +1496,8 @@
 
 [17427 약수의 합 2](../problems/acmicpc_17427.cpp) ([링크](https://www.acmicpc.net/problem/17427))
 
+[17433 신비로운 수](../problems/acmicpc_17433.cpp) ([링크](https://www.acmicpc.net/problem/17433))
+
 [17466 N! mod P (1)](../problems/acmicpc_17466.cpp) ([링크](https://www.acmicpc.net/problem/17466))
 
 [17478 재귀함수가 뭔가요?](../problems/acmicpc_17478.cpp) ([링크](https://www.acmicpc.net/problem/17478))
