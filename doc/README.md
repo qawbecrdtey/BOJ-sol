@@ -1534,6 +1534,8 @@
 
 [18917 수열과 쿼리 38](../problems/acmicpc_18917.cpp) ([링크](https://www.acmicpc.net/problem/18917))
 
+[19179 Ladder](../problems/acmicpc_19179.cpp) ([링크](https://www.acmicpc.net/problem/19179))
+
 [19532 수학은 비대면강의입니다](../problems/acmicpc_19532.cpp) ([링크](https://www.acmicpc.net/problem/19532))
 
 [19563 개구리 1](../problems/acmicpc_19563.cpp) ([링크](https://www.acmicpc.net/problem/19563))
