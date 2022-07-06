@@ -376,6 +376,8 @@
 
 [2553 마지막 팩토리얼 수](../problems/acmicpc_2553.cpp) ([링크](https://www.acmicpc.net/problem/2553))
 
+[2556 별 찍기 - 14](../problems/acmicpc_2556.cpp) ([링크](https://www.acmicpc.net/problem/2556))
+
 [2607 비슷한 단어](../problems/acmicpc_2607.cpp) ([링크](https://www.acmicpc.net/problem/2607))
 
 [2623 음악프로그램](../problems/acmicpc_2623.cpp) ([링크](https://www.acmicpc.net/problem/2623))
