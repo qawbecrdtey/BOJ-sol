@@ -680,6 +680,8 @@
 
 [8595 히든 넘버](../problems/acmicpc_8595.cpp) ([링크](https://www.acmicpc.net/problem/8595))
 
+[8710 Koszykarz](../problems/acmicpc_8710.cpp) ([링크](https://www.acmicpc.net/problem/8710))
+
 [8723 Patyki](../problems/acmicpc_8723.cpp) ([링크](https://www.acmicpc.net/problem/8723))
 
 [8871 Zadanie próbne 2](../problems/acmicpc_8871.cpp) ([링크](https://www.acmicpc.net/problem/8871))
