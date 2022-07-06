@@ -1276,6 +1276,8 @@
 
 [15576 큰 수 곱셈 (2)](../problems/acmicpc_15576.cpp) ([링크](https://www.acmicpc.net/problem/15576))
 
+[15610 Abbey Courtyard](../problems/acmicpc_15610.cpp) ([링크](https://www.acmicpc.net/problem/15610))
+
 [15624 피보나치 수 7](../problems/acmicpc_15624.cpp) ([링크](https://www.acmicpc.net/problem/15624))
 
 [15633 Fan Death](../problems/acmicpc_15633.cpp) ([링크](https://www.acmicpc.net/problem/15633))
