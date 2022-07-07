@@ -144,6 +144,8 @@
 
 [1438 가장 작은 직사각형](../problems/acmicpc_1438.cpp) ([링크](https://www.acmicpc.net/problem/1438))
 
+[1456 거의 소수](../problems/acmicpc_1456.cpp) ([링크](https://www.acmicpc.net/problem/1456))
+
 [1459 걷기](../problems/acmicpc_1459.cpp) ([링크](https://www.acmicpc.net/problem/1459))
 
 [1500 최대 곱](../problems/acmicpc_1500.cpp) ([링크](https://www.acmicpc.net/problem/1500))
