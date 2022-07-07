@@ -1394,6 +1394,8 @@
 
 [16438 원숭이 스포츠](../problems/acmicpc_16438.cpp) ([링크](https://www.acmicpc.net/problem/16438))
 
+[16455 K번째 수 찾는 함수](../problems/acmicpc_16455.cpp) ([링크](https://www.acmicpc.net/problem/16455))
+
 [16483 접시 안의 원](../problems/acmicpc_16483.cpp) ([링크](https://www.acmicpc.net/problem/16483))
 
 [16485 작도하자! - ②](../problems/acmicpc_16485.cpp) ([링크](https://www.acmicpc.net/problem/16485))
