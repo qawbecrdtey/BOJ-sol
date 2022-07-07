@@ -774,6 +774,8 @@
 
 [9945 Centroid of Point Masses](../problems/acmicpc_9945.cpp) ([링크](https://www.acmicpc.net/problem/9945))
 
+[9950 Rectangles](../problems/acmicpc_9950.cpp) ([링크](https://www.acmicpc.net/problem/9950))
+
 [10090 Counting Inversions](../problems/acmicpc_10090.cpp) ([링크](https://www.acmicpc.net/problem/10090))
 
 [10162 전자레인지](../problems/acmicpc_10162.cpp) ([링크](https://www.acmicpc.net/problem/10162))
