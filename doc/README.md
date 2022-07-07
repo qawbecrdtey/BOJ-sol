@@ -1386,6 +1386,8 @@
 
 [16287 Parcel](../problems/acmicpc_16287.cpp) ([링크](https://www.acmicpc.net/problem/16287))
 
+[16360 Go Latin](../problems/acmicpc_16360.cpp) ([링크](https://www.acmicpc.net/problem/16360))
+
 [16367 TV Show Game](../problems/acmicpc_16367.cpp) ([링크](https://www.acmicpc.net/problem/16367))
 
 [16394 홍익대학교](../problems/acmicpc_16394.cpp) ([링크](https://www.acmicpc.net/problem/16394))
