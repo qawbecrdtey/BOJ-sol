@@ -928,6 +928,8 @@
 
 [11320 삼각 무늬 - 1](../problems/acmicpc_11320.cpp) ([링크](https://www.acmicpc.net/problem/11320))
 
+[11375 열혈강호 2](../problems/acmicpc_11375.cpp) ([링크](https://www.acmicpc.net/problem/11375))
+
 [11382 꼬마 정민](../problems/acmicpc_11382.cpp) ([링크](https://www.acmicpc.net/problem/11382))
 
 [11401 이항 계수 3](../problems/acmicpc_11401.cpp) ([링크](https://www.acmicpc.net/problem/11401))
