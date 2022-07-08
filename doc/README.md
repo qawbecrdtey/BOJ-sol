@@ -450,6 +450,8 @@
 
 [3059 등장하지 않는 문자의 합](../problems/acmicpc_3059.cpp) ([링크](https://www.acmicpc.net/problem/3059))
 
+[3182 한동이는 공부가 하기 싫어!](../problems/acmicpc_3182.cpp) ([링크](https://www.acmicpc.net/problem/3182))
+
 [3184 양](../problems/acmicpc_3184.cpp) ([링크](https://www.acmicpc.net/problem/3184))
 
 [3187 양치기 꿍](../problems/acmicpc_3187.cpp) ([링크](https://www.acmicpc.net/problem/3187))
