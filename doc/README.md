@@ -1714,6 +1714,8 @@
 
 [23303 이 문제는 D2 입니다.](../problems/acmicpc_23303.cpp) ([링크](https://www.acmicpc.net/problem/23303))
 
+[23320 홍익 절대평가](../problems/acmicpc_23320.cpp) ([링크](https://www.acmicpc.net/problem/23320))
+
 [23327 리그전 오브 레전드](../problems/acmicpc_23327.cpp) ([링크](https://www.acmicpc.net/problem/23327))
 
 [23530 Not A + B](../problems/acmicpc_23530.cpp) ([링크](https://www.acmicpc.net/problem/23530))
