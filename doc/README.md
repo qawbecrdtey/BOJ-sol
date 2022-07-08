@@ -998,6 +998,8 @@
 
 [12015 가장 긴 증가하는 부분 수열 2](../problems/acmicpc_12015.cpp) ([링크](https://www.acmicpc.net/problem/12015))
 
+[12018 Yonsei TOTO](../problems/acmicpc_12018.cpp) ([링크](https://www.acmicpc.net/problem/12018))
+
 [12037 Polynesiaglot (Small1)](../problems/acmicpc_12037.cpp) ([링크](https://www.acmicpc.net/problem/12037))
 
 [12038 Polynesiaglot (Small2)](../problems/acmicpc_12038.cpp) ([링크](https://www.acmicpc.net/problem/12038))
