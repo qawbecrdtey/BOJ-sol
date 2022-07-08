@@ -1622,6 +1622,8 @@
 
 [20299 3대 측정](../problems/acmicpc_20299.cpp) ([링크](https://www.acmicpc.net/problem/20299))
 
+[20310 타노스](../problems/acmicpc_20310.cpp) ([링크](https://www.acmicpc.net/problem/20310))
+
 [20360 Binary numbers](../problems/acmicpc_20360.cpp) ([링크](https://www.acmicpc.net/problem/20360))
 
 [20361 일우는 야바위꾼](../problems/acmicpc_20361.cpp) ([링크](https://www.acmicpc.net/problem/20361))
