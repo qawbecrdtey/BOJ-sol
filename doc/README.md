@@ -1282,6 +1282,8 @@
 
 [14958 Rock Paper Scissors](../problems/acmicpc_14958.cpp) ([링크](https://www.acmicpc.net/problem/14958))
 
+[15000 CAPS](../problems/acmicpc_15000.cpp) ([링크](https://www.acmicpc.net/problem/15000))
+
 [15059 Hard choice](../problems/acmicpc_15059.cpp) ([링크](https://www.acmicpc.net/problem/15059))
 
 [15128 Congruent Numbers](../problems/acmicpc_15128.cpp) ([링크](https://www.acmicpc.net/problem/15128))
