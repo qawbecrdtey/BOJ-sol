@@ -106,6 +106,8 @@
 
 [1296 데이트](../problems/acmicpc_1296.cpp) ([링크](https://www.acmicpc.net/problem/1296))
 
+[1298 룩 배치하기](../problems/acmicpc_1298.cpp) ([링크](https://www.acmicpc.net/problem/1298))
+
 [1300 K번째 수](../problems/acmicpc_1300.cpp) ([링크](https://www.acmicpc.net/problem/1300))
 
 [1306 달려라 홍준](../problems/acmicpc_1306.cpp) ([링크](https://www.acmicpc.net/problem/1306))
