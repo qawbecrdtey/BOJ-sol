@@ -434,6 +434,8 @@
 
 [2959 거북이](../problems/acmicpc_2959.cpp) ([링크](https://www.acmicpc.net/problem/2959))
 
+[2992 크면서 작은 수](../problems/acmicpc_2992.cpp) ([링크](https://www.acmicpc.net/problem/2992))
+
 [3003 킹, 퀸, 룩, 비숍, 나이트, 폰](../problems/acmicpc_3003.cpp) ([링크](https://www.acmicpc.net/problem/3003))
 
 [3004 체스판 조각](../problems/acmicpc_3004.cpp) ([링크](https://www.acmicpc.net/problem/3004))
