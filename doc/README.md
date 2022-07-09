@@ -248,6 +248,8 @@
 
 [1862 미터계](../problems/acmicpc_1862.cpp) ([링크](https://www.acmicpc.net/problem/1862))
 
+[1864 문어 숫자](../problems/acmicpc_1864.cpp) ([링크](https://www.acmicpc.net/problem/1864))
+
 [1913 달팽이](../problems/acmicpc_1913.cpp) ([링크](https://www.acmicpc.net/problem/1913))
 
 [1918 후위 표기식](../problems/acmicpc_1918.cpp) ([링크](https://www.acmicpc.net/problem/1918))
