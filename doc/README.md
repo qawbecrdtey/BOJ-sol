@@ -180,6 +180,8 @@
 
 [1568 새](../problems/acmicpc_1568.cpp) ([링크](https://www.acmicpc.net/problem/1568))
 
+[1612 가지고 노는 1](../problems/acmicpc_1612.cpp) ([링크](https://www.acmicpc.net/problem/1612))
+
 [1620 나는야 포켓몬 마스터 이다솜](../problems/acmicpc_1620.cpp) ([링크](https://www.acmicpc.net/problem/1620))
 
 [1622 공통 순열](../problems/acmicpc_1622.cpp) ([링크](https://www.acmicpc.net/problem/1622))
