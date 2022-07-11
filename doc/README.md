@@ -1792,6 +1792,8 @@
 
 [24479 알고리즘 수업 - 깊이 우선 탐색 1](../problems/acmicpc_24479.cpp) ([링크](https://www.acmicpc.net/problem/24479))
 
+[24480 알고리즘 수업 - 깊이 우선 탐색 2](../problems/acmicpc_24480.cpp) ([링크](https://www.acmicpc.net/problem/24480))
+
 [24523 내 뒤에 나와 다른 수](../problems/acmicpc_24523.cpp) ([링크](https://www.acmicpc.net/problem/24523))
 
 [24568 Cupcake Party](../problems/acmicpc_24568.cpp) ([링크](https://www.acmicpc.net/problem/24568))
