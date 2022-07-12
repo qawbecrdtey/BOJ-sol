@@ -476,6 +476,8 @@
 
 [3474 교수가 된 현우](../problems/acmicpc_3474.cpp) ([링크](https://www.acmicpc.net/problem/3474))
 
+[3486 Adding Reversed Numbers](../problems/acmicpc_3486.cpp) ([링크](https://www.acmicpc.net/problem/3486))
+
 [3566 대형 스크린](../problems/acmicpc_3566.cpp) ([링크](https://www.acmicpc.net/problem/3566))
 
 [3584 가장 가까운 공통 조상](../problems/acmicpc_3584.cpp) ([링크](https://www.acmicpc.net/problem/3584))
