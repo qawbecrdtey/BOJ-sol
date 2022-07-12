@@ -950,6 +950,8 @@
 
 [11377 열혈강호 3](../problems/acmicpc_11377.cpp) ([링크](https://www.acmicpc.net/problem/11377))
 
+[11378 열혈강호 4](../problems/acmicpc_11378.cpp) ([링크](https://www.acmicpc.net/problem/11378))
+
 [11382 꼬마 정민](../problems/acmicpc_11382.cpp) ([링크](https://www.acmicpc.net/problem/11382))
 
 [11401 이항 계수 3](../problems/acmicpc_11401.cpp) ([링크](https://www.acmicpc.net/problem/11401))
