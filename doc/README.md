@@ -270,6 +270,8 @@
 
 [1958 LCS 3](../problems/acmicpc_1958.cpp) ([링크](https://www.acmicpc.net/problem/1958))
 
+[1960 행렬만들기](../problems/acmicpc_1960.cpp) ([링크](https://www.acmicpc.net/problem/1960))
+
 [1963 소수 경로](../problems/acmicpc_1963.cpp) ([링크](https://www.acmicpc.net/problem/1963))
 
 [1965 상자넣기](../problems/acmicpc_1965.cpp) ([링크](https://www.acmicpc.net/problem/1965))
