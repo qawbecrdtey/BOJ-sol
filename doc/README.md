@@ -1698,6 +1698,8 @@
 
 [21591 Laptop Sticker](../problems/acmicpc_21591.cpp) ([링크](https://www.acmicpc.net/problem/21591))
 
+[21603 K 2K 게임](../problems/acmicpc_21603.cpp) ([링크](https://www.acmicpc.net/problem/21603))
+
 [21612 Boiling Water](../problems/acmicpc_21612.cpp) ([링크](https://www.acmicpc.net/problem/21612))
 
 [21631 Checkers](../problems/acmicpc_21631.cpp) ([링크](https://www.acmicpc.net/problem/21631))
