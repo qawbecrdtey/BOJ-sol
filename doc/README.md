@@ -964,6 +964,8 @@
 
 [11402 이항 계수 4](../problems/acmicpc_11402.cpp) ([링크](https://www.acmicpc.net/problem/11402))
 
+[11406 책 구매하기 2](../problems/acmicpc_11406.cpp) ([링크](https://www.acmicpc.net/problem/11406))
+
 [11437 LCA](../problems/acmicpc_11437.cpp) ([링크](https://www.acmicpc.net/problem/11437))
 
 [11438 LCA 2](../problems/acmicpc_11438.cpp) ([링크](https://www.acmicpc.net/problem/11438))
