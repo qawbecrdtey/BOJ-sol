@@ -1360,6 +1360,8 @@
 
 [15678 연세워터파크](../problems/acmicpc_15678.cpp) ([링크](https://www.acmicpc.net/problem/15678))
 
+[15686 치킨 배달](../problems/acmicpc_15686.cpp) ([링크](https://www.acmicpc.net/problem/15686))
+
 [15700 타일 채우기 4](../problems/acmicpc_15700.cpp) ([링크](https://www.acmicpc.net/problem/15700))
 
 [15701 순서쌍](../problems/acmicpc_15701.cpp) ([링크](https://www.acmicpc.net/problem/15701))
