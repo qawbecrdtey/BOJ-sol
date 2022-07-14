@@ -1742,6 +1742,8 @@
 
 [23048 자연수 색칠하기](../problems/acmicpc_23048.cpp) ([링크](https://www.acmicpc.net/problem/23048))
 
+[23055 공사장 표지판](../problems/acmicpc_23055.cpp) ([링크](https://www.acmicpc.net/problem/23055))
+
 [23080 스키테일 암호](../problems/acmicpc_23080.cpp) ([링크](https://www.acmicpc.net/problem/23080))
 
 [23175 Histogram Sequence 3](../problems/acmicpc_23175.cpp) ([링크](https://www.acmicpc.net/problem/23175))
