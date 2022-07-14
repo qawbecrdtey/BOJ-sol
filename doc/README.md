@@ -464,6 +464,8 @@
 
 [3059 등장하지 않는 문자의 합](../problems/acmicpc_3059.cpp) ([링크](https://www.acmicpc.net/problem/3059))
 
+[3181 줄임말 만들기](../problems/acmicpc_3181.cpp) ([링크](https://www.acmicpc.net/problem/3181))
+
 [3182 한동이는 공부가 하기 싫어!](../problems/acmicpc_3182.cpp) ([링크](https://www.acmicpc.net/problem/3182))
 
 [3184 양](../problems/acmicpc_3184.cpp) ([링크](https://www.acmicpc.net/problem/3184))
@@ -643,6 +645,8 @@
 [6362 Unimodal Palindromic Decompositions](../problems/acmicpc_6362.cpp) ([링크](https://www.acmicpc.net/problem/6362))
 
 [6378 디지털 루트](../problems/acmicpc_6378.cpp) ([링크](https://www.acmicpc.net/problem/6378))
+
+[6463 팩트](../problems/acmicpc_6463.cpp) ([링크](https://www.acmicpc.net/problem/6463))
 
 [6502 동혁 피자](../problems/acmicpc_6502.cpp) ([링크](https://www.acmicpc.net/problem/6502))
 
@@ -1158,6 +1162,8 @@
 
 [13701 중복 제거](../problems/acmicpc_13701.cpp) ([링크](https://www.acmicpc.net/problem/13701))
 
+[13706 제곱근](../problems/acmicpc_13706.cpp) ([링크](https://www.acmicpc.net/problem/13706))
+
 [13711 LCS 4](../problems/acmicpc_13711.cpp) ([링크](https://www.acmicpc.net/problem/13711))
 
 [13728 행렬식과 GCD](../problems/acmicpc_13728.cpp) ([링크](https://www.acmicpc.net/problem/13728))
@@ -1225,6 +1231,8 @@
 [14467 소가 길을 건너간 이유 1](../problems/acmicpc_14467.cpp) ([링크](https://www.acmicpc.net/problem/14467))
 
 [14470 전자레인지](../problems/acmicpc_14470.cpp) ([링크](https://www.acmicpc.net/problem/14470))
+
+[14490 백대열](../problems/acmicpc_14490.cpp) ([링크](https://www.acmicpc.net/problem/14490))
 
 [14491 9진수](../problems/acmicpc_14491.cpp) ([링크](https://www.acmicpc.net/problem/14491))
 
@@ -1354,6 +1362,8 @@
 
 [15678 연세워터파크](../problems/acmicpc_15678.cpp) ([링크](https://www.acmicpc.net/problem/15678))
 
+[15686 치킨 배달](../problems/acmicpc_15686.cpp) ([링크](https://www.acmicpc.net/problem/15686))
+
 [15700 타일 채우기 4](../problems/acmicpc_15700.cpp) ([링크](https://www.acmicpc.net/problem/15700))
 
 [15701 순서쌍](../problems/acmicpc_15701.cpp) ([링크](https://www.acmicpc.net/problem/15701))
@@ -1417,6 +1427,8 @@
 [15990 1, 2, 3 더하기 5](../problems/acmicpc_15990.cpp) ([링크](https://www.acmicpc.net/problem/15990))
 
 [15995 잉여역수 구하기](../problems/acmicpc_15995.cpp) ([링크](https://www.acmicpc.net/problem/15995))
+
+[16017 Telemarketer or not?](../problems/acmicpc_16017.cpp) ([링크](https://www.acmicpc.net/problem/16017))
 
 [16134 조합 (Combination)](../problems/acmicpc_16134.cpp) ([링크](https://www.acmicpc.net/problem/16134))
 
