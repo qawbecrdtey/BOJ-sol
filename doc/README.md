@@ -1626,6 +1626,8 @@
 
 [18408 3 つの整数 (Three Integers)](../problems/acmicpc_18408.cpp) ([링크](https://www.acmicpc.net/problem/18408))
 
+[18414 X に最も近い値 (The Nearest Value)](../problems/acmicpc_18414.cpp) ([링크](https://www.acmicpc.net/problem/18414))
+
 [18422 Emacs](../problems/acmicpc_18422.cpp) ([링크](https://www.acmicpc.net/problem/18422))
 
 [18436 수열과 쿼리 37](../problems/acmicpc_18436.cpp) ([링크](https://www.acmicpc.net/problem/18436))
