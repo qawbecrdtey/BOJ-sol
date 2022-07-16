@@ -1866,6 +1866,8 @@
 
 [25238 가희와 방어율 무시](../problems/acmicpc_25238.cpp) ([링크](https://www.acmicpc.net/problem/25238))
 
+[25270 99 Problems](../problems/acmicpc_25270.cpp) ([링크](https://www.acmicpc.net/problem/25270))
+
 [25304 영수증](../problems/acmicpc_25304.cpp) ([링크](https://www.acmicpc.net/problem/25304))
 
 [25306 연속 XOR](../problems/acmicpc_25306.cpp) ([링크](https://www.acmicpc.net/problem/25306))
