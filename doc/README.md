@@ -1388,6 +1388,8 @@
 
 [15727 조별과제를 하려는데 조장이 사라졌다](../problems/acmicpc_15727.cpp) ([링크](https://www.acmicpc.net/problem/15727))
 
+[15734 명장 남정훈](../problems/acmicpc_15734.cpp) ([링크](https://www.acmicpc.net/problem/15734))
+
 [15780 멀티탭 충분하니?](../problems/acmicpc_15780.cpp) ([링크](https://www.acmicpc.net/problem/15780))
 
 [15781 헬멧과 조끼](../problems/acmicpc_15781.cpp) ([링크](https://www.acmicpc.net/problem/15781))
