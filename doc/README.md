@@ -1076,6 +1076,8 @@
 
 [12789 도키도키 간식드리미](../problems/acmicpc_12789.cpp) ([링크](https://www.acmicpc.net/problem/12789))
 
+[12791 Starman](../problems/acmicpc_12791.cpp) ([링크](https://www.acmicpc.net/problem/12791))
+
 [12813 이진수 연산](../problems/acmicpc_12813.cpp) ([링크](https://www.acmicpc.net/problem/12813))
 
 [12837 가계부 (Hard)](../problems/acmicpc_12837.cpp) ([링크](https://www.acmicpc.net/problem/12837))
