@@ -946,6 +946,8 @@
 
 [11238 Fibo](../problems/acmicpc_11238.cpp) ([링크](https://www.acmicpc.net/problem/11238))
 
+[11257 IT Passport Examination](../problems/acmicpc_11257.cpp) ([링크](https://www.acmicpc.net/problem/11257))
+
 [11277 2-SAT - 1](../problems/acmicpc_11277.cpp) ([링크](https://www.acmicpc.net/problem/11277))
 
 [11278 2-SAT - 2](../problems/acmicpc_11278.cpp) ([링크](https://www.acmicpc.net/problem/11278))
