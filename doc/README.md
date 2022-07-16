@@ -1170,6 +1170,8 @@
 
 [13575 보석 가게](../problems/acmicpc_13575.cpp) ([링크](https://www.acmicpc.net/problem/13575))
 
+[13597 Tri-du](../problems/acmicpc_13597.cpp) ([링크](https://www.acmicpc.net/problem/13597))
+
 [13623 Zero or One](../problems/acmicpc_13623.cpp) ([링크](https://www.acmicpc.net/problem/13623))
 
 [13699 점화식](../problems/acmicpc_13699.cpp) ([링크](https://www.acmicpc.net/problem/13699))
