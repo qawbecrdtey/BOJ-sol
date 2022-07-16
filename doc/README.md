@@ -378,6 +378,8 @@
 
 [2503 숫자 야구](../problems/acmicpc_2503.cpp) ([링크](https://www.acmicpc.net/problem/2503))
 
+[2504 괄호의 값](../problems/acmicpc_2504.cpp) ([링크](https://www.acmicpc.net/problem/2504))
+
 [2517 달리기](../problems/acmicpc_2517.cpp) ([링크](https://www.acmicpc.net/problem/2517))
 
 [2529 부등호](../problems/acmicpc_2529.cpp) ([링크](https://www.acmicpc.net/problem/2529))
