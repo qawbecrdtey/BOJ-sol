@@ -724,6 +724,8 @@
 
 [8723 Patyki](../problems/acmicpc_8723.cpp) ([링크](https://www.acmicpc.net/problem/8723))
 
+[8760 Schronisko](../problems/acmicpc_8760.cpp) ([링크](https://www.acmicpc.net/problem/8760))
+
 [8871 Zadanie próbne 2](../problems/acmicpc_8871.cpp) ([링크](https://www.acmicpc.net/problem/8871))
 
 [8892 팰린드롬](../problems/acmicpc_8892.cpp) ([링크](https://www.acmicpc.net/problem/8892))
