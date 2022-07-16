@@ -438,6 +438,8 @@
 
 [2903 중앙 이동 알고리즘](../problems/acmicpc_2903.cpp) ([링크](https://www.acmicpc.net/problem/2903))
 
+[2909 캔디 구매](../problems/acmicpc_2909.cpp) ([링크](https://www.acmicpc.net/problem/2909))
+
 [2916 자와 각도기](../problems/acmicpc_2916.cpp) ([링크](https://www.acmicpc.net/problem/2916))
 
 [2921 도미노](../problems/acmicpc_2921.cpp) ([링크](https://www.acmicpc.net/problem/2921))
