@@ -348,6 +348,8 @@
 
 [2358 평행선](../problems/acmicpc_2358.cpp) ([링크](https://www.acmicpc.net/problem/2358))
 
+[2367 파티](../problems/acmicpc_2367.cpp) ([링크](https://www.acmicpc.net/problem/2367))
+
 [2386 도비의 영어 공부](../problems/acmicpc_2386.cpp) ([링크](https://www.acmicpc.net/problem/2386))
 
 [2399 거리의 합](../problems/acmicpc_2399.cpp) ([링크](https://www.acmicpc.net/problem/2399))
