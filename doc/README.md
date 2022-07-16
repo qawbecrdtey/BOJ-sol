@@ -1340,6 +1340,8 @@
 
 [15439 Vera and Outfits](../problems/acmicpc_15439.cpp) ([링크](https://www.acmicpc.net/problem/15439))
 
+[15474 鉛筆 (Pencils)](../problems/acmicpc_15474.cpp) ([링크](https://www.acmicpc.net/problem/15474))
+
 [15480 LCA와 쿼리](../problems/acmicpc_15480.cpp) ([링크](https://www.acmicpc.net/problem/15480))
 
 [15517 Array Manipulation at Moloco (Hard)](../problems/acmicpc_15517.cpp) ([링크](https://www.acmicpc.net/problem/15517))
