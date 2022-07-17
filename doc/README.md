@@ -1338,6 +1338,8 @@
 
 [14939 불 끄기](../problems/acmicpc_14939.cpp) ([링크](https://www.acmicpc.net/problem/14939))
 
+[14940 쉬운 최단거리](../problems/acmicpc_14940.cpp) ([링크](https://www.acmicpc.net/problem/14940))
+
 [14945 불장난](../problems/acmicpc_14945.cpp) ([링크](https://www.acmicpc.net/problem/14945))
 
 [14958 Rock Paper Scissors](../problems/acmicpc_14958.cpp) ([링크](https://www.acmicpc.net/problem/14958))
