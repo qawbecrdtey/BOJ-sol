@@ -188,6 +188,8 @@
 
 [1637 날카로운 눈](../problems/acmicpc_1637.cpp) ([링크](https://www.acmicpc.net/problem/1637))
 
+[1639 행운의 티켓](../problems/acmicpc_1639.cpp) ([링크](https://www.acmicpc.net/problem/1639))
+
 [1644 소수의 연속합](../problems/acmicpc_1644.cpp) ([링크](https://www.acmicpc.net/problem/1644))
 
 [1647 도시 분할 계획](../problems/acmicpc_1647.cpp) ([링크](https://www.acmicpc.net/problem/1647))
