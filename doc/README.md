@@ -1898,6 +1898,8 @@
 
 [25304 영수증](../problems/acmicpc_25304.cpp) ([링크](https://www.acmicpc.net/problem/25304))
 
+[25305 커트라인](../problems/acmicpc_25305.cpp) ([링크](https://www.acmicpc.net/problem/25305))
+
 [25306 연속 XOR](../problems/acmicpc_25306.cpp) ([링크](https://www.acmicpc.net/problem/25306))
 
 [25311 UCPC에서 가장 쉬운 문제 번호는?](../problems/acmicpc_25311.cpp) ([링크](https://www.acmicpc.net/problem/25311))
