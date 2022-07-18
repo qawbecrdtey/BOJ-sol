@@ -454,6 +454,8 @@
 
 [2929 머신 코드](../problems/acmicpc_2929.cpp) ([링크](https://www.acmicpc.net/problem/2929))
 
+[2948 2009년](../problems/acmicpc_2948.cpp) ([링크](https://www.acmicpc.net/problem/2948))
+
 [2954 창영이의 일기장](../problems/acmicpc_2954.cpp) ([링크](https://www.acmicpc.net/problem/2954))
 
 [2959 거북이](../problems/acmicpc_2959.cpp) ([링크](https://www.acmicpc.net/problem/2959))
