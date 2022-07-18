@@ -1138,6 +1138,8 @@
 
 [13223 소금 폭탄](../problems/acmicpc_13223.cpp) ([링크](https://www.acmicpc.net/problem/13223))
 
+[13224 Chop Cup](../problems/acmicpc_13224.cpp) ([링크](https://www.acmicpc.net/problem/13224))
+
 [13225 Divisors](../problems/acmicpc_13225.cpp) ([링크](https://www.acmicpc.net/problem/13225))
 
 [13226 Divisors Again](../problems/acmicpc_13226.cpp) ([링크](https://www.acmicpc.net/problem/13226))
