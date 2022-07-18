@@ -1176,6 +1176,8 @@
 
 [13549 숨바꼭질 3](../problems/acmicpc_13549.cpp) ([링크](https://www.acmicpc.net/problem/13549))
 
+[13552 구와 쿼리](../problems/acmicpc_13552.cpp) ([링크](https://www.acmicpc.net/problem/13552))
+
 [13565 침투](../problems/acmicpc_13565.cpp) ([링크](https://www.acmicpc.net/problem/13565))
 
 [13575 보석 가게](../problems/acmicpc_13575.cpp) ([링크](https://www.acmicpc.net/problem/13575))
