@@ -1910,6 +1910,8 @@
 
 [25345 루나의 게임 세팅](../problems/acmicpc_25345.cpp) ([링크](https://www.acmicpc.net/problem/25345))
 
+[25372 성택이의 은밀한 비밀번호](../problems/acmicpc_25372.cpp) ([링크](https://www.acmicpc.net/problem/25372))
+
 ## Algorithms
 
 [BFS](BFS.md)
