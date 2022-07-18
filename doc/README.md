@@ -1638,6 +1638,8 @@
 
 [17626 Four Squares](../problems/acmicpc_17626.cpp) ([링크](https://www.acmicpc.net/problem/17626))
 
+[17826 나의 학점은?](../problems/acmicpc_17826.cpp) ([링크](https://www.acmicpc.net/problem/17826))
+
 [17840 피보나치 음악](../problems/acmicpc_17840.cpp) ([링크](https://www.acmicpc.net/problem/17840))
 
 [17863 FYI](../problems/acmicpc_17863.cpp) ([링크](https://www.acmicpc.net/problem/17863))
