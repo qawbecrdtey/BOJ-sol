@@ -1264,6 +1264,8 @@
 
 [14494 다이나믹이 뭐예요?](../problems/acmicpc_14494.cpp) ([링크](https://www.acmicpc.net/problem/14494))
 
+[14500 테트로미노](../problems/acmicpc_14500.cpp) ([링크](https://www.acmicpc.net/problem/14500))
+
 [14502 연구소](../problems/acmicpc_14502.cpp) ([링크](https://www.acmicpc.net/problem/14502))
 
 [14535 Birthday Graph](../problems/acmicpc_14535.cpp) ([링크](https://www.acmicpc.net/problem/14535))
