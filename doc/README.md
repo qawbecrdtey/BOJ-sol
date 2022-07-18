@@ -1828,6 +1828,8 @@
 
 [23794 골뱅이 찍기 - 정사각형](../problems/acmicpc_23794.cpp) ([링크](https://www.acmicpc.net/problem/23794))
 
+[23795 사장님 도박은 재미로 하셔야 합니다](../problems/acmicpc_23795.cpp) ([링크](https://www.acmicpc.net/problem/23795))
+
 [23802 골뱅이 찍기 - 뒤집힌 ㄱ](../problems/acmicpc_23802.cpp) ([링크](https://www.acmicpc.net/problem/23802))
 
 [23803 골뱅이 찍기 - ㄴ](../problems/acmicpc_23803.cpp) ([링크](https://www.acmicpc.net/problem/23803))
