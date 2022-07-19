@@ -1594,6 +1594,8 @@
 
 [17245 서버실](../problems/acmicpc_17245.cpp) ([링크](https://www.acmicpc.net/problem/17245))
 
+[17249 태보태보 총난타](../problems/acmicpc_17249.cpp) ([링크](https://www.acmicpc.net/problem/17249))
+
 [17252 삼삼한 수](../problems/acmicpc_17252.cpp) ([링크](https://www.acmicpc.net/problem/17252))
 
 [17256 달달함이 넘쳐흘러](../problems/acmicpc_17256.cpp) ([링크](https://www.acmicpc.net/problem/17256))
