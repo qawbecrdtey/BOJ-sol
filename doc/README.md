@@ -1900,6 +1900,8 @@
 
 [24445 알고리즘 수업 - 너비 우선 탐색 2](../problems/acmicpc_24445.cpp) ([링크](https://www.acmicpc.net/problem/24445))
 
+[24445 알고리즘 수업 - 너비 우선 탐색 3](../problems/acmicpc_24446.cpp) ([링크](https://www.acmicpc.net/problem/24446))
+
 [24479 알고리즘 수업 - 깊이 우선 탐색 1](../problems/acmicpc_24479.cpp) ([링크](https://www.acmicpc.net/problem/24479))
 
 [24480 알고리즘 수업 - 깊이 우선 탐색 2](../problems/acmicpc_24480.cpp) ([링크](https://www.acmicpc.net/problem/24480))
