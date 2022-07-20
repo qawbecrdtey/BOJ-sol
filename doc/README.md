@@ -136,6 +136,8 @@
 
 [1408 24](../problems/acmicpc_1408.cpp) ([링크](https://www.acmicpc.net/problem/1408))
 
+[1420 학교 가지마!](../problems/acmicpc_1420.cpp) ([링크](https://www.acmicpc.net/problem/1420))
+
 [1431 시리얼 번호](../problems/acmicpc_1431.cpp) ([링크](https://www.acmicpc.net/problem/1431))
 
 [1434 책 정리](../problems/acmicpc_1434.cpp) ([링크](https://www.acmicpc.net/problem/1434))
