@@ -1944,6 +1944,8 @@
 
 [25372 성택이의 은밀한 비밀번호](../problems/acmicpc_25372.cpp) ([링크](https://www.acmicpc.net/problem/25372))
 
+[25373 벼락치기](../problems/acmicpc_25373.cpp) ([링크](https://www.acmicpc.net/problem/25373))
+
 [25375 아주 간단한 문제](../problems/acmicpc_25375.cpp) ([링크](https://www.acmicpc.net/problem/25375))
 
 ## Algorithms
