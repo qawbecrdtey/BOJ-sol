@@ -834,6 +834,8 @@
 
 [9753 짝 곱](../problems/acmicpc_9753.cpp) ([링크](https://www.acmicpc.net/problem/9753))
 
+[9848 Gift](../problems/acmicpc_9848.cpp) ([링크](https://www.acmicpc.net/problem/9848))
+
 [9884 Euclid](../problems/acmicpc_9884.cpp) ([링크](https://www.acmicpc.net/problem/9884))
 
 [9945 Centroid of Point Masses](../problems/acmicpc_9945.cpp) ([링크](https://www.acmicpc.net/problem/9945))
