@@ -966,6 +966,8 @@
 
 [11121 Communication Channels](../problems/acmicpc_11121.cpp) ([링크](https://www.acmicpc.net/problem/11121))
 
+[11131 Balancing Weights](../problems/acmicpc_11131.cpp) ([링크](https://www.acmicpc.net/problem/11131))
+
 [11134 쿠키애호가](../problems/acmicpc_11134.cpp) ([링크](https://www.acmicpc.net/problem/11134))
 
 [11170 0의 개수](../problems/acmicpc_11170.cpp) ([링크](https://www.acmicpc.net/problem/11170))
