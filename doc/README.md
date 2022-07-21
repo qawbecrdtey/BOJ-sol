@@ -1514,6 +1514,8 @@
 
 [16287 Parcel](../problems/acmicpc_16287.cpp) ([링크](https://www.acmicpc.net/problem/16287))
 
+[16316 Baby Bites](../problems/acmicpc_16316.cpp) ([링크](https://www.acmicpc.net/problem/16316))
+
 [16360 Go Latin](../problems/acmicpc_16360.cpp) ([링크](https://www.acmicpc.net/problem/16360))
 
 [16367 TV Show Game](../problems/acmicpc_16367.cpp) ([링크](https://www.acmicpc.net/problem/16367))
