@@ -258,6 +258,8 @@
 
 [1864 문어 숫자](../problems/acmicpc_1864.cpp) ([링크](https://www.acmicpc.net/problem/1864))
 
+[1867 돌멩이 제거](../problems/acmicpc_1867.cpp) ([링크](https://www.acmicpc.net/problem/1867))
+
 [1913 달팽이](../problems/acmicpc_1913.cpp) ([링크](https://www.acmicpc.net/problem/1913))
 
 [1918 후위 표기식](../problems/acmicpc_1918.cpp) ([링크](https://www.acmicpc.net/problem/1918))
