@@ -738,6 +738,8 @@
 
 [8710 Koszykarz](../problems/acmicpc_8710.cpp) ([링크](https://www.acmicpc.net/problem/8710))
 
+[8714 Monety](../problems/acmicpc_8714.cpp) ([링크](https://www.acmicpc.net/problem/8714))
+
 [8723 Patyki](../problems/acmicpc_8723.cpp) ([링크](https://www.acmicpc.net/problem/8723))
 
 [8760 Schronisko](../problems/acmicpc_8760.cpp) ([링크](https://www.acmicpc.net/problem/8760))
