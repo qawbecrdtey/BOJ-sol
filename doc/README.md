@@ -1968,6 +1968,8 @@
 
 [25314 코딩은 체육과목 입니다](../problems/acmicpc_25314.cpp) ([링크](https://www.acmicpc.net/problem/25314))
 
+[25325 학생 인기도 측정](../problems/acmicpc_25325.cpp) ([링크](https://www.acmicpc.net/problem/25325))
+
 [25344 행성 정렬](../problems/acmicpc_25344.cpp) ([링크](https://www.acmicpc.net/problem/25344))
 
 [25345 루나의 게임 세팅](../problems/acmicpc_25345.cpp) ([링크](https://www.acmicpc.net/problem/25345))
