@@ -332,6 +332,8 @@
 
 [2207 가위바위보](../problems/acmicpc_2207.cpp) ([링크](https://www.acmicpc.net/problem/2207))
 
+[2210 숫자판 점프](../problems/acmicpc_2210.cpp) ([링크](https://www.acmicpc.net/problem/2210))
+
 [2213 트리의 독립집합](../problems/acmicpc_2213.cpp) ([링크](https://www.acmicpc.net/problem/2213))
 
 [2243 사탕상자](../problems/acmicpc_2243.cpp) ([링크](https://www.acmicpc.net/problem/2243))
