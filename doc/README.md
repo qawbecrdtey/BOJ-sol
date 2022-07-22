@@ -1270,6 +1270,8 @@
 
 [14289 본대 산책 3](../problems/acmicpc_14289.cpp) ([링크](https://www.acmicpc.net/problem/14289))
 
+[14323 Country Leader (Large)](../problems/acmicpc_14323.cpp) ([링크](https://www.acmicpc.net/problem/14323))
+
 [14405 피카츄](../problems/acmicpc_14405.cpp) ([링크](https://www.acmicpc.net/problem/14405))
 
 [14425 문자열 집합](../problems/acmicpc_14425.cpp) ([링크](https://www.acmicpc.net/problem/14425))
