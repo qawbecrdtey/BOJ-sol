@@ -1096,6 +1096,8 @@
 
 [12174 #include <Google I/O.h>](../problems/acmicpc_12174.cpp) ([링크](https://www.acmicpc.net/problem/12174))
 
+[12351 Hedgemony (Small)](../problems/acmicpc_12351.cpp) ([링크](https://www.acmicpc.net/problem/12351))
+
 [12517 Centauri Prime (Small1)](../problems/acmicpc_12517.cpp) ([링크](https://www.acmicpc.net/problem/12517))
 
 [12724 Minimum Scalar Product (Large)](../problems/acmicpc_12724.cpp) ([링크](https://www.acmicpc.net/problem/12724))
