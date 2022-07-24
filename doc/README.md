@@ -1392,6 +1392,8 @@
 
 [15128 Congruent Numbers](../problems/acmicpc_15128.cpp) ([링크](https://www.acmicpc.net/problem/15128))
 
+[15151 Incomplete Book](../problems/acmicpc_15151.cpp) ([링크](https://www.acmicpc.net/problem/15151))
+
 [15178 Angles](../problems/acmicpc_15178.cpp) ([링크](https://www.acmicpc.net/problem/15178))
 
 [15232 Rectangles](../problems/acmicpc_15232.cpp) ([링크](https://www.acmicpc.net/problem/15232))
