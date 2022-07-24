@@ -690,6 +690,8 @@
 
 [6763 Speed fines are not fine!](../problems/acmicpc_6763.cpp) ([링크](https://www.acmicpc.net/problem/6763))
 
+[6768 Don’t pass me the ball!](../problems/acmicpc_6768.cpp) ([링크](https://www.acmicpc.net/problem/6768))
+
 [6778 Which Alien?](../problems/acmicpc_6778.cpp) ([링크](https://www.acmicpc.net/problem/6778))
 
 [6780 Sumac Sequences](../problems/acmicpc_6780.cpp) ([링크](https://www.acmicpc.net/problem/6780))
