@@ -1866,6 +1866,8 @@
 
 [23080 스키테일 암호](../problems/acmicpc_23080.cpp) ([링크](https://www.acmicpc.net/problem/23080))
 
+[23103 Academic Distance](../problems/acmicpc_23103.cpp) ([링크](https://www.acmicpc.net/problem/23103))
+
 [23175 Histogram Sequence 3](../problems/acmicpc_23175.cpp) ([링크](https://www.acmicpc.net/problem/23175))
 
 [23235 The Fastest Sorting Algorithm In The World](../problems/acmicpc_23235.cpp) ([링크](https://www.acmicpc.net/problem/23235))
