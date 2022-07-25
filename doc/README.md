@@ -570,6 +570,8 @@
 
 [4619 루트](../problems/acmicpc_4619.cpp) ([링크](https://www.acmicpc.net/problem/4619))
 
+[4623 Copier Reduction](../problems/acmicpc_4623.cpp) ([링크](https://www.acmicpc.net/problem/4623))
+
 [4635 Speed Limit](../problems/acmicpc_4635.cpp) ([링크](https://www.acmicpc.net/problem/4635))
 
 [4641 Doubles](../problems/acmicpc_4641.cpp) ([링크](https://www.acmicpc.net/problem/4641))
