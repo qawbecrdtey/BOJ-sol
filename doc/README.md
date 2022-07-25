@@ -904,6 +904,8 @@
 
 [10599 페르시아의 왕들](../problems/acmicpc_10599.cpp) ([링크](https://www.acmicpc.net/problem/10599))
 
+[10695 Dalia](../problems/acmicpc_10695.cpp) ([링크](https://www.acmicpc.net/problem/10695))
+
 [10698 Ahmed Aly](../problems/acmicpc_10698.cpp) ([링크](https://www.acmicpc.net/problem/10698))
 
 [10709 기상캐스터](../problems/acmicpc_10709.cpp) ([링크](https://www.acmicpc.net/problem/10709))
