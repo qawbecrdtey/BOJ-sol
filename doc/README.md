@@ -838,6 +838,8 @@
 
 [9713 Sum of Odd Sequence](../problems/acmicpc_9713.cpp) ([링크](https://www.acmicpc.net/problem/9713))
 
+[9723 Right Triangle](../problems/acmicpc_9723.cpp) ([링크](https://www.acmicpc.net/problem/9723))
+
 [9724 Perfect Cube](../problems/acmicpc_9724.cpp) ([링크](https://www.acmicpc.net/problem/9724))
 
 [9735 삼차 방정식 풀기](../problems/acmicpc_9735.cpp) ([링크](https://www.acmicpc.net/problem/9735))
