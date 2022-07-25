@@ -1064,6 +1064,8 @@
 
 [11568 민균이의 계략](../problems/acmicpc_11568.cpp) ([링크](https://www.acmicpc.net/problem/11568))
 
+[11575 Affine Cipher](../problems/acmicpc_11575.cpp) ([링크](https://www.acmicpc.net/problem/11575))
+
 [11652 카드](../problems/acmicpc_11652.cpp) ([링크](https://www.acmicpc.net/problem/11652))
 
 [11660 구간 합 구하기 5](../problems/acmicpc_11660.cpp) ([링크](https://www.acmicpc.net/problem/11660))
