@@ -1114,6 +1114,8 @@
 
 [12039 Polynesiaglot (Large)](../problems/acmicpc_12039.cpp) ([링크](https://www.acmicpc.net/problem/12039))
 
+[12074 Googol String (Small)](../problems/acmicpc_12074.cpp) ([링크](https://www.acmicpc.net/problem/12074))
+
 [12174 #include <Google I/O.h>](../problems/acmicpc_12174.cpp) ([링크](https://www.acmicpc.net/problem/12174))
 
 [12351 Hedgemony (Small)](../problems/acmicpc_12351.cpp) ([링크](https://www.acmicpc.net/problem/12351))
