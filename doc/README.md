@@ -2002,6 +2002,8 @@
 
 [25024 시간과 날짜](../problems/acmicpc_25024.cpp) ([링크](https://www.acmicpc.net/problem/25024))
 
+[25184 동가수열 구하기](../problems/acmicpc_25184.cpp) ([링크](https://www.acmicpc.net/problem/25184))
+
 [25238 가희와 방어율 무시](../problems/acmicpc_25238.cpp) ([링크](https://www.acmicpc.net/problem/25238))
 
 [25270 99 Problems](../problems/acmicpc_25270.cpp) ([링크](https://www.acmicpc.net/problem/25270))
