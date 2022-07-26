@@ -1412,6 +1412,8 @@
 
 [15000 CAPS](../problems/acmicpc_15000.cpp) ([링크](https://www.acmicpc.net/problem/15000))
 
+[15035 I Work All Day](../problems/acmicpc_15035.cpp) ([링크](https://www.acmicpc.net/problem/15035))
+
 [15059 Hard choice](../problems/acmicpc_15059.cpp) ([링크](https://www.acmicpc.net/problem/15059))
 
 [15128 Congruent Numbers](../problems/acmicpc_15128.cpp) ([링크](https://www.acmicpc.net/problem/15128))
