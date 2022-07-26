@@ -1232,6 +1232,8 @@
 
 [13597 Tri-du](../problems/acmicpc_13597.cpp) ([링크](https://www.acmicpc.net/problem/13597))
 
+[13610 Volta](../problems/acmicpc_13610.cpp) ([링크](https://www.acmicpc.net/problem/13610))
+
 [13617 Handebol](../problems/acmicpc_13617.cpp) ([링크](https://www.acmicpc.net/problem/13617))
 
 [13623 Zero or One](../problems/acmicpc_13623.cpp) ([링크](https://www.acmicpc.net/problem/13623))
