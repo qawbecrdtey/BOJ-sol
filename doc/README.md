@@ -944,6 +944,8 @@
 
 [10874 이교수님의 시험](../problems/acmicpc_10874.cpp) ([링크](https://www.acmicpc.net/problem/10874))
 
+[10892 Divide into triangle](../problems/acmicpc_10892.cpp) ([링크](https://www.acmicpc.net/problem/10892))
+
 [10917 Your life](../problems/acmicpc_10917.cpp) ([링크](https://www.acmicpc.net/problem/10917))
 
 [10941 BASE16 디코딩](../problems/acmicpc_10941.cpp) ([링크](https://www.acmicpc.net/problem/10941))
