@@ -860,6 +860,8 @@
 
 [9950 Rectangles](../problems/acmicpc_9950.cpp) ([링크](https://www.acmicpc.net/problem/9950))
 
+[10040 투표](../problems/acmicpc_10040.cpp) ([링크](https://www.acmicpc.net/problem/10040))
+
 [10090 Counting Inversions](../problems/acmicpc_10090.cpp) ([링크](https://www.acmicpc.net/problem/10090))
 
 [10162 전자레인지](../problems/acmicpc_10162.cpp) ([링크](https://www.acmicpc.net/problem/10162))
