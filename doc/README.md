@@ -1388,6 +1388,8 @@
 
 [14910 오르막](../problems/acmicpc_14910.cpp) ([링크](https://www.acmicpc.net/problem/14910))
 
+[14911 궁합 쌍 찾기](../problems/acmicpc_14911.cpp) ([링크](https://www.acmicpc.net/problem/14911))
+
 [14912 숫자 빈도수](../problems/acmicpc_14912.cpp) ([링크](https://www.acmicpc.net/problem/14912))
 
 [14913 등차수열에서 항 번호 찾기](../problems/acmicpc_14913.cpp) ([링크](https://www.acmicpc.net/problem/14913))
