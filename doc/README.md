@@ -110,6 +110,8 @@
 
 [1300 K번째 수](../problems/acmicpc_1300.cpp) ([링크](https://www.acmicpc.net/problem/1300))
 
+[1302 베스트셀러](../problems/acmicpc_1302.cpp) ([링크](https://www.acmicpc.net/problem/1302))
+
 [1306 달려라 홍준](../problems/acmicpc_1306.cpp) ([링크](https://www.acmicpc.net/problem/1306))
 
 [1312 소수](../problems/acmicpc_1312.cpp) ([링크](https://www.acmicpc.net/problem/1312))
