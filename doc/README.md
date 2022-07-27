@@ -1836,6 +1836,8 @@
 
 [20492 세금](../problems/acmicpc_20492.cpp) ([링크](https://www.acmicpc.net/problem/20492))
 
+[20493 세상은 하나의 손수건](../problems/acmicpc_20493.cpp) ([링크](https://www.acmicpc.net/problem/20493))
+
 [20499 Darius님 한타 안 함?](../problems/acmicpc_20499.cpp) ([링크](https://www.acmicpc.net/problem/20499))
 
 [20528 끝말잇기](../problems/acmicpc_20528.cpp) ([링크](https://www.acmicpc.net/problem/20528))
