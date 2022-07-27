@@ -1606,6 +1606,8 @@
 
 [16515 Euler’s Number](../problems/acmicpc_16515.cpp) ([링크](https://www.acmicpc.net/problem/16515))
 
+[16516 Lipschitz Constant](../problems/acmicpc_16516.cpp) ([링크](https://www.acmicpc.net/problem/16516))
+
 [16546 Missing Runners](../problems/acmicpc_16546.cpp) ([링크](https://www.acmicpc.net/problem/16546))
 
 [16561 3의 배수](../problems/acmicpc_16561.cpp) ([링크](https://www.acmicpc.net/problem/16561))
