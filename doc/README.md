@@ -1084,6 +1084,8 @@
 
 [11735 정산소](../problems/acmicpc_11735.cpp) ([링크](https://www.acmicpc.net/problem/11735))
 
+[11739 Easy Problemset](../problems/acmicpc_11739.cpp) ([링크](https://www.acmicpc.net/problem/11739))
+
 [11766 Rings](../problems/acmicpc_11766.cpp) ([링크](https://www.acmicpc.net/problem/11766))
 
 [11772 POT](../problems/acmicpc_11772.cpp) ([링크](https://www.acmicpc.net/problem/11772))
