@@ -698,6 +698,8 @@
 
 [6794 What is n, Daddy?](../problems/acmicpc_6794.cpp) ([링크](https://www.acmicpc.net/problem/6794))
 
+[6795 Up and Down](../problems/acmicpc_6795.cpp) ([링크](https://www.acmicpc.net/problem/6795))
+
 [6976 Divisibility by 11](../problems/acmicpc_6976.cpp) ([링크](https://www.acmicpc.net/problem/6976))
 
 [6996 애너그램](../problems/acmicpc_6996.cpp) ([링크](https://www.acmicpc.net/problem/6996))
