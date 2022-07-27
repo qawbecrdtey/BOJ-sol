@@ -434,6 +434,8 @@
 
 [2731 1379와 세제곱](../problems/acmicpc_2731.cpp) ([링크](https://www.acmicpc.net/problem/2731))
 
+[2756 다트](../problems/acmicpc_2756.cpp) ([링크](https://www.acmicpc.net/problem/2756))
+
 [2775 부녀회장이 될테야](../problems/acmicpc_2775.cpp) ([링크](https://www.acmicpc.net/problem/2775))
 
 [2776 암기왕](../problems/acmicpc_2776.cpp) ([링크](https://www.acmicpc.net/problem/2776))
@@ -569,6 +571,8 @@
 [4613 Quicksum](../problems/acmicpc_4613.cpp) ([링크](https://www.acmicpc.net/problem/4613))
 
 [4619 루트](../problems/acmicpc_4619.cpp) ([링크](https://www.acmicpc.net/problem/4619))
+
+[4623 Copier Reduction](../problems/acmicpc_4623.cpp) ([링크](https://www.acmicpc.net/problem/4623))
 
 [4635 Speed Limit](../problems/acmicpc_4635.cpp) ([링크](https://www.acmicpc.net/problem/4635))
 
@@ -836,9 +840,13 @@
 
 [9661 돌 게임 7](../problems/acmicpc_9661.cpp) ([링크](https://www.acmicpc.net/problem/9661))
 
+[9699 RICE SACK](../problems/acmicpc_9699.cpp) ([링크](https://www.acmicpc.net/problem/9699))
+
 [9711 피보나치](../problems/acmicpc_9711.cpp) ([링크](https://www.acmicpc.net/problem/9711))
 
 [9713 Sum of Odd Sequence](../problems/acmicpc_9713.cpp) ([링크](https://www.acmicpc.net/problem/9713))
+
+[9723 Right Triangle](../problems/acmicpc_9723.cpp) ([링크](https://www.acmicpc.net/problem/9723))
 
 [9724 Perfect Cube](../problems/acmicpc_9724.cpp) ([링크](https://www.acmicpc.net/problem/9724))
 
@@ -853,6 +861,8 @@
 [9945 Centroid of Point Masses](../problems/acmicpc_9945.cpp) ([링크](https://www.acmicpc.net/problem/9945))
 
 [9950 Rectangles](../problems/acmicpc_9950.cpp) ([링크](https://www.acmicpc.net/problem/9950))
+
+[10040 투표](../problems/acmicpc_10040.cpp) ([링크](https://www.acmicpc.net/problem/10040))
 
 [10090 Counting Inversions](../problems/acmicpc_10090.cpp) ([링크](https://www.acmicpc.net/problem/10090))
 
@@ -902,6 +912,8 @@
 
 [10599 페르시아의 왕들](../problems/acmicpc_10599.cpp) ([링크](https://www.acmicpc.net/problem/10599))
 
+[10695 Dalia](../problems/acmicpc_10695.cpp) ([링크](https://www.acmicpc.net/problem/10695))
+
 [10698 Ahmed Aly](../problems/acmicpc_10698.cpp) ([링크](https://www.acmicpc.net/problem/10698))
 
 [10709 기상캐스터](../problems/acmicpc_10709.cpp) ([링크](https://www.acmicpc.net/problem/10709))
@@ -933,6 +945,8 @@
 [10868 최솟값](../problems/acmicpc_10868.cpp) ([링크](https://www.acmicpc.net/problem/10868))
 
 [10874 이교수님의 시험](../problems/acmicpc_10874.cpp) ([링크](https://www.acmicpc.net/problem/10874))
+
+[10892 Divide into triangle](../problems/acmicpc_10892.cpp) ([링크](https://www.acmicpc.net/problem/10892))
 
 [10917 Your life](../problems/acmicpc_10917.cpp) ([링크](https://www.acmicpc.net/problem/10917))
 
@@ -1008,6 +1022,8 @@
 
 [11328 Strfry](../problems/acmicpc_11328.cpp) ([링크](https://www.acmicpc.net/problem/11328))
 
+[11368 A Serious Reading Problem](../problems/acmicpc_11368.cpp) ([링크](https://www.acmicpc.net/problem/11368))
+
 [11375 열혈강호](../problems/acmicpc_11375.cpp) ([링크](https://www.acmicpc.net/problem/11375))
 
 [11376 열혈강호 2](../problems/acmicpc_11376.cpp) ([링크](https://www.acmicpc.net/problem/11376))
@@ -1056,6 +1072,8 @@
 
 [11568 민균이의 계략](../problems/acmicpc_11568.cpp) ([링크](https://www.acmicpc.net/problem/11568))
 
+[11575 Affine Cipher](../problems/acmicpc_11575.cpp) ([링크](https://www.acmicpc.net/problem/11575))
+
 [11652 카드](../problems/acmicpc_11652.cpp) ([링크](https://www.acmicpc.net/problem/11652))
 
 [11660 구간 합 구하기 5](../problems/acmicpc_11660.cpp) ([링크](https://www.acmicpc.net/problem/11660))
@@ -1099,6 +1117,8 @@
 [12038 Polynesiaglot (Small2)](../problems/acmicpc_12038.cpp) ([링크](https://www.acmicpc.net/problem/12038))
 
 [12039 Polynesiaglot (Large)](../problems/acmicpc_12039.cpp) ([링크](https://www.acmicpc.net/problem/12039))
+
+[12074 Googol String (Small)](../problems/acmicpc_12074.cpp) ([링크](https://www.acmicpc.net/problem/12074))
 
 [12174 #include <Google I/O.h>](../problems/acmicpc_12174.cpp) ([링크](https://www.acmicpc.net/problem/12174))
 
@@ -1219,6 +1239,10 @@
 [13580 Andando no tempo](../problems/acmicpc_13580.cpp) ([링크](https://www.acmicpc.net/problem/13580))
 
 [13597 Tri-du](../problems/acmicpc_13597.cpp) ([링크](https://www.acmicpc.net/problem/13597))
+
+[13610 Volta](../problems/acmicpc_13610.cpp) ([링크](https://www.acmicpc.net/problem/13610))
+
+[13617 Handebol](../problems/acmicpc_13617.cpp) ([링크](https://www.acmicpc.net/problem/13617))
 
 [13623 Zero or One](../problems/acmicpc_13623.cpp) ([링크](https://www.acmicpc.net/problem/13623))
 
@@ -1366,6 +1390,8 @@
 
 [14910 오르막](../problems/acmicpc_14910.cpp) ([링크](https://www.acmicpc.net/problem/14910))
 
+[14911 궁합 쌍 찾기](../problems/acmicpc_14911.cpp) ([링크](https://www.acmicpc.net/problem/14911))
+
 [14912 숫자 빈도수](../problems/acmicpc_14912.cpp) ([링크](https://www.acmicpc.net/problem/14912))
 
 [14913 등차수열에서 항 번호 찾기](../problems/acmicpc_14913.cpp) ([링크](https://www.acmicpc.net/problem/14913))
@@ -1396,6 +1422,8 @@
 
 [15000 CAPS](../problems/acmicpc_15000.cpp) ([링크](https://www.acmicpc.net/problem/15000))
 
+[15035 I Work All Day](../problems/acmicpc_15035.cpp) ([링크](https://www.acmicpc.net/problem/15035))
+
 [15059 Hard choice](../problems/acmicpc_15059.cpp) ([링크](https://www.acmicpc.net/problem/15059))
 
 [15128 Congruent Numbers](../problems/acmicpc_15128.cpp) ([링크](https://www.acmicpc.net/problem/15128))
@@ -1407,6 +1435,8 @@
 [15232 Rectangles](../problems/acmicpc_15232.cpp) ([링크](https://www.acmicpc.net/problem/15232))
 
 [15233 Final Score](../problems/acmicpc_15233.cpp) ([링크](https://www.acmicpc.net/problem/15233))
+
+[15239 Password check](../problems/acmicpc_15239.cpp) ([링크](https://www.acmicpc.net/problem/15239))
 
 [15353 큰 수 A+B (2)](../problems/acmicpc_15353.cpp) ([링크](https://www.acmicpc.net/problem/15353))
 
@@ -1962,6 +1992,8 @@
 
 [24568 Cupcake Party](../problems/acmicpc_24568.cpp) ([링크](https://www.acmicpc.net/problem/24568))
 
+[24573 Good Fours and Good Fives](../problems/acmicpc_24573.cpp) ([링크](https://www.acmicpc.net/problem/24573))
+
 [24608 Average Character](../problems/acmicpc_24608.cpp) ([링크](https://www.acmicpc.net/problem/24608))
 
 [24736 Football Scoring](../problems/acmicpc_24736.cpp) ([링크](https://www.acmicpc.net/problem/24736))
@@ -1973,6 +2005,8 @@
 [24883 자동완성](../problems/acmicpc_24883.cpp) ([링크](https://www.acmicpc.net/problem/24883))
 
 [25024 시간과 날짜](../problems/acmicpc_25024.cpp) ([링크](https://www.acmicpc.net/problem/25024))
+
+[25184 동가수열 구하기](../problems/acmicpc_25184.cpp) ([링크](https://www.acmicpc.net/problem/25184))
 
 [25238 가희와 방어율 무시](../problems/acmicpc_25238.cpp) ([링크](https://www.acmicpc.net/problem/25238))
 
