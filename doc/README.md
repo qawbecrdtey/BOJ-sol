@@ -554,6 +554,8 @@
 
 [4386 별자리 만들기](../problems/acmicpc_4386.cpp) ([링크](https://www.acmicpc.net/problem/4386))
 
+[4396 지뢰 찾기](../problems/acmicpc_4396.cpp) ([링크](https://www.acmicpc.net/problem/4396))
+
 [4436 엘프의 검](../problems/acmicpc_4436.cpp) ([링크](https://www.acmicpc.net/problem/4436))
 
 [4447 좋은놈 나쁜놈](../problems/acmicpc_4447.cpp) ([링크](https://www.acmicpc.net/problem/4447))
