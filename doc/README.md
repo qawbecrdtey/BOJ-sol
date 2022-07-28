@@ -420,6 +420,8 @@
 
 [2637 장난감조립](../problems/acmicpc_2637.cpp) ([링크](https://www.acmicpc.net/problem/2637))
 
+[2638 치즈](../problems/acmicpc_2638.cpp) ([링크](https://www.acmicpc.net/problem/2638))
+
 [2644 촌수계산](../problems/acmicpc_2644.cpp) ([링크](https://www.acmicpc.net/problem/2644))
 
 [2669 직사각형 네개의 합집합의 면적 구하기](../problems/acmicpc_2669.cpp) ([링크](https://www.acmicpc.net/problem/2669))
