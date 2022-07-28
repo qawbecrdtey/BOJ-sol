@@ -1512,6 +1512,8 @@
 
 [15791 세진이의 미팅](../problems/acmicpc_15791.cpp) ([링크](https://www.acmicpc.net/problem/15791))
 
+[15814 야바위 대장](../problems/acmicpc_15814.cpp) ([링크](https://www.acmicpc.net/problem/15814))
+
 [15818 오버플로우와 모듈러](../problems/acmicpc_15818.cpp) ([링크](https://www.acmicpc.net/problem/15818))
 
 [15819 너의 핸들은](../problems/acmicpc_15819.cpp) ([링크](https://www.acmicpc.net/problem/15819))
