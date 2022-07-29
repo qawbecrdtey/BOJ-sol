@@ -692,6 +692,8 @@
 
 [6549 히스토그램에서 가장 큰 직사각형](../problems/acmicpc_6549.cpp) ([링크](https://www.acmicpc.net/problem/6549))
 
+[6556 Paths on a Grid](../problems/acmicpc_6556.cpp) ([링크](https://www.acmicpc.net/problem/6556))
+
 [6588 골드바흐의 추측](../problems/acmicpc_6588.cpp) ([링크](https://www.acmicpc.net/problem/6588))
 
 [6662 Divisors](../problems/acmicpc_6662.cpp) ([링크](https://www.acmicpc.net/problem/6662))
