@@ -1140,6 +1140,8 @@
 
 [12517 Centauri Prime (Small1)](../problems/acmicpc_12517.cpp) ([링크](https://www.acmicpc.net/problem/12517))
 
+[12571 Rope Intranet (Small)](../problems/acmicpc_12571.cpp) ([링크](https://www.acmicpc.net/problem/12571))
+
 [12724 Minimum Scalar Product (Large)](../problems/acmicpc_12724.cpp) ([링크](https://www.acmicpc.net/problem/12724))
 
 [12728 n제곱 계산](../problems/acmicpc_12728.cpp) ([링크](https://www.acmicpc.net/problem/12728))
