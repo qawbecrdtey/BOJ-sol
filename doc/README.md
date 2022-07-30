@@ -1226,6 +1226,8 @@
 
 [13345 Completing the Square](../problems/acmicpc_13345.cpp) ([링크](https://www.acmicpc.net/problem/13345))
 
+[13363 Jumbled Compass](../problems/acmicpc_13363.cpp) ([링크](https://www.acmicpc.net/problem/13363))
+
 [13366 A New Alphabet](../problems/acmicpc_13366.cpp) ([링크](https://www.acmicpc.net/problem/13366))
 
 [13410 거꾸로 구구단](../problems/acmicpc_13410.cpp) ([링크](https://www.acmicpc.net/problem/13410))
