@@ -1824,6 +1824,8 @@
 
 [20010 악덕 영주 혜유](../problems/acmicpc_20010.cpp) ([링크](https://www.acmicpc.net/problem/20010))
 
+[20017 Топот котов](../problems/acmicpc_20017.cpp) ([링크](https://www.acmicpc.net/problem/20017))
+
 [20040 사이클 게임](../problems/acmicpc_20040.cpp) ([링크](https://www.acmicpc.net/problem/20040))
 
 [20053 최소, 최대 2](../problems/acmicpc_20053.cpp) ([링크](https://www.acmicpc.net/problem/20053))
