@@ -32,6 +32,8 @@
 
 [1016 제곱 ㄴㄴ 수](../problems/acmicpc_1016.cpp) ([링크](https://www.acmicpc.net/problem/1016))
 
+[1017 소수 쌍](../problems/acmicpc_1017.cpp) ([링크](https://www.acmicpc.net/problem/1017))
+
 [1018 체스판 다시 칠하기](../problems/acmicpc_1018.cpp) ([링크](https://www.acmicpc.net/problem/1018))
 
 [1019 책 페이지](../problems/acmicpc_1019.cpp) ([링크](https://www.acmicpc.net/problem/1019))
