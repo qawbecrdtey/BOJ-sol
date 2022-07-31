@@ -660,6 +660,8 @@
 
 [5639 이진 검색 트리](../problems/acmicpc_5639.cpp) ([링크](https://www.acmicpc.net/problem/5639))
 
+[5648 역원소 정렬](../problems/acmicpc_5648.cpp) ([링크](https://www.acmicpc.net/problem/5648))
+
 [5676 음주 코딩](../problems/acmicpc_5676.cpp) ([링크](https://www.acmicpc.net/problem/5676))
 
 [5691 평균 중앙값 문제](../problems/acmicpc_5691.cpp) ([링크](https://www.acmicpc.net/problem/5691))
