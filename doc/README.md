@@ -30,6 +30,8 @@
 
 [1007 벡터 매칭](../problems/acmicpc_1007.cpp) ([링크](https://www.acmicpc.net/problem/1007))
 
+[1014 컨닝](../problems/acmicpc_1014.cpp) ([링크](https://www.acmicpc.net/problem/1014))
+
 [1016 제곱 ㄴㄴ 수](../problems/acmicpc_1016.cpp) ([링크](https://www.acmicpc.net/problem/1016))
 
 [1017 소수 쌍](../problems/acmicpc_1017.cpp) ([링크](https://www.acmicpc.net/problem/1017))
