@@ -1860,6 +1860,8 @@
 
 [20299 3대 측정](../problems/acmicpc_20299.cpp) ([링크](https://www.acmicpc.net/problem/20299))
 
+[20300 서강근육맨](../problems/acmicpc_20300.cpp) ([링크](https://www.acmicpc.net/problem/20300))
+
 [20310 타노스](../problems/acmicpc_20310.cpp) ([링크](https://www.acmicpc.net/problem/20310))
 
 [20352 Circus](../problems/acmicpc_20352.cpp) ([링크](https://www.acmicpc.net/problem/20352))
