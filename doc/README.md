@@ -1944,6 +1944,8 @@
 
 [22950 이진수 나눗셈](../problems/acmicpc_22950.cpp) ([링크](https://www.acmicpc.net/problem/22950))
 
+[22952 permutation making](../problems/acmicpc_22952.cpp) ([링크](https://www.acmicpc.net/problem/22952))
+
 [22966 가장 쉬운 문제를 찾는 문제](../problems/acmicpc_22966.cpp) ([링크](https://www.acmicpc.net/problem/22966))
 
 [23037 5의 수난](../problems/acmicpc_23037.cpp) ([링크](https://www.acmicpc.net/problem/23037))
