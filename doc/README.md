@@ -1710,6 +1710,8 @@
 
 [17252 삼삼한 수](../problems/acmicpc_17252.cpp) ([링크](https://www.acmicpc.net/problem/17252))
 
+[17253 삼삼한 수 2](../problems/acmicpc_17253.cpp) ([링크](https://www.acmicpc.net/problem/17253))
+
 [17256 달달함이 넘쳐흘러](../problems/acmicpc_17256.cpp) ([링크](https://www.acmicpc.net/problem/17256))
 
 [17262 팬덤이 넘쳐흘러](../problems/acmicpc_17262.cpp) ([링크](https://www.acmicpc.net/problem/17262))
