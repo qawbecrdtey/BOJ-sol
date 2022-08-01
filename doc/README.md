@@ -60,6 +60,8 @@
 
 [1132 합](../problems/acmicpc_1132.cpp) ([링크](https://www.acmicpc.net/problem/1132))
 
+[1141 접두사](../problems/acmicpc_1141.cpp) ([링크](https://www.acmicpc.net/problem/1141))
+
 [1145 적어도 대부분의 배수](../problems/acmicpc_1145.cpp) ([링크](https://www.acmicpc.net/problem/1145))
 
 [1153 네 개의 소수](../problems/acmicpc_1153.cpp) ([링크](https://www.acmicpc.net/problem/1153))
