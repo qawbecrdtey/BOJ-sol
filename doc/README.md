@@ -1230,6 +1230,8 @@
 
 [13226 Divisors Again](../problems/acmicpc_13226.cpp) ([링크](https://www.acmicpc.net/problem/13226))
 
+[13237 Binary tree](../problems/acmicpc_13237.cpp) ([링크](https://www.acmicpc.net/problem/13237))
+
 [13239 Combinations](../problems/acmicpc_13239.cpp) ([링크](https://www.acmicpc.net/problem/13239))
 
 [13251 조약돌 꺼내기](../problems/acmicpc_13251.cpp) ([링크](https://www.acmicpc.net/problem/13251))
