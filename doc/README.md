@@ -1692,6 +1692,8 @@
 
 [17042 Elder](../problems/acmicpc_17042.cpp) ([링크](https://www.acmicpc.net/problem/17042))
 
+[17086 아기 상어 2](../problems/acmicpc_17086.cpp) ([링크](https://www.acmicpc.net/problem/17086))
+
 [17087 숨바꼭질 6](../problems/acmicpc_17087.cpp) ([링크](https://www.acmicpc.net/problem/17087))
 
 [17094 Serious Problem](../problems/acmicpc_17094.cpp) ([링크](https://www.acmicpc.net/problem/17094))
