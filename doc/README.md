@@ -1940,6 +1940,8 @@
 
 [21734 SMUPC의 등장](../problems/acmicpc_21734.cpp) ([링크](https://www.acmicpc.net/problem/21734))
 
+[21736 헌내기는 친구가 필요해](../problems/acmicpc_21736.cpp) ([링크](https://www.acmicpc.net/problem/21736))
+
 [21756 지우개](../problems/acmicpc_21756.cpp) ([링크](https://www.acmicpc.net/problem/21756))
 
 [21920 서로소 평균](../problems/acmicpc_21920.cpp) ([링크](https://www.acmicpc.net/problem/21920))
