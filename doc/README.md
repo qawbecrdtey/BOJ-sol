@@ -472,6 +472,8 @@
 
 [2909 캔디 구매](../problems/acmicpc_2909.cpp) ([링크](https://www.acmicpc.net/problem/2909))
 
+[2910 빈도 정렬](../problems/acmicpc_2910.cpp) ([링크](https://www.acmicpc.net/problem/2910))
+
 [2916 자와 각도기](../problems/acmicpc_2916.cpp) ([링크](https://www.acmicpc.net/problem/2916))
 
 [2921 도미노](../problems/acmicpc_2921.cpp) ([링크](https://www.acmicpc.net/problem/2921))
