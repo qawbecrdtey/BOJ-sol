@@ -1348,6 +1348,8 @@
 
 [14245 XOR](../problems/acmicpc_14245.cpp) ([링크](https://www.acmicpc.net/problem/14245))
 
+[14248 점프 점프](../problems/acmicpc_14248.cpp) ([링크](https://www.acmicpc.net/problem/14248))
+
 [14264 정육각형과 삼각형](../problems/acmicpc_14264.cpp) ([링크](https://www.acmicpc.net/problem/14264))
 
 [14289 본대 산책 3](../problems/acmicpc_14289.cpp) ([링크](https://www.acmicpc.net/problem/14289))
