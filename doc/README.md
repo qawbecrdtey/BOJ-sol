@@ -688,6 +688,8 @@
 
 [5893 17배](../problems/acmicpc_5893.cpp) ([링크](https://www.acmicpc.net/problem/5893))
 
+[5958 Space Exploration](../problems/acmicpc_5958.cpp) ([링크](https://www.acmicpc.net/problem/5958))
+
 [6064 카잉 달력](../problems/acmicpc_6064.cpp) ([링크](https://www.acmicpc.net/problem/6064))
 
 [6086 최대 유량](../problems/acmicpc_6086.cpp) ([링크](https://www.acmicpc.net/problem/6086))
