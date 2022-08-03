@@ -1802,6 +1802,8 @@
 
 [18111 마인크래프트](../problems/acmicpc_18111.cpp) ([링크](https://www.acmicpc.net/problem/18111))
 
+[18126 너구리 구구](../problems/acmicpc_18126.cpp) ([링크](https://www.acmicpc.net/problem/18126))
+
 [18127 모형결정](../problems/acmicpc_18127.cpp) ([링크](https://www.acmicpc.net/problem/18127))
 
 [18138 리유나는 세일러복을 좋아해](../problems/acmicpc_18138.cpp) ([링크](https://www.acmicpc.net/problem/18138))
