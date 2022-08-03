@@ -1488,6 +1488,8 @@
 
 [15178 Angles](../problems/acmicpc_15178.cpp) ([링크](https://www.acmicpc.net/problem/15178))
 
+[15182 침략자 진아](../problems/acmicpc_15182.cpp) ([링크](https://www.acmicpc.net/problem/15182))
+
 [15232 Rectangles](../problems/acmicpc_15232.cpp) ([링크](https://www.acmicpc.net/problem/15232))
 
 [15233 Final Score](../problems/acmicpc_15233.cpp) ([링크](https://www.acmicpc.net/problem/15233))
