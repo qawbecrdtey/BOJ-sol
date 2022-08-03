@@ -2040,6 +2040,8 @@
 
 [23825 SASA 모형을 만들어보자](../problems/acmicpc_23825.cpp) ([링크](https://www.acmicpc.net/problem/23825))
 
+[23881 알고리즘 수업 - 선택 정렬 1](../problems/acmicpc_23881.cpp) ([링크](https://www.acmicpc.net/problem/23881))
+
 [23972 악마의 제안](../problems/acmicpc_23972.cpp) ([링크](https://www.acmicpc.net/problem/23972))
 
 [24075 計算 (Calculation)](../problems/acmicpc_24075.cpp) ([링크](https://www.acmicpc.net/problem/24075))
