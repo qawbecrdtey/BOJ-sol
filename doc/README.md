@@ -1388,6 +1388,8 @@
 
 [14545 Square](../problems/acmicpc_14545.cpp) ([링크](https://www.acmicpc.net/problem/14545))
 
+[14562 태권왕](../problems/acmicpc_14562.cpp) ([링크](https://www.acmicpc.net/problem/14562))
+
 [14563 완전수](../problems/acmicpc_14563.cpp) ([링크](https://www.acmicpc.net/problem/14563))
 
 [14565 역원(Inverse) 구하기](../problems/acmicpc_14565.cpp) ([링크](https://www.acmicpc.net/problem/14565))
