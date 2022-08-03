@@ -160,6 +160,8 @@
 
 [1438 가장 작은 직사각형](../problems/acmicpc_1438.cpp) ([링크](https://www.acmicpc.net/problem/1438))
 
+[1446 지름길](../problems/acmicpc_1446.cpp) ([링크](https://www.acmicpc.net/problem/1446))
+
 [1448 삼각형 만들기](../problems/acmicpc_1448.cpp) ([링크](https://www.acmicpc.net/problem/1448))
 
 [1456 거의 소수](../problems/acmicpc_1456.cpp) ([링크](https://www.acmicpc.net/problem/1456))
