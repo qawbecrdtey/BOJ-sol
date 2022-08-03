@@ -1214,6 +1214,8 @@
 
 [12991 홍준이의 행렬](../problems/acmicpc_12991.cpp) ([링크](https://www.acmicpc.net/problem/12991))
 
+[12993 이동3](../problems/acmicpc_12993.cpp) ([링크](https://www.acmicpc.net/problem/12993))
+
 [13015 별 찍기 - 23](../problems/acmicpc_13015.cpp) ([링크](https://www.acmicpc.net/problem/13015))
 
 [13073 Sums](../problems/acmicpc_13073.cpp) ([링크](https://www.acmicpc.net/problem/13073))
