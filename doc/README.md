@@ -1574,6 +1574,8 @@
 
 [15727 조별과제를 하려는데 조장이 사라졌다](../problems/acmicpc_15727.cpp) ([링크](https://www.acmicpc.net/problem/15727))
 
+[15729 방탈출](../problems/acmicpc_15729.cpp) ([링크](https://www.acmicpc.net/problem/15729))
+
 [15734 명장 남정훈](../problems/acmicpc_15734.cpp) ([링크](https://www.acmicpc.net/problem/15734))
 
 [15780 멀티탭 충분하니?](../problems/acmicpc_15780.cpp) ([링크](https://www.acmicpc.net/problem/15780))
