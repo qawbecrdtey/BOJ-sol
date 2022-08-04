@@ -1980,6 +1980,8 @@
 
 [21920 서로소 평균](../problems/acmicpc_21920.cpp) ([링크](https://www.acmicpc.net/problem/21920))
 
+[21924 도시 건설](../problems/acmicpc_21924.cpp) ([링크](https://www.acmicpc.net/problem/21924))
+
 [21940 가운데에서 만나기](../problems/acmicpc_21940.cpp) ([링크](https://www.acmicpc.net/problem/21940))
 
 [21964 선린인터넷고등학교 교가](../problems/acmicpc_21964.cpp) ([링크](https://www.acmicpc.net/problem/21964))
