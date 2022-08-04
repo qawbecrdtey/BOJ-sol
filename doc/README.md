@@ -1190,6 +1190,8 @@
 
 [12784 인하니카 공화국](../problems/acmicpc_12784.cpp) ([링크](https://www.acmicpc.net/problem/12784))
 
+[12785 토쟁이의 등굣길](../problems/acmicpc_12785.cpp) ([링크](https://www.acmicpc.net/problem/12785))
+
 [12789 도키도키 간식드리미](../problems/acmicpc_12789.cpp) ([링크](https://www.acmicpc.net/problem/12789))
 
 [12791 Starman](../problems/acmicpc_12791.cpp) ([링크](https://www.acmicpc.net/problem/12791))
