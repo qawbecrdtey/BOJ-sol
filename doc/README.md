@@ -458,6 +458,8 @@
 
 [2776 암기왕](../problems/acmicpc_2776.cpp) ([링크](https://www.acmicpc.net/problem/2776))
 
+[2780 비밀번호](../problems/acmicpc_2780.cpp) ([링크](https://www.acmicpc.net/problem/2780))
+
 [2783 삼각 김밥](../problems/acmicpc_2783.cpp) ([링크](https://www.acmicpc.net/problem/2783))
 
 [2810 컵홀더](../problems/acmicpc_2810.cpp) ([링크](https://www.acmicpc.net/problem/2810))
