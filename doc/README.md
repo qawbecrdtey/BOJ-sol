@@ -220,6 +220,8 @@
 
 [1655 가운데를 말해요](../problems/acmicpc_1655.cpp) ([링크](https://www.acmicpc.net/problem/1655))
 
+[1672 DNA 해독](../problems/acmicpc_1672.cpp) ([링크](https://www.acmicpc.net/problem/1672))
+
 [1673 치킨 쿠폰](../problems/acmicpc_1673.cpp) ([링크](https://www.acmicpc.net/problem/1673))
 
 [1684 같은 나머지](../problems/acmicpc_1684.cpp) ([링크](https://www.acmicpc.net/problem/1684))
