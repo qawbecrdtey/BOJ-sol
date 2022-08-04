@@ -1842,6 +1842,8 @@
 
 [18138 리유나는 세일러복을 좋아해](../problems/acmicpc_18138.cpp) ([링크](https://www.acmicpc.net/problem/18138))
 
+[18243 Small World Network](../problems/acmicpc_18243.cpp) ([링크](https://www.acmicpc.net/problem/18243))
+
 [18247 겨울왕국 티켓 예매](../problems/acmicpc_18247.cpp) ([링크](https://www.acmicpc.net/problem/18247))
 
 [18265 MooBuzz](../problems/acmicpc_18265.cpp) ([링크](https://www.acmicpc.net/problem/18265))
