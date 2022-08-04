@@ -186,6 +186,8 @@
 
 [1535 안녕](../problems/acmicpc_1535.cpp) ([링크](https://www.acmicpc.net/problem/1535))
 
+[1543 문서 검색](../problems/acmicpc_1543.cpp) ([링크](https://www.acmicpc.net/problem/1543))
+
 [1547 공](../problems/acmicpc_1547.cpp) ([링크](https://www.acmicpc.net/problem/1547))
 
 [1551 수열의 변화](../problems/acmicpc_1551.cpp) ([링크](https://www.acmicpc.net/problem/1551))
