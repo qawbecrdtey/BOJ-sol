@@ -50,6 +50,8 @@
 
 [1074 Z](../problems/acmicpc_1074.cpp) ([링크](https://www.acmicpc.net/problem/1074))
 
+[1080 행렬](../problems/acmicpc_1080.cpp) ([링크](https://www.acmicpc.net/problem/1080))
+
 [1107 리모컨](../problems/acmicpc_1107.cpp) ([링크](https://www.acmicpc.net/problem/1107))
 
 [1111 IQ Test](../problems/acmicpc_1111.cpp) ([링크](https://www.acmicpc.net/problem/1111))
