@@ -2026,6 +2026,8 @@
 
 [23037 5의 수난](../problems/acmicpc_23037.cpp) ([링크](https://www.acmicpc.net/problem/23037))
 
+[23042 AND와 OR](../problems/acmicpc_23042.cpp) ([링크](https://www.acmicpc.net/problem/23042))
+
 [23048 자연수 색칠하기](../problems/acmicpc_23048.cpp) ([링크](https://www.acmicpc.net/problem/23048))
 
 [23055 공사장 표지판](../problems/acmicpc_23055.cpp) ([링크](https://www.acmicpc.net/problem/23055))
