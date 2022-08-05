@@ -1236,6 +1236,8 @@
 
 [12927 배수 스위치](../problems/acmicpc_12927.cpp) ([링크](https://www.acmicpc.net/problem/12927))
 
+[12987 Matrix Again](../problems/acmicpc_12987.cpp) ([링크](https://www.acmicpc.net/problem/12987))
+
 [12991 홍준이의 행렬](../problems/acmicpc_12991.cpp) ([링크](https://www.acmicpc.net/problem/12991))
 
 [12993 이동3](../problems/acmicpc_12993.cpp) ([링크](https://www.acmicpc.net/problem/12993))
