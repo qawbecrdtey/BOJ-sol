@@ -1468,6 +1468,8 @@
 
 [14888 연산자 끼워넣기](../problems/acmicpc_14888.cpp) ([링크](https://www.acmicpc.net/problem/14888))
 
+[14905 소수 4개의 합](../problems/acmicpc_14905.cpp) ([링크](https://www.acmicpc.net/problem/14905))
+
 [14909 양수 개수 세기](../problems/acmicpc_14909.cpp) ([링크](https://www.acmicpc.net/problem/14909))
 
 [14910 오르막](../problems/acmicpc_14910.cpp) ([링크](https://www.acmicpc.net/problem/14910))
