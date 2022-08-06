@@ -824,6 +824,8 @@
 
 [8979 올림픽](../problems/acmicpc_8979.cpp) ([링크](https://www.acmicpc.net/problem/8979))
 
+[9009 피보나치](../problems/acmicpc_9009.cpp) ([링크](https://www.acmicpc.net/problem/9009))
+
 [9015 정사각형](../problems/acmicpc_9015.cpp) ([링크](https://www.acmicpc.net/problem/9015))
 
 [9019 DSLR](../problems/acmicpc_9019.cpp) ([링크](https://www.acmicpc.net/problem/9019))
