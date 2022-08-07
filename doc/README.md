@@ -346,6 +346,8 @@
 
 [2166 다각형의 면적](../problems/acmicpc_2166.cpp) ([링크](https://www.acmicpc.net/problem/2166))
 
+[2168 타일 위의 대각선](../problems/acmicpc_2168.cpp) ([링크](https://www.acmicpc.net/problem/2168))
+
 [2170 선 긋기](../problems/acmicpc_2170.cpp) ([링크](https://www.acmicpc.net/problem/2170))
 
 [2188 축사 배정](../problems/acmicpc_2188.cpp) ([링크](https://www.acmicpc.net/problem/2188))
