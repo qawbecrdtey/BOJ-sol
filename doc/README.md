@@ -946,6 +946,8 @@
 
 [10253 헨리](../problems/acmicpc_10253.cpp) ([링크](https://www.acmicpc.net/problem/10253))
 
+[10357 Triples](../problems/acmicpc_10357.cpp) ([링크](https://www.acmicpc.net/problem/10357))
+
 [10372 Alarm Clock](../problems/acmicpc_10372.cpp) ([링크](https://www.acmicpc.net/problem/10372))
 
 [10384 팬그램](../problems/acmicpc_10384.cpp) ([링크](https://www.acmicpc.net/problem/10384))
