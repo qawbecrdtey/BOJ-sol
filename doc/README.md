@@ -2100,6 +2100,8 @@
 
 [23881 알고리즘 수업 - 선택 정렬 1](../problems/acmicpc_23881.cpp) ([링크](https://www.acmicpc.net/problem/23881))
 
+[23888 등차수열과 쿼리](../problems/acmicpc_23888.cpp) ([링크](https://www.acmicpc.net/problem/23888))
+
 [23972 악마의 제안](../problems/acmicpc_23972.cpp) ([링크](https://www.acmicpc.net/problem/23972))
 
 [24040 예쁜 케이크](../problems/acmicpc_24040.cpp) ([링크](https://www.acmicpc.net/problem/24040))
