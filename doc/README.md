@@ -1700,6 +1700,8 @@
 
 [16395 파스칼의 삼각형](../problems/acmicpc_16395.cpp) ([링크](https://www.acmicpc.net/problem/16395))
 
+[16396 선 그리기](../problems/acmicpc_16396.cpp) ([링크](https://www.acmicpc.net/problem/16396))
+
 [16427 Time Limits](../problems/acmicpc_16427.cpp) ([링크](https://www.acmicpc.net/problem/16427))
 
 [16433 주디와 당근농장](../problems/acmicpc_16433.cpp) ([링크](https://www.acmicpc.net/problem/16433))
