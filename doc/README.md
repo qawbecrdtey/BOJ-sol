@@ -808,6 +808,8 @@
 
 [8595 히든 넘버](../problems/acmicpc_8595.cpp) ([링크](https://www.acmicpc.net/problem/8595))
 
+[8664 Kwadrat](../problems/acmicpc_8664.cpp) ([링크](https://www.acmicpc.net/problem/8664))
+
 [8710 Koszykarz](../problems/acmicpc_8710.cpp) ([링크](https://www.acmicpc.net/problem/8710))
 
 [8714 Monety](../problems/acmicpc_8714.cpp) ([링크](https://www.acmicpc.net/problem/8714))
