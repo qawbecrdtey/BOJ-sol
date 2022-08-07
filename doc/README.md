@@ -1018,6 +1018,8 @@
 
 [10830 행렬 제곱](../problems/acmicpc_10830.cpp) ([링크](https://www.acmicpc.net/problem/10830))
 
+[10864 친구](../problems/acmicpc_10864.cpp) ([링크](https://www.acmicpc.net/problem/10864))
+
 [10868 최솟값](../problems/acmicpc_10868.cpp) ([링크](https://www.acmicpc.net/problem/10868))
 
 [10874 이교수님의 시험](../problems/acmicpc_10874.cpp) ([링크](https://www.acmicpc.net/problem/10874))
