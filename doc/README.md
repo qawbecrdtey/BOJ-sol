@@ -242,6 +242,8 @@
 
 [1715 카드 정렬하기](../problems/acmicpc_1715.cpp) ([링크](https://www.acmicpc.net/problem/1715))
 
+[1718 암호](../problems/acmicpc_1718.cpp) ([링크](https://www.acmicpc.net/problem/1718))
+
 [1725 히스토그램](../problems/acmicpc_1725.cpp) ([링크](https://www.acmicpc.net/problem/1725))
 
 [1740 거듭제곱](../problems/acmicpc_1740.cpp) ([링크](https://www.acmicpc.net/problem/1740))
