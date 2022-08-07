@@ -1268,6 +1268,8 @@
 
 [13164 행복 유치원](../problems/acmicpc_13164.cpp) ([링크](https://www.acmicpc.net/problem/13164))
 
+[13171 A](../problems/acmicpc_13171.cpp) ([링크](https://www.acmicpc.net/problem/13171))
+
 [13172 Σ](../problems/acmicpc_13172.cpp) ([링크](https://www.acmicpc.net/problem/13172))
 
 [13221 Manhattan](../problems/acmicpc_13221.cpp) ([링크](https://www.acmicpc.net/problem/13221))
