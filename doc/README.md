@@ -990,6 +990,8 @@
 
 [10768 특별한 날](../problems/acmicpc_10768.cpp) ([링크](https://www.acmicpc.net/problem/10768))
 
+[10769 행복한지 슬픈지](../problems/acmicpc_10769.cpp) ([링크](https://www.acmicpc.net/problem/10769))
+
 [10775 공항](../problems/acmicpc_10775.cpp) ([링크](https://www.acmicpc.net/problem/10775))
 
 [10800 컬러볼](../problems/acmicpc_10800.cpp) ([링크](https://www.acmicpc.net/problem/10800))
