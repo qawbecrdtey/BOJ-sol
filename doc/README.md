@@ -794,6 +794,8 @@
 
 [7569 토마토](../problems/acmicpc_7569.cpp) ([링크](https://www.acmicpc.net/problem/7569))
 
+[7572 간지(干支)](../problems/acmicpc_7572.cpp) ([링크](https://www.acmicpc.net/problem/7572))
+
 [7578 공장](../problems/acmicpc_7578.cpp) ([링크](https://www.acmicpc.net/problem/7578))
 
 [7586 Cuboids](../problems/acmicpc_7586.cpp) ([링크](https://www.acmicpc.net/problem/7586))
