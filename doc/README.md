@@ -1732,6 +1732,8 @@
 
 [16499 동일한 단어 그룹화하기](../problems/acmicpc_16499.cpp) ([링크](https://www.acmicpc.net/problem/16499))
 
+[16500 문자열 판별](../problems/acmicpc_16500.cpp) ([링크](https://www.acmicpc.net/problem/16500))
+
 [16502 그녀를 찾아서](../problems/acmicpc_16502.cpp) ([링크](https://www.acmicpc.net/problem/16502))
 
 [16503 괄호 없는 사칙연산](../problems/acmicpc_16503.cpp) ([링크](https://www.acmicpc.net/problem/16503))
