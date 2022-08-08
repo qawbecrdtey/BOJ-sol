@@ -892,6 +892,8 @@
 
 [9417 최대 GCD](../problems/acmicpc_9417.cpp) ([링크](https://www.acmicpc.net/problem/9417))
 
+[9421 소수상근수](../problems/acmicpc_9421.cpp) ([링크](https://www.acmicpc.net/problem/9421))
+
 [9437 사라진 페이지 찾기](../problems/acmicpc_9437.cpp) ([링크](https://www.acmicpc.net/problem/9437))
 
 [9442 Sort Me](../problems/acmicpc_9442.cpp) ([링크](https://www.acmicpc.net/problem/9442))
