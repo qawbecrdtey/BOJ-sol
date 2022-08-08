@@ -608,6 +608,8 @@
 
 [4458 첫 글자를 대문자로](../problems/acmicpc_4458.cpp) ([링크](https://www.acmicpc.net/problem/4458))
 
+[4493 가위 바위 보?](../problems/acmicpc_4493.cpp) ([링크](https://www.acmicpc.net/problem/4493))
+
 [4562 No Brainer](../problems/acmicpc_4562.cpp) ([링크](https://www.acmicpc.net/problem/4562))
 
 [4563 리벤지 오브 피타고라스](../problems/acmicpc_4563.cpp) ([링크](https://www.acmicpc.net/problem/4563))
