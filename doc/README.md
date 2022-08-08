@@ -1606,6 +1606,8 @@
 
 [15711 환상의 짝꿍](../problems/acmicpc_15711.cpp) ([링크](https://www.acmicpc.net/problem/15711))
 
+[15712 등비수열](../problems/acmicpc_15712.cpp) ([링크](https://www.acmicpc.net/problem/15712))
+
 [15719 중복된 숫자](../problems/acmicpc_15719.cpp) ([링크](https://www.acmicpc.net/problem/15719))
 
 [15720 카우버거](../problems/acmicpc_15720.cpp) ([링크](https://www.acmicpc.net/problem/15720))
