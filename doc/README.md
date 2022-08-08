@@ -42,6 +42,8 @@
 
 [1021 회전하는 큐](../problems/acmicpc_1021.cpp) ([링크](https://www.acmicpc.net/problem/1021))
 
+[1043 거짓말](../problems/acmicpc_1043.cpp) ([링크](https://www.acmicpc.net/problem/1043))
+
 [1059 좋은 구간](../problems/acmicpc_1059.cpp) ([링크](https://www.acmicpc.net/problem/1059))
 
 [1064 평행사변형](../problems/acmicpc_1064.cpp) ([링크](https://www.acmicpc.net/problem/1064))
