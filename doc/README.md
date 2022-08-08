@@ -384,6 +384,8 @@
 
 [2343 기타 레슨](../problems/acmicpc_2343.cpp) ([링크](https://www.acmicpc.net/problem/2343))
 
+[2346 풍선 터뜨리기](../problems/acmicpc_2346.cpp) ([링크](https://www.acmicpc.net/problem/2346))
+
 [2352 반도체 설계](../problems/acmicpc_2352.cpp) ([링크](https://www.acmicpc.net/problem/2352))
 
 [2357 최솟값과 최댓값](../problems/acmicpc_2357.cpp) ([링크](https://www.acmicpc.net/problem/2357))
