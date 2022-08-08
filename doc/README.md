@@ -1808,6 +1808,8 @@
 
 [17206 준석이의 수학 숙제](../problems/acmicpc_17206.cpp) ([링크](https://www.acmicpc.net/problem/17206))
 
+[17211 좋은 날 싫은 날](../problems/acmicpc_17211.cpp) ([링크](https://www.acmicpc.net/problem/17211))
+
 [17219 비밀번호 찾기](../problems/acmicpc_17219.cpp) ([링크](https://www.acmicpc.net/problem/17219))
 
 [17244 아맞다우산](../problems/acmicpc_17244.cpp) ([링크](https://www.acmicpc.net/problem/17244))
