@@ -470,6 +470,8 @@
 
 [2731 1379와 세제곱](../problems/acmicpc_2731.cpp) ([링크](https://www.acmicpc.net/problem/2731))
 
+[2737 연속 합](../problems/acmicpc_2737.cpp) ([링크](https://www.acmicpc.net/problem/2737))
+
 [2755 이번학기 평점은 몇점?](../problems/acmicpc_2755.cpp) ([링크](https://www.acmicpc.net/problem/2755))
 
 [2756 다트](../problems/acmicpc_2756.cpp) ([링크](https://www.acmicpc.net/problem/2756))
