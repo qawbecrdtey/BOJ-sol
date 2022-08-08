@@ -224,6 +224,8 @@
 
 [1673 치킨 쿠폰](../problems/acmicpc_1673.cpp) ([링크](https://www.acmicpc.net/problem/1673))
 
+[1681 줄 세우기](../problems/acmicpc_1681.cpp) ([링크](https://www.acmicpc.net/problem/1681))
+
 [1684 같은 나머지](../problems/acmicpc_1684.cpp) ([링크](https://www.acmicpc.net/problem/1684))
 
 [1687 행렬 찾기](../problems/acmicpc_1687.cpp) ([링크](https://www.acmicpc.net/problem/1687))
