@@ -342,6 +342,8 @@
 
 [2110 공유기 설치](../problems/acmicpc_2110.cpp) ([링크](https://www.acmicpc.net/problem/2110))
 
+[2138 전구와 스위치](../problems/acmicpc_2138.cpp) ([링크](https://www.acmicpc.net/problem/2138))
+
 [2143 두 배열의 합](../problems/acmicpc_2143.cpp) ([링크](https://www.acmicpc.net/problem/2143))
 
 [2145 숫자 놀이](../problems/acmicpc_2145.cpp) ([링크](https://www.acmicpc.net/problem/2145))
