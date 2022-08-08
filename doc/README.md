@@ -652,6 +652,8 @@
 
 [4949 균형잡힌 세상](../problems/acmicpc_4949.cpp) ([링크](https://www.acmicpc.net/problem/4949))
 
+[5014 스타트링크](../problems/acmicpc_5014.cpp) ([링크](https://www.acmicpc.net/problem/5014))
+
 [5026 박사 과정](../problems/acmicpc_5026.cpp) ([링크](https://www.acmicpc.net/problem/5026))
 
 [5032 탄산 음료](../problems/acmicpc_5032.cpp) ([링크](https://www.acmicpc.net/problem/5032))
