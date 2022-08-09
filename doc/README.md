@@ -976,6 +976,8 @@
 
 [10211 Maximum Subarray](../problems/acmicpc_10211.cpp) ([링크](https://www.acmicpc.net/problem/10211))
 
+[10219 Meats On The Grill](../problems/acmicpc_10219.cpp) ([링크](https://www.acmicpc.net/problem/10219))
+
 [10227 삶의 질](../problems/acmicpc_10227.cpp) ([링크](https://www.acmicpc.net/problem/10227))
 
 [10253 헨리](../problems/acmicpc_10253.cpp) ([링크](https://www.acmicpc.net/problem/10253))
