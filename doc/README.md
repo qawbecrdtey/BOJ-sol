@@ -2228,6 +2228,8 @@
 
 [24483 알고리즘 수업 - 깊이 우선 탐색 5](../problems/acmicpc_24483.cpp) ([링크](https://www.acmicpc.net/problem/24483))
 
+[24510 시간복잡도를 배운 도도](../problems/acmicpc_24510.cpp) ([링크](https://www.acmicpc.net/problem/24510))
+
 [24523 내 뒤에 나와 다른 수](../problems/acmicpc_24523.cpp) ([링크](https://www.acmicpc.net/problem/24523))
 
 [24568 Cupcake Party](../problems/acmicpc_24568.cpp) ([링크](https://www.acmicpc.net/problem/24568))
