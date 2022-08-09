@@ -1930,6 +1930,8 @@
 
 [18230 2xN 예쁜 타일링](../problems/acmicpc_18230.cpp) ([링크](https://www.acmicpc.net/problem/18230))
 
+[18238 ZOAC 2](../problems/acmicpc_18238.cpp) ([링크](https://www.acmicpc.net/problem/18238))
+
 [18243 Small World Network](../problems/acmicpc_18243.cpp) ([링크](https://www.acmicpc.net/problem/18243))
 
 [18247 겨울왕국 티켓 예매](../problems/acmicpc_18247.cpp) ([링크](https://www.acmicpc.net/problem/18247))
