@@ -722,6 +722,8 @@
 
 [5691 평균 중앙값 문제](../problems/acmicpc_5691.cpp) ([링크](https://www.acmicpc.net/problem/5691))
 
+[5698 Tautogram](../problems/acmicpc_5698.cpp) ([링크](https://www.acmicpc.net/problem/5698))
+
 [5704 팬그램](../problems/acmicpc_5704.cpp) ([링크](https://www.acmicpc.net/problem/5704))
 
 [5751 Head or Tail](../problems/acmicpc_5751.cpp) ([링크](https://www.acmicpc.net/problem/5751))
