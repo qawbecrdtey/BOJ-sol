@@ -2142,6 +2142,8 @@
 
 [23235 The Fastest Sorting Algorithm In The World](../problems/acmicpc_23235.cpp) ([링크](https://www.acmicpc.net/problem/23235))
 
+[23251 스물셋](../problems/acmicpc_23251.cpp) ([링크](https://www.acmicpc.net/problem/23251))
+
 [23275 Knot Knowledge](../problems/acmicpc_23275.cpp) ([링크](https://www.acmicpc.net/problem/23275))
 
 [23278 영화 평가](../problems/acmicpc_23278.cpp) ([링크](https://www.acmicpc.net/problem/23278))
