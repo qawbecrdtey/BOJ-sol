@@ -1504,6 +1504,8 @@
 
 [14623 감정이입](../problems/acmicpc_14623.cpp) ([링크](https://www.acmicpc.net/problem/14623))
 
+[14625 냉동식품](../problems/acmicpc_14625.cpp) ([링크](https://www.acmicpc.net/problem/14625))
+
 [14646 욱제는 결정장애야!!](../problems/acmicpc_14646.cpp) ([링크](https://www.acmicpc.net/problem/14646))
 
 [14648 쿼리 맛보기](../problems/acmicpc_14648.cpp) ([링크](https://www.acmicpc.net/problem/14648))
