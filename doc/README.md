@@ -1752,6 +1752,8 @@
 
 [16455 K번째 수 찾는 함수](../problems/acmicpc_16455.cpp) ([링크](https://www.acmicpc.net/problem/16455))
 
+[16462 '나교수' 교수님의 악필](../problems/acmicpc_16462.cpp) ([링크](https://www.acmicpc.net/problem/16462))
+
 [16483 접시 안의 원](../problems/acmicpc_16483.cpp) ([링크](https://www.acmicpc.net/problem/16483))
 
 [16485 작도하자! - ②](../problems/acmicpc_16485.cpp) ([링크](https://www.acmicpc.net/problem/16485))
