@@ -1928,6 +1928,8 @@
 
 [17939 Gazzzua](../problems/acmicpc_17939.cpp) ([링크](https://www.acmicpc.net/problem/17939))
 
+[17950 스노우볼](../problems/acmicpc_17950.cpp) ([링크](https://www.acmicpc.net/problem/17950))
+
 [18004 From A to B](../problems/acmicpc_18004.cpp) ([링크](https://www.acmicpc.net/problem/18004))
 
 [18005 Even or Odd?](../problems/acmicpc_18005.cpp) ([링크](https://www.acmicpc.net/problem/18005))
