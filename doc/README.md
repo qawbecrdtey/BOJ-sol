@@ -1516,6 +1516,8 @@
 
 [14675 단절점과 단절선](../problems/acmicpc_14675.cpp) ([링크](https://www.acmicpc.net/problem/14675))
 
+[14682 Shifty Sum](../problems/acmicpc_14682.cpp) ([링크](https://www.acmicpc.net/problem/14682))
+
 [14698 전생했더니 슬라임 연구자였던 건에 대하여 (Hard)](../problems/acmicpc_14698.cpp) ([링크](https://www.acmicpc.net/problem/14698))
 
 [14699 관악산 등산](../problems/acmicpc_14699.cpp) ([링크](https://www.acmicpc.net/problem/14699))
