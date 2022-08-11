@@ -1160,6 +1160,8 @@
 
 [11438 LCA 2](../problems/acmicpc_11438.cpp) ([링크](https://www.acmicpc.net/problem/11438))
 
+[11439 이항 계수 5](../problems/acmicpc_11439.cpp) ([링크](https://www.acmicpc.net/problem/11439))
+
 [11440 피보나치 수의 제곱의 합](../problems/acmicpc_11440.cpp) ([링크](https://www.acmicpc.net/problem/11440))
 
 [11441 합 구하기](../problems/acmicpc_11441.cpp) ([링크](https://www.acmicpc.net/problem/11441))
