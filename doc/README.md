@@ -500,6 +500,8 @@
 
 [2857 FBI](../problems/acmicpc_2857.cpp) ([링크](https://www.acmicpc.net/problem/2857))
 
+[2862 수학 게임](../problems/acmicpc_2862.cpp) ([링크](https://www.acmicpc.net/problem/2862))
+
 [2885 초콜릿 식사](../problems/acmicpc_2885.cpp) ([링크](https://www.acmicpc.net/problem/2885))
 
 [2896 무알콜 칵테일](../problems/acmicpc_2896.cpp) ([링크](https://www.acmicpc.net/problem/2896))
