@@ -1632,6 +1632,8 @@
 
 [15665 N과 M (11)](../problems/acmicpc_15665.cpp) ([링크](https://www.acmicpc.net/problem/15665))
 
+[15666 N과 M (12)](../problems/acmicpc_15666.cpp) ([링크](https://www.acmicpc.net/problem/15666))
+
 [15678 연세워터파크](../problems/acmicpc_15678.cpp) ([링크](https://www.acmicpc.net/problem/15678))
 
 [15686 치킨 배달](../problems/acmicpc_15686.cpp) ([링크](https://www.acmicpc.net/problem/15686))
