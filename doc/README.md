@@ -744,6 +744,8 @@
 
 [6064 카잉 달력](../problems/acmicpc_6064.cpp) ([링크](https://www.acmicpc.net/problem/6064))
 
+[6081 Hay Expenses](../problems/acmicpc_6081.cpp) ([링크](https://www.acmicpc.net/problem/6081))
+
 [6086 최대 유량](../problems/acmicpc_6086.cpp) ([링크](https://www.acmicpc.net/problem/6086))
 
 [6186 Best Grass](../problems/acmicpc_6186.cpp) ([링크](https://www.acmicpc.net/problem/6186))
