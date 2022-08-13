@@ -1830,6 +1830,8 @@
 
 [17010 Time to Decompress](../problems/acmicpc_17010.cpp) ([링크](https://www.acmicpc.net/problem/17010))
 
+[17028 Sleepy Cow Sorting](../problems/acmicpc_17028.cpp) ([링크](https://www.acmicpc.net/problem/17028))
+
 [17042 Elder](../problems/acmicpc_17042.cpp) ([링크](https://www.acmicpc.net/problem/17042))
 
 [17086 아기 상어 2](../problems/acmicpc_17086.cpp) ([링크](https://www.acmicpc.net/problem/17086))
