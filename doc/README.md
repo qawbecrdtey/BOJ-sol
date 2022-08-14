@@ -338,6 +338,8 @@
 
 [2057 팩토리얼 분해](../problems/acmicpc_2057.cpp) ([링크](https://www.acmicpc.net/problem/2057))
 
+[2083 럭비 클럽](../problems/acmicpc_2083.cpp) ([링크](https://www.acmicpc.net/problem/2083))
+
 [2086 피보나치 수의 합](../problems/acmicpc_2086.cpp) ([링크](https://www.acmicpc.net/problem/2086))
 
 [2098 외판원 순회](../problems/acmicpc_2098.cpp) ([링크](https://www.acmicpc.net/problem/2098))
