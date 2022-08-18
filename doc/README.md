@@ -648,6 +648,8 @@
 
 [4696 St. Ives](../problems/acmicpc_4696.cpp) ([링크](https://www.acmicpc.net/problem/4696))
 
+[4714 Lunacy](../problems/acmicpc_4714.cpp) ([링크](https://www.acmicpc.net/problem/4714))
+
 [4779 칸토어 집합](../problems/acmicpc_4779.cpp) ([링크](https://www.acmicpc.net/problem/4779))
 
 [4782 분수 뺄셈](../problems/acmicpc_4782.cpp) ([링크](https://www.acmicpc.net/problem/4782))
