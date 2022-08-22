@@ -1586,6 +1586,8 @@
 
 [14935 FA](../problems/acmicpc_14935.cpp) ([링크](https://www.acmicpc.net/problem/14935))
 
+[14938 서강그라운드](../problems/acmicpc_14938.cpp) ([링크](https://www.acmicpc.net/problem/14938))
+
 [14939 불 끄기](../problems/acmicpc_14939.cpp) ([링크](https://www.acmicpc.net/problem/14939))
 
 [14940 쉬운 최단거리](../problems/acmicpc_14940.cpp) ([링크](https://www.acmicpc.net/problem/14940))
