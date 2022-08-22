@@ -44,6 +44,8 @@
 
 [1043 거짓말](../problems/acmicpc_1043.cpp) ([링크](https://www.acmicpc.net/problem/1043))
 
+[1058 친구](../problems/acmicpc_1058.cpp) ([링크](https://www.acmicpc.net/problem/1058))
+
 [1059 좋은 구간](../problems/acmicpc_1059.cpp) ([링크](https://www.acmicpc.net/problem/1059))
 
 [1064 평행사변형](../problems/acmicpc_1064.cpp) ([링크](https://www.acmicpc.net/problem/1064))
