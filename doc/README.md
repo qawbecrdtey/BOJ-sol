@@ -294,6 +294,8 @@
 
 [1864 문어 숫자](../problems/acmicpc_1864.cpp) ([링크](https://www.acmicpc.net/problem/1864))
 
+[1865 웜홀](../problems/acmicpc_1865.cpp) ([링크](https://www.acmicpc.net/problem/1865))
+
 [1867 돌멩이 제거](../problems/acmicpc_1867.cpp) ([링크](https://www.acmicpc.net/problem/1867))
 
 [1913 달팽이](../problems/acmicpc_1913.cpp) ([링크](https://www.acmicpc.net/problem/1913))
