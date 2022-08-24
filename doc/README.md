@@ -588,6 +588,8 @@
 
 [3778 애너그램 거리](../problems/acmicpc_3778.cpp) ([링크](https://www.acmicpc.net/problem/3778))
 
+[3896 소수 사이 수열](../problems/acmicpc_3896.cpp) ([링크](https://www.acmicpc.net/problem/3896))
+
 [3933 라그랑주의 네 제곱수 정리](../problems/acmicpc_3933.cpp) ([링크](https://www.acmicpc.net/problem/3933))
 
 [3943 헤일스톤 수열](../problems/acmicpc_3943.cpp) ([링크](https://www.acmicpc.net/problem/3943))
