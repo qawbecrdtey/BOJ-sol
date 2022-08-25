@@ -1030,6 +1030,8 @@
 
 [10480 Oddities](../problems/acmicpc_10480.cpp) ([링크](https://www.acmicpc.net/problem/10480))
 
+[10491 Quite a problem](../problems/acmicpc_10491.cpp) ([링크](https://www.acmicpc.net/problem/10491))
+
 [10531 Golf Bot](../problems/acmicpc_10531.cpp) ([링크](https://www.acmicpc.net/problem/10531))
 
 [10539 수빈이와 수열](../problems/acmicpc_10539.cpp) ([링크](https://www.acmicpc.net/problem/10539))
