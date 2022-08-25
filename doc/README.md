@@ -2310,6 +2310,8 @@
 
 [24883 자동완성](../problems/acmicpc_24883.cpp) ([링크](https://www.acmicpc.net/problem/24883))
 
+[24924 Card Divisibility](../problems/acmicpc_24924.cpp) ([링크](https://www.acmicpc.net/problem/24924))
+
 [25024 시간과 날짜](../problems/acmicpc_25024.cpp) ([링크](https://www.acmicpc.net/problem/25024))
 
 [25183 인생은 한 방](../problems/acmicpc_25183.cpp) ([링크](https://www.acmicpc.net/problem/25183))
