@@ -2044,6 +2044,8 @@
 
 [19846 신기한 연산](../problems/acmicpc_19846.cpp) ([링크](https://www.acmicpc.net/problem/19846))
 
+[19939 박 터뜨리기](../problems/acmicpc_19939.cpp) ([링크](https://www.acmicpc.net/problem/19939))
+
 [19940 피자 오븐](../problems/acmicpc_19940.cpp) ([링크](https://www.acmicpc.net/problem/19940))
 
 [19945 새로운 언어 CC](../problems/acmicpc_19945.cpp) ([링크](https://www.acmicpc.net/problem/19945))
