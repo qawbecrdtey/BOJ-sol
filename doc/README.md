@@ -100,6 +100,8 @@
 
 [1247 부호](../problems/acmicpc_1247.cpp) ([링크](https://www.acmicpc.net/problem/1247))
 
+[1251 단어 나누기](../problems/acmicpc_1251.cpp) ([링크](https://www.acmicpc.net/problem/1251))
+
 [1252 이진수 덧셈](../problems/acmicpc_1252.cpp) ([링크](https://www.acmicpc.net/problem/1252))
 
 [1259 팰린드롬수](../problems/acmicpc_1259.cpp) ([링크](https://www.acmicpc.net/problem/1259))
