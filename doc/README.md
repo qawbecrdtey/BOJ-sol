@@ -662,6 +662,8 @@
 
 [4641 Doubles](../problems/acmicpc_4641.cpp) ([링크](https://www.acmicpc.net/problem/4641))
 
+[4659 비밀번호 발음하기](../problems/acmicpc_4659.cpp) ([링크](https://www.acmicpc.net/problem/4659))
+
 [4696 St. Ives](../problems/acmicpc_4696.cpp) ([링크](https://www.acmicpc.net/problem/4696))
 
 [4714 Lunacy](../problems/acmicpc_4714.cpp) ([링크](https://www.acmicpc.net/problem/4714))
