@@ -400,6 +400,8 @@
 
 [2268 수들의 합](../problems/acmicpc_2268.cpp) ([링크](https://www.acmicpc.net/problem/2268))
 
+[2303 숫자 게임](../problems/acmicpc_2303.cpp) ([링크](https://www.acmicpc.net/problem/2303))
+
 [2316 도시 왕복하기 2](../problems/acmicpc_2316.cpp) ([링크](https://www.acmicpc.net/problem/2316))
 
 [2343 기타 레슨](../problems/acmicpc_2343.cpp) ([링크](https://www.acmicpc.net/problem/2343))
