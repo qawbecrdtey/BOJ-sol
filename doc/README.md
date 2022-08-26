@@ -786,6 +786,8 @@
 
 [6378 디지털 루트](../problems/acmicpc_6378.cpp) ([링크](https://www.acmicpc.net/problem/6378))
 
+[6438 Reverse Text](../problems/acmicpc_6438.cpp) ([링크](https://www.acmicpc.net/problem/6438))
+
 [6463 팩트](../problems/acmicpc_6463.cpp) ([링크](https://www.acmicpc.net/problem/6463))
 
 [6500 랜덤 숫자 만들기](../problems/acmicpc_6500.cpp) ([링크](https://www.acmicpc.net/problem/6500))
