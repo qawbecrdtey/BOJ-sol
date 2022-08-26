@@ -1486,6 +1486,8 @@
 
 [14226 이모티콘](../problems/acmicpc_14226.cpp) ([링크](https://www.acmicpc.net/problem/14226))
 
+[14241 슬라임 합치기](../problems/acmicpc_14241.cpp) ([링크](https://www.acmicpc.net/problem/14241))
+
 [14244 트리 만들기](../problems/acmicpc_14244.cpp) ([링크](https://www.acmicpc.net/problem/14244))
 
 [14245 XOR](../problems/acmicpc_14245.cpp) ([링크](https://www.acmicpc.net/problem/14245))
