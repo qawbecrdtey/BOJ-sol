@@ -506,6 +506,8 @@
 
 [2824 최대공약수](../problems/acmicpc_2824.cpp) ([링크](https://www.acmicpc.net/problem/2824))
 
+[2828 사과 담기 게임](../problems/acmicpc_2828.cpp) ([링크](https://www.acmicpc.net/problem/2828))
+
 [2854 문제 출제](../problems/acmicpc_2854.cpp) ([링크](https://www.acmicpc.net/problem/2854))
 
 [2857 FBI](../problems/acmicpc_2857.cpp) ([링크](https://www.acmicpc.net/problem/2857))
