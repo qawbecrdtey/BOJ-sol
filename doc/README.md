@@ -1114,6 +1114,8 @@
 
 [10992 별 찍기 - 17](../problems/acmicpc_10992.cpp) ([링크](https://www.acmicpc.net/problem/10992))
 
+[10994 별 찍기 - 19](../problems/acmicpc_10994.cpp) ([링크](https://www.acmicpc.net/problem/10994))
+
 [10995 별 찍기 - 20](../problems/acmicpc_10995.cpp) ([링크](https://www.acmicpc.net/problem/10995))
 
 [10996 별 찍기 - 21](../problems/acmicpc_10996.cpp) ([링크](https://www.acmicpc.net/problem/10996))
