@@ -690,6 +690,8 @@
 
 [5014 스타트링크](../problems/acmicpc_5014.cpp) ([링크](https://www.acmicpc.net/problem/5014))
 
+[5015 ls](../problems/acmicpc_5015.cpp) ([링크](https://www.acmicpc.net/problem/5015))
+
 [5026 박사 과정](../problems/acmicpc_5026.cpp) ([링크](https://www.acmicpc.net/problem/5026))
 
 [5032 탄산 음료](../problems/acmicpc_5032.cpp) ([링크](https://www.acmicpc.net/problem/5032))
