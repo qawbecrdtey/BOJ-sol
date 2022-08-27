@@ -1860,6 +1860,8 @@
 
 [16928 뱀과 사다리 게임](../problems/acmicpc_16928.cpp) ([링크](https://www.acmicpc.net/problem/16928))
 
+[16936 나3곱2](../problems/acmicpc_16936.cpp) ([링크](https://www.acmicpc.net/problem/16936))
+
 [16953 A → B](../problems/acmicpc_16953.cpp) ([링크](https://www.acmicpc.net/problem/16953))
 
 [16965 구간과 쿼리](../problems/acmicpc_16965.cpp) ([링크](https://www.acmicpc.net/problem/16965))
