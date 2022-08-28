@@ -1200,6 +1200,8 @@
 
 [11408 열혈강호 5](../problems/acmicpc_11408.cpp) ([링크](https://www.acmicpc.net/problem/11408))
 
+[11409 열혈강호 6](../problems/acmicpc_11409.cpp) ([링크](https://www.acmicpc.net/problem/11409))
+
 [11437 LCA](../problems/acmicpc_11437.cpp) ([링크](https://www.acmicpc.net/problem/11437))
 
 [11438 LCA 2](../problems/acmicpc_11438.cpp) ([링크](https://www.acmicpc.net/problem/11438))
