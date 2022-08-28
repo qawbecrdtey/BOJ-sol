@@ -1196,6 +1196,8 @@
 
 [11406 책 구매하기 2](../problems/acmicpc_11406.cpp) ([링크](https://www.acmicpc.net/problem/11406))
 
+[11407 책 구매하기 3](../problems/acmicpc_11407.cpp) ([링크](https://www.acmicpc.net/problem/11407))
+
 [11408 열혈강호 5](../problems/acmicpc_11408.cpp) ([링크](https://www.acmicpc.net/problem/11408))
 
 [11437 LCA](../problems/acmicpc_11437.cpp) ([링크](https://www.acmicpc.net/problem/11437))
