@@ -1192,6 +1192,8 @@
 
 [11402 이항 계수 4](../problems/acmicpc_11402.cpp) ([링크](https://www.acmicpc.net/problem/11402))
 
+[11405 책 구매하기](../problems/acmicpc_11405.cpp) ([링크](https://www.acmicpc.net/problem/11405))
+
 [11406 책 구매하기 2](../problems/acmicpc_11406.cpp) ([링크](https://www.acmicpc.net/problem/11406))
 
 [11408 열혈강호 5](../problems/acmicpc_11408.cpp) ([링크](https://www.acmicpc.net/problem/11408))
