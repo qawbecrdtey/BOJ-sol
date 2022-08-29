@@ -2084,6 +2084,8 @@
 
 [19940 피자 오븐](../problems/acmicpc_19940.cpp) ([링크](https://www.acmicpc.net/problem/19940))
 
+[19942 다이어트](../problems/acmicpc_19942.cpp) ([링크](https://www.acmicpc.net/problem/19942))
+
 [19945 새로운 언어 CC](../problems/acmicpc_19945.cpp) ([링크](https://www.acmicpc.net/problem/19945))
 
 [20001 고무오리 디버깅](../problems/acmicpc_20001.cpp) ([링크](https://www.acmicpc.net/problem/20001))
