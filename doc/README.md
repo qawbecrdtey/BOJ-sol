@@ -1354,6 +1354,8 @@
 
 [12919 A와 B 2](../problems/acmicpc_12919.cpp) ([링크](https://www.acmicpc.net/problem/12919))
 
+[12924 멋진 쌍](../problems/acmicpc_12924.cpp) ([링크](https://www.acmicpc.net/problem/12924))
+
 [12925 Numbers](../problems/acmicpc_12925.cpp) ([링크](https://www.acmicpc.net/problem/12925))
 
 [12927 배수 스위치](../problems/acmicpc_12927.cpp) ([링크](https://www.acmicpc.net/problem/12927))
