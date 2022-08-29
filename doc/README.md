@@ -998,6 +998,8 @@
 
 [9884 Euclid](../problems/acmicpc_9884.cpp) ([링크](https://www.acmicpc.net/problem/9884))
 
+[9893 Paths](../problems/acmicpc_9893.cpp) ([링크](https://www.acmicpc.net/problem/9893))
+
 [9945 Centroid of Point Masses](../problems/acmicpc_9945.cpp) ([링크](https://www.acmicpc.net/problem/9945))
 
 [9950 Rectangles](../problems/acmicpc_9950.cpp) ([링크](https://www.acmicpc.net/problem/9950))
