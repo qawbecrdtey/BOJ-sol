@@ -908,6 +908,8 @@
 
 [9019 DSLR](../problems/acmicpc_9019.cpp) ([링크](https://www.acmicpc.net/problem/9019))
 
+[9046 복호화](../problems/acmicpc_9046.cpp) ([링크](https://www.acmicpc.net/problem/9046))
+
 [9063 대지](../problems/acmicpc_9063.cpp) ([링크](https://www.acmicpc.net/problem/9063))
 
 [9076 점수 집계](../problems/acmicpc_9076.cpp) ([링크](https://www.acmicpc.net/problem/9076))
@@ -995,6 +997,8 @@
 [9848 Gift](../problems/acmicpc_9848.cpp) ([링크](https://www.acmicpc.net/problem/9848))
 
 [9884 Euclid](../problems/acmicpc_9884.cpp) ([링크](https://www.acmicpc.net/problem/9884))
+
+[9893 Paths](../problems/acmicpc_9893.cpp) ([링크](https://www.acmicpc.net/problem/9893))
 
 [9945 Centroid of Point Masses](../problems/acmicpc_9945.cpp) ([링크](https://www.acmicpc.net/problem/9945))
 
@@ -1351,6 +1355,8 @@
 [12904 A와 B](../problems/acmicpc_12904.cpp) ([링크](https://www.acmicpc.net/problem/12904))
 
 [12919 A와 B 2](../problems/acmicpc_12919.cpp) ([링크](https://www.acmicpc.net/problem/12919))
+
+[12924 멋진 쌍](../problems/acmicpc_12924.cpp) ([링크](https://www.acmicpc.net/problem/12924))
 
 [12925 Numbers](../problems/acmicpc_12925.cpp) ([링크](https://www.acmicpc.net/problem/12925))
 
@@ -2083,6 +2089,8 @@
 [19939 박 터뜨리기](../problems/acmicpc_19939.cpp) ([링크](https://www.acmicpc.net/problem/19939))
 
 [19940 피자 오븐](../problems/acmicpc_19940.cpp) ([링크](https://www.acmicpc.net/problem/19940))
+
+[19942 다이어트](../problems/acmicpc_19942.cpp) ([링크](https://www.acmicpc.net/problem/19942))
 
 [19945 새로운 언어 CC](../problems/acmicpc_19945.cpp) ([링크](https://www.acmicpc.net/problem/19945))
 
