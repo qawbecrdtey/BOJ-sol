@@ -1336,6 +1336,8 @@
 
 [12850 본대 산책2](../problems/acmicpc_12850.cpp) ([링크](https://www.acmicpc.net/problem/12850))
 
+[12851 숨바꼭질 2](../problems/acmicpc_12851.cpp) ([링크](https://www.acmicpc.net/problem/12851))
+
 [12852 1로 만들기 2](../problems/acmicpc_12852.cpp) ([링크](https://www.acmicpc.net/problem/12852))
 
 [12865 평범한 배낭](../problems/acmicpc_12865.cpp) ([링크](https://www.acmicpc.net/problem/12865))
