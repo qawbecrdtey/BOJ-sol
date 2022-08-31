@@ -252,6 +252,8 @@
 
 [1707 이분 그래프](../problems/acmicpc_1707.cpp) ([링크](https://www.acmicpc.net/problem/1707))
 
+[1708 볼록 껍질](../problems/acmicpc_1708.cpp) ([링크](https://www.acmicpc.net/problem/1708))
+
 [1712 손익분기점](../problems/acmicpc_1712.cpp) ([링크](https://www.acmicpc.net/problem/1712))
 
 [1715 카드 정렬하기](../problems/acmicpc_1715.cpp) ([링크](https://www.acmicpc.net/problem/1715))
@@ -487,6 +489,8 @@
 [2684 동전 게임](../problems/acmicpc_2684.cpp) ([링크](https://www.acmicpc.net/problem/2684))
 
 [2697 다음수 구하기](../problems/acmicpc_2697.cpp) ([링크](https://www.acmicpc.net/problem/2697))
+
+[2699 격자점 컨벡스헐](../problems/acmicpc_2699.cpp) ([링크](https://www.acmicpc.net/problem/2699))
 
 [2725 보이는 점의 개수](../problems/acmicpc_2725.cpp) ([링크](https://www.acmicpc.net/problem/2725))
 
