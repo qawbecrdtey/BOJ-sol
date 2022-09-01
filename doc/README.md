@@ -836,11 +836,13 @@
 
 [6996 애너그램](../problems/acmicpc_6996.cpp) ([링크](https://www.acmicpc.net/problem/6996))
 
+[7420 맹독 방벽](../problems/acmicpc_7420.cpp) ([링크](https://www.acmicpc.net/problem/7420))
+
 [7453 합이 0인 네 정수](../problems/acmicpc_7453.cpp) ([링크](https://www.acmicpc.net/problem/7453))
 
 [7469 K번째 수](../problems/acmicpc_7469.cpp) ([링크](https://www.acmicpc.net/problem/7469))
 
-[7482 ](../problems/acmicpc_7489.cpp) ([링크](https://www.acmicpc.net/problem/7489))
+[7482 상자 만들기](../problems/acmicpc_7489.cpp) ([링크](https://www.acmicpc.net/problem/7489))
 
 [7489 팩토리얼](../problems/acmicpc_7489.cpp) ([링크](https://www.acmicpc.net/problem/7489))
 
