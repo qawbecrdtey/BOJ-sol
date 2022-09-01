@@ -930,6 +930,8 @@
 
 [9237 이장님 초대](../problems/acmicpc_9237.cpp) ([링크](https://www.acmicpc.net/problem/9237))
 
+[9240 로버트 후드](../problems/acmicpc_9240.cpp) ([링크](https://www.acmicpc.net/problem/9240))
+
 [9251 LCS](../problems/acmicpc_9251.cpp) ([링크](https://www.acmicpc.net/problem/9251))
 
 [9252 LCS 2](../problems/acmicpc_9252.cpp) ([링크](https://www.acmicpc.net/problem/9252))
