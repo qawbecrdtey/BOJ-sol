@@ -1038,6 +1038,8 @@
 
 [10253 헨리](../problems/acmicpc_10253.cpp) ([링크](https://www.acmicpc.net/problem/10253))
 
+[10254 고속도로](../problems/acmicpc_10254.cpp) ([링크](https://www.acmicpc.net/problem/10254))
+
 [10357 Triples](../problems/acmicpc_10357.cpp) ([링크](https://www.acmicpc.net/problem/10357))
 
 [10372 Alarm Clock](../problems/acmicpc_10372.cpp) ([링크](https://www.acmicpc.net/problem/10372))
