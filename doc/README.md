@@ -2374,6 +2374,8 @@
 
 [24924 Card Divisibility](../problems/acmicpc_24924.cpp) ([링크](https://www.acmicpc.net/problem/24924))
 
+[24937 SciComLove (2022)](../problems/acmicpc_24937.cpp) ([링크](https://www.acmicpc.net/problem/24937))
+
 [25024 시간과 날짜](../problems/acmicpc_25024.cpp) ([링크](https://www.acmicpc.net/problem/25024))
 
 [25177 서강의 역사를 찾아서](../problems/acmicpc_25177.cpp) ([링크](https://www.acmicpc.net/problem/25177))
