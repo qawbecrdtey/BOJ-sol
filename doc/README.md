@@ -2368,6 +2368,8 @@
 
 [24830 Broken Calculator](../problems/acmicpc_24830.cpp) ([링크](https://www.acmicpc.net/problem/24830))
 
+[24831 Two Rabbits](../problems/acmicpc_24831.cpp) ([링크](https://www.acmicpc.net/problem/24831))
+
 [24860 Counting Antibodies](../problems/acmicpc_24860.cpp) ([링크](https://www.acmicpc.net/problem/24860))
 
 [24883 자동완성](../problems/acmicpc_24883.cpp) ([링크](https://www.acmicpc.net/problem/24883))
