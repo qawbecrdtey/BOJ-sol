@@ -2376,6 +2376,8 @@
 
 [25024 시간과 날짜](../problems/acmicpc_25024.cpp) ([링크](https://www.acmicpc.net/problem/25024))
 
+[25177 서강의 역사를 찾아서](../problems/acmicpc_25177.cpp) ([링크](https://www.acmicpc.net/problem/25177))
+
 [25183 인생은 한 방](../problems/acmicpc_25183.cpp) ([링크](https://www.acmicpc.net/problem/25183))
 
 [25184 동가수열 구하기](../problems/acmicpc_25184.cpp) ([링크](https://www.acmicpc.net/problem/25184))
