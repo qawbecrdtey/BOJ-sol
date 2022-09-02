@@ -444,6 +444,8 @@
 
 [2470 두 용액](../problems/acmicpc_2470.cpp) ([링크](https://www.acmicpc.net/problem/2470))
 
+[2477 참외밭](../problems/acmicpc_2477.cpp) ([링크](https://www.acmicpc.net/problem/2477))
+
 [2491 수열](../problems/acmicpc_2491.cpp) ([링크](https://www.acmicpc.net/problem/2491))
 
 [2502 떡 먹는 호랑이](../problems/acmicpc_2502.cpp) ([링크](https://www.acmicpc.net/problem/2502))
