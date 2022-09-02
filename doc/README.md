@@ -2332,6 +2332,8 @@
 
 [24389 2의 보수](../problems/acmicpc_24389.cpp) ([링크](https://www.acmicpc.net/problem/24389))
 
+[24408 Mult!](../problems/acmicpc_24408.cpp) ([링크](https://www.acmicpc.net/problem/24408))
+
 [24444 알고리즘 수업 - 너비 우선 탐색 1](../problems/acmicpc_24444.cpp) ([링크](https://www.acmicpc.net/problem/24444))
 
 [24445 알고리즘 수업 - 너비 우선 탐색 2](../problems/acmicpc_24445.cpp) ([링크](https://www.acmicpc.net/problem/24445))
@@ -2383,6 +2385,8 @@
 [25238 가희와 방어율 무시](../problems/acmicpc_25238.cpp) ([링크](https://www.acmicpc.net/problem/25238))
 
 [25270 99 Problems](../problems/acmicpc_25270.cpp) ([링크](https://www.acmicpc.net/problem/25270))
+
+[25286 11월 11일](../problems/acmicpc_25286.cpp) ([링크](https://www.acmicpc.net/problem/25286))
 
 [25304 영수증](../problems/acmicpc_25304.cpp) ([링크](https://www.acmicpc.net/problem/25304))
 
