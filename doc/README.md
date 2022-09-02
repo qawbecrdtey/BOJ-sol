@@ -2412,6 +2412,8 @@
 
 [25516 거리가 k이하인 트리 노드에서 사과 수확하기](../problems/acmicpc_25516.cpp) ([링크](https://www.acmicpc.net/problem/25516))
 
+[25527 Counting Peaks of Infection](../problems/acmicpc_25527.cpp) ([링크](https://www.acmicpc.net/problem/25527))
+
 ## Algorithms
 
 [BFS](BFS.md)
