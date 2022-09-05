@@ -2404,6 +2404,8 @@
 
 [25270 99 Problems](../problems/acmicpc_25270.cpp) ([링크](https://www.acmicpc.net/problem/25270))
 
+[25277 Culture Shock](../problems/acmicpc_25277.cpp) ([링크](https://www.acmicpc.net/problem/25277))
+
 [25286 11월 11일](../problems/acmicpc_25286.cpp) ([링크](https://www.acmicpc.net/problem/25286))
 
 [25304 영수증](../problems/acmicpc_25304.cpp) ([링크](https://www.acmicpc.net/problem/25304))
