@@ -1720,6 +1720,8 @@
 
 [15663 N과 M (9)](../problems/acmicpc_15663.cpp) ([링크](https://www.acmicpc.net/problem/15663))
 
+[15664 N과 M (10)](../problems/acmicpc_15664.cpp) ([링크](https://www.acmicpc.net/problem/15664))
+
 [15665 N과 M (11)](../problems/acmicpc_15665.cpp) ([링크](https://www.acmicpc.net/problem/15665))
 
 [15666 N과 M (12)](../problems/acmicpc_15666.cpp) ([링크](https://www.acmicpc.net/problem/15666))
