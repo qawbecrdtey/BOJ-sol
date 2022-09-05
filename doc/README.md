@@ -2242,6 +2242,8 @@
 
 [22966 가장 쉬운 문제를 찾는 문제](../problems/acmicpc_22966.cpp) ([링크](https://www.acmicpc.net/problem/22966))
 
+[23027 1번부터 문제의 상태가…?](../problems/acmicpc_23027.cpp) ([링크](https://www.acmicpc.net/problem/23027))
+
 [23037 5의 수난](../problems/acmicpc_23037.cpp) ([링크](https://www.acmicpc.net/problem/23037))
 
 [23042 AND와 OR](../problems/acmicpc_23042.cpp) ([링크](https://www.acmicpc.net/problem/23042))
