@@ -1584,6 +1584,8 @@
 
 [14607 피자 (Large)](../problems/acmicpc_14607.cpp) ([링크](https://www.acmicpc.net/problem/14607))
 
+[14608 구분구적법 (Small)](../problems/acmicpc_14608.cpp) ([링크](https://www.acmicpc.net/problem/14608))
+
 [14614 Calculate!](../problems/acmicpc_14614.cpp) ([링크](https://www.acmicpc.net/problem/14614))
 
 [14623 감정이입](../problems/acmicpc_14623.cpp) ([링크](https://www.acmicpc.net/problem/14623))
