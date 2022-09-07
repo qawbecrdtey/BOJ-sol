@@ -2442,6 +2442,8 @@
 
 [25527 Counting Peaks of Infection](../problems/acmicpc_25527.cpp) ([링크](https://www.acmicpc.net/problem/25527))
 
+[25558 내비게이션](../problems/acmicpc_25558.cpp) ([링크](https://www.acmicpc.net/problem/25558))
+
 ## Algorithms
 
 [BFS](BFS.md)
