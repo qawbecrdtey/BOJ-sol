@@ -2444,6 +2444,8 @@
 
 [25558 내비게이션](../problems/acmicpc_25558.cpp) ([링크](https://www.acmicpc.net/problem/25558))
 
+[25562 차의 개수](../problems/acmicpc_25562.cpp) ([링크](https://www.acmicpc.net/problem/25562))
+
 ## Algorithms
 
 [BFS](BFS.md)
