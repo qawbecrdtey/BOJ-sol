@@ -2444,6 +2444,8 @@
 
 [25421 조건에 맞는 정수의 개수](../problems/acmicpc_25421.cpp) ([링크](https://www.acmicpc.net/problem/25421))
 
+[25494 단순한 문제 (Small)](../problems/acmicpc_25494.cpp) ([링크](https://www.acmicpc.net/problem/25494))
+
 [25516 거리가 k이하인 트리 노드에서 사과 수확하기](../problems/acmicpc_25516.cpp) ([링크](https://www.acmicpc.net/problem/25516))
 
 [25527 Counting Peaks of Infection](../problems/acmicpc_25527.cpp) ([링크](https://www.acmicpc.net/problem/25527))
