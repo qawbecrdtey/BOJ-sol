@@ -1062,6 +1062,8 @@
 
 [10422 괄호](../problems/acmicpc_10422.cpp) ([링크](https://www.acmicpc.net/problem/10422))
 
+[10434 행복한 소수](../problems/acmicpc_10434.cpp) ([링크](https://www.acmicpc.net/problem/10434))
+
 [10464 XOR](../problems/acmicpc_10464.cpp) ([링크](https://www.acmicpc.net/problem/10464))
 
 [10480 Oddities](../problems/acmicpc_10480.cpp) ([링크](https://www.acmicpc.net/problem/10480))
