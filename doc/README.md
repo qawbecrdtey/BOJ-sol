@@ -768,6 +768,8 @@
 
 [5676 음주 코딩](../problems/acmicpc_5676.cpp) ([링크](https://www.acmicpc.net/problem/5676))
 
+[5679 Hailstone Sequences](../problems/acmicpc_5679.cpp) ([링크](https://www.acmicpc.net/problem/5679))
+
 [5691 평균 중앙값 문제](../problems/acmicpc_5691.cpp) ([링크](https://www.acmicpc.net/problem/5691))
 
 [5698 Tautogram](../problems/acmicpc_5698.cpp) ([링크](https://www.acmicpc.net/problem/5698))
