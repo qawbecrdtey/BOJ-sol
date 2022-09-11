@@ -668,6 +668,8 @@
 
 [4597 패리티](../problems/acmicpc_4597.cpp) ([링크](https://www.acmicpc.net/problem/4597))
 
+[4606 The Seven Percent Solution](../problems/acmicpc_4606.cpp) ([링크](https://www.acmicpc.net/problem/4606))
+
 [4613 Quicksum](../problems/acmicpc_4613.cpp) ([링크](https://www.acmicpc.net/problem/4613))
 
 [4619 루트](../problems/acmicpc_4619.cpp) ([링크](https://www.acmicpc.net/problem/4619))
