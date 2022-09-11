@@ -580,6 +580,8 @@
 
 [3187 양치기 꿍](../problems/acmicpc_3187.cpp) ([링크](https://www.acmicpc.net/problem/3187))
 
+[3208 gus](../problems/acmicpc_3208.cpp) ([링크](https://www.acmicpc.net/problem/3208))
+
 [3257 발코딩](../problems/acmicpc_3257.cpp) ([링크](https://www.acmicpc.net/problem/3257))
 
 [3273 두 수의 합](../problems/acmicpc_3273.cpp) ([링크](https://www.acmicpc.net/problem/3273))
