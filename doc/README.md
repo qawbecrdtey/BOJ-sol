@@ -264,6 +264,8 @@
 
 [1725 히스토그램](../problems/acmicpc_1725.cpp) ([링크](https://www.acmicpc.net/problem/1725))
 
+[1731 추론](../problems/acmicpc_1731.cpp) ([링크](https://www.acmicpc.net/problem/1731))
+
 [1740 거듭제곱](../problems/acmicpc_1740.cpp) ([링크](https://www.acmicpc.net/problem/1740))
 
 [1743 음식물 피하기](../problems/acmicpc_1743.cpp) ([링크](https://www.acmicpc.net/problem/1743))
