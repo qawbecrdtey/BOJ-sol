@@ -1584,6 +1584,8 @@
 
 [14502 연구소](../problems/acmicpc_14502.cpp) ([링크](https://www.acmicpc.net/problem/14502))
 
+[14534 String Permutation](../problems/acmicpc_14534.cpp) ([링크](https://www.acmicpc.net/problem/14534))
+
 [14535 Birthday Graph](../problems/acmicpc_14535.cpp) ([링크](https://www.acmicpc.net/problem/14535))
 
 [14544 Vote](../problems/acmicpc_14544.cpp) ([링크](https://www.acmicpc.net/problem/14544))
