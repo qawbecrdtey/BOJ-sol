@@ -1278,6 +1278,8 @@
 
 [11561 징검다리](../problems/acmicpc_11561.cpp) ([링크](https://www.acmicpc.net/problem/11561))
 
+[11564 점프왕 최준민](../problems/acmicpc_11564.cpp) ([링크](https://www.acmicpc.net/problem/11564))
+
 [11568 민균이의 계략](../problems/acmicpc_11568.cpp) ([링크](https://www.acmicpc.net/problem/11568))
 
 [11575 Affine Cipher](../problems/acmicpc_11575.cpp) ([링크](https://www.acmicpc.net/problem/11575))
