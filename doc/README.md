@@ -864,6 +864,8 @@
 
 [7489 팩토리얼](../problems/acmicpc_7489.cpp) ([링크](https://www.acmicpc.net/problem/7489))
 
+[7513 준살 프로그래밍 대회](../problems/acmicpc_7513.cpp) ([링크](https://www.acmicpc.net/problem/7513))
+
 [7523 Gauß](../problems/acmicpc_7523.cpp) ([링크](https://www.acmicpc.net/problem/7523))
 
 [7568 덩치](../problems/acmicpc_7568.cpp) ([링크](https://www.acmicpc.net/problem/7568))
