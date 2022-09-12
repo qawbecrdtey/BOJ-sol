@@ -1028,6 +1028,8 @@
 
 [9893 Paths](../problems/acmicpc_9893.cpp) ([링크](https://www.acmicpc.net/problem/9893))
 
+[9913 Max](../problems/acmicpc_9913.cpp) ([링크](https://www.acmicpc.net/problem/9913))
+
 [9945 Centroid of Point Masses](../problems/acmicpc_9945.cpp) ([링크](https://www.acmicpc.net/problem/9945))
 
 [9950 Rectangles](../problems/acmicpc_9950.cpp) ([링크](https://www.acmicpc.net/problem/9950))
