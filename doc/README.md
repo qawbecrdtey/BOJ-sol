@@ -1228,6 +1228,8 @@
 
 [11328 Strfry](../problems/acmicpc_11328.cpp) ([링크](https://www.acmicpc.net/problem/11328))
 
+[11337 Largest inscribed rectangle](../problems/acmicpc_11337.cpp) ([링크](https://www.acmicpc.net/problem/11337))
+
 [11368 A Serious Reading Problem](../problems/acmicpc_11368.cpp) ([링크](https://www.acmicpc.net/problem/11368))
 
 [11375 열혈강호](../problems/acmicpc_11375.cpp) ([링크](https://www.acmicpc.net/problem/11375))
