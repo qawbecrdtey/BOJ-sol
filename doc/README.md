@@ -970,6 +970,8 @@
 
 [9310 Arithmetic and Geometric Sums](../problems/acmicpc_9310.cpp) ([링크](https://www.acmicpc.net/problem/9310))
 
+[9358 순열 접기 게임](../problems/acmicpc_9358.cpp) ([링크](https://www.acmicpc.net/problem/9358))
+
 [9375 패션왕 신해빈](../problems/acmicpc_9375.cpp) ([링크](https://www.acmicpc.net/problem/9375))
 
 [9417 최대 GCD](../problems/acmicpc_9417.cpp) ([링크](https://www.acmicpc.net/problem/9417))
