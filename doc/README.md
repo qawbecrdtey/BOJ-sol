@@ -2128,6 +2128,8 @@
 
 [19572 가뭄(Small)](../problems/acmicpc_19572.cpp) ([링크](https://www.acmicpc.net/problem/19572))
 
+[19575 Polynomial](../problems/acmicpc_19575.cpp) ([링크](https://www.acmicpc.net/problem/19575))
+
 [19577 수학은 재밌어](../problems/acmicpc_19577.cpp) ([링크](https://www.acmicpc.net/problem/19577))
 
 [19602 Dog Treats](../problems/acmicpc_19602.cpp) ([링크](https://www.acmicpc.net/problem/19602))
