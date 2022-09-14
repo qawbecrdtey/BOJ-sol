@@ -2084,6 +2084,8 @@
 
 [18111 마인크래프트](../problems/acmicpc_18111.cpp) ([링크](https://www.acmicpc.net/problem/18111))
 
+[18125 고양이 사료](../problems/acmicpc_18125.cpp) ([링크](https://www.acmicpc.net/problem/18125))
+
 [18126 너구리 구구](../problems/acmicpc_18126.cpp) ([링크](https://www.acmicpc.net/problem/18126))
 
 [18127 모형결정](../problems/acmicpc_18127.cpp) ([링크](https://www.acmicpc.net/problem/18127))
