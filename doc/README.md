@@ -1456,6 +1456,8 @@
 
 [13239 Combinations](../problems/acmicpc_13239.cpp) ([링크](https://www.acmicpc.net/problem/13239))
 
+[13246 행렬 제곱의 합](../problems/acmicpc_13246.cpp) ([링크](https://www.acmicpc.net/problem/13246))
+
 [13251 조약돌 꺼내기](../problems/acmicpc_13251.cpp) ([링크](https://www.acmicpc.net/problem/13251))
 
 [13279 곱의 합 쿼리](../problems/acmicpc_13279.cpp) ([링크](https://www.acmicpc.net/problem/13279))
