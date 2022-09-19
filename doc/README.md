@@ -802,6 +802,8 @@
 
 [6186 Best Grass](../problems/acmicpc_6186.cpp) ([링크](https://www.acmicpc.net/problem/6186))
 
+[6189 Munching](../problems/acmicpc_6189.cpp) ([링크](https://www.acmicpc.net/problem/6189))
+
 [6193 Hungry Cows](../problems/acmicpc_6193.cpp) ([링크](https://www.acmicpc.net/problem/6193))
 
 [6198 옥상 정원 꾸미기](../problems/acmicpc_6198.cpp) ([링크](https://www.acmicpc.net/problem/6198))
