@@ -2504,6 +2504,8 @@
 
 [25562 차의 개수](../problems/acmicpc_25562.cpp) ([링크](https://www.acmicpc.net/problem/25562))
 
+[25592 바둑돌 게임](../problems/acmicpc_25592.cpp) ([링크](https://www.acmicpc.net/problem/25592))
+
 [25625 샤틀버스](../problems/acmicpc_25625.cpp) ([링크](https://www.acmicpc.net/problem/25625))
 
 ## Algorithms
