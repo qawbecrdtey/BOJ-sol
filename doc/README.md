@@ -840,6 +840,8 @@
 
 [6679 싱기한 네자리 숫자](../problems/acmicpc_6679.cpp) ([링크](https://www.acmicpc.net/problem/6679))
 
+[6721 Backward numbers](../problems/acmicpc_6721.cpp) ([링크](https://www.acmicpc.net/problem/6721))
+
 [6749 Next in line](../problems/acmicpc_6749.cpp) ([링크](https://www.acmicpc.net/problem/6749))
 
 [6751 From 1987 to 2013](../problems/acmicpc_6751.cpp) ([링크](https://www.acmicpc.net/problem/6751))
