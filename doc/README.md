@@ -2188,6 +2188,8 @@
 
 [20153 영웅이는 2의 거듭 제곱을 좋아해! 영웅이는 2의 거듭 제곱을 좋아해!](../problems/acmicpc_20153.cpp) ([링크](https://www.acmicpc.net/problem/20153))
 
+[20154 이 구역의 승자는 누구야?!](../problems/acmicpc_20154.cpp) ([링크](https://www.acmicpc.net/problem/20154))
+
 [20170 Commemorative Dice](../problems/acmicpc_20170.cpp) ([링크](https://www.acmicpc.net/problem/20170))
 
 [20205 교수님 그림이 깨지는데요?](../problems/acmicpc_20205.cpp) ([링크](https://www.acmicpc.net/problem/20205))
