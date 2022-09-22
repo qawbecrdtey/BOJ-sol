@@ -2512,6 +2512,8 @@
 
 [25592 바둑돌 게임](../problems/acmicpc_25592.cpp) ([링크](https://www.acmicpc.net/problem/25592))
 
+[25600 Triathlon](../problems/acmicpc_25600.cpp) ([링크](https://www.acmicpc.net/problem/25600))
+
 [25625 샤틀버스](../problems/acmicpc_25625.cpp) ([링크](https://www.acmicpc.net/problem/25625))
 
 ## Algorithms
