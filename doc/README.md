@@ -2520,6 +2520,20 @@
 
 [25625 샤틀버스](../problems/acmicpc_25625.cpp) ([링크](https://www.acmicpc.net/problem/25625))
 
+[25628 햄버거 만들기](../problems/acmicpc_25628.cpp) ([링크](https://www.acmicpc.net/problem/25628))
+
+[25631 마트료시카 합치기](../problems/acmicpc_25631.cpp) ([링크](https://www.acmicpc.net/problem/25631))
+
+[25640 MBTI](../problems/acmicpc_25640.cpp) ([링크](https://www.acmicpc.net/problem/25640))
+
+[25641 균형 잡힌 소떡소떡](../problems/acmicpc_25641.cpp) ([링크](https://www.acmicpc.net/problem/25641))
+
+[25642 젓가락 게임](../problems/acmicpc_25642.cpp) ([링크](https://www.acmicpc.net/problem/25642))
+
+[25643 문자열 탑 쌓기](../problems/acmicpc_25643.cpp) ([링크](https://www.acmicpc.net/problem/25643))
+
+[25644 최대 상승](../problems/acmicpc_25644.cpp) ([링크](https://www.acmicpc.net/problem/25644))
+
 ## Algorithms
 
 [BFS](BFS.md)
