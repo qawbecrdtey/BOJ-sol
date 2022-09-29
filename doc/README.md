@@ -2540,6 +2540,8 @@
 
 [25644 최대 상승](../problems/acmicpc_25644.cpp) ([링크](https://www.acmicpc.net/problem/25644))
 
+[25683 행렬 곱셈 순서 4](../problems/acmicpc_25683.cpp) ([링크](https://www.acmicpc.net/problem/25683))
+
 ## Algorithms
 
 [BFS](BFS.md)
