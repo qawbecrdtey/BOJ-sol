@@ -716,6 +716,8 @@
 
 [4949 균형잡힌 세상](../problems/acmicpc_4949.cpp) ([링크](https://www.acmicpc.net/problem/4949))
 
+[4993 Red and Black](../problems/acmicpc_4993.cpp) ([링크](https://www.acmicpc.net/problem/4993))
+
 [4998 저금](../problems/acmicpc_4998.cpp) ([링크](https://www.acmicpc.net/problem/4998))
 
 [5014 스타트링크](../problems/acmicpc_5014.cpp) ([링크](https://www.acmicpc.net/problem/5014))
