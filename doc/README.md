@@ -1344,6 +1344,8 @@
 
 [11816 8진수, 10진수, 16진수](../problems/acmicpc_11816.cpp) ([링크](https://www.acmicpc.net/problem/11816))
 
+[11819 The Shortest does not Mean the Simplest](../problems/acmicpc_11819.cpp) ([링크](https://www.acmicpc.net/problem/11819))
+
 [11868 님 게임 2](../problems/acmicpc_11868.cpp) ([링크](https://www.acmicpc.net/problem/11868))
 
 [11896 다각형](../problems/acmicpc_11896.cpp) ([링크](https://www.acmicpc.net/problem/11896))
