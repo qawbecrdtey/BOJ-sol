@@ -294,6 +294,8 @@
 
 [1817 짐 챙기는 숌](../problems/acmicpc_1817.cpp) ([링크](https://www.acmicpc.net/problem/1817))
 
+[1821 수들의 합 6](../problems/acmicpc_1821.cpp) ([링크](https://www.acmicpc.net/problem/1821))
+
 [1822 차집합](../problems/acmicpc_1822.cpp) ([링크](https://www.acmicpc.net/problem/1822))
 
 [1823 수확](../problems/acmicpc_1823.cpp) ([링크](https://www.acmicpc.net/problem/1823))
