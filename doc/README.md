@@ -2124,6 +2124,8 @@
 
 [18311 왕복](../problems/acmicpc_18311.cpp) ([링크](https://www.acmicpc.net/problem/18311))
 
+[18312 시각](../problems/acmicpc_18312.cpp) ([링크](https://www.acmicpc.net/problem/18312))
+
 [18352 특정 거리의 도시 찾기](../problems/acmicpc_18352.cpp) ([링크](https://www.acmicpc.net/problem/18352))
 
 [18398 HOMWRK](../problems/acmicpc_18398.cpp) ([링크](https://www.acmicpc.net/problem/18398))
