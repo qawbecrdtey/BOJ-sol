@@ -2544,6 +2544,8 @@
 
 [25683 행렬 곱셈 순서 4](../problems/acmicpc_25683.cpp) ([링크](https://www.acmicpc.net/problem/25683))
 
+[25704 출석 이벤트](../problems/acmicpc_25704.cpp) ([링크](https://www.acmicpc.net/problem/25704))
+
 ## Algorithms
 
 [BFS](BFS.md)
