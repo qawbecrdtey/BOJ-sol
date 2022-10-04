@@ -1090,6 +1090,8 @@
 
 [10384 팬그램](../problems/acmicpc_10384.cpp) ([링크](https://www.acmicpc.net/problem/10384))
 
+[10406 The fellowship of the ring](../problems/acmicpc_10406.cpp) ([링크](https://www.acmicpc.net/problem/10406))
+
 [10407 2 타워](../problems/acmicpc_10407.cpp) ([링크](https://www.acmicpc.net/problem/10407))
 
 [10409 서버](../problems/acmicpc_10409.cpp) ([링크](https://www.acmicpc.net/problem/10409))
