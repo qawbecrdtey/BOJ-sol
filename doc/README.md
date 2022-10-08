@@ -732,6 +732,8 @@
 
 [5073 삼각형과 세 변](../problems/acmicpc_5073.cpp) ([링크](https://www.acmicpc.net/problem/5073))
 
+[5074 When Do We Finish?](../problems/acmicpc_5074.cpp) ([링크](https://www.acmicpc.net/problem/5074))
+
 [5101 Sequences](../problems/acmicpc_5101.cpp) ([링크](https://www.acmicpc.net/problem/5101))
 
 [5217 쌍의 합](../problems/acmicpc_5217.cpp) ([링크](https://www.acmicpc.net/problem/5217))
