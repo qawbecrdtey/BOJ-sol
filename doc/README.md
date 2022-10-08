@@ -1882,6 +1882,8 @@
 
 [16171 나는 친구가 적다 (Small)](../problems/acmicpc_16171.cpp) ([링크](https://www.acmicpc.net/problem/16171))
 
+[16180 New House](../problems/acmicpc_16180.cpp) ([링크](https://www.acmicpc.net/problem/16180))
+
 [16204 카드 뽑기](../problems/acmicpc_16204.cpp) ([링크](https://www.acmicpc.net/problem/16204))
 
 [16208 귀찮음](../problems/acmicpc_16208.cpp) ([링크](https://www.acmicpc.net/problem/16208))
