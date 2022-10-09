@@ -732,6 +732,8 @@
 
 [5073 삼각형과 세 변](../problems/acmicpc_5073.cpp) ([링크](https://www.acmicpc.net/problem/5073))
 
+[5074 When Do We Finish?](../problems/acmicpc_5074.cpp) ([링크](https://www.acmicpc.net/problem/5074))
+
 [5101 Sequences](../problems/acmicpc_5101.cpp) ([링크](https://www.acmicpc.net/problem/5101))
 
 [5217 쌍의 합](../problems/acmicpc_5217.cpp) ([링크](https://www.acmicpc.net/problem/5217))
@@ -1881,6 +1883,8 @@
 [16168 퍼레이드](../problems/acmicpc_16168.cpp) ([링크](https://www.acmicpc.net/problem/16168))
 
 [16171 나는 친구가 적다 (Small)](../problems/acmicpc_16171.cpp) ([링크](https://www.acmicpc.net/problem/16171))
+
+[16180 New House](../problems/acmicpc_16180.cpp) ([링크](https://www.acmicpc.net/problem/16180))
 
 [16204 카드 뽑기](../problems/acmicpc_16204.cpp) ([링크](https://www.acmicpc.net/problem/16204))
 
