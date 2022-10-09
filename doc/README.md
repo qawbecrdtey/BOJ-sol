@@ -2550,6 +2550,8 @@
 
 [25704 출석 이벤트](../problems/acmicpc_25704.cpp) ([링크](https://www.acmicpc.net/problem/25704))
 
+[25705 돌림판 문자열](../problems/acmicpc_25705.cpp) ([링크](https://www.acmicpc.net/problem/25705))
+
 ## Algorithms
 
 [BFS](BFS.md)
