@@ -954,6 +954,8 @@
 
 [9019 DSLR](../problems/acmicpc_9019.cpp) ([링크](https://www.acmicpc.net/problem/9019))
 
+[9037 The candy war](../problems/acmicpc_9037.cpp) ([링크](https://www.acmicpc.net/problem/9037))
+
 [9046 복호화](../problems/acmicpc_9046.cpp) ([링크](https://www.acmicpc.net/problem/9046))
 
 [9063 대지](../problems/acmicpc_9063.cpp) ([링크](https://www.acmicpc.net/problem/9063))
