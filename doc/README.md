@@ -2560,6 +2560,8 @@
 
 [25705 돌림판 문자열](../problems/acmicpc_25705.cpp) ([링크](https://www.acmicpc.net/problem/25705))
 
+[25709 1 빼기](../problems/acmicpc_25709.cpp) ([링크](https://www.acmicpc.net/problem/25709))
+
 ## Algorithms
 
 [BFS](BFS.md)
