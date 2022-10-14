@@ -2562,6 +2562,8 @@
 
 [25709 1 빼기](../problems/acmicpc_25709.cpp) ([링크](https://www.acmicpc.net/problem/25709))
 
+[25784 Easy-to-Solve Expressions](../problems/acmicpc_25784.cpp) ([링크](https://www.acmicpc.net/problem/25784))
+
 ## Algorithms
 
 [BFS](BFS.md)
