@@ -2564,6 +2564,8 @@
 
 [25784 Easy-to-Solve Expressions](../problems/acmicpc_25784.cpp) ([링크](https://www.acmicpc.net/problem/25784))
 
+[25841 Digit Count](../problems/acmicpc_25841.cpp) ([링크](https://www.acmicpc.net/problem/25841))
+
 ## Algorithms
 
 [BFS](BFS.md)
