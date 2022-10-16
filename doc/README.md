@@ -192,6 +192,8 @@
 
 [1517 버블 소트](../problems/acmicpc_1517.cpp) ([링크](https://www.acmicpc.net/problem/1517))
 
+[1520 내리막 길](../problems/acmicpc_1520.cpp) ([링크](https://www.acmicpc.net/problem/1520))
+
 [1526 가장 큰 금민수](../problems/acmicpc_1526.cpp) ([링크](https://www.acmicpc.net/problem/1526))
 
 [1531 투명](../problems/acmicpc_1531.cpp) ([링크](https://www.acmicpc.net/problem/1531))
