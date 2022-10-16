@@ -346,6 +346,8 @@
 
 [1989 부분배열 고르기 2](../problems/acmicpc_1989.cpp) ([링크](https://www.acmicpc.net/problem/1989))
 
+[2011 암호코드](../problems/acmicpc_2011.cpp) ([링크](https://www.acmicpc.net/problem/2011))
+
 [2014 소수의 곱](../problems/acmicpc_2014.cpp) ([링크](https://www.acmicpc.net/problem/2014))
 
 [2015 수들의 합 4](../problems/acmicpc_2015.cpp) ([링크](https://www.acmicpc.net/problem/2015))
