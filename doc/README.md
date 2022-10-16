@@ -876,6 +876,8 @@
 
 [6996 애너그램](../problems/acmicpc_6996.cpp) ([링크](https://www.acmicpc.net/problem/6996))
 
+[7345 다항식의 나머지 연산](../problems/acmicpc_7345.cpp) ([링크](https://www.acmicpc.net/problem/7345))
+
 [7420 맹독 방벽](../problems/acmicpc_7420.cpp) ([링크](https://www.acmicpc.net/problem/7420))
 
 [7453 합이 0인 네 정수](../problems/acmicpc_7453.cpp) ([링크](https://www.acmicpc.net/problem/7453))
