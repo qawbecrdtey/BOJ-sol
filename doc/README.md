@@ -1540,6 +1540,8 @@
 
 [13706 제곱근](../problems/acmicpc_13706.cpp) ([링크](https://www.acmicpc.net/problem/13706))
 
+[13708 모든 점을 포함하는 원](../problems/acmicpc_13708.cpp) ([링크](https://www.acmicpc.net/problem/13708))
+
 [13711 LCS 4](../problems/acmicpc_13711.cpp) ([링크](https://www.acmicpc.net/problem/13711))
 
 [13728 행렬식과 GCD](../problems/acmicpc_13728.cpp) ([링크](https://www.acmicpc.net/problem/13728))
