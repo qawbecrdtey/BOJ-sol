@@ -2570,6 +2570,8 @@
 
 [25709 1 빼기](../problems/acmicpc_25709.cpp) ([링크](https://www.acmicpc.net/problem/25709))
 
+[25756 방어율 무시 계산하기](../problems/acmicpc_25756.cpp) ([링크](https://www.acmicpc.net/problem/25756))
+
 [25784 Easy-to-Solve Expressions](../problems/acmicpc_25784.cpp) ([링크](https://www.acmicpc.net/problem/25784))
 
 [25841 Digit Count](../problems/acmicpc_25841.cpp) ([링크](https://www.acmicpc.net/problem/25841))
