@@ -2570,6 +2570,8 @@
 
 [25709 1 빼기](../problems/acmicpc_25709.cpp) ([링크](https://www.acmicpc.net/problem/25709))
 
+[25755 거울반사](../problems/acmicpc_25755.cpp) ([링크](https://www.acmicpc.net/problem/25755))
+
 [25756 방어율 무시 계산하기](../problems/acmicpc_25756.cpp) ([링크](https://www.acmicpc.net/problem/25756))
 
 [25784 Easy-to-Solve Expressions](../problems/acmicpc_25784.cpp) ([링크](https://www.acmicpc.net/problem/25784))
