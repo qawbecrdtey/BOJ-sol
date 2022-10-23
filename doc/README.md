@@ -192,6 +192,8 @@
 
 [1517 버블 소트](../problems/acmicpc_1517.cpp) ([링크](https://www.acmicpc.net/problem/1517))
 
+[1520 내리막 길](../problems/acmicpc_1520.cpp) ([링크](https://www.acmicpc.net/problem/1520))
+
 [1526 가장 큰 금민수](../problems/acmicpc_1526.cpp) ([링크](https://www.acmicpc.net/problem/1526))
 
 [1531 투명](../problems/acmicpc_1531.cpp) ([링크](https://www.acmicpc.net/problem/1531))
@@ -343,6 +345,8 @@
 [1976 여행 가자](../problems/acmicpc_1976.cpp) ([링크](https://www.acmicpc.net/problem/1976))
 
 [1989 부분배열 고르기 2](../problems/acmicpc_1989.cpp) ([링크](https://www.acmicpc.net/problem/1989))
+
+[2011 암호코드](../problems/acmicpc_2011.cpp) ([링크](https://www.acmicpc.net/problem/2011))
 
 [2014 소수의 곱](../problems/acmicpc_2014.cpp) ([링크](https://www.acmicpc.net/problem/2014))
 
@@ -871,6 +875,8 @@
 [6976 Divisibility by 11](../problems/acmicpc_6976.cpp) ([링크](https://www.acmicpc.net/problem/6976))
 
 [6996 애너그램](../problems/acmicpc_6996.cpp) ([링크](https://www.acmicpc.net/problem/6996))
+
+[7345 다항식의 나머지 연산](../problems/acmicpc_7345.cpp) ([링크](https://www.acmicpc.net/problem/7345))
 
 [7420 맹독 방벽](../problems/acmicpc_7420.cpp) ([링크](https://www.acmicpc.net/problem/7420))
 
@@ -1533,6 +1539,8 @@
 [13701 중복 제거](../problems/acmicpc_13701.cpp) ([링크](https://www.acmicpc.net/problem/13701))
 
 [13706 제곱근](../problems/acmicpc_13706.cpp) ([링크](https://www.acmicpc.net/problem/13706))
+
+[13708 모든 점을 포함하는 원](../problems/acmicpc_13708.cpp) ([링크](https://www.acmicpc.net/problem/13708))
 
 [13711 LCS 4](../problems/acmicpc_13711.cpp) ([링크](https://www.acmicpc.net/problem/13711))
 
@@ -2564,7 +2572,13 @@
 
 [25709 1 빼기](../problems/acmicpc_25709.cpp) ([링크](https://www.acmicpc.net/problem/25709))
 
+[25755 거울반사](../problems/acmicpc_25755.cpp) ([링크](https://www.acmicpc.net/problem/25755))
+
+[25756 방어율 무시 계산하기](../problems/acmicpc_25756.cpp) ([링크](https://www.acmicpc.net/problem/25756))
+
 [25784 Easy-to-Solve Expressions](../problems/acmicpc_25784.cpp) ([링크](https://www.acmicpc.net/problem/25784))
+
+[25841 Digit Count](../problems/acmicpc_25841.cpp) ([링크](https://www.acmicpc.net/problem/25841))
 
 ## Algorithms
 
