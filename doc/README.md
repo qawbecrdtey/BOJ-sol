@@ -2570,6 +2570,8 @@
 
 [25705 돌림판 문자열](../problems/acmicpc_25705.cpp) ([링크](https://www.acmicpc.net/problem/25705))
 
+[25708 만남의 광장](../problems/acmicpc_25708.cpp) ([링크](https://www.acmicpc.net/problem/25708))
+
 [25709 1 빼기](../problems/acmicpc_25709.cpp) ([링크](https://www.acmicpc.net/problem/25709))
 
 [25755 거울반사](../problems/acmicpc_25755.cpp) ([링크](https://www.acmicpc.net/problem/25755))
