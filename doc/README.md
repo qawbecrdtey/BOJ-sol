@@ -600,6 +600,8 @@
 
 [3486 Adding Reversed Numbers](../problems/acmicpc_3486.cpp) ([링크](https://www.acmicpc.net/problem/3486))
 
+[3554 Enigmatic Device](../problems/acmicpc_3554.cpp) ([링크](https://www.acmicpc.net/problem/3554))
+
 [3566 대형 스크린](../problems/acmicpc_3566.cpp) ([링크](https://www.acmicpc.net/problem/3566))
 
 [3584 가장 가까운 공통 조상](../problems/acmicpc_3584.cpp) ([링크](https://www.acmicpc.net/problem/3584))
