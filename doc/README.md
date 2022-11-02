@@ -2504,6 +2504,8 @@
 
 [25184 동가수열 구하기](../problems/acmicpc_25184.cpp) ([링크](https://www.acmicpc.net/problem/25184))
 
+[25192 인사성 밝은 곰곰이](../problems/acmicpc_25192.cpp) ([링크](https://www.acmicpc.net/problem/25192))
+
 [25205 경로당펑크 2077](../problems/acmicpc_25205.cpp) ([링크](https://www.acmicpc.net/problem/25205))
 
 [25238 가희와 방어율 무시](../problems/acmicpc_25238.cpp) ([링크](https://www.acmicpc.net/problem/25238))
