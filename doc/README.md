@@ -2592,6 +2592,8 @@
 
 [25841 Digit Count](../problems/acmicpc_25841.cpp) ([링크](https://www.acmicpc.net/problem/25841))
 
+[25858 Divide the Cash](../problems/acmicpc_25858.cpp) ([링크](https://www.acmicpc.net/problem/25858))
+
 [25881 Electric Bill](../problems/acmicpc_25881.cpp) ([링크](https://www.acmicpc.net/problem/25881))
 
 [25893 Majestic 10](../problems/acmicpc_25893.cpp) ([링크](https://www.acmicpc.net/problem/25893))
