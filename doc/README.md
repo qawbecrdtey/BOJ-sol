@@ -2592,6 +2592,8 @@
 
 [25841 Digit Count](../problems/acmicpc_25841.cpp) ([링크](https://www.acmicpc.net/problem/25841))
 
+[25893 Majestic 10](../problems/acmicpc_25893.cpp) ([링크](https://www.acmicpc.net/problem/25893))
+
 [25904 안녕 클레오파트라 세상에서 제일가는 포테이토칩](../problems/acmicpc_25904.cpp) ([링크](https://www.acmicpc.net/problem/25904))
 
 [25932 Find the Twins](../problems/acmicpc_25932.cpp) ([링크](https://www.acmicpc.net/problem/25932))
