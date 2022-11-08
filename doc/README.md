@@ -2602,6 +2602,8 @@
 
 [25932 Find the Twins](../problems/acmicpc_25932.cpp) ([링크](https://www.acmicpc.net/problem/25932))
 
+[25933 Medal Ranking](../problems/acmicpc_25933.cpp) ([링크](https://www.acmicpc.net/problem/25933))
+
 ## Algorithms
 
 [BFS](BFS.md)
