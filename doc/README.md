@@ -306,6 +306,8 @@
 
 [1849 순열](../problems/acmicpc_1849.cpp) ([링크](https://www.acmicpc.net/problem/1849))
 
+[1855 암호](../problems/acmicpc_1855.cpp) ([링크](https://www.acmicpc.net/problem/1855))
+
 [1862 미터계](../problems/acmicpc_1862.cpp) ([링크](https://www.acmicpc.net/problem/1862))
 
 [1864 문어 숫자](../problems/acmicpc_1864.cpp) ([링크](https://www.acmicpc.net/problem/1864))
