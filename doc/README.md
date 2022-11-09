@@ -934,6 +934,8 @@
 
 [8545 Zadanie próbne](../problems/acmicpc_8545.cpp) ([링크](https://www.acmicpc.net/problem/8545))
 
+[8559 Potęga](../problems/acmicpc_8559.cpp) ([링크](https://www.acmicpc.net/problem/8559))
+
 [8595 히든 넘버](../problems/acmicpc_8595.cpp) ([링크](https://www.acmicpc.net/problem/8595))
 
 [8664 Kwadrat](../problems/acmicpc_8664.cpp) ([링크](https://www.acmicpc.net/problem/8664))
