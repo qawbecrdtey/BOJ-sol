@@ -708,6 +708,8 @@
 
 [4792 레드 블루 스패닝 트리](../problems/acmicpc_4792.cpp) ([링크](https://www.acmicpc.net/problem/4792))
 
+[4796 캠핑](../problems/acmicpc_4796.cpp) ([링크](https://www.acmicpc.net/problem/4796))
+
 [4803 트리](../problems/acmicpc_4803.cpp) ([링크](https://www.acmicpc.net/problem/4803))
 
 [4806 줄 세기](../problems/acmicpc_4806.cpp) ([링크](https://www.acmicpc.net/problem/4806))
