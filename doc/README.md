@@ -2606,6 +2606,8 @@
 
 [25904 안녕 클레오파트라 세상에서 제일가는 포테이토칩](../problems/acmicpc_25904.cpp) ([링크](https://www.acmicpc.net/problem/25904))
 
+[25915 연세여 사랑한다](../problems/acmicpc_25915.cpp) ([링크](https://www.acmicpc.net/problem/25915))
+
 [25932 Find the Twins](../problems/acmicpc_25932.cpp) ([링크](https://www.acmicpc.net/problem/25932))
 
 [25933 Medal Ranking](../problems/acmicpc_25933.cpp) ([링크](https://www.acmicpc.net/problem/25933))
