@@ -616,6 +616,8 @@
 
 [3745 오름세](../problems/acmicpc_3745.cpp) ([링크](https://www.acmicpc.net/problem/3745))
 
+[3765 Celebrity jeopardy](../problems/acmicpc_3765.cpp) ([링크](https://www.acmicpc.net/problem/3765))
+
 [3778 애너그램 거리](../problems/acmicpc_3778.cpp) ([링크](https://www.acmicpc.net/problem/3778))
 
 [3896 소수 사이 수열](../problems/acmicpc_3896.cpp) ([링크](https://www.acmicpc.net/problem/3896))
