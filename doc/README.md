@@ -306,6 +306,8 @@
 
 [1849 순열](../problems/acmicpc_1849.cpp) ([링크](https://www.acmicpc.net/problem/1849))
 
+[1855 암호](../problems/acmicpc_1855.cpp) ([링크](https://www.acmicpc.net/problem/1855))
+
 [1862 미터계](../problems/acmicpc_1862.cpp) ([링크](https://www.acmicpc.net/problem/1862))
 
 [1864 문어 숫자](../problems/acmicpc_1864.cpp) ([링크](https://www.acmicpc.net/problem/1864))
@@ -710,6 +712,8 @@
 
 [4792 레드 블루 스패닝 트리](../problems/acmicpc_4792.cpp) ([링크](https://www.acmicpc.net/problem/4792))
 
+[4796 캠핑](../problems/acmicpc_4796.cpp) ([링크](https://www.acmicpc.net/problem/4796))
+
 [4803 트리](../problems/acmicpc_4803.cpp) ([링크](https://www.acmicpc.net/problem/4803))
 
 [4806 줄 세기](../problems/acmicpc_4806.cpp) ([링크](https://www.acmicpc.net/problem/4806))
@@ -933,6 +937,8 @@
 [8464 Non-Squarefree Numbers](../problems/acmicpc_8464.cpp) ([링크](https://www.acmicpc.net/problem/8464))
 
 [8545 Zadanie próbne](../problems/acmicpc_8545.cpp) ([링크](https://www.acmicpc.net/problem/8545))
+
+[8559 Potęga](../problems/acmicpc_8559.cpp) ([링크](https://www.acmicpc.net/problem/8559))
 
 [8595 히든 넘버](../problems/acmicpc_8595.cpp) ([링크](https://www.acmicpc.net/problem/8595))
 
@@ -2601,6 +2607,8 @@
 [25893 Majestic 10](../problems/acmicpc_25893.cpp) ([링크](https://www.acmicpc.net/problem/25893))
 
 [25904 안녕 클레오파트라 세상에서 제일가는 포테이토칩](../problems/acmicpc_25904.cpp) ([링크](https://www.acmicpc.net/problem/25904))
+
+[25915 연세여 사랑한다](../problems/acmicpc_25915.cpp) ([링크](https://www.acmicpc.net/problem/25915))
 
 [25932 Find the Twins](../problems/acmicpc_25932.cpp) ([링크](https://www.acmicpc.net/problem/25932))
 
