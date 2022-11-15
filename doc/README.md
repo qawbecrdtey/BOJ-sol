@@ -2176,6 +2176,8 @@
 
 [18436 수열과 쿼리 37](../problems/acmicpc_18436.cpp) ([링크](https://www.acmicpc.net/problem/18436))
 
+[18868 멀티버스 Ⅰ](../problems/acmicpc_18868.cpp) ([링크](https://www.acmicpc.net/problem/18868))
+
 [18870 좌표 압축](../problems/acmicpc_18870.cpp) ([링크](https://www.acmicpc.net/problem/18870))
 
 [18883 N M 찍기](../problems/acmicpc_18883.cpp) ([링크](https://www.acmicpc.net/problem/18883))
