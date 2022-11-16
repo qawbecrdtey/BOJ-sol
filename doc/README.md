@@ -2620,6 +2620,8 @@
 
 [25933 Medal Ranking](../problems/acmicpc_25933.cpp) ([링크](https://www.acmicpc.net/problem/25933))
 
+[25991 Lots of Liquid](../problems/acmicpc_25991.cpp) ([링크](https://www.acmicpc.net/problem/25991))
+
 ## Algorithms
 
 [BFS](BFS.md)
