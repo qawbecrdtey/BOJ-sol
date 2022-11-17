@@ -2604,6 +2604,8 @@
 
 [25784 Easy-to-Solve Expressions](../problems/acmicpc_25784.cpp) ([링크](https://www.acmicpc.net/problem/25784))
 
+[25801 Odd/Even Strings](../problems/acmicpc_25801.cpp) ([링크](https://www.acmicpc.net/problem/25801))
+
 [25841 Digit Count](../problems/acmicpc_25841.cpp) ([링크](https://www.acmicpc.net/problem/25841))
 
 [25858 Divide the Cash](../problems/acmicpc_25858.cpp) ([링크](https://www.acmicpc.net/problem/25858))
