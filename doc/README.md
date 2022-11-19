@@ -2626,6 +2626,8 @@
 
 [25991 Lots of Liquid](../problems/acmicpc_25991.cpp) ([링크](https://www.acmicpc.net/problem/25991))
 
+[26041 비슷한 전화번호 표시](../problems/acmicpc_26041.cpp) ([링크](https://www.acmicpc.net/problem/26041))
+
 ## Algorithms
 
 [BFS](BFS.md)
