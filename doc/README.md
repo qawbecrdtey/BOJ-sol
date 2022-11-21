@@ -2624,6 +2624,8 @@
 
 [25933 Medal Ranking](../problems/acmicpc_25933.cpp) ([링크](https://www.acmicpc.net/problem/25933))
 
+[25966 배찬우는 배열을 좋아해](../problems/acmicpc_25966.cpp) ([링크](https://www.acmicpc.net/problem/25966))
+
 [25991 Lots of Liquid](../problems/acmicpc_25991.cpp) ([링크](https://www.acmicpc.net/problem/25991))
 
 [26004 HI-ARC](../problems/acmicpc_26004.cpp) ([링크](https://www.acmicpc.net/problem/26004))
