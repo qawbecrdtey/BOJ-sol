@@ -2632,6 +2632,8 @@
 
 [26041 비슷한 전화번호 표시](../problems/acmicpc_26041.cpp) ([링크](https://www.acmicpc.net/problem/26041))
 
+[26057 Большой удой](../problems/acmicpc_26057.cpp) ([링크](https://www.acmicpc.net/problem/26057))
+
 [26111 Parentheses Tree](../problems/acmicpc_26111.cpp) ([링크](https://www.acmicpc.net/problem/26111))
 
 ## Algorithms
