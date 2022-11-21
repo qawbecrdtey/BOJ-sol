@@ -2626,6 +2626,8 @@
 
 [25991 Lots of Liquid](../problems/acmicpc_25991.cpp) ([링크](https://www.acmicpc.net/problem/25991))
 
+[26004 HI-ARC](../problems/acmicpc_26004.cpp) ([링크](https://www.acmicpc.net/problem/26004))
+
 [26040 특정 대문자를 소문자로 바꾸기](../problems/acmicpc_26040.cpp) ([링크](https://www.acmicpc.net/problem/26040))
 
 [26041 비슷한 전화번호 표시](../problems/acmicpc_26041.cpp) ([링크](https://www.acmicpc.net/problem/26041))
