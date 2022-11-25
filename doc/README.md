@@ -2164,6 +2164,8 @@
 
 [18322 Word Processor](../problems/acmicpc_18322.cpp) ([링크](https://www.acmicpc.net/problem/18322))
 
+[18330 Petrol](../problems/acmicpc_18330.cpp) ([링크](https://www.acmicpc.net/problem/18330))
+
 [18352 특정 거리의 도시 찾기](../problems/acmicpc_18352.cpp) ([링크](https://www.acmicpc.net/problem/18352))
 
 [18398 HOMWRK](../problems/acmicpc_18398.cpp) ([링크](https://www.acmicpc.net/problem/18398))
