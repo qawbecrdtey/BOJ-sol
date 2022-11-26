@@ -1940,6 +1940,8 @@
 
 [16396 선 그리기](../problems/acmicpc_16396.cpp) ([링크](https://www.acmicpc.net/problem/16396))
 
+[16406 Exam](../problems/acmicpc_16406.cpp) ([링크](https://www.acmicpc.net/problem/16406))
+
 [16427 Time Limits](../problems/acmicpc_16427.cpp) ([링크](https://www.acmicpc.net/problem/16427))
 
 [16433 주디와 당근농장](../problems/acmicpc_16433.cpp) ([링크](https://www.acmicpc.net/problem/16433))
