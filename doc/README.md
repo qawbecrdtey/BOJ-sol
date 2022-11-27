@@ -2622,6 +2622,8 @@
 
 [25858 Divide the Cash](../problems/acmicpc_25858.cpp) ([링크](https://www.acmicpc.net/problem/25858))
 
+[25859 Sort by Frequency](../problems/acmicpc_25859.cpp) ([링크](https://www.acmicpc.net/problem/25859))
+
 [25869 Window on the Wall](../problems/acmicpc_25869.cpp) ([링크](https://www.acmicpc.net/problem/25869))
 
 [25881 Electric Bill](../problems/acmicpc_25881.cpp) ([링크](https://www.acmicpc.net/problem/25881))
