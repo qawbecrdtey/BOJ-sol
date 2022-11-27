@@ -2614,6 +2614,8 @@
 
 [25801 Odd/Even Strings](../problems/acmicpc_25801.cpp) ([링크](https://www.acmicpc.net/problem/25801))
 
+[25814 Heavy Numbers](../problems/acmicpc_25814.cpp) ([링크](https://www.acmicpc.net/problem/25814))
+
 [25841 Digit Count](../problems/acmicpc_25841.cpp) ([링크](https://www.acmicpc.net/problem/25841))
 
 [25858 Divide the Cash](../problems/acmicpc_25858.cpp) ([링크](https://www.acmicpc.net/problem/25858))
