@@ -884,6 +884,8 @@
 
 [6884 소수 부분 수열](../problems/acmicpc_6884.cpp) ([링크](https://www.acmicpc.net/problem/6884))
 
+[6971 Nasty Numbers](../problems/acmicpc_6971.cpp) ([링크](https://www.acmicpc.net/problem/6971))
+
 [6976 Divisibility by 11](../problems/acmicpc_6976.cpp) ([링크](https://www.acmicpc.net/problem/6976))
 
 [6996 애너그램](../problems/acmicpc_6996.cpp) ([링크](https://www.acmicpc.net/problem/6996))
