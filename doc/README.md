@@ -2244,6 +2244,8 @@
 
 [20124 모르고리즘 회장님 추천 받습니다](../problems/acmicpc_20124.cpp) ([링크](https://www.acmicpc.net/problem/20124))
 
+[20152 Game Addiction](../problems/acmicpc_20152.cpp) ([링크](https://www.acmicpc.net/problem/20152))
+
 [20153 영웅이는 2의 거듭 제곱을 좋아해! 영웅이는 2의 거듭 제곱을 좋아해!](../problems/acmicpc_20153.cpp) ([링크](https://www.acmicpc.net/problem/20153))
 
 [20154 이 구역의 승자는 누구야?!](../problems/acmicpc_20154.cpp) ([링크](https://www.acmicpc.net/problem/20154))
