@@ -2654,6 +2654,8 @@
 
 [26057 Большой удой](../problems/acmicpc_26057.cpp) ([링크](https://www.acmicpc.net/problem/26057))
 
+[26082 WARBOY](../problems/acmicpc_26082.cpp) ([링크](https://www.acmicpc.net/problem/26082))
+
 [26111 Parentheses Tree](../problems/acmicpc_26111.cpp) ([링크](https://www.acmicpc.net/problem/26111))
 
 ## Algorithms
