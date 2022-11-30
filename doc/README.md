@@ -994,6 +994,8 @@
 
 [9226 도깨비말](../problems/acmicpc_9226.cpp) ([링크](https://www.acmicpc.net/problem/9226))
 
+[9229 단어 사다리](../problems/acmicpc_9229.cpp) ([링크](https://www.acmicpc.net/problem/9229))
+
 [9237 이장님 초대](../problems/acmicpc_9237.cpp) ([링크](https://www.acmicpc.net/problem/9237))
 
 [9240 로버트 후드](../problems/acmicpc_9240.cpp) ([링크](https://www.acmicpc.net/problem/9240))
