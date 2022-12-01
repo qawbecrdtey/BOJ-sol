@@ -1912,6 +1912,8 @@
 
 [16017 Telemarketer or not?](../problems/acmicpc_16017.cpp) ([링크](https://www.acmicpc.net/problem/16017))
 
+[16022 Voronoi Villages](../problems/acmicpc_16022.cpp) ([링크](https://www.acmicpc.net/problem/16022))
+
 [16099 Larger Sport Facility](../problems/acmicpc_16099.cpp) ([링크](https://www.acmicpc.net/problem/16099))
 
 [16134 조합 (Combination)](../problems/acmicpc_16134.cpp) ([링크](https://www.acmicpc.net/problem/16134))
