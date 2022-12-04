@@ -2172,6 +2172,8 @@
 
 [18265 MooBuzz](../problems/acmicpc_18265.cpp) ([링크](https://www.acmicpc.net/problem/18265))
 
+[18268 Cow Gymnastics](../problems/acmicpc_18268.cpp) ([링크](https://www.acmicpc.net/problem/18268))
+
 [18301 Rats](../problems/acmicpc_18301.cpp) ([링크](https://www.acmicpc.net/problem/18301))
 
 [18311 왕복](../problems/acmicpc_18311.cpp) ([링크](https://www.acmicpc.net/problem/18311))
