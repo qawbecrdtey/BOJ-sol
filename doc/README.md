@@ -2674,6 +2674,8 @@
 
 [26111 Parentheses Tree](../problems/acmicpc_26111.cpp) ([링크](https://www.acmicpc.net/problem/26111))
 
+[26162 인공 원소](../problems/acmicpc_26111.cpp) ([링크](https://www.acmicpc.net/problem/26162))
+
 ## Algorithms
 
 [BFS](BFS.md)
