@@ -876,6 +876,8 @@
 
 [6751 From 1987 to 2013](../problems/acmicpc_6751.cpp) ([링크](https://www.acmicpc.net/problem/6751))
 
+[6755 Who is taller?](../problems/acmicpc_6755.cpp) ([링크](https://www.acmicpc.net/problem/6755))
+
 [6763 Speed fines are not fine!](../problems/acmicpc_6763.cpp) ([링크](https://www.acmicpc.net/problem/6763))
 
 [6768 Don’t pass me the ball!](../problems/acmicpc_6768.cpp) ([링크](https://www.acmicpc.net/problem/6768))
