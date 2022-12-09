@@ -182,6 +182,8 @@
 
 [1459 걷기](../problems/acmicpc_1459.cpp) ([링크](https://www.acmicpc.net/problem/1459))
 
+[1484 다이어트](../problems/acmicpc_1484.cpp) ([링크](https://www.acmicpc.net/problem/1484))
+
 [1500 최대 곱](../problems/acmicpc_1500.cpp) ([링크](https://www.acmicpc.net/problem/1500))
 
 [1504 특정한 최단 경로](../problems/acmicpc_1504.cpp) ([링크](https://www.acmicpc.net/problem/1504))
@@ -726,6 +728,8 @@
 
 [4818 Ropes](../problems/acmicpc_4818.cpp) ([링크](https://www.acmicpc.net/problem/4818))
 
+[4864 Gold Coins](../problems/acmicpc_4864.cpp) ([링크](https://www.acmicpc.net/problem/4864))
+
 [4880 다음수](../problems/acmicpc_4880.cpp) ([링크](https://www.acmicpc.net/problem/4880))
 
 [4921 나무 블록](../problems/acmicpc_4921.cpp) ([링크](https://www.acmicpc.net/problem/4921))
@@ -871,6 +875,8 @@
 [6749 Next in line](../problems/acmicpc_6749.cpp) ([링크](https://www.acmicpc.net/problem/6749))
 
 [6751 From 1987 to 2013](../problems/acmicpc_6751.cpp) ([링크](https://www.acmicpc.net/problem/6751))
+
+[6755 Who is taller?](../problems/acmicpc_6755.cpp) ([링크](https://www.acmicpc.net/problem/6755))
 
 [6763 Speed fines are not fine!](../problems/acmicpc_6763.cpp) ([링크](https://www.acmicpc.net/problem/6763))
 
@@ -2120,6 +2126,8 @@
 
 [17608 막대기](../problems/acmicpc_17608.cpp) ([링크](https://www.acmicpc.net/problem/17608))
 
+[17609 회문](../problems/acmicpc_17609.cpp) ([링크](https://www.acmicpc.net/problem/17609))
+
 [17614 369](../problems/acmicpc_17614.cpp) ([링크](https://www.acmicpc.net/problem/17614))
 
 [17618 신기한 수](../problems/acmicpc_17618.cpp) ([링크](https://www.acmicpc.net/problem/17618))
@@ -2167,6 +2175,8 @@
 [18247 겨울왕국 티켓 예매](../problems/acmicpc_18247.cpp) ([링크](https://www.acmicpc.net/problem/18247))
 
 [18265 MooBuzz](../problems/acmicpc_18265.cpp) ([링크](https://www.acmicpc.net/problem/18265))
+
+[18268 Cow Gymnastics](../problems/acmicpc_18268.cpp) ([링크](https://www.acmicpc.net/problem/18268))
 
 [18301 Rats](../problems/acmicpc_18301.cpp) ([링크](https://www.acmicpc.net/problem/18301))
 
@@ -2669,6 +2679,8 @@
 [26082 WARBOY](../problems/acmicpc_26082.cpp) ([링크](https://www.acmicpc.net/problem/26082))
 
 [26111 Parentheses Tree](../problems/acmicpc_26111.cpp) ([링크](https://www.acmicpc.net/problem/26111))
+
+[26162 인공 원소](../problems/acmicpc_26111.cpp) ([링크](https://www.acmicpc.net/problem/26162))
 
 ## Algorithms
 
