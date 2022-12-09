@@ -2278,6 +2278,8 @@
 
 [20352 Circus](../problems/acmicpc_20352.cpp) ([링크](https://www.acmicpc.net/problem/20352))
 
+[20353 Atrium](../problems/acmicpc_20353.cpp) ([링크](https://www.acmicpc.net/problem/20353))
+
 [20360 Binary numbers](../problems/acmicpc_20360.cpp) ([링크](https://www.acmicpc.net/problem/20360))
 
 [20361 일우는 야바위꾼](../problems/acmicpc_20361.cpp) ([링크](https://www.acmicpc.net/problem/20361))
