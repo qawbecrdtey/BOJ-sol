@@ -2686,6 +2686,8 @@
 
 [26162 인공 원소](../problems/acmicpc_26111.cpp) ([링크](https://www.acmicpc.net/problem/26162))
 
+[26546 Reverse](../problems/acmicpc_26546.cpp) ([링크](https://www.acmicpc.net/problem/26546))
+
 ## Algorithms
 
 [BFS](BFS.md)
