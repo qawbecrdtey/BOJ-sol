@@ -1110,6 +1110,8 @@
 
 [10182 AcidBase](../problems/acmicpc_10182.cpp) ([링크](https://www.acmicpc.net/problem/10182))
 
+[10189 Hook](../problems/acmicpc_10189.cpp) ([링크](https://www.acmicpc.net/problem/10189))
+
 [10203 Count Vowels](../problems/acmicpc_10203.cpp) ([링크](https://www.acmicpc.net/problem/10203))
 
 [10211 Maximum Subarray](../problems/acmicpc_10211.cpp) ([링크](https://www.acmicpc.net/problem/10211))
