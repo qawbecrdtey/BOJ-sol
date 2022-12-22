@@ -2200,6 +2200,8 @@
 
 [18352 특정 거리의 도시 찾기](../problems/acmicpc_18352.cpp) ([링크](https://www.acmicpc.net/problem/18352))
 
+[18353 병사 배치하기](../problems/acmicpc_18353.cpp) ([링크](https://www.acmicpc.net/problem/18353))
+
 [18398 HOMWRK](../problems/acmicpc_18398.cpp) ([링크](https://www.acmicpc.net/problem/18398))
 
 [18408 3 つの整数 (Three Integers)](../problems/acmicpc_18408.cpp) ([링크](https://www.acmicpc.net/problem/18408))
