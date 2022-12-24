@@ -2706,6 +2706,8 @@
 
 [26590 Word Mix](../problems/acmicpc_26590.cpp) ([링크](https://www.acmicpc.net/problem/26590))
 
+[26766 Serca](../problems/acmicpc_26766.cpp) ([링크](https://www.acmicpc.net/problem/26766))
+
 ## Algorithms
 
 [BFS](BFS.md)
