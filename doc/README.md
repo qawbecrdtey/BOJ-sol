@@ -2708,6 +2708,8 @@
 
 [26766 Serca](../problems/acmicpc_26766.cpp) ([링크](https://www.acmicpc.net/problem/26766))
 
+[26767 Hurra!](../problems/acmicpc_26767.cpp) ([링크](https://www.acmicpc.net/problem/26767))
+
 [26772 Poziome serca](../problems/acmicpc_26772.cpp) ([링크](https://www.acmicpc.net/problem/26772))
 
 ## Algorithms
