@@ -2716,6 +2716,8 @@
 
 [26772 Poziome serca](../problems/acmicpc_26772.cpp) ([링크](https://www.acmicpc.net/problem/26772))
 
+[26849 Non Classical Problem](../problems/acmicpc_26849.cpp) ([링크](https://www.acmicpc.net/problem/26849))
+
 ## Algorithms
 
 [BFS](BFS.md)
