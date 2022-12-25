@@ -2702,6 +2702,8 @@
 
 [26546 Reverse](../problems/acmicpc_26546.cpp) ([링크](https://www.acmicpc.net/problem/26546))
 
+[26552 Zero](../problems/acmicpc_26552.cpp) ([링크](https://www.acmicpc.net/problem/26552))
+
 [26564 Poker Hand](../problems/acmicpc_26564.cpp) ([링크](https://www.acmicpc.net/problem/26564))
 
 [26590 Word Mix](../problems/acmicpc_26590.cpp) ([링크](https://www.acmicpc.net/problem/26590))
