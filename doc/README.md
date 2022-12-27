@@ -736,6 +736,8 @@
 
 [4880 다음수](../problems/acmicpc_4880.cpp) ([링크](https://www.acmicpc.net/problem/4880))
 
+[4909 Judging Olympia](../problems/acmicpc_4909.cpp) ([링크](https://www.acmicpc.net/problem/4909))
+
 [4921 나무 블록](../problems/acmicpc_4921.cpp) ([링크](https://www.acmicpc.net/problem/4921))
 
 [4949 균형잡힌 세상](../problems/acmicpc_4949.cpp) ([링크](https://www.acmicpc.net/problem/4949))
