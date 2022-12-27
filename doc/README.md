@@ -2694,6 +2694,8 @@
 
 [26082 WARBOY](../problems/acmicpc_26082.cpp) ([링크](https://www.acmicpc.net/problem/26082))
 
+[26090 완전한 수열](../problems/acmicpc_26090.cpp) ([링크](https://www.acmicpc.net/problem/26090))
+
 [26111 Parentheses Tree](../problems/acmicpc_26111.cpp) ([링크](https://www.acmicpc.net/problem/26111))
 
 [26162 인공 원소](../problems/acmicpc_26111.cpp) ([링크](https://www.acmicpc.net/problem/26162))
