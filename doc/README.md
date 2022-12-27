@@ -2722,6 +2722,8 @@
 
 [26849 Non Classical Problem](../problems/acmicpc_26849.cpp) ([링크](https://www.acmicpc.net/problem/26849))
 
+[26948 Plankan](../problems/acmicpc_26948.cpp) ([링크](https://www.acmicpc.net/problem/26948))
+
 ## Algorithms
 
 [BFS](BFS.md)
