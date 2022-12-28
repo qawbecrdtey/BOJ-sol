@@ -2706,6 +2706,8 @@
 
 [26503 Neighbor](../problems/acmicpc_26503.cpp) ([링크](https://www.acmicpc.net/problem/26503))
 
+[26517 연속인가? ?](../problems/acmicpc_26517.cpp) ([링크](https://www.acmicpc.net/problem/26517))
+
 [26530 Shipping](../problems/acmicpc_26530.cpp) ([링크](https://www.acmicpc.net/problem/26530))
 
 [26532 Acres](../problems/acmicpc_26532.cpp) ([링크](https://www.acmicpc.net/problem/26532))
