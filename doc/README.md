@@ -2704,6 +2704,8 @@
 
 [26503 Neighbor](../problems/acmicpc_26503.cpp) ([링크](https://www.acmicpc.net/problem/26503))
 
+[26530 Shipping](../problems/acmicpc_26530.cpp) ([링크](https://www.acmicpc.net/problem/26530))
+
 [26532 Acres](../problems/acmicpc_26532.cpp) ([링크](https://www.acmicpc.net/problem/26532))
 
 [26546 Reverse](../problems/acmicpc_26546.cpp) ([링크](https://www.acmicpc.net/problem/26546))
