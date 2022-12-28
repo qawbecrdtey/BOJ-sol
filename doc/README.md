@@ -2722,6 +2722,8 @@
 
 [26590 Word Mix](../problems/acmicpc_26590.cpp) ([링크](https://www.acmicpc.net/problem/26590))
 
+[26594 ZOAC 5](../problems/acmicpc_26594.cpp) ([링크](https://www.acmicpc.net/problem/26594))
+
 [26731 Zagubiona litera](../problems/acmicpc_26731.cpp) ([링크](https://www.acmicpc.net/problem/26731))
 
 [26766 Serca](../problems/acmicpc_26766.cpp) ([링크](https://www.acmicpc.net/problem/26766))
