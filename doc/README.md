@@ -2700,6 +2700,8 @@
 
 [26162 인공 원소](../problems/acmicpc_26111.cpp) ([링크](https://www.acmicpc.net/problem/26162))
 
+[26340 Fold the Paper Nicely](../problems/acmicpc_26340.cpp) ([링크](https://www.acmicpc.net/problem/26340))
+
 [26350 Good Coin Denomination](../problems/acmicpc_26350.cpp) ([링크](https://www.acmicpc.net/problem/26350))
 
 [26495 Big Number](../problems/acmicpc_26495.cpp) ([링크](https://www.acmicpc.net/problem/26495))
