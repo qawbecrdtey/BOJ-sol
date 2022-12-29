@@ -2722,6 +2722,8 @@
 
 [26552 Zero](../problems/acmicpc_26552.cpp) ([링크](https://www.acmicpc.net/problem/26552))
 
+[26560 Periods](../problems/acmicpc_26560.cpp) ([링크](https://www.acmicpc.net/problem/26560))
+
 [26564 Poker Hand](../problems/acmicpc_26564.cpp) ([링크](https://www.acmicpc.net/problem/26564))
 
 [26590 Word Mix](../problems/acmicpc_26590.cpp) ([링크](https://www.acmicpc.net/problem/26590))
