@@ -134,6 +134,8 @@
 
 [1312 소수](../problems/acmicpc_1312.cpp) ([링크](https://www.acmicpc.net/problem/1312))
 
+[1322 X와 K](../problems/acmicpc_1322.cpp) ([링크](https://www.acmicpc.net/problem/1322))
+
 [1326 폴짝폴짝](../problems/acmicpc_1326.cpp) ([링크](https://www.acmicpc.net/problem/1326))
 
 [1328 고층 빌딩](../problems/acmicpc_1328.cpp) ([링크](https://www.acmicpc.net/problem/1328))
