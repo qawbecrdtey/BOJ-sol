@@ -2720,6 +2720,8 @@
 
 [26546 Reverse](../problems/acmicpc_26546.cpp) ([링크](https://www.acmicpc.net/problem/26546))
 
+[26548 Quadratics](../problems/acmicpc_26548.cpp) ([링크](https://www.acmicpc.net/problem/26548))
+
 [26552 Zero](../problems/acmicpc_26552.cpp) ([링크](https://www.acmicpc.net/problem/26552))
 
 [26560 Periods](../problems/acmicpc_26560.cpp) ([링크](https://www.acmicpc.net/problem/26560))
