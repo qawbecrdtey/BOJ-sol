@@ -2732,6 +2732,8 @@
 
 [26564 Poker Hand](../problems/acmicpc_26564.cpp) ([링크](https://www.acmicpc.net/problem/26564))
 
+[26575 Pups](../problems/acmicpc_26575.cpp) ([링크](https://www.acmicpc.net/problem/26575))
+
 [26590 Word Mix](../problems/acmicpc_26590.cpp) ([링크](https://www.acmicpc.net/problem/26590))
 
 [26594 ZOAC 5](../problems/acmicpc_26594.cpp) ([링크](https://www.acmicpc.net/problem/26594))
