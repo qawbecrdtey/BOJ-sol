@@ -790,6 +790,8 @@
 
 [5357 Dedupe](../problems/acmicpc_5357.cpp) ([링크](https://www.acmicpc.net/problem/5357))
 
+[5358 Football Team](../problems/acmicpc_5358.cpp) ([링크](https://www.acmicpc.net/problem/5358))
+
 [5363 요다](../problems/acmicpc_5363.cpp) ([링크](https://www.acmicpc.net/problem/5363))
 
 [5430 AC](../problems/acmicpc_5430.cpp) ([링크](https://www.acmicpc.net/problem/5430))
