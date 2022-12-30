@@ -2718,6 +2718,8 @@
 
 [26532 Acres](../problems/acmicpc_26532.cpp) ([링크](https://www.acmicpc.net/problem/26532))
 
+[26535 Chicken Pen](../problems/acmicpc_26535.cpp) ([링크](https://www.acmicpc.net/problem/26535))
+
 [26546 Reverse](../problems/acmicpc_26546.cpp) ([링크](https://www.acmicpc.net/problem/26546))
 
 [26547 Square](../problems/acmicpc_26547.cpp) ([링크](https://www.acmicpc.net/problem/26547))
