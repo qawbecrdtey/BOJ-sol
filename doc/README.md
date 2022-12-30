@@ -1072,6 +1072,8 @@
 
 [9494 데구르르](../problems/acmicpc_9494.cpp) ([링크](https://www.acmicpc.net/problem/9494))
 
+[9501 꿍의 우주여행](../problems/acmicpc_9501.cpp) ([링크](https://www.acmicpc.net/problem/9501))
+
 [9536 여우는 어떻게 울지?](../problems/acmicpc_9536.cpp) ([링크](https://www.acmicpc.net/problem/9536))
 
 [9575 행운의 수](../problems/acmicpc_9575.cpp) ([링크](https://www.acmicpc.net/problem/9575))
