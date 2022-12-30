@@ -180,6 +180,8 @@
 
 [1448 삼각형 만들기](../problems/acmicpc_1448.cpp) ([링크](https://www.acmicpc.net/problem/1448))
 
+[1450 냅색문제](../problems/acmicpc_1450.cpp) ([링크](https://www.acmicpc.net/problem/1450))
+
 [1456 거의 소수](../problems/acmicpc_1456.cpp) ([링크](https://www.acmicpc.net/problem/1456))
 
 [1459 걷기](../problems/acmicpc_1459.cpp) ([링크](https://www.acmicpc.net/problem/1459))
