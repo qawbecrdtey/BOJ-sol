@@ -762,6 +762,8 @@
 
 [5074 When Do We Finish?](../problems/acmicpc_5074.cpp) ([링크](https://www.acmicpc.net/problem/5074))
 
+[5095 Matrix Powers](../problems/acmicpc_5095.cpp) ([링크](https://www.acmicpc.net/problem/5095))
+
 [5101 Sequences](../problems/acmicpc_5101.cpp) ([링크](https://www.acmicpc.net/problem/5101))
 
 [5217 쌍의 합](../problems/acmicpc_5217.cpp) ([링크](https://www.acmicpc.net/problem/5217))
