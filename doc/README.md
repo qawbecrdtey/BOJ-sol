@@ -692,6 +692,8 @@
 
 [4575 Refrigerator Magnets](../problems/acmicpc_4575.cpp) ([링크](https://www.acmicpc.net/problem/4575))
 
+[4589 Gnome Sequencing](../problems/acmicpc_4589.cpp) ([링크](https://www.acmicpc.net/problem/4589))
+
 [4592 중복을 없애자](../problems/acmicpc_4592.cpp) ([링크](https://www.acmicpc.net/problem/4592))
 
 [4597 패리티](../problems/acmicpc_4597.cpp) ([링크](https://www.acmicpc.net/problem/4597))
