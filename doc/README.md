@@ -734,6 +734,8 @@
 
 [4818 Ropes](../problems/acmicpc_4818.cpp) ([링크](https://www.acmicpc.net/problem/4818))
 
+[4850 Baskets of Gold Coins](../problems/acmicpc_4850.cpp) ([링크](https://www.acmicpc.net/problem/4850))
+
 [4864 Gold Coins](../problems/acmicpc_4864.cpp) ([링크](https://www.acmicpc.net/problem/4864))
 
 [4880 다음수](../problems/acmicpc_4880.cpp) ([링크](https://www.acmicpc.net/problem/4880))
