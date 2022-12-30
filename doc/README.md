@@ -1478,6 +1478,8 @@
 
 [12871 무한 문자열](../problems/acmicpc_12871.cpp) ([링크](https://www.acmicpc.net/problem/12871))
 
+[12888 완전 이진 트리 도로 네트워크](../problems/acmicpc_12888.cpp) ([링크](https://www.acmicpc.net/problem/12888))
+
 [12893 적의 적](../problems/acmicpc_12893.cpp) ([링크](https://www.acmicpc.net/problem/12893))
 
 [12899 데이터 구조](../problems/acmicpc_12899.cpp) ([링크](https://www.acmicpc.net/problem/12899))
