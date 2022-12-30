@@ -2722,6 +2722,8 @@
 
 [26503 Neighbor](../problems/acmicpc_26503.cpp) ([링크](https://www.acmicpc.net/problem/26503))
 
+[26509 Triangle](../problems/acmicpc_26509.cpp) ([링크](https://www.acmicpc.net/problem/26509))
+
 [26517 연속인가? ?](../problems/acmicpc_26517.cpp) ([링크](https://www.acmicpc.net/problem/26517))
 
 [26518 수열의 극한값](../problems/acmicpc_26518.cpp) ([링크](https://www.acmicpc.net/problem/26518))
