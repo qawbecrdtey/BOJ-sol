@@ -154,6 +154,8 @@
 
 [1359 복권](../problems/acmicpc_1359.cpp) ([링크](https://www.acmicpc.net/problem/1359))
 
+[1374 강의실](../problems/acmicpc_1374.cpp) ([링크](https://www.acmicpc.net/problem/1374))
+
 [1389 케빈 베이컨의 6단계 법칙](../problems/acmicpc_1389.cpp) ([링크](https://www.acmicpc.net/problem/1389))
 
 [1395 스위치](../problems/acmicpc_1395.cpp) ([링크](https://www.acmicpc.net/problem/1395))
