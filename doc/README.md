@@ -994,6 +994,8 @@
 
 [8710 Koszykarz](../problems/acmicpc_8710.cpp) ([링크](https://www.acmicpc.net/problem/8710))
 
+[8713 Znak działania](../problems/acmicpc_8713.cpp) ([링크](https://www.acmicpc.net/problem/8713))
+
 [8714 Monety](../problems/acmicpc_8714.cpp) ([링크](https://www.acmicpc.net/problem/8714))
 
 [8723 Patyki](../problems/acmicpc_8723.cpp) ([링크](https://www.acmicpc.net/problem/8723))
