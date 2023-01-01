@@ -2554,6 +2554,8 @@
 
 [24483 알고리즘 수업 - 깊이 우선 탐색 5](../problems/acmicpc_24483.cpp) ([링크](https://www.acmicpc.net/problem/24483))
 
+[24499 blobyum](../problems/acmicpc_24499.cpp) ([링크](https://www.acmicpc.net/problem/24499))
+
 [24510 시간복잡도를 배운 도도](../problems/acmicpc_24510.cpp) ([링크](https://www.acmicpc.net/problem/24510))
 
 [24516 잘 알려진 수열 구하기](../problems/acmicpc_24516.cpp) ([링크](https://www.acmicpc.net/problem/24516))
