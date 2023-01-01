@@ -922,6 +922,8 @@
 
 [6916 0123456789](../problems/acmicpc_6916.cpp) ([링크](https://www.acmicpc.net/problem/6916))
 
+[6930 Mod Inverse](../problems/acmicpc_6930.cpp) ([링크](https://www.acmicpc.net/problem/6930))
+
 [6971 Nasty Numbers](../problems/acmicpc_6971.cpp) ([링크](https://www.acmicpc.net/problem/6971))
 
 [6976 Divisibility by 11](../problems/acmicpc_6976.cpp) ([링크](https://www.acmicpc.net/problem/6976))
