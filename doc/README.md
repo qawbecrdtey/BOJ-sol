@@ -2344,6 +2344,8 @@
 
 [20361 일우는 야바위꾼](../problems/acmicpc_20361.cpp) ([링크](https://www.acmicpc.net/problem/20361))
 
+[20374 Big Money](../problems/acmicpc_20374.cpp) ([링크](https://www.acmicpc.net/problem/20374))
+
 [20492 세금](../problems/acmicpc_20492.cpp) ([링크](https://www.acmicpc.net/problem/20492))
 
 [20493 세상은 하나의 손수건](../problems/acmicpc_20493.cpp) ([링크](https://www.acmicpc.net/problem/20493))
