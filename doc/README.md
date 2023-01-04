@@ -994,6 +994,8 @@
 
 [8664 Kwadrat](../problems/acmicpc_8664.cpp) ([링크](https://www.acmicpc.net/problem/8664))
 
+[8671 Długa taśma](../problems/acmicpc_8671.cpp) ([링크](https://www.acmicpc.net/problem/8671))
+
 [8710 Koszykarz](../problems/acmicpc_8710.cpp) ([링크](https://www.acmicpc.net/problem/8710))
 
 [8713 Znak działania](../problems/acmicpc_8713.cpp) ([링크](https://www.acmicpc.net/problem/8713))
