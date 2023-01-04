@@ -974,6 +974,8 @@
 
 [7891 Can you add this?](../problems/acmicpc_7891.cpp) ([링크](https://www.acmicpc.net/problem/7891))
 
+[8016 Insulator](../problems/acmicpc_8016.cpp) ([링크](https://www.acmicpc.net/problem/8016))
+
 [8061 Bitmap](../problems/acmicpc_8061.cpp) ([링크](https://www.acmicpc.net/problem/8061))
 
 [8337 Rectangles 2](../problems/acmicpc_8337.cpp) ([링크](https://www.acmicpc.net/problem/8337))
