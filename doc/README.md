@@ -954,6 +954,8 @@
 
 [7578 공장](../problems/acmicpc_7578.cpp) ([링크](https://www.acmicpc.net/problem/7578))
 
+[7585 Brackets](../problems/acmicpc_7585.cpp) ([링크](https://www.acmicpc.net/problem/7585))
+
 [7586 Cuboids](../problems/acmicpc_7586.cpp) ([링크](https://www.acmicpc.net/problem/7586))
 
 [7595 Triangles](../problems/acmicpc_7595.cpp) ([링크](https://www.acmicpc.net/problem/7595))
