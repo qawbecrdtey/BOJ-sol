@@ -2666,6 +2666,8 @@
 
 [25628 햄버거 만들기](../problems/acmicpc_25628.cpp) ([링크](https://www.acmicpc.net/problem/25628))
 
+[25630 팰린드롬 소떡소떡](../problems/acmicpc_25630.cpp) ([링크](https://www.acmicpc.net/problem/25630))
+
 [25631 마트료시카 합치기](../problems/acmicpc_25631.cpp) ([링크](https://www.acmicpc.net/problem/25631))
 
 [25640 MBTI](../problems/acmicpc_25640.cpp) ([링크](https://www.acmicpc.net/problem/25640))
