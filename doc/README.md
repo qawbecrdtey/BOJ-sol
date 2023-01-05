@@ -1404,6 +1404,8 @@
 
 [11660 구간 합 구하기 5](../problems/acmicpc_11660.cpp) ([링크](https://www.acmicpc.net/problem/11660))
 
+[11665 직육면체 교집합](../problems/acmicpc_11665.cpp) ([링크](https://www.acmicpc.net/problem/11665))
+
 [11687 팩토리얼 0의 개수](../problems/acmicpc_11687.cpp) ([링크](https://www.acmicpc.net/problem/11687))
 
 [11690 LCM(1, 2, ..., n)](../problems/acmicpc_11690.cpp) ([링크](https://www.acmicpc.net/problem/11690))
