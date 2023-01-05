@@ -2702,6 +2702,8 @@
 
 [25814 Heavy Numbers](../problems/acmicpc_25814.cpp) ([링크](https://www.acmicpc.net/problem/25814))
 
+[25828 Corona Virus Testing](../problems/acmicpc_25828.cpp) ([링크](https://www.acmicpc.net/problem/25828))
+
 [25841 Digit Count](../problems/acmicpc_25841.cpp) ([링크](https://www.acmicpc.net/problem/25841))
 
 [25858 Divide the Cash](../problems/acmicpc_25858.cpp) ([링크](https://www.acmicpc.net/problem/25858))
