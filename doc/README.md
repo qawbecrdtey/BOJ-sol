@@ -1126,6 +1126,8 @@
 
 [9884 Euclid](../problems/acmicpc_9884.cpp) ([링크](https://www.acmicpc.net/problem/9884))
 
+[9891 Rect](../problems/acmicpc_9891.cpp) ([링크](https://www.acmicpc.net/problem/9891))
+
 [9893 Paths](../problems/acmicpc_9893.cpp) ([링크](https://www.acmicpc.net/problem/9893))
 
 [9913 Max](../problems/acmicpc_9913.cpp) ([링크](https://www.acmicpc.net/problem/9913))
