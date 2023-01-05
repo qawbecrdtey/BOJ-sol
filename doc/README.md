@@ -2782,6 +2782,8 @@
 
 [26518 수열의 극한값](../problems/acmicpc_26518.cpp) ([링크](https://www.acmicpc.net/problem/26518))
 
+[26529 Bunnies](../problems/acmicpc_26529.cpp) ([링크](https://www.acmicpc.net/problem/26529))
+
 [26530 Shipping](../problems/acmicpc_26530.cpp) ([링크](https://www.acmicpc.net/problem/26530))
 
 [26532 Acres](../problems/acmicpc_26532.cpp) ([링크](https://www.acmicpc.net/problem/26532))
