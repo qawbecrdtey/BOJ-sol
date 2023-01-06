@@ -2436,6 +2436,8 @@
 
 [22398 백발백준하는 명사수](../problems/acmicpc_22398.cpp) ([링크](https://www.acmicpc.net/problem/22398))
 
+[22825 Fermat's Last Theorem](../problems/acmicpc_22825.cpp) ([링크](https://www.acmicpc.net/problem/22825))
+
 [22937 작업](../problems/acmicpc_22937.cpp) ([링크](https://www.acmicpc.net/problem/22937))
 
 [22950 이진수 나눗셈](../problems/acmicpc_22950.cpp) ([링크](https://www.acmicpc.net/problem/22950))
