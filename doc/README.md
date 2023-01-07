@@ -2080,6 +2080,8 @@
 
 [16965 구간과 쿼리](../problems/acmicpc_16965.cpp) ([링크](https://www.acmicpc.net/problem/16965))
 
+[16968 차량 번호판 1](../problems/acmicpc_16968.cpp) ([링크](https://www.acmicpc.net/problem/16968))
+
 [16975 수열과 쿼리 21](../problems/acmicpc_16975.cpp) ([링크](https://www.acmicpc.net/problem/16975))
 
 [16978 수열과 쿼리 22](../problems/acmicpc_16978.cpp) ([링크](https://www.acmicpc.net/problem/16978))
