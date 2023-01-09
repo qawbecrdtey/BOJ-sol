@@ -2788,6 +2788,8 @@
 
 [26509 Triangle](../problems/acmicpc_26509.cpp) ([링크](https://www.acmicpc.net/problem/26509))
 
+[26516 Mutint](../problems/acmicpc_26516.cpp) ([링크](https://www.acmicpc.net/problem/26516))
+
 [26517 연속인가? ?](../problems/acmicpc_26517.cpp) ([링크](https://www.acmicpc.net/problem/26517))
 
 [26518 수열의 극한값](../problems/acmicpc_26518.cpp) ([링크](https://www.acmicpc.net/problem/26518))
