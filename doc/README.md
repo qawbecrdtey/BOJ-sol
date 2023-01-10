@@ -2776,6 +2776,8 @@
 
 [26162 인공 원소](../problems/acmicpc_26111.cpp) ([링크](https://www.acmicpc.net/problem/26162))
 
+[26215 눈 치우기](../problems/acmicpc_26215.cpp) ([링크](https://www.acmicpc.net/problem/26215))
+
 [26314 Vowel Count](../problems/acmicpc_26314.cpp) ([링크](https://www.acmicpc.net/problem/26314))
 
 [26332 Buying in Bulk](../problems/acmicpc_26332.cpp) ([링크](https://www.acmicpc.net/problem/26332))
