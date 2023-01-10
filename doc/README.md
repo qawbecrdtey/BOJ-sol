@@ -912,6 +912,8 @@
 
 [6763 Speed fines are not fine!](../problems/acmicpc_6763.cpp) ([링크](https://www.acmicpc.net/problem/6763))
 
+[6764 Sounds fishy!](../problems/acmicpc_6764.cpp) ([링크](https://www.acmicpc.net/problem/6764))
+
 [6768 Don’t pass me the ball!](../problems/acmicpc_6768.cpp) ([링크](https://www.acmicpc.net/problem/6768))
 
 [6778 Which Alien?](../problems/acmicpc_6778.cpp) ([링크](https://www.acmicpc.net/problem/6778))
