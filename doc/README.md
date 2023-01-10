@@ -796,6 +796,8 @@
 
 [5355 화성 수학](../problems/acmicpc_5355.cpp) ([링크](https://www.acmicpc.net/problem/5355))
 
+[5356 Triangles](../problems/acmicpc_5356.cpp) ([링크](https://www.acmicpc.net/problem/5356))
+
 [5357 Dedupe](../problems/acmicpc_5357.cpp) ([링크](https://www.acmicpc.net/problem/5357))
 
 [5358 Football Team](../problems/acmicpc_5358.cpp) ([링크](https://www.acmicpc.net/problem/5358))
