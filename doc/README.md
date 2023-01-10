@@ -2842,6 +2842,8 @@
 
 [27108 Ordered Fractions](../problems/acmicpc_27108.cpp) ([링크](https://www.acmicpc.net/problem/27108))
 
+[27110 특식 배부](../problems/acmicpc_27110.cpp) ([링크](https://www.acmicpc.net/problem/27110))
+
 ## Algorithms
 
 [BFS](BFS.md)
