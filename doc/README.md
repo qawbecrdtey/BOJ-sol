@@ -2818,6 +2818,8 @@
 
 [26560 Periods](../problems/acmicpc_26560.cpp) ([링크](https://www.acmicpc.net/problem/26560))
 
+[26562 Presidents](../problems/acmicpc_26562.cpp) ([링크](https://www.acmicpc.net/problem/26562))
+
 [26564 Poker Hand](../problems/acmicpc_26564.cpp) ([링크](https://www.acmicpc.net/problem/26564))
 
 [26575 Pups](../problems/acmicpc_26575.cpp) ([링크](https://www.acmicpc.net/problem/26575))
