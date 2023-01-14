@@ -2790,6 +2790,8 @@
 
 [26495 Big Number](../problems/acmicpc_26495.cpp) ([링크](https://www.acmicpc.net/problem/26495))
 
+[26502 Decoder](../problems/acmicpc_26502.cpp) ([링크](https://www.acmicpc.net/problem/26502))
+
 [26503 Neighbor](../problems/acmicpc_26503.cpp) ([링크](https://www.acmicpc.net/problem/26503))
 
 [26509 Triangle](../problems/acmicpc_26509.cpp) ([링크](https://www.acmicpc.net/problem/26509))
