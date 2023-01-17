@@ -496,6 +496,8 @@
 
 [2623 음악프로그램](../problems/acmicpc_2623.cpp) ([링크](https://www.acmicpc.net/problem/2623))
 
+[2626 헬기착륙장](../problems/acmicpc_2626.cpp) ([링크](https://www.acmicpc.net/problem/2626))
+
 [2628 종이자르기](../problems/acmicpc_2628.cpp) ([링크](https://www.acmicpc.net/problem/2628))
 
 [2630 색종이 만들기](../problems/acmicpc_2630.cpp) ([링크](https://www.acmicpc.net/problem/2630))
