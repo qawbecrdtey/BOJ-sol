@@ -1664,6 +1664,8 @@
 
 [14013 Unit Conversion](../problems/acmicpc_14013.cpp) ([링크](https://www.acmicpc.net/problem/14013))
 
+[14039 Magic Squares](../problems/acmicpc_14039.cpp) ([링크](https://www.acmicpc.net/problem/14039))
+
 [14065 Gorivo](../problems/acmicpc_14065.cpp) ([링크](https://www.acmicpc.net/problem/14065))
 
 [14172 Moocast](../problems/acmicpc_14172.cpp) ([링크](https://www.acmicpc.net/problem/14172))
