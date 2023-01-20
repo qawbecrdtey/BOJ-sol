@@ -882,6 +882,8 @@
 
 [6322 직각 삼각형의 두 변](../problems/acmicpc_6322.cpp) ([링크](https://www.acmicpc.net/problem/6322))
 
+[6325 Definite Values](../problems/acmicpc_6325.cpp) ([링크](https://www.acmicpc.net/problem/6325))
+
 [6362 Unimodal Palindromic Decompositions](../problems/acmicpc_6362.cpp) ([링크](https://www.acmicpc.net/problem/6362))
 
 [6378 디지털 루트](../problems/acmicpc_6378.cpp) ([링크](https://www.acmicpc.net/problem/6378))
