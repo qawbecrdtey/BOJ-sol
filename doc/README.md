@@ -900,6 +900,8 @@
 
 [6556 Paths on a Grid](../problems/acmicpc_6556.cpp) ([링크](https://www.acmicpc.net/problem/6556))
 
+[6568 귀도 반 로썸은 크리스마스날 심심하다고 파이썬을 만들었다](../problems/acmicpc_6568.cpp) ([링크](https://www.acmicpc.net/problem/6568))
+
 [6588 골드바흐의 추측](../problems/acmicpc_6588.cpp) ([링크](https://www.acmicpc.net/problem/6588))
 
 [6662 Divisors](../problems/acmicpc_6662.cpp) ([링크](https://www.acmicpc.net/problem/6662))
