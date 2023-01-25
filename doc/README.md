@@ -1578,6 +1578,8 @@
 
 [13239 Combinations](../problems/acmicpc_13239.cpp) ([링크](https://www.acmicpc.net/problem/13239))
 
+[13240 Chessboard](../problems/acmicpc_13240.cpp) ([링크](https://www.acmicpc.net/problem/13240))
+
 [13246 행렬 제곱의 합](../problems/acmicpc_13246.cpp) ([링크](https://www.acmicpc.net/problem/13246))
 
 [13251 조약돌 꺼내기](../problems/acmicpc_13251.cpp) ([링크](https://www.acmicpc.net/problem/13251))
