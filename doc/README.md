@@ -1152,6 +1152,8 @@
 
 [9945 Centroid of Point Masses](../problems/acmicpc_9945.cpp) ([링크](https://www.acmicpc.net/problem/9945))
 
+[9949 Hide those Letters](../problems/acmicpc_9949.cpp) ([링크](https://www.acmicpc.net/problem/9949))
+
 [9950 Rectangles](../problems/acmicpc_9950.cpp) ([링크](https://www.acmicpc.net/problem/9950))
 
 [10040 투표](../problems/acmicpc_10040.cpp) ([링크](https://www.acmicpc.net/problem/10040))
