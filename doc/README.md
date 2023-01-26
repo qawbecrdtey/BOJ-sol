@@ -2746,6 +2746,8 @@
 
 [25756 방어율 무시 계산하기](../problems/acmicpc_25756.cpp) ([링크](https://www.acmicpc.net/problem/25756))
 
+[25773 Number Maximization](../problems/acmicpc_25773.cpp) ([링크](https://www.acmicpc.net/problem/25773))
+
 [25784 Easy-to-Solve Expressions](../problems/acmicpc_25784.cpp) ([링크](https://www.acmicpc.net/problem/25784))
 
 [25786 Decimal XOR](../problems/acmicpc_25786.cpp) ([링크](https://www.acmicpc.net/problem/25786))
