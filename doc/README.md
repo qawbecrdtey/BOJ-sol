@@ -1858,6 +1858,8 @@
 
 [15233 Final Score](../problems/acmicpc_15233.cpp) ([링크](https://www.acmicpc.net/problem/15233))
 
+[15234 Number Pairs](../problems/acmicpc_15234.cpp) ([링크](https://www.acmicpc.net/problem/15234))
+
 [15235 Olympiad Pizza](../problems/acmicpc_15235.cpp) ([링크](https://www.acmicpc.net/problem/15235))
 
 [15239 Password check](../problems/acmicpc_15239.cpp) ([링크](https://www.acmicpc.net/problem/15239))
