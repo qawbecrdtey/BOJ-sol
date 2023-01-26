@@ -2256,6 +2256,8 @@
 
 [18138 리유나는 세일러복을 좋아해](../problems/acmicpc_18138.cpp) ([링크](https://www.acmicpc.net/problem/18138))
 
+[18142 Tapioka](../problems/acmicpc_18142.cpp) ([링크](https://www.acmicpc.net/problem/18142))
+
 [18230 2xN 예쁜 타일링](../problems/acmicpc_18230.cpp) ([링크](https://www.acmicpc.net/problem/18230))
 
 [18238 ZOAC 2](../problems/acmicpc_18238.cpp) ([링크](https://www.acmicpc.net/problem/18238))
