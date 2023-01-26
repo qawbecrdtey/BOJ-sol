@@ -2398,6 +2398,8 @@
 
 [20944 팰린드롬 척화비](../problems/acmicpc_20944.cpp) ([링크](https://www.acmicpc.net/problem/20944))
 
+[21022 Three Points for a Win](../problems/acmicpc_21022.cpp) ([링크](https://www.acmicpc.net/problem/21022))
+
 [21099 Four XOR](../problems/acmicpc_21099.cpp) ([링크](https://www.acmicpc.net/problem/21099))
 
 [21167 Curve Speed](../problems/acmicpc_21167.cpp) ([링크](https://www.acmicpc.net/problem/21167))
