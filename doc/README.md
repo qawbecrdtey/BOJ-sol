@@ -2450,6 +2450,8 @@
 
 [21612 Boiling Water](../problems/acmicpc_21612.cpp) ([링크](https://www.acmicpc.net/problem/21612))
 
+[21613 Silent Auction](../problems/acmicpc_21613.cpp) ([링크](https://www.acmicpc.net/problem/21613))
+
 [21614 Secret Instructions](../problems/acmicpc_21614.cpp) ([링크](https://www.acmicpc.net/problem/21614))
 
 [21617 Crazy Fencing](../problems/acmicpc_21617.cpp) ([링크](https://www.acmicpc.net/problem/21617))
