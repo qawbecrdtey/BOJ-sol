@@ -1740,6 +1740,8 @@
 
 [14535 Birthday Graph](../problems/acmicpc_14535.cpp) ([링크](https://www.acmicpc.net/problem/14535))
 
+[14542 Outer Triangle Sum](../problems/acmicpc_14542.cpp) ([링크](https://www.acmicpc.net/problem/14542))
+
 [14544 Vote](../problems/acmicpc_14544.cpp) ([링크](https://www.acmicpc.net/problem/14544))
 
 [14545 Square](../problems/acmicpc_14545.cpp) ([링크](https://www.acmicpc.net/problem/14545))
