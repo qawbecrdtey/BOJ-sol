@@ -986,6 +986,8 @@
 
 [7789 텔레프라임](../problems/acmicpc_7789.cpp) ([링크](https://www.acmicpc.net/problem/7789))
 
+[7790 Joke](../problems/acmicpc_7790.cpp) ([링크](https://www.acmicpc.net/problem/7790))
+
 [7869 두 원](../problems/acmicpc_7869.cpp) ([링크](https://www.acmicpc.net/problem/7869))
 
 [7891 Can you add this?](../problems/acmicpc_7891.cpp) ([링크](https://www.acmicpc.net/problem/7891))
