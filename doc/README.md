@@ -1728,6 +1728,8 @@
 
 [14470 전자레인지](../problems/acmicpc_14470.cpp) ([링크](https://www.acmicpc.net/problem/14470))
 
+[14471 포인트 카드](../problems/acmicpc_14471.cpp) ([링크](https://www.acmicpc.net/problem/14471))
+
 [14490 백대열](../problems/acmicpc_14490.cpp) ([링크](https://www.acmicpc.net/problem/14490))
 
 [14491 9진수](../problems/acmicpc_14491.cpp) ([링크](https://www.acmicpc.net/problem/14491))
