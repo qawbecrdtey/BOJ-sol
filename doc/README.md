@@ -1150,6 +1150,8 @@
 
 [9913 Max](../problems/acmicpc_9913.cpp) ([링크](https://www.acmicpc.net/problem/9913))
 
+[9924 The Euclidean Algorithm](../problems/acmicpc_9924.cpp) ([링크](https://www.acmicpc.net/problem/9924))
+
 [9945 Centroid of Point Masses](../problems/acmicpc_9945.cpp) ([링크](https://www.acmicpc.net/problem/9945))
 
 [9949 Hide those Letters](../problems/acmicpc_9949.cpp) ([링크](https://www.acmicpc.net/problem/9949))
