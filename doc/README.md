@@ -494,6 +494,8 @@
 
 [2607 비슷한 단어](../problems/acmicpc_2607.cpp) ([링크](https://www.acmicpc.net/problem/2607))
 
+[2618 경찰차](../problems/acmicpc_2618.cpp) ([링크](https://www.acmicpc.net/problem/2618))
+
 [2623 음악프로그램](../problems/acmicpc_2623.cpp) ([링크](https://www.acmicpc.net/problem/2623))
 
 [2626 헬기착륙장](../problems/acmicpc_2626.cpp) ([링크](https://www.acmicpc.net/problem/2626))
