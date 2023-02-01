@@ -2110,6 +2110,8 @@
 
 [16894 약수 게임](../problems/acmicpc_16894.cpp) ([링크](https://www.acmicpc.net/problem/16894))
 
+[16895 님 게임 3](../problems/acmicpc_16895.cpp) ([링크](https://www.acmicpc.net/problem/16895))
+
 [16928 뱀과 사다리 게임](../problems/acmicpc_16928.cpp) ([링크](https://www.acmicpc.net/problem/16928))
 
 [16936 나3곱2](../problems/acmicpc_16936.cpp) ([링크](https://www.acmicpc.net/problem/16936))
