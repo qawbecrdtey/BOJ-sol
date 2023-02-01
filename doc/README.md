@@ -1140,6 +1140,8 @@
 
 [9753 짝 곱](../problems/acmicpc_9753.cpp) ([링크](https://www.acmicpc.net/problem/9753))
 
+[9780 Range Sum Query](../problems/acmicpc_9780.cpp) ([링크](https://www.acmicpc.net/problem/9780))
+
 [9847 4SUM](../problems/acmicpc_9847.cpp) ([링크](https://www.acmicpc.net/problem/9847))
 
 [9848 Gift](../problems/acmicpc_9848.cpp) ([링크](https://www.acmicpc.net/problem/9848))
