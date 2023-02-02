@@ -1560,6 +1560,8 @@
 
 [13015 별 찍기 - 23](../problems/acmicpc_13015.cpp) ([링크](https://www.acmicpc.net/problem/13015))
 
+[13034 다각형 게임](../problems/acmicpc_13034.cpp) ([링크](https://www.acmicpc.net/problem/13034))
+
 [13035 Rectangle and Squares](../problems/acmicpc_13035.cpp) ([링크](https://www.acmicpc.net/problem/13035))
 
 [13073 Sums](../problems/acmicpc_13073.cpp) ([링크](https://www.acmicpc.net/problem/13073))
