@@ -2912,6 +2912,8 @@
 
 [27194 Meeting Near the Fountain](../problems/acmicpc_27194.cpp) ([링크](https://www.acmicpc.net/problem/27194))
 
+[27389 Metronome](../problems/acmicpc_27389.cpp) ([링크](https://www.acmicpc.net/problem/27389))
+
 ## Algorithms
 
 [BFS](BFS.md)
