@@ -578,6 +578,8 @@
 
 [2959 거북이](../problems/acmicpc_2959.cpp) ([링크](https://www.acmicpc.net/problem/2959))
 
+[2975 Transactions](../problems/acmicpc_2975.cpp) ([링크](https://www.acmicpc.net/problem/2975))
+
 [2986 파스칼](../problems/acmicpc_2986.cpp) ([링크](https://www.acmicpc.net/problem/2986))
 
 [2992 크면서 작은 수](../problems/acmicpc_2992.cpp) ([링크](https://www.acmicpc.net/problem/2992))
