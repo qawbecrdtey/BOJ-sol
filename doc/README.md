@@ -1406,6 +1406,8 @@
 
 [11478 서로 다른 부분 문자열의 개수](../problems/acmicpc_11478.cpp) ([링크](https://www.acmicpc.net/problem/11478))
 
+[11501 주식](../problems/acmicpc_11501.cpp) ([링크](https://www.acmicpc.net/problem/11501))
+
 [11502 세 개의 소수 문제](../problems/acmicpc_11502.cpp) ([링크](https://www.acmicpc.net/problem/11502))
 
 [11505 구간 곱 구하기](../problems/acmicpc_11505.cpp) ([링크](https://www.acmicpc.net/problem/11505))
@@ -2913,6 +2915,8 @@
 [27110 특식 배부](../problems/acmicpc_27110.cpp) ([링크](https://www.acmicpc.net/problem/27110))
 
 [27194 Meeting Near the Fountain](../problems/acmicpc_27194.cpp) ([링크](https://www.acmicpc.net/problem/27194))
+
+[27389 Metronome](../problems/acmicpc_27389.cpp) ([링크](https://www.acmicpc.net/problem/27389))
 
 ## Algorithms
 
