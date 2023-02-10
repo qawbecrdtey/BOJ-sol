@@ -1246,6 +1246,8 @@
 
 [10775 공항](../problems/acmicpc_10775.cpp) ([링크](https://www.acmicpc.net/problem/10775))
 
+[10799 쇠막대기](../problems/acmicpc_10799.cpp) ([링크](https://www.acmicpc.net/problem/10799))
+
 [10800 컬러볼](../problems/acmicpc_10800.cpp) ([링크](https://www.acmicpc.net/problem/10800))
 
 [10801 카드게임](../problems/acmicpc_10801.cpp) ([링크](https://www.acmicpc.net/problem/10801))
