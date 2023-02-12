@@ -1144,6 +1144,8 @@
 
 [9780 Range Sum Query](../problems/acmicpc_9780.cpp) ([링크](https://www.acmicpc.net/problem/9780))
 
+[9783 Easy Encryption](../problems/acmicpc_9783.cpp) ([링크](https://www.acmicpc.net/problem/9783))
+
 [9847 4SUM](../problems/acmicpc_9847.cpp) ([링크](https://www.acmicpc.net/problem/9847))
 
 [9848 Gift](../problems/acmicpc_9848.cpp) ([링크](https://www.acmicpc.net/problem/9848))
