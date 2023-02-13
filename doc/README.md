@@ -1142,6 +1142,8 @@
 
 [9753 짝 곱](../problems/acmicpc_9753.cpp) ([링크](https://www.acmicpc.net/problem/9753))
 
+[9772 Quadrants](../problems/acmicpc_9772.cpp) ([링크](https://www.acmicpc.net/problem/9772))
+
 [9780 Range Sum Query](../problems/acmicpc_9780.cpp) ([링크](https://www.acmicpc.net/problem/9780))
 
 [9783 Easy Encryption](../problems/acmicpc_9783.cpp) ([링크](https://www.acmicpc.net/problem/9783))
