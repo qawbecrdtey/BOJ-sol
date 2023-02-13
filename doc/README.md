@@ -1142,6 +1142,8 @@
 
 [9753 짝 곱](../problems/acmicpc_9753.cpp) ([링크](https://www.acmicpc.net/problem/9753))
 
+[9770 GCD](../problems/acmicpc_9770.cpp) ([링크](https://www.acmicpc.net/problem/9770))
+
 [9771 Word Searching](../problems/acmicpc_9771.cpp) ([링크](https://www.acmicpc.net/problem/9771))
 
 [9772 Quadrants](../problems/acmicpc_9772.cpp) ([링크](https://www.acmicpc.net/problem/9772))
