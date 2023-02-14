@@ -2444,6 +2444,8 @@
 
 [20944 팰린드롬 척화비](../problems/acmicpc_20944.cpp) ([링크](https://www.acmicpc.net/problem/20944))
 
+[20946 합성인수분해](../problems/acmicpc_20946.cpp) ([링크](https://www.acmicpc.net/problem/20946))
+
 [21022 Three Points for a Win](../problems/acmicpc_21022.cpp) ([링크](https://www.acmicpc.net/problem/21022))
 
 [21099 Four XOR](../problems/acmicpc_21099.cpp) ([링크](https://www.acmicpc.net/problem/21099))
