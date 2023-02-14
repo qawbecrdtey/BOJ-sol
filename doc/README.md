@@ -2376,6 +2376,8 @@
 
 [19945 새로운 언어 CC](../problems/acmicpc_19945.cpp) ([링크](https://www.acmicpc.net/problem/19945))
 
+[19947 투자의 귀재 배주형](../problems/acmicpc_19947.cpp) ([링크](https://www.acmicpc.net/problem/19947))
+
 [20001 고무오리 디버깅](../problems/acmicpc_20001.cpp) ([링크](https://www.acmicpc.net/problem/20001))
 
 [20002 사과나무](../problems/acmicpc_20002.cpp) ([링크](https://www.acmicpc.net/problem/20002))
