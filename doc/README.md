@@ -2096,6 +2096,8 @@
 
 [16486 운동장 한 바퀴](../problems/acmicpc_16486.cpp) ([링크](https://www.acmicpc.net/problem/16486))
 
+[16493 최대 페이지 수](../problems/acmicpc_16493.cpp) ([링크](https://www.acmicpc.net/problem/16493))
+
 [16496 큰 수 만들기](../problems/acmicpc_16496.cpp) ([링크](https://www.acmicpc.net/problem/16496))
 
 [16499 동일한 단어 그룹화하기](../problems/acmicpc_16499.cpp) ([링크](https://www.acmicpc.net/problem/16499))
