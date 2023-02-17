@@ -1248,6 +1248,8 @@
 
 [10599 페르시아의 왕들](../problems/acmicpc_10599.cpp) ([링크](https://www.acmicpc.net/problem/10599))
 
+[10653 마라톤 2](../problems/acmicpc_10653.cpp) ([링크](https://www.acmicpc.net/problem/10653))
+
 [10693 Abdelrahman](../problems/acmicpc_10693.cpp) ([링크](https://www.acmicpc.net/problem/10693))
 
 [10695 Dalia](../problems/acmicpc_10695.cpp) ([링크](https://www.acmicpc.net/problem/10695))
