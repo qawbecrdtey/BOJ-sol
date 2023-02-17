@@ -2342,6 +2342,8 @@
 
 [18436 수열과 쿼리 37](../problems/acmicpc_18436.cpp) ([링크](https://www.acmicpc.net/problem/18436))
 
+[18786 Triangles (Bronze)](../problems/acmicpc_18786.cpp) ([링크](https://www.acmicpc.net/problem/18786))
+
 [18868 멀티버스 Ⅰ](../problems/acmicpc_18868.cpp) ([링크](https://www.acmicpc.net/problem/18868))
 
 [18870 좌표 압축](../problems/acmicpc_18870.cpp) ([링크](https://www.acmicpc.net/problem/18870))
