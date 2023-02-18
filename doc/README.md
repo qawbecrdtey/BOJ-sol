@@ -1154,6 +1154,8 @@
 
 [9772 Quadrants](../problems/acmicpc_9772.cpp) ([링크](https://www.acmicpc.net/problem/9772))
 
+[9776 Max Volume](../problems/acmicpc_9776.cpp) ([링크](https://www.acmicpc.net/problem/9776))
+
 [9780 Range Sum Query](../problems/acmicpc_9780.cpp) ([링크](https://www.acmicpc.net/problem/9780))
 
 [9783 Easy Encryption](../problems/acmicpc_9783.cpp) ([링크](https://www.acmicpc.net/problem/9783))
