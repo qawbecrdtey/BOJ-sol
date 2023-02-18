@@ -2820,6 +2820,8 @@
 
 [25784 Easy-to-Solve Expressions](../problems/acmicpc_25784.cpp) ([링크](https://www.acmicpc.net/problem/25784))
 
+[25785 Easy-to-Pronounce Words](../problems/acmicpc_25785.cpp) ([링크](https://www.acmicpc.net/problem/25785))
+
 [25786 Decimal XOR](../problems/acmicpc_25786.cpp) ([링크](https://www.acmicpc.net/problem/25786))
 
 [25801 Odd/Even Strings](../problems/acmicpc_25801.cpp) ([링크](https://www.acmicpc.net/problem/25801))
