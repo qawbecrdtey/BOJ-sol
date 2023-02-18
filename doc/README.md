@@ -1746,6 +1746,8 @@
 
 [14264 정육각형과 삼각형](../problems/acmicpc_14264.cpp) ([링크](https://www.acmicpc.net/problem/14264))
 
+[14284 간선 이어가기 2](../problems/acmicpc_14284.cpp) ([링크](https://www.acmicpc.net/problem/14284))
+
 [14289 본대 산책 3](../problems/acmicpc_14289.cpp) ([링크](https://www.acmicpc.net/problem/14289))
 
 [14323 Country Leader (Large)](../problems/acmicpc_14323.cpp) ([링크](https://www.acmicpc.net/problem/14323))
