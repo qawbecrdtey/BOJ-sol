@@ -798,6 +798,8 @@
 
 [5300 Fill the Rowboats!](../problems/acmicpc_5300.cpp) ([링크](https://www.acmicpc.net/problem/5300))
 
+[5342 Billing](../problems/acmicpc_5342.cpp) ([링크](https://www.acmicpc.net/problem/5342))
+
 [5344 GCD](../problems/acmicpc_5344.cpp) ([링크](https://www.acmicpc.net/problem/5344))
 
 [5347 LCM](../problems/acmicpc_5347.cpp) ([링크](https://www.acmicpc.net/problem/5347))
