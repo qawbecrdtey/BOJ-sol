@@ -2040,6 +2040,8 @@
 
 [15988 1, 2, 3 더하기 3](../problems/acmicpc_15988.cpp) ([링크](https://www.acmicpc.net/problem/15988))
 
+[15989 1, 2, 3 더하기 4](../problems/acmicpc_15989.cpp) ([링크](https://www.acmicpc.net/problem/15989))
+
 [15990 1, 2, 3 더하기 5](../problems/acmicpc_15990.cpp) ([링크](https://www.acmicpc.net/problem/15990))
 
 [15991 1, 2, 3 더하기 6](../problems/acmicpc_15991.cpp) ([링크](https://www.acmicpc.net/problem/15991))
