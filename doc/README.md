@@ -752,6 +752,8 @@
 
 [4818 Ropes](../problems/acmicpc_4818.cpp) ([링크](https://www.acmicpc.net/problem/4818))
 
+[4848 집합 숫자 표기법](../problems/acmicpc_4848.cpp) ([링크](https://www.acmicpc.net/problem/4848))
+
 [4850 Baskets of Gold Coins](../problems/acmicpc_4850.cpp) ([링크](https://www.acmicpc.net/problem/4850))
 
 [4864 Gold Coins](../problems/acmicpc_4864.cpp) ([링크](https://www.acmicpc.net/problem/4864))
