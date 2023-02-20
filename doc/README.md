@@ -2330,6 +2330,8 @@
 
 [18301 Rats](../problems/acmicpc_18301.cpp) ([링크](https://www.acmicpc.net/problem/18301))
 
+[18310 안테나](../problems/acmicpc_18310.cpp) ([링크](https://www.acmicpc.net/problem/18310))
+
 [18311 왕복](../problems/acmicpc_18311.cpp) ([링크](https://www.acmicpc.net/problem/18311))
 
 [18312 시각](../problems/acmicpc_18312.cpp) ([링크](https://www.acmicpc.net/problem/18312))
