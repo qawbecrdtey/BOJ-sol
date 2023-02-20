@@ -2068,6 +2068,8 @@
 
 [16204 카드 뽑기](../problems/acmicpc_16204.cpp) ([링크](https://www.acmicpc.net/problem/16204))
 
+[16207 직사각형](../problems/acmicpc_16207.cpp) ([링크](https://www.acmicpc.net/problem/16207))
+
 [16208 귀찮음](../problems/acmicpc_16208.cpp) ([링크](https://www.acmicpc.net/problem/16208))
 
 [16233 수학 문제](../problems/acmicpc_16233.cpp) ([링크](https://www.acmicpc.net/problem/16233))
