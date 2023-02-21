@@ -2150,6 +2150,8 @@
 
 [16877 핌버](../problems/acmicpc_16877.cpp) ([링크](https://www.acmicpc.net/problem/16877))
 
+[16888 루트 게임](../problems/acmicpc_16888.cpp) ([링크](https://www.acmicpc.net/problem/16888))
+
 [16891 탄성 충돌](../problems/acmicpc_16891.cpp) ([링크](https://www.acmicpc.net/problem/16891))
 
 [16894 약수 게임](../problems/acmicpc_16894.cpp) ([링크](https://www.acmicpc.net/problem/16894))
