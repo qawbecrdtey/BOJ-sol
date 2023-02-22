@@ -1168,6 +1168,8 @@
 
 [9784 Boiled Eggs](../problems/acmicpc_9784.cpp) ([링크](https://www.acmicpc.net/problem/9784))
 
+[9791 Encoding Binary Numbers](../problems/acmicpc_9791.cpp) ([링크](https://www.acmicpc.net/problem/9791))
+
 [9847 4SUM](../problems/acmicpc_9847.cpp) ([링크](https://www.acmicpc.net/problem/9847))
 
 [9848 Gift](../problems/acmicpc_9848.cpp) ([링크](https://www.acmicpc.net/problem/9848))
