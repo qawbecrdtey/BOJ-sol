@@ -504,6 +504,8 @@
 
 [2628 종이자르기](../problems/acmicpc_2628.cpp) ([링크](https://www.acmicpc.net/problem/2628))
 
+[2629 양팔저울](../problems/acmicpc_2629.cpp) ([링크](https://www.acmicpc.net/problem/2629))
+
 [2630 색종이 만들기](../problems/acmicpc_2630.cpp) ([링크](https://www.acmicpc.net/problem/2630))
 
 [2631 줄세우기](../problems/acmicpc_2631.cpp) ([링크](https://www.acmicpc.net/problem/2631))
