@@ -1706,6 +1706,8 @@
 
 [13900 순서쌍의 곱의 합](../problems/acmicpc_13900.cpp) ([링크](https://www.acmicpc.net/problem/13900))
 
+[13904 과제](../problems/acmicpc_13904.cpp) ([링크](https://www.acmicpc.net/problem/13904))
+
 [13909 창문 닫기](../problems/acmicpc_13909.cpp) ([링크](https://www.acmicpc.net/problem/13909))
 
 [13913 숨바꼭질 4](../problems/acmicpc_13913.cpp) ([링크](https://www.acmicpc.net/problem/13913))
