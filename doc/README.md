@@ -1006,6 +1006,8 @@
 
 [7891 Can you add this?](../problems/acmicpc_7891.cpp) ([링크](https://www.acmicpc.net/problem/7891))
 
+[7894 큰 수](../problems/acmicpc_7894.cpp) ([링크](https://www.acmicpc.net/problem/7894))
+
 [8016 Insulator](../problems/acmicpc_8016.cpp) ([링크](https://www.acmicpc.net/problem/8016))
 
 [8061 Bitmap](../problems/acmicpc_8061.cpp) ([링크](https://www.acmicpc.net/problem/8061))
