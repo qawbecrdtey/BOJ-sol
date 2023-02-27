@@ -1906,6 +1906,8 @@
 
 [15035 I Work All Day](../problems/acmicpc_15035.cpp) ([링크](https://www.acmicpc.net/problem/15035))
 
+[15036 Just A Minim](../problems/acmicpc_15036.cpp) ([링크](https://www.acmicpc.net/problem/15036))
+
 [15059 Hard choice](../problems/acmicpc_15059.cpp) ([링크](https://www.acmicpc.net/problem/15059))
 
 [15128 Congruent Numbers](../problems/acmicpc_15128.cpp) ([링크](https://www.acmicpc.net/problem/15128))
