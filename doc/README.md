@@ -946,6 +946,8 @@
 
 [6795 Up and Down](../problems/acmicpc_6795.cpp) ([링크](https://www.acmicpc.net/problem/6795))
 
+[6815 Cool Numbers](../problems/acmicpc_6815.cpp) ([링크](https://www.acmicpc.net/problem/6815))
+
 [6884 소수 부분 수열](../problems/acmicpc_6884.cpp) ([링크](https://www.acmicpc.net/problem/6884))
 
 [6916 0123456789](../problems/acmicpc_6916.cpp) ([링크](https://www.acmicpc.net/problem/6916))
