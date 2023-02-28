@@ -2554,6 +2554,8 @@
 
 [21876 Java Bitecode](../problems/acmicpc_21876.cpp) ([링크](https://www.acmicpc.net/problem/21876))
 
+[21880 The Game](../problems/acmicpc_21880.cpp) ([링크](https://www.acmicpc.net/problem/21880))
+
 [21920 서로소 평균](../problems/acmicpc_21920.cpp) ([링크](https://www.acmicpc.net/problem/21920))
 
 [21921 블로그](../problems/acmicpc_21921.cpp) ([링크](https://www.acmicpc.net/problem/21921))
