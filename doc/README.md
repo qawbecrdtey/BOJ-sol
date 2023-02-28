@@ -2796,6 +2796,8 @@
 
 [25421 조건에 맞는 정수의 개수](../problems/acmicpc_25421.cpp) ([링크](https://www.acmicpc.net/problem/25421))
 
+[25487 단순한 문제 (Large)](../problems/acmicpc_25487.cpp) ([링크](https://www.acmicpc.net/problem/25487))
+
 [25494 단순한 문제 (Small)](../problems/acmicpc_25494.cpp) ([링크](https://www.acmicpc.net/problem/25494))
 
 [25501 재귀의 귀재](../problems/acmicpc_25501.cpp) ([링크](https://www.acmicpc.net/problem/25501))
