@@ -1914,6 +1914,8 @@
 
 [15128 Congruent Numbers](../problems/acmicpc_15128.cpp) ([링크](https://www.acmicpc.net/problem/15128))
 
+[15130 Arithmetic Sequences](../problems/acmicpc_15130.cpp) ([링크](https://www.acmicpc.net/problem/15130))
+
 [15151 Incomplete Book](../problems/acmicpc_15151.cpp) ([링크](https://www.acmicpc.net/problem/15151))
 
 [15178 Angles](../problems/acmicpc_15178.cpp) ([링크](https://www.acmicpc.net/problem/15178))
