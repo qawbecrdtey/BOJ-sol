@@ -2538,6 +2538,8 @@
 
 [21603 K 2K 게임](../problems/acmicpc_21603.cpp) ([링크](https://www.acmicpc.net/problem/21603))
 
+[21606 아침 산책](../problems/acmicpc_21606.cpp) ([링크](https://www.acmicpc.net/problem/21606))
+
 [21612 Boiling Water](../problems/acmicpc_21612.cpp) ([링크](https://www.acmicpc.net/problem/21612))
 
 [21613 Silent Auction](../problems/acmicpc_21613.cpp) ([링크](https://www.acmicpc.net/problem/21613))
