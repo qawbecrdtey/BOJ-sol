@@ -524,6 +524,8 @@
 
 [2684 동전 게임](../problems/acmicpc_2684.cpp) ([링크](https://www.acmicpc.net/problem/2684))
 
+[2696 중앙값 구하기](../problems/acmicpc_2696.cpp) ([링크](https://www.acmicpc.net/problem/2696))
+
 [2697 다음수 구하기](../problems/acmicpc_2697.cpp) ([링크](https://www.acmicpc.net/problem/2697))
 
 [2699 격자점 컨벡스헐](../problems/acmicpc_2699.cpp) ([링크](https://www.acmicpc.net/problem/2699))
