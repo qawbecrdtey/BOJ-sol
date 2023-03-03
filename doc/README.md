@@ -3000,6 +3000,8 @@
 
 [27541 末尾の文字 (Last Letter)](../problems/acmicpc_27541.cpp) ([링크](https://www.acmicpc.net/problem/27541))
 
+[27542 絶対階差数列 (Sequence of Absolute Differences)](../problems/acmicpc_27542.cpp) ([링크](https://www.acmicpc.net/problem/27542))
+
 [27563 Moo Operations](../problems/acmicpc_27563.cpp) ([링크](https://www.acmicpc.net/problem/27563))
 
 ## Algorithms
