@@ -98,6 +98,8 @@
 
 [1241 머리 톡톡](../problems/acmicpc_1241.cpp) ([링크](https://www.acmicpc.net/problem/1241))
 
+[1244 스위치 켜고 끄기](../problems/acmicpc_1244.cpp) ([링크](https://www.acmicpc.net/problem/1244))
+
 [1247 부호](../problems/acmicpc_1247.cpp) ([링크](https://www.acmicpc.net/problem/1247))
 
 [1251 단어 나누기](../problems/acmicpc_1251.cpp) ([링크](https://www.acmicpc.net/problem/1251))
