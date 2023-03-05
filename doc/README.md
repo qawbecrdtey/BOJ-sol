@@ -876,6 +876,8 @@
 
 [5958 Space Exploration](../problems/acmicpc_5958.cpp) ([링크](https://www.acmicpc.net/problem/5958))
 
+[6060 Wheel Rotation](../problems/acmicpc_6060.cpp) ([링크](https://www.acmicpc.net/problem/6060))
+
 [6064 카잉 달력](../problems/acmicpc_6064.cpp) ([링크](https://www.acmicpc.net/problem/6064))
 
 [6081 Hay Expenses](../problems/acmicpc_6081.cpp) ([링크](https://www.acmicpc.net/problem/6081))
