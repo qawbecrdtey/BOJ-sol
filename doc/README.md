@@ -828,6 +828,8 @@
 
 [5363 요다](../problems/acmicpc_5363.cpp) ([링크](https://www.acmicpc.net/problem/5363))
 
+[5364 Escape Route](../problems/acmicpc_5364.cpp) ([링크](https://www.acmicpc.net/problem/5364))
+
 [5430 AC](../problems/acmicpc_5430.cpp) ([링크](https://www.acmicpc.net/problem/5430))
 
 [5522 카드 게임](../problems/acmicpc_5522.cpp) ([링크](https://www.acmicpc.net/problem/5522))
