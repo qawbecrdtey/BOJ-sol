@@ -2512,6 +2512,8 @@
 
 [20946 합성인수분해](../problems/acmicpc_20946.cpp) ([링크](https://www.acmicpc.net/problem/20946))
 
+[20953 고고학자 예린](../problems/acmicpc_20953.cpp) ([링크](https://www.acmicpc.net/problem/20953))
+
 [21022 Three Points for a Win](../problems/acmicpc_21022.cpp) ([링크](https://www.acmicpc.net/problem/21022))
 
 [21099 Four XOR](../problems/acmicpc_21099.cpp) ([링크](https://www.acmicpc.net/problem/21099))
