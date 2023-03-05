@@ -636,6 +636,8 @@
 
 [3584 가장 가까운 공통 조상](../problems/acmicpc_3584.cpp) ([링크](https://www.acmicpc.net/problem/3584))
 
+[3602 iChess](../problems/acmicpc_3602.cpp) ([링크](https://www.acmicpc.net/problem/3602))
+
 [3648 아이돌](../problems/acmicpc_3648.cpp) ([링크](https://www.acmicpc.net/problem/3648))
 
 [3711 학번](../problems/acmicpc_3711.cpp) ([링크](https://www.acmicpc.net/problem/3711))
@@ -894,11 +896,11 @@
 
 [6198 옥상 정원 꾸미기](../problems/acmicpc_6198.cpp) ([링크](https://www.acmicpc.net/problem/6198))
 
-[6218 Box of Bricks](../problems/acmicpc_6218.cpp) ([링크](https://www.acmicpc.net/problem/6218))
-
 [6219 소수의 자격](../problems/acmicpc_6219.cpp) ([링크](https://www.acmicpc.net/problem/6219))
 
 [6246 풍선 놀이](../problems/acmicpc_6246.cpp) ([링크](https://www.acmicpc.net/problem/6246))
+
+[6318 Box of Bricks](../problems/acmicpc_6318.cpp) ([링크](https://www.acmicpc.net/problem/6318))
 
 [6321 IBM 빼기 1](../problems/acmicpc_6321.cpp) ([링크](https://www.acmicpc.net/problem/6321))
 
