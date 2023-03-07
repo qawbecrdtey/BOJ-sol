@@ -1176,6 +1176,8 @@
 
 [9772 Quadrants](../problems/acmicpc_9772.cpp) ([링크](https://www.acmicpc.net/problem/9772))
 
+[9773 ID Key](../problems/acmicpc_9773.cpp) ([링크](https://www.acmicpc.net/problem/9773))
+
 [9776 Max Volume](../problems/acmicpc_9776.cpp) ([링크](https://www.acmicpc.net/problem/9776))
 
 [9780 Range Sum Query](../problems/acmicpc_9780.cpp) ([링크](https://www.acmicpc.net/problem/9780))
