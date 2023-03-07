@@ -288,6 +288,8 @@
 
 [1748 수 이어 쓰기 1](../problems/acmicpc_1748.cpp) ([링크](https://www.acmicpc.net/problem/1748))
 
+[1750 서로소의 개수](../problems/acmicpc_1750.cpp) ([링크](https://www.acmicpc.net/problem/1750))
+
 [1756 피자 굽기](../problems/acmicpc_1756.cpp) ([링크](https://www.acmicpc.net/problem/1756))
 
 [1759 암호 만들기](../problems/acmicpc_1759.cpp) ([링크](https://www.acmicpc.net/problem/1759))
@@ -1776,6 +1778,8 @@
 
 [14264 정육각형과 삼각형](../problems/acmicpc_14264.cpp) ([링크](https://www.acmicpc.net/problem/14264))
 
+[14279 두 수의 곱](../problems/acmicpc_14279.cpp) ([링크](https://www.acmicpc.net/problem/14279))
+
 [14284 간선 이어가기 2](../problems/acmicpc_14284.cpp) ([링크](https://www.acmicpc.net/problem/14284))
 
 [14289 본대 산책 3](../problems/acmicpc_14289.cpp) ([링크](https://www.acmicpc.net/problem/14289))
@@ -2709,6 +2713,8 @@
 [24266 알고리즘 수업 - 알고리즘의 수행 시간 5](../problems/acmicpc_24266.cpp) ([링크](https://www.acmicpc.net/problem/24266))
 
 [24267 알고리즘 수업 - 알고리즘의 수행 시간 6](../problems/acmicpc_24267.cpp) ([링크](https://www.acmicpc.net/problem/24267))
+
+[24337 가희와 탑](../problems/acmicpc_24337.cpp) ([링크](https://www.acmicpc.net/problem/24337))
 
 [24348 ИЗРАЗ](../problems/acmicpc_24348.cpp) ([링크](https://www.acmicpc.net/problem/24348))
 
