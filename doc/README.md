@@ -3034,6 +3034,8 @@
 
 [27865 랜덤 게임?](../problems/acmicpc_27865.cpp) ([링크](https://www.acmicpc.net/problem/27865))
 
+[27866 문자와 문자열](../problems/acmicpc_27866.cpp) ([링크](https://www.acmicpc.net/problem/27866))
+
 ## Algorithms
 
 [BFS](BFS.md)
