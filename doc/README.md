@@ -1542,6 +1542,8 @@
 
 [12039 Polynesiaglot (Large)](../problems/acmicpc_12039.cpp) ([링크](https://www.acmicpc.net/problem/12039))
 
+[12048 Sums of Sums (Small)](../problems/acmicpc_12048.cpp) ([링크](https://www.acmicpc.net/problem/12048))
+
 [12074 Googol String (Small)](../problems/acmicpc_12074.cpp) ([링크](https://www.acmicpc.net/problem/12074))
 
 [12174 #include <Google I/O.h>](../problems/acmicpc_12174.cpp) ([링크](https://www.acmicpc.net/problem/12174))
