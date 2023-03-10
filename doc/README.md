@@ -592,6 +592,8 @@
 
 [2986 파스칼](../problems/acmicpc_2986.cpp) ([링크](https://www.acmicpc.net/problem/2986))
 
+[2987 사과나무](../problems/acmicpc_2987.cpp) ([링크](https://www.acmicpc.net/problem/2987))
+
 [2992 크면서 작은 수](../problems/acmicpc_2992.cpp) ([링크](https://www.acmicpc.net/problem/2992))
 
 [3003 킹, 퀸, 룩, 비숍, 나이트, 폰](../problems/acmicpc_3003.cpp) ([링크](https://www.acmicpc.net/problem/3003))
