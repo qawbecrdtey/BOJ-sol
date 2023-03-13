@@ -1238,6 +1238,8 @@
 
 [10227 삶의 질](../problems/acmicpc_10227.cpp) ([링크](https://www.acmicpc.net/problem/10227))
 
+[10228 Memory](../problems/acmicpc_10228.cpp) ([링크](https://www.acmicpc.net/problem/10228))
+
 [10253 헨리](../problems/acmicpc_10253.cpp) ([링크](https://www.acmicpc.net/problem/10253))
 
 [10254 고속도로](../problems/acmicpc_10254.cpp) ([링크](https://www.acmicpc.net/problem/10254))
