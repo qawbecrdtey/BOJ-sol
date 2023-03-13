@@ -2972,6 +2972,8 @@
 
 [26509 Triangle](../problems/acmicpc_26509.cpp) ([링크](https://www.acmicpc.net/problem/26509))
 
+[26512 Complimentary](../problems/acmicpc_26512.cpp) ([링크](https://www.acmicpc.net/problem/26512))
+
 [26516 Mutint](../problems/acmicpc_26516.cpp) ([링크](https://www.acmicpc.net/problem/26516))
 
 [26517 연속인가? ?](../problems/acmicpc_26517.cpp) ([링크](https://www.acmicpc.net/problem/26517))
