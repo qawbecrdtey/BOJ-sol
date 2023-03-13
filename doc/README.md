@@ -3014,6 +3014,8 @@
 
 [26731 Zagubiona litera](../problems/acmicpc_26731.cpp) ([링크](https://www.acmicpc.net/problem/26731))
 
+[26752 Zegarek](../problems/acmicpc_26752.cpp) ([링크](https://www.acmicpc.net/problem/26752))
+
 [26766 Serca](../problems/acmicpc_26766.cpp) ([링크](https://www.acmicpc.net/problem/26766))
 
 [26767 Hurra!](../problems/acmicpc_26767.cpp) ([링크](https://www.acmicpc.net/problem/26767))
