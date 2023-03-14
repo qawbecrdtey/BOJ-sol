@@ -3034,6 +3034,8 @@
 
 [26948 Plankan](../problems/acmicpc_26948.cpp) ([링크](https://www.acmicpc.net/problem/26948))
 
+[27037 The Middle Squares](../problems/acmicpc_27037.cpp) ([링크](https://www.acmicpc.net/problem/27037))
+
 [27101 Metric Matrices](../problems/acmicpc_27101.cpp) ([링크](https://www.acmicpc.net/problem/27101))
 
 [27106 Making Change](../problems/acmicpc_27106.cpp) ([링크](https://www.acmicpc.net/problem/27106))
