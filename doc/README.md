@@ -3056,6 +3056,8 @@
 
 [27708 Antisort](../problems/acmicpc_27708.cpp) ([링크](https://www.acmicpc.net/problem/27708))
 
+[27836 Paradox With Averages](../problems/acmicpc_27836.cpp) ([링크](https://www.acmicpc.net/problem/27836))
+
 [27865 랜덤 게임?](../problems/acmicpc_27865.cpp) ([링크](https://www.acmicpc.net/problem/27865))
 
 [27866 문자와 문자열](../problems/acmicpc_27866.cpp) ([링크](https://www.acmicpc.net/problem/27866))
