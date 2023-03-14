@@ -272,6 +272,8 @@
 
 [1712 손익분기점](../problems/acmicpc_1712.cpp) ([링크](https://www.acmicpc.net/problem/1712))
 
+[1713 후보 추천하기](../problems/acmicpc_1713.cpp) ([링크](https://www.acmicpc.net/problem/1713))
+
 [1715 카드 정렬하기](../problems/acmicpc_1715.cpp) ([링크](https://www.acmicpc.net/problem/1715))
 
 [1718 암호](../problems/acmicpc_1718.cpp) ([링크](https://www.acmicpc.net/problem/1718))
