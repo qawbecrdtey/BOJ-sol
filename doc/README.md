@@ -134,6 +134,8 @@
 
 [1302 베스트셀러](../problems/acmicpc_1302.cpp) ([링크](https://www.acmicpc.net/problem/1302))
 
+[1303 전쟁 - 전투](../problems/acmicpc_1303.cpp) ([링크](https://www.acmicpc.net/problem/1303))
+
 [1306 달려라 홍준](../problems/acmicpc_1306.cpp) ([링크](https://www.acmicpc.net/problem/1306))
 
 [1312 소수](../problems/acmicpc_1312.cpp) ([링크](https://www.acmicpc.net/problem/1312))
