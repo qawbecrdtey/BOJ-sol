@@ -78,6 +78,8 @@
 
 [1188 음식 평론가](../problems/acmicpc_1188.cpp) ([링크](https://www.acmicpc.net/problem/1188))
 
+[1189 컴백홈](../problems/acmicpc_1189.cpp) ([링크](https://www.acmicpc.net/problem/1189))
+
 [1199 오일러 회로](../problems/acmicpc_1199.cpp) ([링크](https://www.acmicpc.net/problem/1199))
 
 [1202 보석 도둑](../problems/acmicpc_1202.cpp) ([링크](https://www.acmicpc.net/problem/1202))
