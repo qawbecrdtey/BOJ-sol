@@ -1924,6 +1924,8 @@
 
 [14922 부분평균](../problems/acmicpc_14922.cpp) ([링크](https://www.acmicpc.net/problem/14922))
 
+[14926 Not Equal](../problems/acmicpc_14926.cpp) ([링크](https://www.acmicpc.net/problem/14926))
+
 [14927 전구 끄기](../problems/acmicpc_14927.cpp) ([링크](https://www.acmicpc.net/problem/14927))
 
 [14931 물수제비 (SUJEBI)](../problems/acmicpc_14931.cpp) ([링크](https://www.acmicpc.net/problem/14931))
