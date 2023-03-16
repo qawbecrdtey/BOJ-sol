@@ -3008,6 +3008,8 @@
 
 [26547 Square](../problems/acmicpc_26547.cpp) ([링크](https://www.acmicpc.net/problem/26547))
 
+[26549 Holes](../problems/acmicpc_26549.cpp) ([링크](https://www.acmicpc.net/problem/26549))
+
 [26548 Quadratics](../problems/acmicpc_26548.cpp) ([링크](https://www.acmicpc.net/problem/26548))
 
 [26552 Zero](../problems/acmicpc_26552.cpp) ([링크](https://www.acmicpc.net/problem/26552))
