@@ -3072,6 +3072,8 @@
 
 [27563 Moo Operations](../problems/acmicpc_27563.cpp) ([링크](https://www.acmicpc.net/problem/27563))
 
+[27627 Splitology](../problems/acmicpc_27627.cpp) ([링크](https://www.acmicpc.net/problem/27627))
+
 [27648 증가 배열 만들기](../problems/acmicpc_27648.cpp) ([링크](https://www.acmicpc.net/problem/27648))
 
 [27708 Antisort](../problems/acmicpc_27708.cpp) ([링크](https://www.acmicpc.net/problem/27708))
