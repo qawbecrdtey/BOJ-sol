@@ -1760,6 +1760,8 @@
 
 [14003 가장 긴 증가하는 부분 수열 5](../problems/acmicpc_14003.cpp) ([링크](https://www.acmicpc.net/problem/14003))
 
+[14004 ICPC](../problems/acmicpc_14004.cpp) ([링크](https://www.acmicpc.net/problem/14004))
+
 [14013 Unit Conversion](../problems/acmicpc_14013.cpp) ([링크](https://www.acmicpc.net/problem/14013))
 
 [14039 Magic Squares](../problems/acmicpc_14039.cpp) ([링크](https://www.acmicpc.net/problem/14039))
