@@ -3066,6 +3066,8 @@
 
 [27389 Metronome](../problems/acmicpc_27389.cpp) ([링크](https://www.acmicpc.net/problem/27389))
 
+[27481 Hotelier](../problems/acmicpc_27481.cpp) ([링크](https://www.acmicpc.net/problem/27481))
+
 [27541 末尾の文字 (Last Letter)](../problems/acmicpc_27541.cpp) ([링크](https://www.acmicpc.net/problem/27541))
 
 [27542 絶対階差数列 (Sequence of Absolute Differences)](../problems/acmicpc_27542.cpp) ([링크](https://www.acmicpc.net/problem/27542))
