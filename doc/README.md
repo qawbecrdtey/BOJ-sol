@@ -2856,6 +2856,8 @@
 
 [25375 아주 간단한 문제](../problems/acmicpc_25375.cpp) ([링크](https://www.acmicpc.net/problem/25375))
 
+[25416 빠른 숫자 탐색](../problems/acmicpc_25416.cpp) ([링크](https://www.acmicpc.net/problem/25416))
+
 [25418 정수 a를 k로 만들기](../problems/acmicpc_25418.cpp) ([링크](https://www.acmicpc.net/problem/25418))
 
 [25421 조건에 맞는 정수의 개수](../problems/acmicpc_25421.cpp) ([링크](https://www.acmicpc.net/problem/25421))
