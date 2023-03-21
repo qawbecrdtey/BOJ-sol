@@ -2598,6 +2598,8 @@
 
 [21631 Checkers](../problems/acmicpc_21631.cpp) ([링크](https://www.acmicpc.net/problem/21631))
 
+[21633 Bank Transfer](../problems/acmicpc_21633.cpp) ([링크](https://www.acmicpc.net/problem/21633))
+
 [21734 SMUPC의 등장](../problems/acmicpc_21734.cpp) ([링크](https://www.acmicpc.net/problem/21734))
 
 [21736 헌내기는 친구가 필요해](../problems/acmicpc_21736.cpp) ([링크](https://www.acmicpc.net/problem/21736))
