@@ -2420,6 +2420,8 @@
 
 [18410 マージ (Merge)](../problems/acmicpc_18410.cpp) ([링크](https://www.acmicpc.net/problem/18410))
 
+[18412 文字列の反転 (Inversion of a String)](../problems/acmicpc_18412.cpp) ([링크](https://www.acmicpc.net/problem/18412))
+
 [18414 X に最も近い値 (The Nearest Value)](../problems/acmicpc_18414.cpp) ([링크](https://www.acmicpc.net/problem/18414))
 
 [18422 Emacs](../problems/acmicpc_18422.cpp) ([링크](https://www.acmicpc.net/problem/18422))
