@@ -2474,6 +2474,8 @@
 
 [19942 다이어트](../problems/acmicpc_19942.cpp) ([링크](https://www.acmicpc.net/problem/19942))
 
+[19944 뉴비의 기준은 뭘까?](../problems/acmicpc_19944.cpp) ([링크](https://www.acmicpc.net/problem/19944))
+
 [19945 새로운 언어 CC](../problems/acmicpc_19945.cpp) ([링크](https://www.acmicpc.net/problem/19945))
 
 [19947 투자의 귀재 배주형](../problems/acmicpc_19947.cpp) ([링크](https://www.acmicpc.net/problem/19947))
