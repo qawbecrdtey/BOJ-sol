@@ -1696,6 +1696,8 @@
 
 [13419 탕수육](../problems/acmicpc_13419.cpp) ([링크](https://www.acmicpc.net/problem/13419))
 
+[13423 Three Dots](../problems/acmicpc_13423.cpp) ([링크](https://www.acmicpc.net/problem/13423))
+
 [13424 비밀 모임](../problems/acmicpc_13424.cpp) ([링크](https://www.acmicpc.net/problem/13424))
 
 [13430 합 구하기](../problems/acmicpc_13430.cpp) ([링크](https://www.acmicpc.net/problem/13430))
