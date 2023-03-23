@@ -1208,6 +1208,8 @@
 
 [9848 Gift](../problems/acmicpc_9848.cpp) ([링크](https://www.acmicpc.net/problem/9848))
 
+[9849 Rect](../problems/acmicpc_9849.cpp) ([링크](https://www.acmicpc.net/problem/9849))
+
 [9884 Euclid](../problems/acmicpc_9884.cpp) ([링크](https://www.acmicpc.net/problem/9884))
 
 [9891 Rect](../problems/acmicpc_9891.cpp) ([링크](https://www.acmicpc.net/problem/9891))
