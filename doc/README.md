@@ -1496,6 +1496,8 @@
 
 [11576 Base Conversion](../problems/acmicpc_11576.cpp) ([링크](https://www.acmicpc.net/problem/11576))
 
+[11596 Triangle](../problems/acmicpc_11596.cpp) ([링크](https://www.acmicpc.net/problem/11596))
+
 [11608 Complexity](../problems/acmicpc_11608.cpp) ([링크](https://www.acmicpc.net/problem/11608))
 
 [11609 Class Time](../problems/acmicpc_11609.cpp) ([링크](https://www.acmicpc.net/problem/11609))
