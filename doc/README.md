@@ -2320,6 +2320,8 @@
 
 [17412 도시 왕복하기 1](../problems/acmicpc_17412.cpp) ([링크](https://www.acmicpc.net/problem/17412))
 
+[17413 단어 뒤집기 2](../problems/acmicpc_17413.cpp) ([링크](https://www.acmicpc.net/problem/17413))
+
 [17425 약수의 합](../problems/acmicpc_17425.cpp) ([링크](https://www.acmicpc.net/problem/17425))
 
 [17427 약수의 합 2](../problems/acmicpc_17427.cpp) ([링크](https://www.acmicpc.net/problem/17427))
