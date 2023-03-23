@@ -2884,6 +2884,8 @@
 
 [25501 재귀의 귀재](../problems/acmicpc_25501.cpp) ([링크](https://www.acmicpc.net/problem/25501))
 
+[25512 트리를 간단하게 색칠하는 최소 비용](../problems/acmicpc_25512.cpp) ([링크](https://www.acmicpc.net/problem/25512))
+
 [25516 거리가 k이하인 트리 노드에서 사과 수확하기](../problems/acmicpc_25516.cpp) ([링크](https://www.acmicpc.net/problem/25516))
 
 [25527 Counting Peaks of Infection](../problems/acmicpc_25527.cpp) ([링크](https://www.acmicpc.net/problem/25527))
