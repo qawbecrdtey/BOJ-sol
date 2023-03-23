@@ -198,6 +198,8 @@
 
 [1484 다이어트](../problems/acmicpc_1484.cpp) ([링크](https://www.acmicpc.net/problem/1484))
 
+[1485 정사각형](../problems/acmicpc_1485.cpp) ([링크](https://www.acmicpc.net/problem/1485))
+
 [1500 최대 곱](../problems/acmicpc_1500.cpp) ([링크](https://www.acmicpc.net/problem/1500))
 
 [1504 특정한 최단 경로](../problems/acmicpc_1504.cpp) ([링크](https://www.acmicpc.net/problem/1504))
