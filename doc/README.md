@@ -2198,6 +2198,8 @@
 
 [16561 3의 배수](../problems/acmicpc_16561.cpp) ([링크](https://www.acmicpc.net/problem/16561))
 
+[16562 친구비](../problems/acmicpc_16562.cpp) ([링크](https://www.acmicpc.net/problem/16562))
+
 [16563 어려운 소인수분해](../problems/acmicpc_16563.cpp) ([링크](https://www.acmicpc.net/problem/16563))
 
 [16600 Contemporary Art](../problems/acmicpc_16600.cpp) ([링크](https://www.acmicpc.net/problem/16600))
