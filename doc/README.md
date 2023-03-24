@@ -3116,6 +3116,8 @@
 
 [27648 증가 배열 만들기](../problems/acmicpc_27648.cpp) ([링크](https://www.acmicpc.net/problem/27648))
 
+[27694 Knee problems (Easy)](../problems/acmicpc_27694.cpp) ([링크](https://www.acmicpc.net/problem/27694))
+
 [27708 Antisort](../problems/acmicpc_27708.cpp) ([링크](https://www.acmicpc.net/problem/27708))
 
 [27836 Paradox With Averages](../problems/acmicpc_27836.cpp) ([링크](https://www.acmicpc.net/problem/27836))
