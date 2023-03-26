@@ -2742,6 +2742,8 @@
 
 [23825 SASA 모형을 만들어보자](../problems/acmicpc_23825.cpp) ([링크](https://www.acmicpc.net/problem/23825))
 
+[23827 수열 (Easy)](../problems/acmicpc_23827.cpp) ([링크](https://www.acmicpc.net/problem/23827))
+
 [23832 서로소 그래프](../problems/acmicpc_23832.cpp) ([링크](https://www.acmicpc.net/problem/23832))
 
 [23881 알고리즘 수업 - 선택 정렬 1](../problems/acmicpc_23881.cpp) ([링크](https://www.acmicpc.net/problem/23881))
