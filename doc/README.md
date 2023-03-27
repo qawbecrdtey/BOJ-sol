@@ -3118,6 +3118,8 @@
 
 [27563 Moo Operations](../problems/acmicpc_27563.cpp) ([링크](https://www.acmicpc.net/problem/27563))
 
+[27622 Suspicious Event](../problems/acmicpc_27622.cpp) ([링크](https://www.acmicpc.net/problem/27622))
+
 [27627 Splitology](../problems/acmicpc_27627.cpp) ([링크](https://www.acmicpc.net/problem/27627))
 
 [27648 증가 배열 만들기](../problems/acmicpc_27648.cpp) ([링크](https://www.acmicpc.net/problem/27648))
