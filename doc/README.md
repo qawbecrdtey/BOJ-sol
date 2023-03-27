@@ -3132,6 +3132,8 @@
 
 [27866 문자와 문자열](../problems/acmicpc_27866.cpp) ([링크](https://www.acmicpc.net/problem/27866))
 
+[27913 SciComLove (2023)](../problems/acmicpc_27913.cpp) ([링크](https://www.acmicpc.net/problem/27913))
+
 [27918 탁구 경기](../problems/acmicpc_27918.cpp) ([링크](https://www.acmicpc.net/problem/27918))
 
 ## Algorithms
