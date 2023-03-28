@@ -1260,6 +1260,8 @@
 
 [10270 Algebraic Teamwork](../problems/acmicpc_10270.cpp) ([링크](https://www.acmicpc.net/problem/10270))
 
+[10280 Pizza voting](../problems/acmicpc_10280.cpp) ([링크](https://www.acmicpc.net/problem/10280))
+
 [10357 Triples](../problems/acmicpc_10357.cpp) ([링크](https://www.acmicpc.net/problem/10357))
 
 [10372 Alarm Clock](../problems/acmicpc_10372.cpp) ([링크](https://www.acmicpc.net/problem/10372))
