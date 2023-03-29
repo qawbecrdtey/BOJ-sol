@@ -1292,6 +1292,8 @@
 
 [10546 배부른 마라토너](../problems/acmicpc_10546.cpp) ([링크](https://www.acmicpc.net/problem/10546))
 
+[10552 DOM](../problems/acmicpc_10552.cpp) ([링크](https://www.acmicpc.net/problem/10552))
+
 [10569 다면체](../problems/acmicpc_10569.cpp) ([링크](https://www.acmicpc.net/problem/10569))
 
 [10570 Favorite Number](../problems/acmicpc_10570.cpp) ([링크](https://www.acmicpc.net/problem/10570))
