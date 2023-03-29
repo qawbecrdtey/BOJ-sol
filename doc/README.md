@@ -1634,6 +1634,8 @@
 
 [12927 배수 스위치](../problems/acmicpc_12927.cpp) ([링크](https://www.acmicpc.net/problem/12927))
 
+[12933 오리](../problems/acmicpc_12933.cpp) ([링크](https://www.acmicpc.net/problem/12933))
+
 [12944 재미있는 숫자 놀이](../problems/acmicpc_12944.cpp) ([링크](https://www.acmicpc.net/problem/12944))
 
 [12987 Matrix Again](../problems/acmicpc_12987.cpp) ([링크](https://www.acmicpc.net/problem/12987))
