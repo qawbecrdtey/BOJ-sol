@@ -974,6 +974,8 @@
 
 [6884 소수 부분 수열](../problems/acmicpc_6884.cpp) ([링크](https://www.acmicpc.net/problem/6884))
 
+[6888 Terms of Office](../problems/acmicpc_6888.cpp) ([링크](https://www.acmicpc.net/problem/6888))
+
 [6916 0123456789](../problems/acmicpc_6916.cpp) ([링크](https://www.acmicpc.net/problem/6916))
 
 [6930 Mod Inverse](../problems/acmicpc_6930.cpp) ([링크](https://www.acmicpc.net/problem/6930))
