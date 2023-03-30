@@ -1172,6 +1172,8 @@
 
 [9661 돌 게임 7](../problems/acmicpc_9661.cpp) ([링크](https://www.acmicpc.net/problem/9661))
 
+[9693 시파르](../problems/acmicpc_9693.cpp) ([링크](https://www.acmicpc.net/problem/9693))
+
 [9699 RICE SACK](../problems/acmicpc_9699.cpp) ([링크](https://www.acmicpc.net/problem/9699))
 
 [9711 피보나치](../problems/acmicpc_9711.cpp) ([링크](https://www.acmicpc.net/problem/9711))
