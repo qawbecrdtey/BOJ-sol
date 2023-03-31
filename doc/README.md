@@ -674,6 +674,8 @@
 
 [3955 캔디 분배](../problems/acmicpc_3955.cpp) ([링크](https://www.acmicpc.net/problem/3955))
 
+[3985 롤 케이크](../problems/acmicpc_3985.cpp) ([링크](https://www.acmicpc.net/problem/3985))
+
 [3986 좋은 단어](../problems/acmicpc_3986.cpp) ([링크](https://www.acmicpc.net/problem/3986))
 
 [4072 Words](../problems/acmicpc_4072.cpp) ([링크](https://www.acmicpc.net/problem/4072))
