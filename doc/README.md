@@ -896,6 +896,8 @@
 
 [5958 Space Exploration](../problems/acmicpc_5958.cpp) ([링크](https://www.acmicpc.net/problem/5958))
 
+[6041 MasterMind](../problems/acmicpc_6041.cpp) ([링크](https://www.acmicpc.net/problem/6041))
+
 [6060 Wheel Rotation](../problems/acmicpc_6060.cpp) ([링크](https://www.acmicpc.net/problem/6060))
 
 [6064 카잉 달력](../problems/acmicpc_6064.cpp) ([링크](https://www.acmicpc.net/problem/6064))
