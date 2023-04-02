@@ -3128,6 +3128,8 @@
 
 [27194 Meeting Near the Fountain](../problems/acmicpc_27194.cpp) ([링크](https://www.acmicpc.net/problem/27194))
 
+[27213 Граничные клетки](../problems/acmicpc_27213.cpp) ([링크](https://www.acmicpc.net/problem/27213))
+
 [27245 Комната](../problems/acmicpc_27245.cpp) ([링크](https://www.acmicpc.net/problem/27245))
 
 [27257 Любитель нулей](../problems/acmicpc_27257.cpp) ([링크](https://www.acmicpc.net/problem/27257))
