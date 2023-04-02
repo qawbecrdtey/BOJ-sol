@@ -674,6 +674,8 @@
 
 [3955 캔디 분배](../problems/acmicpc_3955.cpp) ([링크](https://www.acmicpc.net/problem/3955))
 
+[3985 롤 케이크](../problems/acmicpc_3985.cpp) ([링크](https://www.acmicpc.net/problem/3985))
+
 [3986 좋은 단어](../problems/acmicpc_3986.cpp) ([링크](https://www.acmicpc.net/problem/3986))
 
 [4072 Words](../problems/acmicpc_4072.cpp) ([링크](https://www.acmicpc.net/problem/4072))
@@ -894,6 +896,8 @@
 
 [5958 Space Exploration](../problems/acmicpc_5958.cpp) ([링크](https://www.acmicpc.net/problem/5958))
 
+[6041 MasterMind](../problems/acmicpc_6041.cpp) ([링크](https://www.acmicpc.net/problem/6041))
+
 [6060 Wheel Rotation](../problems/acmicpc_6060.cpp) ([링크](https://www.acmicpc.net/problem/6060))
 
 [6064 카잉 달력](../problems/acmicpc_6064.cpp) ([링크](https://www.acmicpc.net/problem/6064))
@@ -937,6 +941,8 @@
 [6502 동혁 피자](../problems/acmicpc_6502.cpp) ([링크](https://www.acmicpc.net/problem/6502))
 
 [6549 히스토그램에서 가장 큰 직사각형](../problems/acmicpc_6549.cpp) ([링크](https://www.acmicpc.net/problem/6549))
+
+[6550 부분 문자열](../problems/acmicpc_6550.cpp) ([링크](https://www.acmicpc.net/problem/6550))
 
 [6556 Paths on a Grid](../problems/acmicpc_6556.cpp) ([링크](https://www.acmicpc.net/problem/6556))
 
@@ -1125,6 +1131,8 @@
 [9300 Where’s the Rainbow](../problems/acmicpc_9300.cpp) ([링크](https://www.acmicpc.net/problem/9300))
 
 [9310 Arithmetic and Geometric Sums](../problems/acmicpc_9310.cpp) ([링크](https://www.acmicpc.net/problem/9310))
+
+[9324 진짜 메시지](../problems/acmicpc_9324.cpp) ([링크](https://www.acmicpc.net/problem/9324))
 
 [9358 순열 접기 게임](../problems/acmicpc_9358.cpp) ([링크](https://www.acmicpc.net/problem/9358))
 
@@ -1899,6 +1907,8 @@
 [14675 단절점과 단절선](../problems/acmicpc_14675.cpp) ([링크](https://www.acmicpc.net/problem/14675))
 
 [14682 Shifty Sum](../problems/acmicpc_14682.cpp) ([링크](https://www.acmicpc.net/problem/14682))
+
+[14696 딱지놀이](../problems/acmicpc_14696.cpp) ([링크](https://www.acmicpc.net/problem/14696))
 
 [14698 전생했더니 슬라임 연구자였던 건에 대하여 (Hard)](../problems/acmicpc_14698.cpp) ([링크](https://www.acmicpc.net/problem/14698))
 
@@ -3119,6 +3129,8 @@
 [27194 Meeting Near the Fountain](../problems/acmicpc_27194.cpp) ([링크](https://www.acmicpc.net/problem/27194))
 
 [27245 Комната](../problems/acmicpc_27245.cpp) ([링크](https://www.acmicpc.net/problem/27245))
+
+[27257 Любитель нулей](../problems/acmicpc_27257.cpp) ([링크](https://www.acmicpc.net/problem/27257))
 
 [27294 몇개고?](../problems/acmicpc_27294.cpp) ([링크](https://www.acmicpc.net/problem/27294))
 
