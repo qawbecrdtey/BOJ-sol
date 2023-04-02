@@ -3132,6 +3132,8 @@
 
 [27257 Любитель нулей](../problems/acmicpc_27257.cpp) ([링크](https://www.acmicpc.net/problem/27257))
 
+[27262 Лифт](../problems/acmicpc_27262.cpp) ([링크](https://www.acmicpc.net/problem/27262))
+
 [27294 몇개고?](../problems/acmicpc_27294.cpp) ([링크](https://www.acmicpc.net/problem/27294))
 
 [27310 :chino_shock:](../problems/acmicpc_27310.cpp) ([링크](https://www.acmicpc.net/problem/27310))
