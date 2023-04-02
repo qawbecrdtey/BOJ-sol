@@ -3118,6 +3118,8 @@
 
 [27194 Meeting Near the Fountain](../problems/acmicpc_27194.cpp) ([링크](https://www.acmicpc.net/problem/27194))
 
+[27245 Комната](../problems/acmicpc_27245.cpp) ([링크](https://www.acmicpc.net/problem/27245))
+
 [27294 몇개고?](../problems/acmicpc_27294.cpp) ([링크](https://www.acmicpc.net/problem/27294))
 
 [27310 :chino_shock:](../problems/acmicpc_27310.cpp) ([링크](https://www.acmicpc.net/problem/27310))
