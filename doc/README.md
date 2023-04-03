@@ -3102,6 +3102,8 @@
 
 [26731 Zagubiona litera](../problems/acmicpc_26731.cpp) ([링크](https://www.acmicpc.net/problem/26731))
 
+[26742 Skarpetki](../problems/acmicpc_26742.cpp) ([링크](https://www.acmicpc.net/problem/26742))
+
 [26752 Zegarek](../problems/acmicpc_26752.cpp) ([링크](https://www.acmicpc.net/problem/26752))
 
 [26766 Serca](../problems/acmicpc_26766.cpp) ([링크](https://www.acmicpc.net/problem/26766))
