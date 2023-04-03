@@ -980,6 +980,8 @@
 
 [6884 소수 부분 수열](../problems/acmicpc_6884.cpp) ([링크](https://www.acmicpc.net/problem/6884))
 
+[6887 Squares](../problems/acmicpc_6887.cpp) ([링크](https://www.acmicpc.net/problem/6887))
+
 [6888 Terms of Office](../problems/acmicpc_6888.cpp) ([링크](https://www.acmicpc.net/problem/6888))
 
 [6916 0123456789](../problems/acmicpc_6916.cpp) ([링크](https://www.acmicpc.net/problem/6916))
