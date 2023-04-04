@@ -3180,6 +3180,8 @@
 
 [27918 탁구 경기](../problems/acmicpc_27918.cpp) ([링크](https://www.acmicpc.net/problem/27918))
 
+[27930 당신은 운명을 믿나요?](../problems/acmicpc_27930.cpp) ([링크](https://www.acmicpc.net/problem/27930))
+
 ## Algorithms
 
 [BFS](BFS.md)
