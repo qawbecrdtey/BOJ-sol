@@ -1562,6 +1562,8 @@
 
 [11896 다각형](../problems/acmicpc_11896.cpp) ([링크](https://www.acmicpc.net/problem/11896))
 
+[11908 카드](../problems/acmicpc_11908.cpp) ([링크](https://www.acmicpc.net/problem/11908))
+
 [11931 8진수](../problems/acmicpc_11931.cpp) ([링크](https://www.acmicpc.net/problem/11931))
 
 [11948 과목선택](../problems/acmicpc_11948.cpp) ([링크](https://www.acmicpc.net/problem/11948))
