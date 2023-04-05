@@ -1214,6 +1214,8 @@
 
 [9780 Range Sum Query](../problems/acmicpc_9780.cpp) ([링크](https://www.acmicpc.net/problem/9780))
 
+[9782 Median](../problems/acmicpc_9782.cpp) ([링크](https://www.acmicpc.net/problem/9782))
+
 [9783 Easy Encryption](../problems/acmicpc_9783.cpp) ([링크](https://www.acmicpc.net/problem/9783))
 
 [9784 Boiled Eggs](../problems/acmicpc_9784.cpp) ([링크](https://www.acmicpc.net/problem/9784))
