@@ -2592,6 +2592,8 @@
 
 [20310 타노스](../problems/acmicpc_20310.cpp) ([링크](https://www.acmicpc.net/problem/20310))
 
+[20332 Divvying Up](../problems/acmicpc_20332.cpp) ([링크](https://www.acmicpc.net/problem/20332))
+
 [20352 Circus](../problems/acmicpc_20352.cpp) ([링크](https://www.acmicpc.net/problem/20352))
 
 [20353 Atrium](../problems/acmicpc_20353.cpp) ([링크](https://www.acmicpc.net/problem/20353))
