@@ -1130,6 +1130,8 @@
 
 [9291 스도쿠 채점](../problems/acmicpc_9291.cpp) ([링크](https://www.acmicpc.net/problem/9291))
 
+[9297 Reducing Improper Fractions](../problems/acmicpc_9297.cpp) ([링크](https://www.acmicpc.net/problem/9297))
+
 [9299 Math Tutoring](../problems/acmicpc_9299.cpp) ([링크](https://www.acmicpc.net/problem/9299))
 
 [9300 Where’s the Rainbow](../problems/acmicpc_9300.cpp) ([링크](https://www.acmicpc.net/problem/9300))
