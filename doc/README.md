@@ -2616,6 +2616,8 @@
 
 [21022 Three Points for a Win](../problems/acmicpc_21022.cpp) ([링크](https://www.acmicpc.net/problem/21022))
 
+[21032 Odd GCD Matching](../problems/acmicpc_21032.cpp) ([링크](https://www.acmicpc.net/problem/21032))
+
 [21035 Simple Operations in Matrix](../problems/acmicpc_21035.cpp) ([링크](https://www.acmicpc.net/problem/21035))
 
 [21099 Four XOR](../problems/acmicpc_21099.cpp) ([링크](https://www.acmicpc.net/problem/21099))
