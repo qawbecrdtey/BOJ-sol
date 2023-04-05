@@ -3104,6 +3104,8 @@
 
 [26564 Poker Hand](../problems/acmicpc_26564.cpp) ([링크](https://www.acmicpc.net/problem/26564))
 
+[26570 Semiperfect](../problems/acmicpc_26570.cpp) ([링크](https://www.acmicpc.net/problem/26570))
+
 [26575 Pups](../problems/acmicpc_26575.cpp) ([링크](https://www.acmicpc.net/problem/26575))
 
 [26590 Word Mix](../problems/acmicpc_26590.cpp) ([링크](https://www.acmicpc.net/problem/26590))
