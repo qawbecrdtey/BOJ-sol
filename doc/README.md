@@ -2810,6 +2810,8 @@
 
 [24267 알고리즘 수업 - 알고리즘의 수행 시간 6](../problems/acmicpc_24267.cpp) ([링크](https://www.acmicpc.net/problem/24267))
 
+[24313 알고리즘 수업 - 점근적 표기 1](../problems/acmicpc_24313.cpp) ([링크](https://www.acmicpc.net/problem/24313))
+
 [24337 가희와 탑](../problems/acmicpc_24337.cpp) ([링크](https://www.acmicpc.net/problem/24337))
 
 [24348 ИЗРАЗ](../problems/acmicpc_24348.cpp) ([링크](https://www.acmicpc.net/problem/24348))
