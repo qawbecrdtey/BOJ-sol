@@ -1924,6 +1924,8 @@
 
 [14682 Shifty Sum](../problems/acmicpc_14682.cpp) ([링크](https://www.acmicpc.net/problem/14682))
 
+[14683 Exactly Electrical](../problems/acmicpc_14683.cpp) ([링크](https://www.acmicpc.net/problem/14683))
+
 [14696 딱지놀이](../problems/acmicpc_14696.cpp) ([링크](https://www.acmicpc.net/problem/14696))
 
 [14698 전생했더니 슬라임 연구자였던 건에 대하여 (Hard)](../problems/acmicpc_14698.cpp) ([링크](https://www.acmicpc.net/problem/14698))
