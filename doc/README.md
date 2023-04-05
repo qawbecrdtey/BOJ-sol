@@ -2790,6 +2790,8 @@
 
 [23972 악마의 제안](../problems/acmicpc_23972.cpp) ([링크](https://www.acmicpc.net/problem/23972))
 
+[23977 To Find Password](../problems/acmicpc_23977.cpp) ([링크](https://www.acmicpc.net/problem/23977))
+
 [24009 Huge Numbers](../problems/acmicpc_24009.cpp) ([링크](https://www.acmicpc.net/problem/24009))
 
 [24040 예쁜 케이크](../problems/acmicpc_24040.cpp) ([링크](https://www.acmicpc.net/problem/24040))
