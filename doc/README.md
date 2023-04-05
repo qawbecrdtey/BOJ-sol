@@ -2684,6 +2684,8 @@
 
 [22113 창영이와 버스](../problems/acmicpc_22113.cpp) ([링크](https://www.acmicpc.net/problem/22113))
 
+[22155 Простая задача](../problems/acmicpc_22155.cpp) ([링크](https://www.acmicpc.net/problem/22155))
+
 [22341 사각형 면적](../problems/acmicpc_22341.cpp) ([링크](https://www.acmicpc.net/problem/22341))
 
 [22357 경품 추첨](../problems/acmicpc_22357.cpp) ([링크](https://www.acmicpc.net/problem/22357))
