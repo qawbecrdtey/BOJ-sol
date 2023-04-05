@@ -3060,6 +3060,8 @@
 
 [26057 Большой удой](../problems/acmicpc_26057.cpp) ([링크](https://www.acmicpc.net/problem/26057))
 
+[26069 붙임성 좋은 총총이](../problems/acmicpc_26069.cpp) ([링크](https://www.acmicpc.net/problem/26069))
+
 [26072 곰곰이와 시소](../problems/acmicpc_26072.cpp) ([링크](https://www.acmicpc.net/problem/26072))
 
 [26082 WARBOY](../problems/acmicpc_26082.cpp) ([링크](https://www.acmicpc.net/problem/26082))
