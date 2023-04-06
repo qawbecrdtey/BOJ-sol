@@ -976,6 +976,8 @@
 
 [6795 Up and Down](../problems/acmicpc_6795.cpp) ([링크](https://www.acmicpc.net/problem/6795))
 
+[6810 ISBN](../problems/acmicpc_6810.cpp) ([링크](https://www.acmicpc.net/problem/6810))
+
 [6815 Cool Numbers](../problems/acmicpc_6815.cpp) ([링크](https://www.acmicpc.net/problem/6815))
 
 [6830 It’s Cold Here!](../problems/acmicpc_6830.cpp) ([링크](https://www.acmicpc.net/problem/6830))
