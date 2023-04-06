@@ -2526,6 +2526,8 @@
 
 [19602 Dog Treats](../problems/acmicpc_19602.cpp) ([링크](https://www.acmicpc.net/problem/19602))
 
+[19637 IF문 좀 대신 써줘](../problems/acmicpc_19637.cpp) ([링크](https://www.acmicpc.net/problem/19637))
+
 [19698 헛간 청약](../problems/acmicpc_19698.cpp) ([링크](https://www.acmicpc.net/problem/19698))
 
 [19699 소-난다!](../problems/acmicpc_19699.cpp) ([링크](https://www.acmicpc.net/problem/19699))
