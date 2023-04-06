@@ -1200,6 +1200,8 @@
 
 [9724 Perfect Cube](../problems/acmicpc_9724.cpp) ([링크](https://www.acmicpc.net/problem/9724))
 
+[9733 꿀벌](../problems/acmicpc_9733.cpp) ([링크](https://www.acmicpc.net/problem/9733))
+
 [9735 삼차 방정식 풀기](../problems/acmicpc_9735.cpp) ([링크](https://www.acmicpc.net/problem/9735))
 
 [9753 짝 곱](../problems/acmicpc_9753.cpp) ([링크](https://www.acmicpc.net/problem/9753))
@@ -3227,6 +3229,8 @@
 [27918 탁구 경기](../problems/acmicpc_27918.cpp) ([링크](https://www.acmicpc.net/problem/27918))
 
 [27930 당신은 운명을 믿나요?](../problems/acmicpc_27930.cpp) ([링크](https://www.acmicpc.net/problem/27930))
+
+[27931 Parity Constraint Closest Pair (Easy)](../problems/acmicpc_27931.cpp) ([링크](https://www.acmicpc.net/problem/27931))
 
 ## Algorithms
 
