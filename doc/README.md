@@ -830,6 +830,8 @@
 
 [5347 LCM](../problems/acmicpc_5347.cpp) ([링크](https://www.acmicpc.net/problem/5347))
 
+[5352 Coin Collection](../problems/acmicpc_5352.cpp) ([링크](https://www.acmicpc.net/problem/5352))
+
 [5354 J박스](../problems/acmicpc_5354.cpp) ([링크](https://www.acmicpc.net/problem/5354))
 
 [5355 화성 수학](../problems/acmicpc_5355.cpp) ([링크](https://www.acmicpc.net/problem/5355))
