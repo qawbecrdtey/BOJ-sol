@@ -2010,6 +2010,8 @@
 
 [15098 No Duplicates](../problems/acmicpc_15098.cpp) ([링크](https://www.acmicpc.net/problem/15098))
 
+[15122 Forbidden Zero](../problems/acmicpc_15122.cpp) ([링크](https://www.acmicpc.net/problem/15122))
+
 [15128 Congruent Numbers](../problems/acmicpc_15128.cpp) ([링크](https://www.acmicpc.net/problem/15128))
 
 [15130 Arithmetic Sequences](../problems/acmicpc_15130.cpp) ([링크](https://www.acmicpc.net/problem/15130))
