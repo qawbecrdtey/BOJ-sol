@@ -2214,6 +2214,8 @@
 
 [16406 Exam](../problems/acmicpc_16406.cpp) ([링크](https://www.acmicpc.net/problem/16406))
 
+[16408 Poker Hand](../problems/acmicpc_16408.cpp) ([링크](https://www.acmicpc.net/problem/16408))
+
 [16424 Repeating Goldbachs](../problems/acmicpc_16424.cpp) ([링크](https://www.acmicpc.net/problem/16424))
 
 [16427 Time Limits](../problems/acmicpc_16427.cpp) ([링크](https://www.acmicpc.net/problem/16427))
