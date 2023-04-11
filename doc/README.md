@@ -2920,6 +2920,8 @@
 
 [24937 SciComLove (2022)](../problems/acmicpc_24937.cpp) ([링크](https://www.acmicpc.net/problem/24937))
 
+[24993 KIARA is a Recursive Acronym](../problems/acmicpc_24993.cpp) ([링크](https://www.acmicpc.net/problem/24993))
+
 [25024 시간과 날짜](../problems/acmicpc_25024.cpp) ([링크](https://www.acmicpc.net/problem/25024))
 
 [25025 다항식 계산](../problems/acmicpc_25025.cpp) ([링크](https://www.acmicpc.net/problem/25025))
