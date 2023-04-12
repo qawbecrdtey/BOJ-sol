@@ -2980,6 +2980,8 @@
 
 [25421 조건에 맞는 정수의 개수](../problems/acmicpc_25421.cpp) ([링크](https://www.acmicpc.net/problem/25421))
 
+[25426 일차함수들](../problems/acmicpc_25426.cpp) ([링크](https://www.acmicpc.net/problem/25426))
+
 [25487 단순한 문제 (Large)](../problems/acmicpc_25487.cpp) ([링크](https://www.acmicpc.net/problem/25487))
 
 [25494 단순한 문제 (Small)](../problems/acmicpc_25494.cpp) ([링크](https://www.acmicpc.net/problem/25494))
