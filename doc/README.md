@@ -3096,7 +3096,9 @@
 
 [26111 Parentheses Tree](../problems/acmicpc_26111.cpp) ([링크](https://www.acmicpc.net/problem/26111))
 
-[26162 인공 원소](../problems/acmicpc_26111.cpp) ([링크](https://www.acmicpc.net/problem/26162))
+[26162 인공 원소](../problems/acmicpc_26162.cpp) ([링크](https://www.acmicpc.net/problem/26162))
+
+[26168 배열 전체 탐색하기](../problems/acmicpc_26168.cpp) ([링크](https://www.acmicpc.net/problem/26168))
 
 [26215 눈 치우기](../problems/acmicpc_26215.cpp) ([링크](https://www.acmicpc.net/problem/26215))
 
