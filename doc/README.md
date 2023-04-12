@@ -3200,6 +3200,8 @@
 
 [27245 Комната](../problems/acmicpc_27245.cpp) ([링크](https://www.acmicpc.net/problem/27245))
 
+[27252 Пути Дика](../problems/acmicpc_27252.cpp) ([링크](https://www.acmicpc.net/problem/27252))
+
 [27257 Любитель нулей](../problems/acmicpc_27257.cpp) ([링크](https://www.acmicpc.net/problem/27257))
 
 [27262 Лифт](../problems/acmicpc_27262.cpp) ([링크](https://www.acmicpc.net/problem/27262))
