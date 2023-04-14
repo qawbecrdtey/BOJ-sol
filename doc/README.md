@@ -646,6 +646,8 @@
 
 [3566 대형 스크린](../problems/acmicpc_3566.cpp) ([링크](https://www.acmicpc.net/problem/3566))
 
+[3578 Holes](../problems/acmicpc_3578.cpp) ([링크](https://www.acmicpc.net/problem/3578))
+
 [3584 가장 가까운 공통 조상](../problems/acmicpc_3584.cpp) ([링크](https://www.acmicpc.net/problem/3584))
 
 [3602 iChess](../problems/acmicpc_3602.cpp) ([링크](https://www.acmicpc.net/problem/3602))
