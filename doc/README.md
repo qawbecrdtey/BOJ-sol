@@ -3124,6 +3124,8 @@
 
 [26509 Triangle](../problems/acmicpc_26509.cpp) ([링크](https://www.acmicpc.net/problem/26509))
 
+[26510 V for Vendetta](../problems/acmicpc_26510.cpp) ([링크](https://www.acmicpc.net/problem/26510))
+
 [26512 Complimentary](../problems/acmicpc_26512.cpp) ([링크](https://www.acmicpc.net/problem/26512))
 
 [26516 Mutint](../problems/acmicpc_26516.cpp) ([링크](https://www.acmicpc.net/problem/26516))
