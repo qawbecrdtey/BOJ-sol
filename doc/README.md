@@ -2924,6 +2924,8 @@
 
 [24860 Counting Antibodies](../problems/acmicpc_24860.cpp) ([링크](https://www.acmicpc.net/problem/24860))
 
+[24867 Два станка](../problems/acmicpc_24867.cpp) ([링크](https://www.acmicpc.net/problem/24867))
+
 [24883 자동완성](../problems/acmicpc_24883.cpp) ([링크](https://www.acmicpc.net/problem/24883))
 
 [24924 Card Divisibility](../problems/acmicpc_24924.cpp) ([링크](https://www.acmicpc.net/problem/24924))
