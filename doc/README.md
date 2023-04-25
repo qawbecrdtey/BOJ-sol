@@ -2020,6 +2020,8 @@
 
 [15059 Hard choice](../problems/acmicpc_15059.cpp) ([링크](https://www.acmicpc.net/problem/15059))
 
+[15079 Arggggggh!](../problems/acmicpc_15079.cpp) ([링크](https://www.acmicpc.net/problem/15079))
+
 [15098 No Duplicates](../problems/acmicpc_15098.cpp) ([링크](https://www.acmicpc.net/problem/15098))
 
 [15122 Forbidden Zero](../problems/acmicpc_15122.cpp) ([링크](https://www.acmicpc.net/problem/15122))
