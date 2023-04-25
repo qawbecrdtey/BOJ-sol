@@ -1148,6 +1148,8 @@
 
 [9310 Arithmetic and Geometric Sums](../problems/acmicpc_9310.cpp) ([링크](https://www.acmicpc.net/problem/9310))
 
+[9313 Integer Flipping](../problems/acmicpc_9313.cpp) ([링크](https://www.acmicpc.net/problem/9313))
+
 [9324 진짜 메시지](../problems/acmicpc_9324.cpp) ([링크](https://www.acmicpc.net/problem/9324))
 
 [9358 순열 접기 게임](../problems/acmicpc_9358.cpp) ([링크](https://www.acmicpc.net/problem/9358))
