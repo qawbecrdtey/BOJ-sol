@@ -1048,6 +1048,8 @@
 
 [7790 Joke](../problems/acmicpc_7790.cpp) ([링크](https://www.acmicpc.net/problem/7790))
 
+[7795 먹을 것인가 먹힐 것인가](../problems/acmicpc_7795.cpp) ([링크](https://www.acmicpc.net/problem/7795))
+
 [7869 두 원](../problems/acmicpc_7869.cpp) ([링크](https://www.acmicpc.net/problem/7869))
 
 [7891 Can you add this?](../problems/acmicpc_7891.cpp) ([링크](https://www.acmicpc.net/problem/7891))
