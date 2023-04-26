@@ -1246,6 +1246,8 @@
 
 [9849 Rect](../problems/acmicpc_9849.cpp) ([링크](https://www.acmicpc.net/problem/9849))
 
+[9883 Morton Numbers](../problems/acmicpc_9883.cpp) ([링크](https://www.acmicpc.net/problem/9883))
+
 [9884 Euclid](../problems/acmicpc_9884.cpp) ([링크](https://www.acmicpc.net/problem/9884))
 
 [9891 Rect](../problems/acmicpc_9891.cpp) ([링크](https://www.acmicpc.net/problem/9891))
