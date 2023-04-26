@@ -2524,6 +2524,8 @@
 
 [18414 X に最も近い値 (The Nearest Value)](../problems/acmicpc_18414.cpp) ([링크](https://www.acmicpc.net/problem/18414))
 
+[18415 キャピタリゼーション (Capitalization)](../problems/acmicpc_18415.cpp) ([링크](https://www.acmicpc.net/problem/18415))
+
 [18422 Emacs](../problems/acmicpc_18422.cpp) ([링크](https://www.acmicpc.net/problem/18422))
 
 [18436 수열과 쿼리 37](../problems/acmicpc_18436.cpp) ([링크](https://www.acmicpc.net/problem/18436))
