@@ -1060,6 +1060,8 @@
 
 [8061 Bitmap](../problems/acmicpc_8061.cpp) ([링크](https://www.acmicpc.net/problem/8061))
 
+[8295 Rectangles](../problems/acmicpc_8295.cpp) ([링크](https://www.acmicpc.net/problem/8295))
+
 [8337 Rectangles 2](../problems/acmicpc_8337.cpp) ([링크](https://www.acmicpc.net/problem/8337))
 
 [8370 Plane](../problems/acmicpc_8370.cpp) ([링크](https://www.acmicpc.net/problem/8370))
