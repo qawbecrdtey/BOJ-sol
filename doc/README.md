@@ -2658,6 +2658,8 @@
 
 [20650 Do You Know Your ABCs?](../problems/acmicpc_20650.cpp) ([링크](https://www.acmicpc.net/problem/20650))
 
+[20660 Pizza](../problems/acmicpc_20660.cpp) ([링크](https://www.acmicpc.net/problem/20660))
+
 [20721 Safe Squares](../problems/acmicpc_20721.cpp) ([링크](https://www.acmicpc.net/problem/20721))
 
 [20920 영단어 암기는 괴로워](../problems/acmicpc_20920.cpp) ([링크](https://www.acmicpc.net/problem/20920))
