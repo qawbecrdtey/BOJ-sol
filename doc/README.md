@@ -792,6 +792,8 @@
 
 [4921 나무 블록](../problems/acmicpc_4921.cpp) ([링크](https://www.acmicpc.net/problem/4921))
 
+[4932 Still Johnny Can’t Add](../problems/acmicpc_4932.cpp) ([링크](https://www.acmicpc.net/problem/4932))
+
 [4949 균형잡힌 세상](../problems/acmicpc_4949.cpp) ([링크](https://www.acmicpc.net/problem/4949))
 
 [4993 Red and Black](../problems/acmicpc_4993.cpp) ([링크](https://www.acmicpc.net/problem/4993))
