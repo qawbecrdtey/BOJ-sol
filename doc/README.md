@@ -792,6 +792,8 @@
 
 [4921 나무 블록](../problems/acmicpc_4921.cpp) ([링크](https://www.acmicpc.net/problem/4921))
 
+[4932 Still Johnny Can’t Add](../problems/acmicpc_4932.cpp) ([링크](https://www.acmicpc.net/problem/4932))
+
 [4949 균형잡힌 세상](../problems/acmicpc_4949.cpp) ([링크](https://www.acmicpc.net/problem/4949))
 
 [4993 Red and Black](../problems/acmicpc_4993.cpp) ([링크](https://www.acmicpc.net/problem/4993))
@@ -1060,6 +1062,8 @@
 
 [8061 Bitmap](../problems/acmicpc_8061.cpp) ([링크](https://www.acmicpc.net/problem/8061))
 
+[8295 Rectangles](../problems/acmicpc_8295.cpp) ([링크](https://www.acmicpc.net/problem/8295))
+
 [8337 Rectangles 2](../problems/acmicpc_8337.cpp) ([링크](https://www.acmicpc.net/problem/8337))
 
 [8370 Plane](../problems/acmicpc_8370.cpp) ([링크](https://www.acmicpc.net/problem/8370))
@@ -1237,6 +1241,8 @@
 [9783 Easy Encryption](../problems/acmicpc_9783.cpp) ([링크](https://www.acmicpc.net/problem/9783))
 
 [9784 Boiled Eggs](../problems/acmicpc_9784.cpp) ([링크](https://www.acmicpc.net/problem/9784))
+
+[9786 Common Fraction](../problems/acmicpc_9786.cpp) ([링크](https://www.acmicpc.net/problem/9786))
 
 [9791 Encoding Binary Numbers](../problems/acmicpc_9791.cpp) ([링크](https://www.acmicpc.net/problem/9791))
 
@@ -2659,6 +2665,8 @@
 [20540 연길이의 이상형](../problems/acmicpc_20540.cpp) ([링크](https://www.acmicpc.net/problem/20540))
 
 [20650 Do You Know Your ABCs?](../problems/acmicpc_20650.cpp) ([링크](https://www.acmicpc.net/problem/20650))
+
+[20660 Pizza](../problems/acmicpc_20660.cpp) ([링크](https://www.acmicpc.net/problem/20660))
 
 [20721 Safe Squares](../problems/acmicpc_20721.cpp) ([링크](https://www.acmicpc.net/problem/20721))
 
