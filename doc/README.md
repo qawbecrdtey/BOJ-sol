@@ -2762,6 +2762,8 @@
 
 [22155 Простая задача](../problems/acmicpc_22155.cpp) ([링크](https://www.acmicpc.net/problem/22155))
 
+[22302 Factorial Factors](../problems/acmicpc_22302.cpp) ([링크](https://www.acmicpc.net/problem/22302))
+
 [22341 사각형 면적](../problems/acmicpc_22341.cpp) ([링크](https://www.acmicpc.net/problem/22341))
 
 [22357 경품 추첨](../problems/acmicpc_22357.cpp) ([링크](https://www.acmicpc.net/problem/22357))
