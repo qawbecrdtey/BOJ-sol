@@ -1332,6 +1332,8 @@
 
 [10480 Oddities](../problems/acmicpc_10480.cpp) ([링크](https://www.acmicpc.net/problem/10480))
 
+[10482 Goldbach’s Conjecture](../problems/acmicpc_10482.cpp) ([링크](https://www.acmicpc.net/problem/10482))
+
 [10491 Quite a problem](../problems/acmicpc_10491.cpp) ([링크](https://www.acmicpc.net/problem/10491))
 
 [10531 Golf Bot](../problems/acmicpc_10531.cpp) ([링크](https://www.acmicpc.net/problem/10531))
