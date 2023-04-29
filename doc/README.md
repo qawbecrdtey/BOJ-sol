@@ -2664,6 +2664,8 @@
 
 [20499 Darius님 한타 안 함?](../problems/acmicpc_20499.cpp) ([링크](https://www.acmicpc.net/problem/20499))
 
+[20500 Ezreal 여눈부터 가네 ㅈㅈ](../problems/acmicpc_20500.cpp) ([링크](https://www.acmicpc.net/problem/20500))
+
 [20528 끝말잇기](../problems/acmicpc_20528.cpp) ([링크](https://www.acmicpc.net/problem/20528))
 
 [20540 연길이의 이상형](../problems/acmicpc_20540.cpp) ([링크](https://www.acmicpc.net/problem/20540))
