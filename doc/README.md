@@ -1246,6 +1246,8 @@
 
 [9791 Encoding Binary Numbers](../problems/acmicpc_9791.cpp) ([링크](https://www.acmicpc.net/problem/9791))
 
+[9842 Prime](../problems/acmicpc_9842.cpp) ([링크](https://www.acmicpc.net/problem/9842))
+
 [9847 4SUM](../problems/acmicpc_9847.cpp) ([링크](https://www.acmicpc.net/problem/9847))
 
 [9848 Gift](../problems/acmicpc_9848.cpp) ([링크](https://www.acmicpc.net/problem/9848))
@@ -1329,6 +1331,8 @@
 [10464 XOR](../problems/acmicpc_10464.cpp) ([링크](https://www.acmicpc.net/problem/10464))
 
 [10480 Oddities](../problems/acmicpc_10480.cpp) ([링크](https://www.acmicpc.net/problem/10480))
+
+[10482 Goldbach’s Conjecture](../problems/acmicpc_10482.cpp) ([링크](https://www.acmicpc.net/problem/10482))
 
 [10491 Quite a problem](../problems/acmicpc_10491.cpp) ([링크](https://www.acmicpc.net/problem/10491))
 
@@ -2761,6 +2765,8 @@
 [22113 창영이와 버스](../problems/acmicpc_22113.cpp) ([링크](https://www.acmicpc.net/problem/22113))
 
 [22155 Простая задача](../problems/acmicpc_22155.cpp) ([링크](https://www.acmicpc.net/problem/22155))
+
+[22302 Factorial Factors](../problems/acmicpc_22302.cpp) ([링크](https://www.acmicpc.net/problem/22302))
 
 [22341 사각형 면적](../problems/acmicpc_22341.cpp) ([링크](https://www.acmicpc.net/problem/22341))
 
