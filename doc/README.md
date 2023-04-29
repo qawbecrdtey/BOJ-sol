@@ -1926,6 +1926,8 @@
 
 [14565 역원(Inverse) 구하기](../problems/acmicpc_14565.cpp) ([링크](https://www.acmicpc.net/problem/14565))
 
+[14567 선수과목 (Prerequisite)](../problems/acmicpc_14567.cpp) ([링크](https://www.acmicpc.net/problem/14567))
+
 [14568 2017 연세대학교 프로그래밍 경시대회](../problems/acmicpc_14568.cpp) ([링크](https://www.acmicpc.net/problem/14568))
 
 [14579 덧셈과 곱셈](../problems/acmicpc_14579.cpp) ([링크](https://www.acmicpc.net/problem/14579))
