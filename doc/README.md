@@ -2080,6 +2080,8 @@
 
 [15460 My Cow Ate My Homework](../problems/acmicpc_15460.cpp) ([링크](https://www.acmicpc.net/problem/15460))
 
+[15466 Similarity Computation](../problems/acmicpc_15466.cpp) ([링크](https://www.acmicpc.net/problem/15466))
+
 [15474 鉛筆 (Pencils)](../problems/acmicpc_15474.cpp) ([링크](https://www.acmicpc.net/problem/15474))
 
 [15480 LCA와 쿼리](../problems/acmicpc_15480.cpp) ([링크](https://www.acmicpc.net/problem/15480))
