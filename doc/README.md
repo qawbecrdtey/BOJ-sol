@@ -3312,6 +3312,8 @@
 
 [27931 Parity Constraint Closest Pair (Easy)](../problems/acmicpc_27931.cpp) ([링크](https://www.acmicpc.net/problem/27931))
 
+[27983 리본 (Easy)](../problems/acmicpc_27983.cpp) ([링크](https://www.acmicpc.net/problem/27983))
+
 ## Algorithms
 
 [BFS](BFS.md)
