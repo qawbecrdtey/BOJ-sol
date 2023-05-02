@@ -1736,6 +1736,8 @@
 
 [13173 Ω](../problems/acmicpc_13173.cpp) ([링크](https://www.acmicpc.net/problem/13173))
 
+[13211 Passport Checking](../problems/acmicpc_13211.cpp) ([링크](https://www.acmicpc.net/problem/13211))
+
 [13221 Manhattan](../problems/acmicpc_13221.cpp) ([링크](https://www.acmicpc.net/problem/13221))
 
 [13222 Matches](../problems/acmicpc_13222.cpp) ([링크](https://www.acmicpc.net/problem/13222))
