@@ -2550,6 +2550,8 @@
 
 [18436 수열과 쿼리 37](../problems/acmicpc_18436.cpp) ([링크](https://www.acmicpc.net/problem/18436))
 
+[18691 Pokemon Buddy](../problems/acmicpc_18691.cpp) ([링크](https://www.acmicpc.net/problem/18691))
+
 [18786 Triangles (Bronze)](../problems/acmicpc_18786.cpp) ([링크](https://www.acmicpc.net/problem/18786))
 
 [18856 피드백](../problems/acmicpc_18856.cpp) ([링크](https://www.acmicpc.net/problem/18856))
