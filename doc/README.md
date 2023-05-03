@@ -916,6 +916,8 @@
 
 [6086 최대 유량](../problems/acmicpc_6086.cpp) ([링크](https://www.acmicpc.net/problem/6086))
 
+[6147 Bookshelf](../problems/acmicpc_6147.cpp) ([링크](https://www.acmicpc.net/problem/6147))
+
 [6177 Statistics](../problems/acmicpc_6177.cpp) ([링크](https://www.acmicpc.net/problem/6177))
 
 [6186 Best Grass](../problems/acmicpc_6186.cpp) ([링크](https://www.acmicpc.net/problem/6186))
@@ -1480,6 +1482,8 @@
 
 [11281 2-SAT - 4](../problems/acmicpc_11281.cpp) ([링크](https://www.acmicpc.net/problem/11281))
 
+[11292 키 큰 사람](../problems/acmicpc_11292.cpp) ([링크](https://www.acmicpc.net/problem/11292))
+
 [11312 삼각 무늬 - 2](../problems/acmicpc_11312.cpp) ([링크](https://www.acmicpc.net/problem/11312))
 
 [11317 Roots! Really?](../problems/acmicpc_11317.cpp) ([링크](https://www.acmicpc.net/problem/11317))
@@ -1731,6 +1735,8 @@
 [13172 Σ](../problems/acmicpc_13172.cpp) ([링크](https://www.acmicpc.net/problem/13172))
 
 [13173 Ω](../problems/acmicpc_13173.cpp) ([링크](https://www.acmicpc.net/problem/13173))
+
+[13211 Passport Checking](../problems/acmicpc_13211.cpp) ([링크](https://www.acmicpc.net/problem/13211))
 
 [13221 Manhattan](../problems/acmicpc_13221.cpp) ([링크](https://www.acmicpc.net/problem/13221))
 
@@ -2550,6 +2556,8 @@
 
 [18436 수열과 쿼리 37](../problems/acmicpc_18436.cpp) ([링크](https://www.acmicpc.net/problem/18436))
 
+[18691 Pokemon Buddy](../problems/acmicpc_18691.cpp) ([링크](https://www.acmicpc.net/problem/18691))
+
 [18786 Triangles (Bronze)](../problems/acmicpc_18786.cpp) ([링크](https://www.acmicpc.net/problem/18786))
 
 [18856 피드백](../problems/acmicpc_18856.cpp) ([링크](https://www.acmicpc.net/problem/18856))
@@ -2751,6 +2759,8 @@
 [21876 Java Bitecode](../problems/acmicpc_21876.cpp) ([링크](https://www.acmicpc.net/problem/21876))
 
 [21880 The Game](../problems/acmicpc_21880.cpp) ([링크](https://www.acmicpc.net/problem/21880))
+
+[21895 Rock-Paper-Scissors for three](../problems/acmicpc_21895.cpp) ([링크](https://www.acmicpc.net/problem/21895))
 
 [21920 서로소 평균](../problems/acmicpc_21920.cpp) ([링크](https://www.acmicpc.net/problem/21920))
 
@@ -3238,6 +3248,8 @@
 
 [26849 Non Classical Problem](../problems/acmicpc_26849.cpp) ([링크](https://www.acmicpc.net/problem/26849))
 
+[26863 Absolutely Flat](../problems/acmicpc_26863.cpp) ([링크](https://www.acmicpc.net/problem/26863))
+
 [26941 Pyramidbygge](../problems/acmicpc_26941.cpp) ([링크](https://www.acmicpc.net/problem/26941))
 
 [26948 Plankan](../problems/acmicpc_26948.cpp) ([링크](https://www.acmicpc.net/problem/26948))
@@ -3313,6 +3325,8 @@
 [27930 당신은 운명을 믿나요?](../problems/acmicpc_27930.cpp) ([링크](https://www.acmicpc.net/problem/27930))
 
 [27931 Parity Constraint Closest Pair (Easy)](../problems/acmicpc_27931.cpp) ([링크](https://www.acmicpc.net/problem/27931))
+
+[27983 리본 (Easy)](../problems/acmicpc_27983.cpp) ([링크](https://www.acmicpc.net/problem/27983))
 
 ## Algorithms
 
