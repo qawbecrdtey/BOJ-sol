@@ -2892,6 +2892,8 @@
 
 [24040 예쁜 케이크](../problems/acmicpc_24040.cpp) ([링크](https://www.acmicpc.net/problem/24040))
 
+[24074 分割 (Split)](../problems/acmicpc_24074.cpp) ([링크](https://www.acmicpc.net/problem/24074))
+
 [24075 計算 (Calculation)](../problems/acmicpc_24075.cpp) ([링크](https://www.acmicpc.net/problem/24075))
 
 [24078 余り (Remainder)](../problems/acmicpc_24078.cpp) ([링크](https://www.acmicpc.net/problem/24078))
