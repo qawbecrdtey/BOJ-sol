@@ -2896,6 +2896,8 @@
 
 [24075 計算 (Calculation)](../problems/acmicpc_24075.cpp) ([링크](https://www.acmicpc.net/problem/24075))
 
+[24077 比較 (Comparison)](../problems/acmicpc_24077.cpp) ([링크](https://www.acmicpc.net/problem/24077))
+
 [24078 余り (Remainder)](../problems/acmicpc_24078.cpp) ([링크](https://www.acmicpc.net/problem/24078))
 
 [24082 立方体 (Cube)](../problems/acmicpc_24082.cpp) ([링크](https://www.acmicpc.net/problem/24082))
