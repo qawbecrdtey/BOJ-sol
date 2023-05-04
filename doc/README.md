@@ -3230,6 +3230,8 @@
 
 [26575 Pups](../problems/acmicpc_26575.cpp) ([링크](https://www.acmicpc.net/problem/26575))
 
+[26577 Math](../problems/acmicpc_26577.cpp) ([링크](https://www.acmicpc.net/problem/26577))
+
 [26590 Word Mix](../problems/acmicpc_26590.cpp) ([링크](https://www.acmicpc.net/problem/26590))
 
 [26594 ZOAC 5](../problems/acmicpc_26594.cpp) ([링크](https://www.acmicpc.net/problem/26594))
