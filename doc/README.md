@@ -2462,6 +2462,8 @@
 
 [17521 Byte Coin](../problems/acmicpc_17521.cpp) ([링크](https://www.acmicpc.net/problem/17521))
 
+[17530 Buffoon](../problems/acmicpc_17530.cpp) ([링크](https://www.acmicpc.net/problem/17530))
+
 [17586 Diagonal Cut](../problems/acmicpc_17586.cpp) ([링크](https://www.acmicpc.net/problem/17586))
 
 [17598 Animal King Election](../problems/acmicpc_17598.cpp) ([링크](https://www.acmicpc.net/problem/17598))
