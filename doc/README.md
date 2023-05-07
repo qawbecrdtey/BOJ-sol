@@ -3342,6 +3342,8 @@
 
 [27983 리본 (Easy)](../problems/acmicpc_27983.cpp) ([링크](https://www.acmicpc.net/problem/27983))
 
+[28014 첨탑 밀어서 부수기](../problems/acmicpc_28014.cpp) ([링크](https://www.acmicpc.net/problem/28014))
+
 ## Algorithms
 
 [BFS](BFS.md)
