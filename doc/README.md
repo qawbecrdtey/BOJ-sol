@@ -1050,6 +1050,8 @@
 
 [7677 Fibonacci](../problems/acmicpc_7677.cpp) ([링크](https://www.acmicpc.net/problem/7677))
 
+[7696 반복하지 않는 수](../problems/acmicpc_7696.cpp) ([링크](https://www.acmicpc.net/problem/7696))
+
 [7770 피보나치 수의 확장](../problems/acmicpc_7770.cpp) ([링크](https://www.acmicpc.net/problem/7770))
 
 [7789 텔레프라임](../problems/acmicpc_7789.cpp) ([링크](https://www.acmicpc.net/problem/7789))
