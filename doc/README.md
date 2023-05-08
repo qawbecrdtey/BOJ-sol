@@ -1322,6 +1322,8 @@
 
 [10280 Pizza voting](../problems/acmicpc_10280.cpp) ([링크](https://www.acmicpc.net/problem/10280))
 
+[10282 해킹](../problems/acmicpc_10282.cpp) ([링크](https://www.acmicpc.net/problem/10282))
+
 [10357 Triples](../problems/acmicpc_10357.cpp) ([링크](https://www.acmicpc.net/problem/10357))
 
 [10372 Alarm Clock](../problems/acmicpc_10372.cpp) ([링크](https://www.acmicpc.net/problem/10372))
