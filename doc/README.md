@@ -1816,6 +1816,8 @@
 
 [13597 Tri-du](../problems/acmicpc_13597.cpp) ([링크](https://www.acmicpc.net/problem/13597))
 
+[13600 Fatorial](../problems/acmicpc_13600.cpp) ([링크](https://www.acmicpc.net/problem/13600))
+
 [13610 Volta](../problems/acmicpc_13610.cpp) ([링크](https://www.acmicpc.net/problem/13610))
 
 [13617 Handebol](../problems/acmicpc_13617.cpp) ([링크](https://www.acmicpc.net/problem/13617))
