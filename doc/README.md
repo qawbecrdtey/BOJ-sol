@@ -3350,6 +3350,8 @@
 
 [28014 첨탑 밀어서 부수기](../problems/acmicpc_28014.cpp) ([링크](https://www.acmicpc.net/problem/28014))
 
+[28017 게임을 클리어하자](../problems/acmicpc_28017.cpp) ([링크](https://www.acmicpc.net/problem/28017))
+
 ## Algorithms
 
 [BFS](BFS.md)
