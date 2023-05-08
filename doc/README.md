@@ -3158,6 +3158,8 @@
 
 [25933 Medal Ranking](../problems/acmicpc_25933.cpp) ([링크](https://www.acmicpc.net/problem/25933))
 
+[25955 APC는 쉬운 난이도 순일까, 아닐까?](../problems/acmicpc_25955.cpp) ([링크](https://www.acmicpc.net/problem/25955))
+
 [25966 배찬우는 배열을 좋아해](../problems/acmicpc_25966.cpp) ([링크](https://www.acmicpc.net/problem/25966))
 
 [25991 Lots of Liquid](../problems/acmicpc_25991.cpp) ([링크](https://www.acmicpc.net/problem/25991))
