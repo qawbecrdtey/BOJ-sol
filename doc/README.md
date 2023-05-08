@@ -766,6 +766,8 @@
 
 [4714 Lunacy](../problems/acmicpc_4714.cpp) ([링크](https://www.acmicpc.net/problem/4714))
 
+[4732 조옮김](../problems/acmicpc_4732.cpp) ([링크](https://www.acmicpc.net/problem/4732))
+
 [4779 칸토어 집합](../problems/acmicpc_4779.cpp) ([링크](https://www.acmicpc.net/problem/4779))
 
 [4782 분수 뺄셈](../problems/acmicpc_4782.cpp) ([링크](https://www.acmicpc.net/problem/4782))
