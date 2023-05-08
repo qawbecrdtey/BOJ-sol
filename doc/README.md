@@ -622,6 +622,8 @@
 
 [3059 등장하지 않는 문자의 합](../problems/acmicpc_3059.cpp) ([링크](https://www.acmicpc.net/problem/3059))
 
+[3067 Coins](../problems/acmicpc_3067.cpp) ([링크](https://www.acmicpc.net/problem/3067))
+
 [3181 줄임말 만들기](../problems/acmicpc_3181.cpp) ([링크](https://www.acmicpc.net/problem/3181))
 
 [3182 한동이는 공부가 하기 싫어!](../problems/acmicpc_3182.cpp) ([링크](https://www.acmicpc.net/problem/3182))
