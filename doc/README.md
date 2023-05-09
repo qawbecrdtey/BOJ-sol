@@ -1094,6 +1094,8 @@
 
 [8671 Długa taśma](../problems/acmicpc_8671.cpp) ([링크](https://www.acmicpc.net/problem/8671))
 
+[8678 Figury](../problems/acmicpc_8678.cpp) ([링크](https://www.acmicpc.net/problem/8678))
+
 [8710 Koszykarz](../problems/acmicpc_8710.cpp) ([링크](https://www.acmicpc.net/problem/8710))
 
 [8713 Znak działania](../problems/acmicpc_8713.cpp) ([링크](https://www.acmicpc.net/problem/8713))
