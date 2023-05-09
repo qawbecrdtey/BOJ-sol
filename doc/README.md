@@ -1108,6 +1108,8 @@
 
 [8760 Schronisko](../problems/acmicpc_8760.cpp) ([링크](https://www.acmicpc.net/problem/8760))
 
+[8816 Klasa](../problems/acmicpc_8816.cpp) ([링크](https://www.acmicpc.net/problem/8816))
+
 [8871 Zadanie próbne 2](../problems/acmicpc_8871.cpp) ([링크](https://www.acmicpc.net/problem/8871))
 
 [8892 팰린드롬](../problems/acmicpc_8892.cpp) ([링크](https://www.acmicpc.net/problem/8892))
