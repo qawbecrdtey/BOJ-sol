@@ -2470,6 +2470,8 @@
 
 [17436 소수의 배수](../problems/acmicpc_17436.cpp) ([링크](https://www.acmicpc.net/problem/17436))
 
+[17450 과자 사기](../problems/acmicpc_17450.cpp) ([링크](https://www.acmicpc.net/problem/17450))
+
 [17466 N! mod P (1)](../problems/acmicpc_17466.cpp) ([링크](https://www.acmicpc.net/problem/17466))
 
 [17478 재귀함수가 뭔가요?](../problems/acmicpc_17478.cpp) ([링크](https://www.acmicpc.net/problem/17478))
