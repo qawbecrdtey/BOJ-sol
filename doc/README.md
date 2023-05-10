@@ -1848,6 +1848,8 @@
 
 [13866 팀 나누기](../problems/acmicpc_13866.cpp) ([링크](https://www.acmicpc.net/problem/13866))
 
+[13871 Farm robot](../problems/acmicpc_13871.cpp) ([링크](https://www.acmicpc.net/problem/13871))
+
 [13900 순서쌍의 곱의 합](../problems/acmicpc_13900.cpp) ([링크](https://www.acmicpc.net/problem/13900))
 
 [13904 과제](../problems/acmicpc_13904.cpp) ([링크](https://www.acmicpc.net/problem/13904))
