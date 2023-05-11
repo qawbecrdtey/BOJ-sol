@@ -3348,6 +3348,8 @@
 
 [27563 Moo Operations](../problems/acmicpc_27563.cpp) ([링크](https://www.acmicpc.net/problem/27563))
 
+[27588 Restaurant Opening](../problems/acmicpc_27588.cpp) ([링크](https://www.acmicpc.net/problem/27588))
+
 [27622 Suspicious Event](../problems/acmicpc_27622.cpp) ([링크](https://www.acmicpc.net/problem/27622))
 
 [27627 Splitology](../problems/acmicpc_27627.cpp) ([링크](https://www.acmicpc.net/problem/27627))
