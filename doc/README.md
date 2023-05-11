@@ -824,6 +824,8 @@
 
 [5101 Sequences](../problems/acmicpc_5101.cpp) ([링크](https://www.acmicpc.net/problem/5101))
 
+[5210 Campus Buildings](../problems/acmicpc_5210.cpp) ([링크](https://www.acmicpc.net/problem/5210))
+
 [5217 쌍의 합](../problems/acmicpc_5217.cpp) ([링크](https://www.acmicpc.net/problem/5217))
 
 [5220 Error Detection](../problems/acmicpc_5220.cpp) ([링크](https://www.acmicpc.net/problem/5220))
