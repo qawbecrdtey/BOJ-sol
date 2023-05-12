@@ -3246,6 +3246,8 @@
 
 [26535 Chicken Pen](../problems/acmicpc_26535.cpp) ([링크](https://www.acmicpc.net/problem/26535))
 
+[26536 Cowspeak](../problems/acmicpc_26536.cpp) ([링크](https://www.acmicpc.net/problem/26536))
+
 [26544 Histogram Fencing](../problems/acmicpc_26544.cpp) ([링크](https://www.acmicpc.net/problem/26544))
 
 [26546 Reverse](../problems/acmicpc_26546.cpp) ([링크](https://www.acmicpc.net/problem/26546))
