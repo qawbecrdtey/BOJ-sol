@@ -1836,6 +1836,8 @@
 
 [13623 Zero or One](../problems/acmicpc_13623.cpp) ([링크](https://www.acmicpc.net/problem/13623))
 
+[13680 Dama](../problems/acmicpc_13680.cpp) ([링크](https://www.acmicpc.net/problem/13680))
+
 [13699 점화식](../problems/acmicpc_13699.cpp) ([링크](https://www.acmicpc.net/problem/13699))
 
 [13701 중복 제거](../problems/acmicpc_13701.cpp) ([링크](https://www.acmicpc.net/problem/13701))
