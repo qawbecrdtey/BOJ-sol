@@ -3302,6 +3302,8 @@
 
 [26863 Absolutely Flat](../problems/acmicpc_26863.cpp) ([링크](https://www.acmicpc.net/problem/26863))
 
+[26891 Tävlingssal](../problems/acmicpc_26891.cpp) ([링크](https://www.acmicpc.net/problem/26891))
+
 [26940 Chokladkartongen](../problems/acmicpc_26940.cpp) ([링크](https://www.acmicpc.net/problem/26940))
 
 [26941 Pyramidbygge](../problems/acmicpc_26941.cpp) ([링크](https://www.acmicpc.net/problem/26941))
