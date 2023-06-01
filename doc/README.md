@@ -3396,6 +3396,8 @@
 
 [28017 게임을 클리어하자](../problems/acmicpc_28017.cpp) ([링크](https://www.acmicpc.net/problem/28017))
 
+[28135 Since 1973](../problems/acmicpc_28135.cpp) ([링크](https://www.acmicpc.net/problem/28135)
+
 ## Algorithms
 
 [BFS](BFS.md)
