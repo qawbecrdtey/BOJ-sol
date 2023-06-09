@@ -3404,6 +3404,8 @@
 
 [28135 Since 1973](../problems/acmicpc_28135.cpp) ([링크](https://www.acmicpc.net/problem/28135)
 
+[28138 재밌는 나머지 연산](../problems/acmicpc_28138.cpp) ([링크](https://www.acmicpc.net/problem/28138)
+
 ## Algorithms
 
 [BFS](BFS.md)
