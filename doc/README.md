@@ -2724,6 +2724,8 @@
 
 [20528 끝말잇기](../problems/acmicpc_20528.cpp) ([링크](https://www.acmicpc.net/problem/20528))
 
+[20529 가장 가까운 세 사람의 심리적 거리](../problems/acmicpc_20529.cpp) ([링크](https://www.acmicpc.net/problem/20529))
+
 [20540 연길이의 이상형](../problems/acmicpc_20540.cpp) ([링크](https://www.acmicpc.net/problem/20540))
 
 [20650 Do You Know Your ABCs?](../problems/acmicpc_20650.cpp) ([링크](https://www.acmicpc.net/problem/20650))
