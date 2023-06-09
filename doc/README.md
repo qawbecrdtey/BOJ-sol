@@ -2538,6 +2538,8 @@
 
 [18108 1998년생인 내가 태국에서는 2541년생?!](../problems/acmicpc_18108.cpp) ([링크](https://www.acmicpc.net/problem/18108))
 
+[18110 solved.ac](../problems/acmicpc_18110.cpp) ([링크](https://www.acmicpc.net/problem/18110))
+
 [18111 마인크래프트](../problems/acmicpc_18111.cpp) ([링크](https://www.acmicpc.net/problem/18111))
 
 [18125 고양이 사료](../problems/acmicpc_18125.cpp) ([링크](https://www.acmicpc.net/problem/18125))
