@@ -3424,6 +3424,8 @@
 
 [28113 정보섬의 대중교통](../problems/acmicpc_28113.cpp) ([링크](https://www.acmicpc.net/problem/28113)
 
+[28132 기벡을 안배운다고?](../problems/acmicpc_28132.cpp) ([링크](https://www.acmicpc.net/problem/28132)
+
 [28135 Since 1973](../problems/acmicpc_28135.cpp) ([링크](https://www.acmicpc.net/problem/28135)
 
 [28137 뭐라고? 안들려](../problems/acmicpc_28137.cpp) ([링크](https://www.acmicpc.net/problem/28137)
