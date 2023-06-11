@@ -3080,6 +3080,8 @@
 
 [25326 다중 항목 선호도 조사 (Small)](../problems/acmicpc_25326.cpp) ([링크](https://www.acmicpc.net/problem/25326))
 
+[25332 수들의 합 8](../problems/acmicpc_25332.cpp) ([링크](https://www.acmicpc.net/problem/25332))
+
 [25344 행성 정렬](../problems/acmicpc_25344.cpp) ([링크](https://www.acmicpc.net/problem/25344))
 
 [25345 루나의 게임 세팅](../problems/acmicpc_25345.cpp) ([링크](https://www.acmicpc.net/problem/25345))
