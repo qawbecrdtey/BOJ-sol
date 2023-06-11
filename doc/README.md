@@ -2766,6 +2766,8 @@
 
 [21197 Stopwatch](../problems/acmicpc_21197.cpp) ([링크](https://www.acmicpc.net/problem/21197))
 
+[21244 Lexicographically Minimal Subsequence](../problems/acmicpc_21244.cpp) ([링크](https://www.acmicpc.net/problem/21244))
+
 [21300 Bottle Return](../problems/acmicpc_21300.cpp) ([링크](https://www.acmicpc.net/problem/21300))
 
 [21312 홀짝 칵테일](../problems/acmicpc_21312.cpp) ([링크](https://www.acmicpc.net/problem/21312))
