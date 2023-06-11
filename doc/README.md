@@ -3408,6 +3408,8 @@
 
 [28070 유니의 편지 쓰기](../problems/acmicpc_28070.cpp) ([링크](https://www.acmicpc.net/problem/28070))
 
+[28097 모범생 포닉스](../problems/acmicpc_28097.cpp) ([링크](https://www.acmicpc.net/problem/28097))
+
 [28113 정보섬의 대중교통](../problems/acmicpc_28113.cpp) ([링크](https://www.acmicpc.net/problem/28113)
 
 [28135 Since 1973](../problems/acmicpc_28135.cpp) ([링크](https://www.acmicpc.net/problem/28135)
