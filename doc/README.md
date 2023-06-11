@@ -2604,6 +2604,8 @@
 
 [18786 Triangles (Bronze)](../problems/acmicpc_18786.cpp) ([링크](https://www.acmicpc.net/problem/18786))
 
+[18813 Divisionals Spelling](../problems/acmicpc_18813.cpp) ([링크](https://www.acmicpc.net/problem/18813))
+
 [18856 피드백](../problems/acmicpc_18856.cpp) ([링크](https://www.acmicpc.net/problem/18856))
 
 [18868 멀티버스 Ⅰ](../problems/acmicpc_18868.cpp) ([링크](https://www.acmicpc.net/problem/18868))
@@ -3401,6 +3403,8 @@
 [28014 첨탑 밀어서 부수기](../problems/acmicpc_28014.cpp) ([링크](https://www.acmicpc.net/problem/28014))
 
 [28017 게임을 클리어하자](../problems/acmicpc_28017.cpp) ([링크](https://www.acmicpc.net/problem/28017))
+
+[28064 이민희진](../problems/acmicpc_28064.cpp) ([링크](https://www.acmicpc.net/problem/28064))
 
 [28113 정보섬의 대중교통](../problems/acmicpc_28113.cpp) ([링크](https://www.acmicpc.net/problem/28113)
 
