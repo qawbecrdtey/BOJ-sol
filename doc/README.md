@@ -3430,6 +3430,8 @@
 
 [28137 뭐라고? 안들려](../problems/acmicpc_28137.cpp) ([링크](https://www.acmicpc.net/problem/28137)
 
+[28136 원, 탁!](../problems/acmicpc_28136.cpp) ([링크](https://www.acmicpc.net/problem/28136)
+
 [28138 재밌는 나머지 연산](../problems/acmicpc_28138.cpp) ([링크](https://www.acmicpc.net/problem/28138)
 
 [28152 Power of Divisors](../problems/acmicpc_28152.cpp) ([링크](https://www.acmicpc.net/problem/28152)
