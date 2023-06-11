@@ -3406,6 +3406,8 @@
 
 [28064 이민희진](../problems/acmicpc_28064.cpp) ([링크](https://www.acmicpc.net/problem/28064))
 
+[28070 유니의 편지 쓰기](../problems/acmicpc_28070.cpp) ([링크](https://www.acmicpc.net/problem/28070))
+
 [28113 정보섬의 대중교통](../problems/acmicpc_28113.cpp) ([링크](https://www.acmicpc.net/problem/28113)
 
 [28135 Since 1973](../problems/acmicpc_28135.cpp) ([링크](https://www.acmicpc.net/problem/28135)
