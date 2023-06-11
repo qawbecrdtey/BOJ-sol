@@ -2938,6 +2938,8 @@
 
 [23888 등차수열과 쿼리](../problems/acmicpc_23888.cpp) ([링크](https://www.acmicpc.net/problem/23888))
 
+[23899 알고리즘 수업 - 선택 정렬 5](../problems/acmicpc_23899.cpp) ([링크](https://www.acmicpc.net/problem/23899))
+
 [23972 악마의 제안](../problems/acmicpc_23972.cpp) ([링크](https://www.acmicpc.net/problem/23972))
 
 [23977 To Find Password](../problems/acmicpc_23977.cpp) ([링크](https://www.acmicpc.net/problem/23977))
