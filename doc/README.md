@@ -3426,6 +3426,8 @@
 
 [28138 재밌는 나머지 연산](../problems/acmicpc_28138.cpp) ([링크](https://www.acmicpc.net/problem/28138)
 
+[28152 Power of Divisors](../problems/acmicpc_28152.cpp) ([링크](https://www.acmicpc.net/problem/28152)
+
 [28224 Final Price](../problems/acmicpc_28224.cpp) ([링크](https://www.acmicpc.net/problem/28224)
 
 ## Algorithms
