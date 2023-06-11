@@ -2754,6 +2754,8 @@
 
 [21099 Four XOR](../problems/acmicpc_21099.cpp) ([링크](https://www.acmicpc.net/problem/21099))
 
+[21139 Exam Manipulation](../problems/acmicpc_21139.cpp) ([링크](https://www.acmicpc.net/problem/21139))
+
 [21167 Curve Speed](../problems/acmicpc_21167.cpp) ([링크](https://www.acmicpc.net/problem/21167))
 
 [21177 No Thanks!](../problems/acmicpc_21177.cpp) ([링크](https://www.acmicpc.net/problem/21177))
