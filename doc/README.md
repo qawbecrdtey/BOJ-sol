@@ -3424,6 +3424,8 @@
 
 [28113 정보섬의 대중교통](../problems/acmicpc_28113.cpp) ([링크](https://www.acmicpc.net/problem/28113)
 
+[28114 팀명 정하기](../problems/acmicpc_28114.cpp) ([링크](https://www.acmicpc.net/problem/28114)
+
 [28115 등차수열의 합](../problems/acmicpc_28115.cpp) ([링크](https://www.acmicpc.net/problem/28115)
 
 [28132 기벡을 안배운다고?](../problems/acmicpc_28132.cpp) ([링크](https://www.acmicpc.net/problem/28132)
