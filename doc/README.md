@@ -3412,6 +3412,8 @@
 
 [28017 게임을 클리어하자](../problems/acmicpc_28017.cpp) ([링크](https://www.acmicpc.net/problem/28017))
 
+[28061 레몬 따기](../problems/acmicpc_28061.cpp) ([링크](https://www.acmicpc.net/problem/28061))
+
 [28064 이민희진](../problems/acmicpc_28064.cpp) ([링크](https://www.acmicpc.net/problem/28064))
 
 [28070 유니의 편지 쓰기](../problems/acmicpc_28070.cpp) ([링크](https://www.acmicpc.net/problem/28070))
