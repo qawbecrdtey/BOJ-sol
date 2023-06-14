@@ -3334,6 +3334,8 @@
 
 [27049 ISBN](../problems/acmicpc_27049.cpp) ([링크](https://www.acmicpc.net/problem/27049))
 
+[27058 Message Decowding](../problems/acmicpc_27058.cpp) ([링크](https://www.acmicpc.net/problem/27058))
+
 [27101 Metric Matrices](../problems/acmicpc_27101.cpp) ([링크](https://www.acmicpc.net/problem/27101))
 
 [27106 Making Change](../problems/acmicpc_27106.cpp) ([링크](https://www.acmicpc.net/problem/27106))
