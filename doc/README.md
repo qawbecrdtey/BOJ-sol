@@ -3338,6 +3338,8 @@
 
 [27037 The Middle Squares](../problems/acmicpc_27037.cpp) ([링크](https://www.acmicpc.net/problem/27037))
 
+[27040 Golf](../problems/acmicpc_27040.cpp) ([링크](https://www.acmicpc.net/problem/27040))
+
 [27049 ISBN](../problems/acmicpc_27049.cpp) ([링크](https://www.acmicpc.net/problem/27049))
 
 [27058 Message Decowding](../problems/acmicpc_27058.cpp) ([링크](https://www.acmicpc.net/problem/27058))
