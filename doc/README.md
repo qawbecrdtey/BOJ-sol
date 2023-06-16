@@ -1678,6 +1678,8 @@
 
 [12738 가장 긴 증가하는 부분 수열 3](../problems/acmicpc_12738.cpp) ([링크](https://www.acmicpc.net/problem/12738))
 
+[12756 고급 여관](../problems/acmicpc_12756.cpp) ([링크](https://www.acmicpc.net/problem/12756))
+
 [12779 상품 is 뭔들](../problems/acmicpc_12779.cpp) ([링크](https://www.acmicpc.net/problem/12779))
 
 [12781 PIZZA ALVOLOC](../problems/acmicpc_12781.cpp) ([링크](https://www.acmicpc.net/problem/12781))
