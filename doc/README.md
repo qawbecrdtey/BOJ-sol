@@ -2770,6 +2770,8 @@
 
 [21300 Bottle Return](../problems/acmicpc_21300.cpp) ([링크](https://www.acmicpc.net/problem/21300))
 
+[21309 Cardinal Adjacencies](../problems/acmicpc_21309.cpp) ([링크](https://www.acmicpc.net/problem/21309))
+
 [21312 홀짝 칵테일](../problems/acmicpc_21312.cpp) ([링크](https://www.acmicpc.net/problem/21312))
 
 [21335 Another Eruption](../problems/acmicpc_21335.cpp) ([링크](https://www.acmicpc.net/problem/21335))
