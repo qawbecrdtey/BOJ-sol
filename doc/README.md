@@ -2866,6 +2866,8 @@
 
 [22966 가장 쉬운 문제를 찾는 문제](../problems/acmicpc_22966.cpp) ([링크](https://www.acmicpc.net/problem/22966))
 
+[22970 문제 재탕](../problems/acmicpc_22970.cpp) ([링크](https://www.acmicpc.net/problem/22970))
+
 [23027 1번부터 문제의 상태가…?](../problems/acmicpc_23027.cpp) ([링크](https://www.acmicpc.net/problem/23027))
 
 [23037 5의 수난](../problems/acmicpc_23037.cpp) ([링크](https://www.acmicpc.net/problem/23037))
