@@ -1096,6 +1096,8 @@
 
 [8664 Kwadrat](../problems/acmicpc_8664.cpp) ([링크](https://www.acmicpc.net/problem/8664))
 
+[8668 Konik polny 2](../problems/acmicpc_8668.cpp) ([링크](https://www.acmicpc.net/problem/8668))
+
 [8671 Długa taśma](../problems/acmicpc_8671.cpp) ([링크](https://www.acmicpc.net/problem/8671))
 
 [8678 Figury](../problems/acmicpc_8678.cpp) ([링크](https://www.acmicpc.net/problem/8678))
