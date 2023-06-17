@@ -1678,6 +1678,8 @@
 
 [12738 가장 긴 증가하는 부분 수열 3](../problems/acmicpc_12738.cpp) ([링크](https://www.acmicpc.net/problem/12738))
 
+[12756 고급 여관](../problems/acmicpc_12756.cpp) ([링크](https://www.acmicpc.net/problem/12756))
+
 [12779 상품 is 뭔들](../problems/acmicpc_12779.cpp) ([링크](https://www.acmicpc.net/problem/12779))
 
 [12781 PIZZA ALVOLOC](../problems/acmicpc_12781.cpp) ([링크](https://www.acmicpc.net/problem/12781))
@@ -2772,6 +2774,8 @@
 
 [21300 Bottle Return](../problems/acmicpc_21300.cpp) ([링크](https://www.acmicpc.net/problem/21300))
 
+[21309 Cardinal Adjacencies](../problems/acmicpc_21309.cpp) ([링크](https://www.acmicpc.net/problem/21309))
+
 [21312 홀짝 칵테일](../problems/acmicpc_21312.cpp) ([링크](https://www.acmicpc.net/problem/21312))
 
 [21335 Another Eruption](../problems/acmicpc_21335.cpp) ([링크](https://www.acmicpc.net/problem/21335))
@@ -2953,6 +2957,8 @@
 [24074 分割 (Split)](../problems/acmicpc_24074.cpp) ([링크](https://www.acmicpc.net/problem/24074))
 
 [24075 計算 (Calculation)](../problems/acmicpc_24075.cpp) ([링크](https://www.acmicpc.net/problem/24075))
+
+[24076 IOI 文字列 (IOI String)](../problems/acmicpc_24076.cpp) ([링크](https://www.acmicpc.net/problem/24076))
 
 [24077 比較 (Comparison)](../problems/acmicpc_24077.cpp) ([링크](https://www.acmicpc.net/problem/24077))
 
@@ -3294,6 +3300,8 @@
 
 [26564 Poker Hand](../problems/acmicpc_26564.cpp) ([링크](https://www.acmicpc.net/problem/26564))
 
+[26565 Time Limits](../problems/acmicpc_26565.cpp) ([링크](https://www.acmicpc.net/problem/26565))
+
 [26570 Semiperfect](../problems/acmicpc_26570.cpp) ([링크](https://www.acmicpc.net/problem/26570))
 
 [26575 Pups](../problems/acmicpc_26575.cpp) ([링크](https://www.acmicpc.net/problem/26575))
@@ -3334,7 +3342,11 @@
 
 [27037 The Middle Squares](../problems/acmicpc_27037.cpp) ([링크](https://www.acmicpc.net/problem/27037))
 
+[27040 Golf](../problems/acmicpc_27040.cpp) ([링크](https://www.acmicpc.net/problem/27040))
+
 [27049 ISBN](../problems/acmicpc_27049.cpp) ([링크](https://www.acmicpc.net/problem/27049))
+
+[27058 Message Decowding](../problems/acmicpc_27058.cpp) ([링크](https://www.acmicpc.net/problem/27058))
 
 [27101 Metric Matrices](../problems/acmicpc_27101.cpp) ([링크](https://www.acmicpc.net/problem/27101))
 
@@ -3414,6 +3426,8 @@
 
 [28017 게임을 클리어하자](../problems/acmicpc_28017.cpp) ([링크](https://www.acmicpc.net/problem/28017))
 
+[28061 레몬 따기](../problems/acmicpc_28061.cpp) ([링크](https://www.acmicpc.net/problem/28061))
+
 [28064 이민희진](../problems/acmicpc_28064.cpp) ([링크](https://www.acmicpc.net/problem/28064))
 
 [28070 유니의 편지 쓰기](../problems/acmicpc_28070.cpp) ([링크](https://www.acmicpc.net/problem/28070))
@@ -3425,6 +3439,8 @@
 [28110 마지막 문제](../problems/acmicpc_28110.cpp) ([링크](https://www.acmicpc.net/problem/28110)
 
 [28113 정보섬의 대중교통](../problems/acmicpc_28113.cpp) ([링크](https://www.acmicpc.net/problem/28113)
+
+[28114 팀명 정하기](../problems/acmicpc_28114.cpp) ([링크](https://www.acmicpc.net/problem/28114)
 
 [28115 등차수열의 합](../problems/acmicpc_28115.cpp) ([링크](https://www.acmicpc.net/problem/28115)
 
