@@ -2538,6 +2538,8 @@
 
 [18005 Even or Odd?](../problems/acmicpc_18005.cpp) ([링크](https://www.acmicpc.net/problem/18005))
 
+[18098 Совпадения](../problems/acmicpc_18098.cpp) ([링크](https://www.acmicpc.net/problem/18098))
+
 [18108 1998년생인 내가 태국에서는 2541년생?!](../problems/acmicpc_18108.cpp) ([링크](https://www.acmicpc.net/problem/18108))
 
 [18110 solved.ac](../problems/acmicpc_18110.cpp) ([링크](https://www.acmicpc.net/problem/18110))
