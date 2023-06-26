@@ -3464,6 +3464,8 @@
 
 [28235 코드마스터 2023](../problems/acmicpc_28235.cpp) ([링크](https://www.acmicpc.net/problem/28235)
 
+[28236 점심시간 레이스](../problems/acmicpc_28236.cpp) ([링크](https://www.acmicpc.net/problem/28236)
+
 ## Algorithms
 
 [BFS](BFS.md)
