@@ -712,6 +712,8 @@
 
 [4320 완전 P제곱수](../problems/acmicpc_4320.cpp) ([링크](https://www.acmicpc.net/problem/4320))
 
+[4344 평균은 넘겠지](../problems/acmicpc_4344.cpp) ([링크](https://www.acmicpc.net/problem/4344))
+
 [4355 서로소](../problems/acmicpc_4355.cpp) ([링크](https://www.acmicpc.net/problem/4355))
 
 [4375 1](../problems/acmicpc_4375.cpp) ([링크](https://www.acmicpc.net/problem/4375))
