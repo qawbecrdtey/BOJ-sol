@@ -3466,6 +3466,8 @@
 
 [28236 점심시간 레이스](../problems/acmicpc_28236.cpp) ([링크](https://www.acmicpc.net/problem/28236)
 
+[28242 수학 선생님의 고민(Hard)](../problems/acmicpc_28242.cpp) ([링크](https://www.acmicpc.net/problem/28242)
+
 ## Algorithms
 
 [BFS](BFS.md)
