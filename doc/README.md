@@ -3470,6 +3470,8 @@
 
 [28242 수학 선생님의 고민(Hard)](../problems/acmicpc_28242.cpp) ([링크](https://www.acmicpc.net/problem/28242)
 
+[28250 이브, 프시케 그리고 푸른 MEX의 아내](../problems/acmicpc_28250.cpp) ([링크](https://www.acmicpc.net/problem/28250)
+
 ## Algorithms
 
 [BFS](BFS.md)
