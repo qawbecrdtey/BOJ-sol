@@ -3462,6 +3462,8 @@
 
 [28224 Final Price](../problems/acmicpc_28224.cpp) ([링크](https://www.acmicpc.net/problem/28224)
 
+[28235 코드마스터 2023](../problems/acmicpc_28235.cpp) ([링크](https://www.acmicpc.net/problem/28235)
+
 ## Algorithms
 
 [BFS](BFS.md)
