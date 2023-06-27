@@ -3472,6 +3472,8 @@
 
 [28250 이브, 프시케 그리고 푸른 MEX의 아내](../problems/acmicpc_28250.cpp) ([링크](https://www.acmicpc.net/problem/28250)
 
+[28278 스택 2](../problems/acmicpc_28278.cpp) ([링크](https://www.acmicpc.net/problem/28278)
+
 ## Algorithms
 
 [BFS](BFS.md)
