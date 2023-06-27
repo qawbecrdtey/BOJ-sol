@@ -3434,6 +3434,8 @@
 
 [28061 레몬 따기](../problems/acmicpc_28061.cpp) ([링크](https://www.acmicpc.net/problem/28061))
 
+[28062 준석이의 사탕 사기](../problems/acmicpc_28062.cpp) ([링크](https://www.acmicpc.net/problem/28062))
+
 [28064 이민희진](../problems/acmicpc_28064.cpp) ([링크](https://www.acmicpc.net/problem/28064))
 
 [28070 유니의 편지 쓰기](../problems/acmicpc_28070.cpp) ([링크](https://www.acmicpc.net/problem/28070))
