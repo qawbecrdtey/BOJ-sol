@@ -3438,6 +3438,8 @@
 
 [28070 유니의 편지 쓰기](../problems/acmicpc_28070.cpp) ([링크](https://www.acmicpc.net/problem/28070))
 
+[28074 모비스](../problems/acmicpc_28074.cpp) ([링크](https://www.acmicpc.net/problem/28074))
+
 [28086 미소녀 컴퓨터 파루빗토 쨩](../problems/acmicpc_28086.cpp) ([링크](https://www.acmicpc.net/problem/28086))
 
 [28097 모범생 포닉스](../problems/acmicpc_28097.cpp) ([링크](https://www.acmicpc.net/problem/28097))
