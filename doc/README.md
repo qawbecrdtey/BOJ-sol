@@ -1860,6 +1860,8 @@
 
 [13771 Presents](../problems/acmicpc_13771.cpp) ([링크](https://www.acmicpc.net/problem/13771))
 
+[13773 Olympic Games](../problems/acmicpc_13773.cpp) ([링크](https://www.acmicpc.net/problem/13773))
+
 [13774 Palindromes](../problems/acmicpc_13774.cpp) ([링크](https://www.acmicpc.net/problem/13774))
 
 [13866 팀 나누기](../problems/acmicpc_13866.cpp) ([링크](https://www.acmicpc.net/problem/13866))
