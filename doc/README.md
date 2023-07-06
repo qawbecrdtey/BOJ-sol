@@ -3480,6 +3480,8 @@
 
 [28278 스택 2](../problems/acmicpc_28278.cpp) ([링크](https://www.acmicpc.net/problem/28278)
 
+[28298 더 흔한 타일 색칠 문제](../problems/acmicpc_28298.cpp) ([링크](https://www.acmicpc.net/problem/28298)
+
 ## Algorithms
 
 [BFS](BFS.md)
