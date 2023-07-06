@@ -2498,6 +2498,8 @@
 
 [17466 N! mod P (1)](../problems/acmicpc_17466.cpp) ([링크](https://www.acmicpc.net/problem/17466))
 
+[17472 다리 만들기 2](../problems/acmicpc_17472.cpp) ([링크](https://www.acmicpc.net/problem/17472))
+
 [17478 재귀함수가 뭔가요?](../problems/acmicpc_17478.cpp) ([링크](https://www.acmicpc.net/problem/17478))
 
 [17481 최애 정하기](../problems/acmicpc_17481.cpp) ([링크](https://www.acmicpc.net/problem/17481))
