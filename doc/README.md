@@ -2416,6 +2416,8 @@
 
 [17134 르모앙의 추측](../problems/acmicpc_17134.cpp) ([링크](https://www.acmicpc.net/problem/17134))
 
+[17143 낚시왕](../problems/acmicpc_17143.cpp) ([링크](https://www.acmicpc.net/problem/17143))
+
 [17164 Rainbow Beads](../problems/acmicpc_17164.cpp) ([링크](https://www.acmicpc.net/problem/17164))
 
 [17173 배수들의 합](../problems/acmicpc_17173.cpp) ([링크](https://www.acmicpc.net/problem/17173))
@@ -3479,6 +3481,8 @@
 [28250 이브, 프시케 그리고 푸른 MEX의 아내](../problems/acmicpc_28250.cpp) ([링크](https://www.acmicpc.net/problem/28250)
 
 [28278 스택 2](../problems/acmicpc_28278.cpp) ([링크](https://www.acmicpc.net/problem/28278)
+
+[28295 체육은 코딩과목 입니다](../problems/acmicpc_28295.cpp) ([링크](https://www.acmicpc.net/problem/28295)
 
 [28298 더 흔한 타일 색칠 문제](../problems/acmicpc_28298.cpp) ([링크](https://www.acmicpc.net/problem/28298)
 
