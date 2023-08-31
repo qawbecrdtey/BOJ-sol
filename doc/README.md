@@ -26,6 +26,8 @@
 
 ## 작업중
 
+[1002 터렛](../problems/acmicpc_1002.cpp) ([링크](https://www.acmicpc.net/problem/1002))
+
 [1005 ACM Craft](../problems/acmicpc_1005.cpp) ([링크](https://www.acmicpc.net/problem/1005))
 
 [1007 벡터 매칭](../problems/acmicpc_1007.cpp) ([링크](https://www.acmicpc.net/problem/1007))
