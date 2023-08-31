@@ -3492,6 +3492,8 @@
 
 [28298 더 흔한 타일 색칠 문제](../problems/acmicpc_28298.cpp) ([링크](https://www.acmicpc.net/problem/28298))
 
+[28444 HI-ARC=?](../problems/acmicpc_28444.cpp) ([링크](https://www.acmicpc.net/problem/28444))
+
 [28701 세제곱의 합](../problems/acmicpc_28701.cpp) ([링크](https://www.acmicpc.net/problem/28701))
 
 ## Algorithms
