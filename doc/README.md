@@ -3498,6 +3498,8 @@
 
 [28701 세제곱의 합](../problems/acmicpc_28701.cpp) ([링크](https://www.acmicpc.net/problem/28701))
 
+[29332 보물 지도](../problems/acmicpc_29332.cpp) ([링크](https://www.acmicpc.net/problem/29332))
+
 ## Algorithms
 
 [BFS](BFS.md)
