@@ -26,6 +26,8 @@
 
 ## 작업중
 
+[1002 터렛](../problems/acmicpc_1002.cpp) ([링크](https://www.acmicpc.net/problem/1002))
+
 [1005 ACM Craft](../problems/acmicpc_1005.cpp) ([링크](https://www.acmicpc.net/problem/1005))
 
 [1007 벡터 매칭](../problems/acmicpc_1007.cpp) ([링크](https://www.acmicpc.net/problem/1007))
@@ -2154,6 +2156,8 @@
 
 [15638 No Description](../problems/acmicpc_15638.cpp) ([링크](https://www.acmicpc.net/problem/15638))
 
+[15653 구슬 탈출 4](../problems/acmicpc_15653.cpp) ([링크](https://www.acmicpc.net/problem/15653))
+
 [15654 N과 M (5)](../problems/acmicpc_15654.cpp) ([링크](https://www.acmicpc.net/problem/15654))
 
 [15656 N과 M (7)](../problems/acmicpc_15656.cpp) ([링크](https://www.acmicpc.net/problem/15656))
@@ -3454,41 +3458,49 @@
 
 [28097 모범생 포닉스](../problems/acmicpc_28097.cpp) ([링크](https://www.acmicpc.net/problem/28097))
 
-[28110 마지막 문제](../problems/acmicpc_28110.cpp) ([링크](https://www.acmicpc.net/problem/28110)
+[28110 마지막 문제](../problems/acmicpc_28110.cpp) ([링크](https://www.acmicpc.net/problem/28110))
 
-[28113 정보섬의 대중교통](../problems/acmicpc_28113.cpp) ([링크](https://www.acmicpc.net/problem/28113)
+[28113 정보섬의 대중교통](../problems/acmicpc_28113.cpp) ([링크](https://www.acmicpc.net/problem/28113))
 
-[28114 팀명 정하기](../problems/acmicpc_28114.cpp) ([링크](https://www.acmicpc.net/problem/28114)
+[28114 팀명 정하기](../problems/acmicpc_28114.cpp) ([링크](https://www.acmicpc.net/problem/28114))
 
-[28115 등차수열의 합](../problems/acmicpc_28115.cpp) ([링크](https://www.acmicpc.net/problem/28115)
+[28115 등차수열의 합](../problems/acmicpc_28115.cpp) ([링크](https://www.acmicpc.net/problem/28115))
 
-[28132 기벡을 안배운다고?](../problems/acmicpc_28132.cpp) ([링크](https://www.acmicpc.net/problem/28132)
+[28132 기벡을 안배운다고?](../problems/acmicpc_28132.cpp) ([링크](https://www.acmicpc.net/problem/28132))
 
-[28135 Since 1973](../problems/acmicpc_28135.cpp) ([링크](https://www.acmicpc.net/problem/28135)
+[28135 Since 1973](../problems/acmicpc_28135.cpp) ([링크](https://www.acmicpc.net/problem/28135))
 
-[28137 뭐라고? 안들려](../problems/acmicpc_28137.cpp) ([링크](https://www.acmicpc.net/problem/28137)
+[28137 뭐라고? 안들려](../problems/acmicpc_28137.cpp) ([링크](https://www.acmicpc.net/problem/28137))
 
-[28136 원, 탁!](../problems/acmicpc_28136.cpp) ([링크](https://www.acmicpc.net/problem/28136)
+[28136 원, 탁!](../problems/acmicpc_28136.cpp) ([링크](https://www.acmicpc.net/problem/28136))
 
-[28138 재밌는 나머지 연산](../problems/acmicpc_28138.cpp) ([링크](https://www.acmicpc.net/problem/28138)
+[28138 재밌는 나머지 연산](../problems/acmicpc_28138.cpp) ([링크](https://www.acmicpc.net/problem/28138))
 
-[28152 Power of Divisors](../problems/acmicpc_28152.cpp) ([링크](https://www.acmicpc.net/problem/28152)
+[28139 평균 구하기](../problems/acmicpc_28139.cpp) ([링크](https://www.acmicpc.net/problem/28139))
 
-[28224 Final Price](../problems/acmicpc_28224.cpp) ([링크](https://www.acmicpc.net/problem/28224)
+[28152 Power of Divisors](../problems/acmicpc_28152.cpp) ([링크](https://www.acmicpc.net/problem/28152))
 
-[28235 코드마스터 2023](../problems/acmicpc_28235.cpp) ([링크](https://www.acmicpc.net/problem/28235)
+[28224 Final Price](../problems/acmicpc_28224.cpp) ([링크](https://www.acmicpc.net/problem/28224))
 
-[28236 점심시간 레이스](../problems/acmicpc_28236.cpp) ([링크](https://www.acmicpc.net/problem/28236)
+[28235 코드마스터 2023](../problems/acmicpc_28235.cpp) ([링크](https://www.acmicpc.net/problem/28235))
 
-[28242 수학 선생님의 고민(Hard)](../problems/acmicpc_28242.cpp) ([링크](https://www.acmicpc.net/problem/28242)
+[28236 점심시간 레이스](../problems/acmicpc_28236.cpp) ([링크](https://www.acmicpc.net/problem/28236))
 
-[28250 이브, 프시케 그리고 푸른 MEX의 아내](../problems/acmicpc_28250.cpp) ([링크](https://www.acmicpc.net/problem/28250)
+[28242 수학 선생님의 고민(Hard)](../problems/acmicpc_28242.cpp) ([링크](https://www.acmicpc.net/problem/28242))
 
-[28278 스택 2](../problems/acmicpc_28278.cpp) ([링크](https://www.acmicpc.net/problem/28278)
+[28250 이브, 프시케 그리고 푸른 MEX의 아내](../problems/acmicpc_28250.cpp) ([링크](https://www.acmicpc.net/problem/28250))
 
-[28295 체육은 코딩과목 입니다](../problems/acmicpc_28295.cpp) ([링크](https://www.acmicpc.net/problem/28295)
+[28278 스택 2](../problems/acmicpc_28278.cpp) ([링크](https://www.acmicpc.net/problem/28278))
 
-[28298 더 흔한 타일 색칠 문제](../problems/acmicpc_28298.cpp) ([링크](https://www.acmicpc.net/problem/28298)
+[28295 체육은 코딩과목 입니다](../problems/acmicpc_28295.cpp) ([링크](https://www.acmicpc.net/problem/28295))
+
+[28298 더 흔한 타일 색칠 문제](../problems/acmicpc_28298.cpp) ([링크](https://www.acmicpc.net/problem/28298))
+
+[28444 HI-ARC=?](../problems/acmicpc_28444.cpp) ([링크](https://www.acmicpc.net/problem/28444))
+
+[28701 세제곱의 합](../problems/acmicpc_28701.cpp) ([링크](https://www.acmicpc.net/problem/28701))
+
+[29332 보물 지도](../problems/acmicpc_29332.cpp) ([링크](https://www.acmicpc.net/problem/29332))
 
 ## Algorithms
 
