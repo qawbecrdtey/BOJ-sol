@@ -76,6 +76,8 @@
 
 [1160 Random Number Generator](../problems/acmicpc_1160.cpp) ([링크](https://www.acmicpc.net/problem/1160))
 
+[1162 도로포장](../problems/acmicpc_1162.cpp) ([링크](https://www.acmicpc.net/problem/1162))
+
 [1188 음식 평론가](../problems/acmicpc_1188.cpp) ([링크](https://www.acmicpc.net/problem/1188))
 
 [1189 컴백홈](../problems/acmicpc_1189.cpp) ([링크](https://www.acmicpc.net/problem/1189))
