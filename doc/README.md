@@ -3086,6 +3086,8 @@
 
 [25184 동가수열 구하기](../problems/acmicpc_25184.cpp) ([링크](https://www.acmicpc.net/problem/25184))
 
+[25186 INFP 두람](../problems/acmicpc_25186.cpp) ([링크](https://www.acmicpc.net/problem/25186))
+
 [25192 인사성 밝은 곰곰이](../problems/acmicpc_25192.cpp) ([링크](https://www.acmicpc.net/problem/25192))
 
 [25205 경로당펑크 2077](../problems/acmicpc_25205.cpp) ([링크](https://www.acmicpc.net/problem/25205))
