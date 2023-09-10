@@ -86,6 +86,8 @@
 
 [1199 오일러 회로](../problems/acmicpc_1199.cpp) ([링크](https://www.acmicpc.net/problem/1199))
 
+[1201 NMK](../problems/acmicpc_1201.cpp) ([링크](https://www.acmicpc.net/problem/1201))
+
 [1202 보석 도둑](../problems/acmicpc_1202.cpp) ([링크](https://www.acmicpc.net/problem/1202))
 
 [1208 부분수열의 합 2](../problems/acmicpc_1208.cpp) ([링크](https://www.acmicpc.net/problem/1208))
