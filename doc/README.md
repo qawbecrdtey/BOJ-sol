@@ -132,6 +132,8 @@
 
 [1276 교각 놓기](../problems/acmicpc_1276.cpp) ([링크](https://www.acmicpc.net/problem/1276))
 
+[1280 나무 심기](../problems/acmicpc_1280.cpp) ([링크](https://www.acmicpc.net/problem/1280))
+
 [1284 집 주소](../problems/acmicpc_1284.cpp) ([링크](https://www.acmicpc.net/problem/1284))
 
 [1296 데이트](../problems/acmicpc_1296.cpp) ([링크](https://www.acmicpc.net/problem/1296))
