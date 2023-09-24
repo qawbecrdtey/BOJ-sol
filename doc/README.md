@@ -148,6 +148,8 @@
 
 [1306 달려라 홍준](../problems/acmicpc_1306.cpp) ([링크](https://www.acmicpc.net/problem/1306))
 
+[1311 할 일 정하기 1](../problems/acmicpc_1311.cpp) ([링크](https://www.acmicpc.net/problem/1311))
+
 [1312 소수](../problems/acmicpc_1312.cpp) ([링크](https://www.acmicpc.net/problem/1312))
 
 [1322 X와 K](../problems/acmicpc_1322.cpp) ([링크](https://www.acmicpc.net/problem/1322))
