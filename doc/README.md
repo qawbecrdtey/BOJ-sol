@@ -3506,6 +3506,8 @@
 
 [29332 보물 지도](../problems/acmicpc_29332.cpp) ([링크](https://www.acmicpc.net/problem/29332))
 
+[30007 라면 공식](../problems/acmicpc_30007.cpp) ([링크](https://www.acmicpc.net/problem/30007))
+
 ## Algorithms
 
 [BFS](BFS.md)
