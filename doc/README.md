@@ -2358,6 +2358,8 @@
 
 [16563 어려운 소인수분해](../problems/acmicpc_16563.cpp) ([링크](https://www.acmicpc.net/problem/16563))
 
+[16566 카드 게임](../problems/acmicpc_16566.cpp) ([링크](https://www.acmicpc.net/problem/16566))
+
 [16581 Lie Detector](../problems/acmicpc_16581.cpp) ([링크](https://www.acmicpc.net/problem/16581))
 
 [16600 Contemporary Art](../problems/acmicpc_16600.cpp) ([링크](https://www.acmicpc.net/problem/16600))
