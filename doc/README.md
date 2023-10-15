@@ -1342,6 +1342,8 @@
 
 [10262 주사위 게임](../problems/acmicpc_10262.cpp) ([링크](https://www.acmicpc.net/problem/10262))
 
+[10266 시계 사진들](../problems/acmicpc_10266.cpp) ([링크](https://www.acmicpc.net/problem/10266))
+
 [10270 Algebraic Teamwork](../problems/acmicpc_10270.cpp) ([링크](https://www.acmicpc.net/problem/10270))
 
 [10280 Pizza voting](../problems/acmicpc_10280.cpp) ([링크](https://www.acmicpc.net/problem/10280))
