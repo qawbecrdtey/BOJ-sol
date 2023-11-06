@@ -900,6 +900,8 @@
 
 [5607 問題 １](../problems/acmicpc_5607.cpp) ([링크](https://www.acmicpc.net/problem/5607))
 
+[5615 아파트 임대](../problems/acmicpc_5615.cpp) ([링크](https://www.acmicpc.net/problem/5615))
+
 [5618 공약수](../problems/acmicpc_5618.cpp) ([링크](https://www.acmicpc.net/problem/5618))
 
 [5624 좋은 수](../problems/acmicpc_5624.cpp) ([링크](https://www.acmicpc.net/problem/5624))
@@ -2713,6 +2715,8 @@
 [20112 사토르 마방진](../problems/acmicpc_20112.cpp) ([링크](https://www.acmicpc.net/problem/20112))
 
 [20124 모르고리즘 회장님 추천 받습니다](../problems/acmicpc_20124.cpp) ([링크](https://www.acmicpc.net/problem/20124))
+
+[20149 선분 교차 3](../problems/acmicpc_20149.cpp) ([링크](https://www.acmicpc.net/problem/20149))
 
 [20152 Game Addiction](../problems/acmicpc_20152.cpp) ([링크](https://www.acmicpc.net/problem/20152))
 
