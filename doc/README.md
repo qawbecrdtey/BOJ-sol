@@ -726,6 +726,8 @@
 
 [4344 평균은 넘겠지](../problems/acmicpc_4344.cpp) ([링크](https://www.acmicpc.net/problem/4344))
 
+[4354 문자열 제곱](../problems/acmicpc_4354.cpp) ([링크](https://www.acmicpc.net/problem/4354ee))
+
 [4355 서로소](../problems/acmicpc_4355.cpp) ([링크](https://www.acmicpc.net/problem/4355))
 
 [4375 1](../problems/acmicpc_4375.cpp) ([링크](https://www.acmicpc.net/problem/4375))
@@ -3523,6 +3525,8 @@
 [29332 보물 지도](../problems/acmicpc_29332.cpp) ([링크](https://www.acmicpc.net/problem/29332))
 
 [30007 라면 공식](../problems/acmicpc_30007.cpp) ([링크](https://www.acmicpc.net/problem/30007))
+
+[30454 얼룩말을 찾아라!](../problems/acmicpc_30454.cpp) ([링크](https://www.acmicpc.net/problem/30454))
 
 ## Algorithms
 
