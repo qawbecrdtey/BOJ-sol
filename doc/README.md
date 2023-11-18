@@ -3528,6 +3528,8 @@
 
 [29332 보물 지도](../problems/acmicpc_29332.cpp) ([링크](https://www.acmicpc.net/problem/29332))
 
+[29758 제곱근 수열](../problems/acmicpc_29758.cpp) ([링크](https://www.acmicpc.net/problem/29758))
+
 [30007 라면 공식](../problems/acmicpc_30007.cpp) ([링크](https://www.acmicpc.net/problem/30007))
 
 [30411 그래프 게임](../problems/acmicpc_30411.cpp) ([링크](https://www.acmicpc.net/problem/30411))
