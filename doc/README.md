@@ -3534,6 +3534,8 @@
 
 [30599 Divisibility Trick](../problems/acmicpc_30599.cpp) ([링크](https://www.acmicpc.net/problem/30599))
 
+[30676 이 별은 무슨 색일까](../problems/acmicpc_30676.cpp) ([링크](https://www.acmicpc.net/problem/30676))
+
 ## Algorithms
 
 [BFS](BFS.md)
