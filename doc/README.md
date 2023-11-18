@@ -3540,6 +3540,8 @@
 
 [30676 이 별은 무슨 색일까](../problems/acmicpc_30676.cpp) ([링크](https://www.acmicpc.net/problem/30676))
 
+[30700 KOREA 문자열 만들기](../problems/acmicpc_30700.cpp) ([링크](https://www.acmicpc.net/problem/30700))
+
 ## Algorithms
 
 [BFS](BFS.md)
