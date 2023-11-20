@@ -158,6 +158,8 @@
 
 [1328 고층 빌딩](../problems/acmicpc_1328.cpp) ([링크](https://www.acmicpc.net/problem/1328))
 
+[1337 올바른 배열](../problems/acmicpc_1337.cpp) ([링크](https://www.acmicpc.net/problem/1337))
+
 [1339 최소비용 구하기 2](../problems/acmicpc_1339.cpp) ([링크](https://www.acmicpc.net/problem/1339))
 
 [1343 폴리오미노](../problems/acmicpc_1343.cpp) ([링크](https://www.acmicpc.net/problem/1343))
