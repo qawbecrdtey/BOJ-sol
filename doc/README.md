@@ -3548,6 +3548,8 @@
 
 [30700 KOREA 문자열 만들기](../problems/acmicpc_30700.cpp) ([링크](https://www.acmicpc.net/problem/30700))
 
+[30704 정사각형 연결하기](../problems/acmicpc_30704.cpp) ([링크](https://www.acmicpc.net/problem/30704))
+
 ## Algorithms
 
 [BFS](BFS.md)
