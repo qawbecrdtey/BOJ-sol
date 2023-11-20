@@ -3532,6 +3532,8 @@
 
 [30007 라면 공식](../problems/acmicpc_30007.cpp) ([링크](https://www.acmicpc.net/problem/30007))
 
+[30088 공포의 면담실](../problems/acmicpc_30088.cpp) ([링크](https://www.acmicpc.net/problem/30088))
+
 [30411 그래프 게임](../problems/acmicpc_30411.cpp) ([링크](https://www.acmicpc.net/problem/30411))
 
 [30454 얼룩말을 찾아라!](../problems/acmicpc_30454.cpp) ([링크](https://www.acmicpc.net/problem/30454))
