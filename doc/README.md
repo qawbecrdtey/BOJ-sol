@@ -2954,6 +2954,8 @@
 
 [23746 문자열 압축 해제](../problems/acmicpc_23746.cpp) ([링크](https://www.acmicpc.net/problem/23746))
 
+[23758 중앙값 제거](../problems/acmicpc_23758.cpp) ([링크](https://www.acmicpc.net/problem/23758))
+
 [23794 골뱅이 찍기 - 정사각형](../problems/acmicpc_23794.cpp) ([링크](https://www.acmicpc.net/problem/23794))
 
 [23795 사장님 도박은 재미로 하셔야 합니다](../problems/acmicpc_23795.cpp) ([링크](https://www.acmicpc.net/problem/23795))
