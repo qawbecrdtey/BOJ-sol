@@ -1164,6 +1164,8 @@
 
 [9076 점수 집계](../problems/acmicpc_9076.cpp) ([링크](https://www.acmicpc.net/problem/9076))
 
+[9081 1, 2, 3 더하기 2](../problems/acmicpc_9081.cpp) ([링크](https://www.acmicpc.net/problem/9081))
+
 [9084 동전](../problems/acmicpc_9084.cpp) ([링크](https://www.acmicpc.net/problem/9084))
 
 [9094 수학적 호기심](../problems/acmicpc_9094.cpp) ([링크](https://www.acmicpc.net/problem/9094))
