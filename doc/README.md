@@ -1960,6 +1960,8 @@
 
 [14264 정육각형과 삼각형](../problems/acmicpc_14264.cpp) ([링크](https://www.acmicpc.net/problem/14264))
 
+[14267 회사 문화 1](../problems/acmicpc_14267.cpp) ([링크](https://www.acmicpc.net/problem/14267))
+
 [14279 두 수의 곱](../problems/acmicpc_14279.cpp) ([링크](https://www.acmicpc.net/problem/14279))
 
 [14284 간선 이어가기 2](../problems/acmicpc_14284.cpp) ([링크](https://www.acmicpc.net/problem/14284))
