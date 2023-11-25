@@ -996,6 +996,8 @@
 
 [6679 싱기한 네자리 숫자](../problems/acmicpc_6679.cpp) ([링크](https://www.acmicpc.net/problem/6679))
 
+[6718 Goldbach’s conjecture](../problems/acmicpc_6718.cpp) ([링크](https://www.acmicpc.net/problem/6718))
+
 [6721 Backward numbers](../problems/acmicpc_6721.cpp) ([링크](https://www.acmicpc.net/problem/6721))
 
 [6749 Next in line](../problems/acmicpc_6749.cpp) ([링크](https://www.acmicpc.net/problem/6749))
