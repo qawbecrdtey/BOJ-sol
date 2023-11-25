@@ -1722,6 +1722,8 @@
 
 [12785 토쟁이의 등굣길](../problems/acmicpc_12785.cpp) ([링크](https://www.acmicpc.net/problem/12785))
 
+[12788 제 2회 IUPC는 잘 개최될 수 있을까?](../problems/acmicpc_12788.cpp) ([링크](https://www.acmicpc.net/problem/12788))
+
 [12789 도키도키 간식드리미](../problems/acmicpc_12789.cpp) ([링크](https://www.acmicpc.net/problem/12789))
 
 [12791 Starman](../problems/acmicpc_12791.cpp) ([링크](https://www.acmicpc.net/problem/12791))
@@ -2913,6 +2915,8 @@
 [22970 문제 재탕](../problems/acmicpc_22970.cpp) ([링크](https://www.acmicpc.net/problem/22970))
 
 [23027 1번부터 문제의 상태가…?](../problems/acmicpc_23027.cpp) ([링크](https://www.acmicpc.net/problem/23027))
+
+[23029 시식 코너는 나의 것](../problems/acmicpc_23029.cpp) ([링크](https://www.acmicpc.net/problem/23029))
 
 [23037 5의 수난](../problems/acmicpc_23037.cpp) ([링크](https://www.acmicpc.net/problem/23037))
 
