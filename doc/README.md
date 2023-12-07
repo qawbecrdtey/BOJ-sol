@@ -3068,6 +3068,8 @@
 
 [24447 알고리즘 수업 - 너비 우선 탐색 4](../problems/acmicpc_24447.cpp) ([링크](https://www.acmicpc.net/problem/24447))
 
+[24463 미로](../problems/acmicpc_24463.cpp) ([링크](https://www.acmicpc.net/problem/24463))
+
 [24479 알고리즘 수업 - 깊이 우선 탐색 1](../problems/acmicpc_24479.cpp) ([링크](https://www.acmicpc.net/problem/24479))
 
 [24480 알고리즘 수업 - 깊이 우선 탐색 2](../problems/acmicpc_24480.cpp) ([링크](https://www.acmicpc.net/problem/24480))
