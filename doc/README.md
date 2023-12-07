@@ -3546,6 +3546,8 @@
 
 [28701 세제곱의 합](../problems/acmicpc_28701.cpp) ([링크](https://www.acmicpc.net/problem/28701))
 
+[28927 Киноманы](../problems/acmicpc_28927.cpp) ([링크](https://www.acmicpc.net/problem/28927))
+
 [29332 보물 지도](../problems/acmicpc_29332.cpp) ([링크](https://www.acmicpc.net/problem/29332))
 
 [29758 제곱근 수열](../problems/acmicpc_29758.cpp) ([링크](https://www.acmicpc.net/problem/29758))
