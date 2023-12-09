@@ -3580,6 +3580,8 @@
 
 [30824 피보나치 더하기](../problems/acmicpc_30824.cpp) ([링크](https://www.acmicpc.net/problem/30824))
 
+[30884 Yeah, but How?](../problems/acmicpc_30884.cpp) ([링크](https://www.acmicpc.net/problem/30884))
+
 ## Algorithms
 
 [BFS](BFS.md)
