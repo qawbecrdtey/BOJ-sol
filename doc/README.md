@@ -2846,6 +2846,8 @@
 
 [21598 SciComLove](../problems/acmicpc_21598.cpp) ([링크](https://www.acmicpc.net/problem/21598))
 
+[21600 계단](../problems/acmicpc_21600.cpp) ([링크](https://www.acmicpc.net/problem/21600))
+
 [21603 K 2K 게임](../problems/acmicpc_21603.cpp) ([링크](https://www.acmicpc.net/problem/21603))
 
 [21606 아침 산책](../problems/acmicpc_21606.cpp) ([링크](https://www.acmicpc.net/problem/21606))
