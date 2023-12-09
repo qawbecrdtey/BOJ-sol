@@ -3584,6 +3584,8 @@
 
 [30884 Yeah, but How?](../problems/acmicpc_30884.cpp) ([링크](https://www.acmicpc.net/problem/30884))
 
+[30893 트리 게임](../problems/acmicpc_30893.cpp) ([링크](https://www.acmicpc.net/problem/30893))
+
 ## Algorithms
 
 [BFS](BFS.md)
