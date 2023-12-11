@@ -706,6 +706,8 @@
 
 [4097 수익](../problems/acmicpc_4097.cpp) ([링크](https://www.acmicpc.net/problem/4097))
 
+[4108 지뢰찾기](../problems/acmicpc_4108.cpp) ([링크](https://www.acmicpc.net/problem/4108))
+
 [4134 다음 소수](../problems/acmicpc_4134.cpp) ([링크](https://www.acmicpc.net/problem/4134))
 
 [4149 큰 수 소인수분해](../problems/acmicpc_4149.cpp) ([링크](https://www.acmicpc.net/problem/4149))
