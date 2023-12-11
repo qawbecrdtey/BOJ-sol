@@ -2294,6 +2294,8 @@
 
 [15991 1, 2, 3 더하기 6](../problems/acmicpc_15991.cpp) ([링크](https://www.acmicpc.net/problem/15991))
 
+[15992 1, 2, 3 더하기 7](../problems/acmicpc_15992.cpp) ([링크](https://www.acmicpc.net/problem/15992))
+
 [15995 잉여역수 구하기](../problems/acmicpc_15995.cpp) ([링크](https://www.acmicpc.net/problem/15995))
 
 [16017 Telemarketer or not?](../problems/acmicpc_16017.cpp) ([링크](https://www.acmicpc.net/problem/16017))
