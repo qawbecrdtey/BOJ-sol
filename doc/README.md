@@ -1108,6 +1108,8 @@
 
 [8295 Rectangles](../problems/acmicpc_8295.cpp) ([링크](https://www.acmicpc.net/problem/8295))
 
+[8312 Rectangles 2](../problems/acmicpc_8312.cpp) ([링크](https://www.acmicpc.net/problem/8312))
+
 [8337 Rectangles 2](../problems/acmicpc_8337.cpp) ([링크](https://www.acmicpc.net/problem/8337))
 
 [8370 Plane](../problems/acmicpc_8370.cpp) ([링크](https://www.acmicpc.net/problem/8370))
