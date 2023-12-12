@@ -2664,6 +2664,8 @@
 
 [18691 Pokemon Buddy](../problems/acmicpc_18691.cpp) ([링크](https://www.acmicpc.net/problem/18691))
 
+[18769 그리드 네트워크](../problems/acmicpc_18769.cpp) ([링크](https://www.acmicpc.net/problem/18769))
+
 [18786 Triangles (Bronze)](../problems/acmicpc_18786.cpp) ([링크](https://www.acmicpc.net/problem/18786))
 
 [18813 Divisionals Spelling](../problems/acmicpc_18813.cpp) ([링크](https://www.acmicpc.net/problem/18813))
