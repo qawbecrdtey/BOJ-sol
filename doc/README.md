@@ -1220,6 +1220,8 @@
 
 [9358 순열 접기 게임](../problems/acmicpc_9358.cpp) ([링크](https://www.acmicpc.net/problem/9358))
 
+[9359 서로소](../problems/acmicpc_9359.cpp) ([링크](https://www.acmicpc.net/problem/9359))
+
 [9363 큰 나눗셈](../problems/acmicpc_9363.cpp) ([링크](https://www.acmicpc.net/problem/9363))
 
 [9375 패션왕 신해빈](../problems/acmicpc_9375.cpp) ([링크](https://www.acmicpc.net/problem/9375))
