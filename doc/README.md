@@ -858,6 +858,8 @@
 
 [5237 Connected or Not Connected](../problems/acmicpc_5237.cpp) ([링크](https://www.acmicpc.net/problem/5237))
 
+[5295 Pirates’ Code](../problems/acmicpc_5295.cpp) ([링크](https://www.acmicpc.net/problem/5295))
+
 [5300 Fill the Rowboats!](../problems/acmicpc_5300.cpp) ([링크](https://www.acmicpc.net/problem/5300))
 
 [5342 Billing](../problems/acmicpc_5342.cpp) ([링크](https://www.acmicpc.net/problem/5342))
