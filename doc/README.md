@@ -3110,6 +3110,8 @@
 
 [24736 Football Scoring](../problems/acmicpc_24736.cpp) ([링크](https://www.acmicpc.net/problem/24736))
 
+[24742 Simple Collatz Sequence](../problems/acmicpc_24742.cpp) ([링크](https://www.acmicpc.net/problem/24742))
+
 [24805 Climbing Worm](../problems/acmicpc_24805.cpp) ([링크](https://www.acmicpc.net/problem/24805))
 
 [24820 Spelling Bee](../problems/acmicpc_24820.cpp) ([링크](https://www.acmicpc.net/problem/24820))
