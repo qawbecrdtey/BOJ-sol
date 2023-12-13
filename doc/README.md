@@ -706,6 +706,8 @@
 
 [4072 Words](../problems/acmicpc_4072.cpp) ([링크](https://www.acmicpc.net/problem/4072))
 
+[4094 Equal Angles](../problems/acmicpc_4094.cpp) ([링크](https://www.acmicpc.net/problem/4094))
+
 [4097 수익](../problems/acmicpc_4097.cpp) ([링크](https://www.acmicpc.net/problem/4097))
 
 [4108 지뢰찾기](../problems/acmicpc_4108.cpp) ([링크](https://www.acmicpc.net/problem/4108))
