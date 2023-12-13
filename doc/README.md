@@ -1592,6 +1592,8 @@
 
 [11409 열혈강호 6](../problems/acmicpc_11409.cpp) ([링크](https://www.acmicpc.net/problem/11409))
 
+[11414 LCM](../problems/acmicpc_11414.cpp) ([링크](https://www.acmicpc.net/problem/11414))
+
 [11437 LCA](../problems/acmicpc_11437.cpp) ([링크](https://www.acmicpc.net/problem/11437))
 
 [11438 LCA 2](../problems/acmicpc_11438.cpp) ([링크](https://www.acmicpc.net/problem/11438))
