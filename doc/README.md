@@ -1802,6 +1802,8 @@
 
 [13073 Sums](../problems/acmicpc_13073.cpp) ([링크](https://www.acmicpc.net/problem/13073))
 
+[13076 Distinct rational numbers](../problems/acmicpc_13076.cpp) ([링크](https://www.acmicpc.net/problem/13076))
+
 [13140 Hello World!](../problems/acmicpc_13140.cpp) ([링크](https://www.acmicpc.net/problem/13140))
 
 [13146 같은 수로 만들기 2](../problems/acmicpc_13146.cpp) ([링크](https://www.acmicpc.net/problem/13146))
