@@ -1336,6 +1336,8 @@
 
 [9924 The Euclidean Algorithm](../problems/acmicpc_9924.cpp) ([링크](https://www.acmicpc.net/problem/9924))
 
+[9934 완전 이진 트리](../problems/acmicpc_9934.cpp) ([링크](https://www.acmicpc.net/problem/9934))
+
 [9945 Centroid of Point Masses](../problems/acmicpc_9945.cpp) ([링크](https://www.acmicpc.net/problem/9945))
 
 [9949 Hide those Letters](../problems/acmicpc_9949.cpp) ([링크](https://www.acmicpc.net/problem/9949))
