@@ -638,6 +638,8 @@
 
 [3059 등장하지 않는 문자의 합](../problems/acmicpc_3059.cpp) ([링크](https://www.acmicpc.net/problem/3059))
 
+[3060 욕심쟁이 돼지](../problems/acmicpc_3060.cpp) ([링크](https://www.acmicpc.net/problem/3060))
+
 [3067 Coins](../problems/acmicpc_3067.cpp) ([링크](https://www.acmicpc.net/problem/3067))
 
 [3151 합이 0](../problems/acmicpc_3151.cpp) ([링크](https://www.acmicpc.net/problem/3151))
