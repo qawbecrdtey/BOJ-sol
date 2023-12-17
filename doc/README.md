@@ -1200,6 +1200,8 @@
 
 [9240 로버트 후드](../problems/acmicpc_9240.cpp) ([링크](https://www.acmicpc.net/problem/9240))
 
+[9250 문자열 집합 판별](../problems/acmicpc_9250.cpp) ([링크](https://www.acmicpc.net/problem/9250))
+
 [9251 LCS](../problems/acmicpc_9251.cpp) ([링크](https://www.acmicpc.net/problem/9251))
 
 [9252 LCS 2](../problems/acmicpc_9252.cpp) ([링크](https://www.acmicpc.net/problem/9252))
