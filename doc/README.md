@@ -626,6 +626,8 @@
 
 [3004 체스판 조각](../problems/acmicpc_3004.cpp) ([링크](https://www.acmicpc.net/problem/3004))
 
+[3006 터보소트](../problems/acmicpc_3006.cpp) ([링크](https://www.acmicpc.net/problem/3006))
+
 [3009 네 번째 점](../problems/acmicpc_3009.cpp) ([링크](https://www.acmicpc.net/problem/3009))
 
 [3023 마술사 이민혁](../problems/acmicpc_3023.cpp) ([링크](https://www.acmicpc.net/problem/3023))
