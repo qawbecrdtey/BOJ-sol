@@ -3592,6 +3592,8 @@
 
 [29758 제곱근 수열](../problems/acmicpc_29758.cpp) ([링크](https://www.acmicpc.net/problem/29758))
 
+[29759 서로소 스도쿠](../problems/acmicpc_29759.cpp) ([링크](https://www.acmicpc.net/problem/29759))
+
 [30007 라면 공식](../problems/acmicpc_30007.cpp) ([링크](https://www.acmicpc.net/problem/30007))
 
 [30088 공포의 면담실](../problems/acmicpc_30088.cpp) ([링크](https://www.acmicpc.net/problem/30088))
