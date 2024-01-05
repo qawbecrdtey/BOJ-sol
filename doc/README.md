@@ -2582,6 +2582,8 @@
 
 [17502 클레어와 팰린드롬](../problems/acmicpc_17502.cpp) ([링크](https://www.acmicpc.net/problem/17502))
 
+[17504 제리와 톰 2](../problems/acmicpc_17504.cpp) ([링크](https://www.acmicpc.net/problem/17504))
+
 [17521 Byte Coin](../problems/acmicpc_17521.cpp) ([링크](https://www.acmicpc.net/problem/17521))
 
 [17530 Buffoon](../problems/acmicpc_17530.cpp) ([링크](https://www.acmicpc.net/problem/17530))
