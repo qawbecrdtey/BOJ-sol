@@ -3626,6 +3626,8 @@
 
 [30893 트리 게임](../problems/acmicpc_30893.cpp) ([링크](https://www.acmicpc.net/problem/30893))
 
+[31216 슈퍼 소수](../problems/acmicpc_31216.cpp) ([링크](https://www.acmicpc.net/problem/31216))
+
 ## Algorithms
 
 [BFS](BFS.md)
