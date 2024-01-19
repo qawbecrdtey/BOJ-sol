@@ -2838,6 +2838,8 @@
 
 [20920 영단어 암기는 괴로워](../problems/acmicpc_20920.cpp) ([링크](https://www.acmicpc.net/problem/20920))
 
+[20922 겹치는 건 싫어](../problems/acmicpc_20922.cpp) ([링크](https://www.acmicpc.net/problem/20922))
+
 [20944 팰린드롬 척화비](../problems/acmicpc_20944.cpp) ([링크](https://www.acmicpc.net/problem/20944))
 
 [20946 합성인수분해](../problems/acmicpc_20946.cpp) ([링크](https://www.acmicpc.net/problem/20946))
