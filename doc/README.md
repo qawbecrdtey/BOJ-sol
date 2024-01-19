@@ -1978,6 +1978,8 @@
 
 [14219 막대과자 포장](../problems/acmicpc_14219.cpp) ([링크](https://www.acmicpc.net/problem/14219))
 
+[14222 선분과 점](../problems/acmicpc_14222.cpp) ([링크](https://www.acmicpc.net/problem/14222))
+
 [14225 부분수열의 합](../problems/acmicpc_14225.cpp) ([링크](https://www.acmicpc.net/problem/14225))
 
 [14226 이모티콘](../problems/acmicpc_14226.cpp) ([링크](https://www.acmicpc.net/problem/14226))
