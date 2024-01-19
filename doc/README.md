@@ -2798,6 +2798,8 @@
 
 [20302 민트 초코](../problems/acmicpc_20302.cpp) ([링크](https://www.acmicpc.net/problem/20302))
 
+[20303 할로윈의 양아치](../problems/acmicpc_20303.cpp) ([링크](https://www.acmicpc.net/problem/20303))
+
 [20309 트리플 소트](../problems/acmicpc_20309.cpp) ([링크](https://www.acmicpc.net/problem/20309))
 
 [20310 타노스](../problems/acmicpc_20310.cpp) ([링크](https://www.acmicpc.net/problem/20310))
