@@ -840,6 +840,8 @@
 
 [4993 Red and Black](../problems/acmicpc_4993.cpp) ([링크](https://www.acmicpc.net/problem/4993))
 
+[4994 배수 찾기](../problems/acmicpc_4994.cpp) ([링크](https://www.acmicpc.net/problem/4994))
+
 [4998 저금](../problems/acmicpc_4998.cpp) ([링크](https://www.acmicpc.net/problem/4998))
 
 [5014 스타트링크](../problems/acmicpc_5014.cpp) ([링크](https://www.acmicpc.net/problem/5014))
