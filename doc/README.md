@@ -58,6 +58,8 @@
 
 [1080 행렬](../problems/acmicpc_1080.cpp) ([링크](https://www.acmicpc.net/problem/1080))
 
+[1081 합](../problems/acmicpc_1081.cpp) ([링크](https://www.acmicpc.net/problem/1081))
+
 [1107 리모컨](../problems/acmicpc_1107.cpp) ([링크](https://www.acmicpc.net/problem/1107))
 
 [1111 IQ Test](../problems/acmicpc_1111.cpp) ([링크](https://www.acmicpc.net/problem/1111))
