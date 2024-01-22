@@ -2540,6 +2540,8 @@
 
 [17263 Sort 마스터 배지훈](../problems/acmicpc_17263.cpp) ([링크](https://www.acmicpc.net/problem/17263))
 
+[17266 어두운 굴다리](../problems/acmicpc_17266.cpp) ([링크](https://www.acmicpc.net/problem/17266))
+
 [17284 Vending Machine](../problems/acmicpc_17284.cpp) ([링크](https://www.acmicpc.net/problem/17284))
 
 [17285 XORChic](../problems/acmicpc_17285.cpp) ([링크](https://www.acmicpc.net/problem/17285))
