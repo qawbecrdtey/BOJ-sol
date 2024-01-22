@@ -460,6 +460,8 @@
 
 [2303 숫자 게임](../problems/acmicpc_2303.cpp) ([링크](https://www.acmicpc.net/problem/2303))
 
+[2304 창고 다각형](../problems/acmicpc_2304.cpp) ([링크](https://www.acmicpc.net/problem/2304))
+
 [2316 도시 왕복하기 2](../problems/acmicpc_2316.cpp) ([링크](https://www.acmicpc.net/problem/2316))
 
 [2327 말아톤](../problems/acmicpc_2327.cpp) ([링크](https://www.acmicpc.net/problem/2327))
