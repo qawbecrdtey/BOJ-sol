@@ -3616,6 +3616,8 @@
 
 [29332 보물 지도](../problems/acmicpc_29332.cpp) ([링크](https://www.acmicpc.net/problem/29332))
 
+[29757 트리 긋기](../problems/acmicpc_29757.cpp) ([링크](https://www.acmicpc.net/problem/29757))
+
 [29758 제곱근 수열](../problems/acmicpc_29758.cpp) ([링크](https://www.acmicpc.net/problem/29758))
 
 [29759 서로소 스도쿠](../problems/acmicpc_29759.cpp) ([링크](https://www.acmicpc.net/problem/29759))
