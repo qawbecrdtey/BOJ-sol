@@ -3018,6 +3018,8 @@
 
 [23530 Not A + B](../problems/acmicpc_23530.cpp) ([링크](https://www.acmicpc.net/problem/23530))
 
+[23538 Easy Equation](../problems/acmicpc_23538.cpp) ([링크](https://www.acmicpc.net/problem/23538)
+
 [23544 Kinder Surprise](../problems/acmicpc_23544.cpp) ([링크](https://www.acmicpc.net/problem/23544))
 
 [23568 Find the House](../problems/acmicpc_23568.cpp) ([링크](https://www.acmicpc.net/problem/23568))
