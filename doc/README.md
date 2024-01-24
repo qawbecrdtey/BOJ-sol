@@ -3602,6 +3602,8 @@
 
 [28278 스택 2](../problems/acmicpc_28278.cpp) ([링크](https://www.acmicpc.net/problem/28278))
 
+[28293 자릿수](../problems/acmicpc_28293.cpp) ([링크](https://www.acmicpc.net/problem/28293))
+
 [28295 체육은 코딩과목 입니다](../problems/acmicpc_28295.cpp) ([링크](https://www.acmicpc.net/problem/28295))
 
 [28298 더 흔한 타일 색칠 문제](../problems/acmicpc_28298.cpp) ([링크](https://www.acmicpc.net/problem/28298))
