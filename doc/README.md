@@ -1290,6 +1290,8 @@
 
 [9699 RICE SACK](../problems/acmicpc_9699.cpp) ([링크](https://www.acmicpc.net/problem/9699))
 
+[9702 LIS](../problems/acmicpc_9702.cpp) ([링크](https://www.acmicpc.net/problem/9702))
+
 [9703 Anti-Arithmetic Permutation](../problems/acmicpc_9703.cpp) ([링크](https://www.acmicpc.net/problem/9703))
 
 [9711 피보나치](../problems/acmicpc_9711.cpp) ([링크](https://www.acmicpc.net/problem/9711))
@@ -3619,6 +3621,8 @@
 [28927 Киноманы](../problems/acmicpc_28927.cpp) ([링크](https://www.acmicpc.net/problem/28927))
 
 [29332 보물 지도](../problems/acmicpc_29332.cpp) ([링크](https://www.acmicpc.net/problem/29332))
+
+[29738 Goodbye, Code Jam](../problems/acmicpc_29738.cpp) ([링크](https://www.acmicpc.net/problem/29738))
 
 [29757 트리 긋기](../problems/acmicpc_29757.cpp) ([링크](https://www.acmicpc.net/problem/29757))
 
