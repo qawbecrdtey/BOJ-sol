@@ -3004,6 +3004,8 @@
 
 [23251 스물셋](../problems/acmicpc_23251.cpp) ([링크](https://www.acmicpc.net/problem/23251))
 
+[23254 나는 기말고사형 인간이야](../problems/acmicpc_23254.cpp) ([링크](https://www.acmicpc.net/problem/23254))
+
 [23275 Knot Knowledge](../problems/acmicpc_23275.cpp) ([링크](https://www.acmicpc.net/problem/23275))
 
 [23278 영화 평가](../problems/acmicpc_23278.cpp) ([링크](https://www.acmicpc.net/problem/23278))
