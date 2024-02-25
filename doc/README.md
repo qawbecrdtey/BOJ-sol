@@ -328,6 +328,8 @@
 
 [1793 타일링](../problems/acmicpc_1793.cpp) ([링크](https://www.acmicpc.net/problem/1793))
 
+[1800 인터넷 설치](../problems/acmicpc_1800.cpp) ([링크](https://www.acmicpc.net/problem/1800))
+
 [1813 논리학 교수](../problems/acmicpc_1813.cpp) ([링크](https://www.acmicpc.net/problem/1813))
 
 [1816 암호 키](../problems/acmicpc_1816.cpp) ([링크](https://www.acmicpc.net/problem/1816))
