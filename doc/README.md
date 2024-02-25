@@ -514,6 +514,8 @@
 
 [2504 괄호의 값](../problems/acmicpc_2504.cpp) ([링크](https://www.acmicpc.net/problem/2504))
 
+[2505 두 번 뒤집기](../problems/acmicpc_2505.cpp) ([링크](https://www.acmicpc.net/problem/2505))
+
 [2511 카드놀이](../problems/acmicpc_2511.cpp) ([링크](https://www.acmicpc.net/problem/2511))
 
 [2517 달리기](../problems/acmicpc_2517.cpp) ([링크](https://www.acmicpc.net/problem/2517))
@@ -3509,6 +3511,8 @@
 [27294 몇개고?](../problems/acmicpc_27294.cpp) ([링크](https://www.acmicpc.net/problem/27294))
 
 [27310 :chino_shock:](../problems/acmicpc_27310.cpp) ([링크](https://www.acmicpc.net/problem/27310))
+
+[27340 Estimathon](../problems/acmicpc_27340.cpp) ([링크](https://www.acmicpc.net/problem/27340))
 
 [27389 Metronome](../problems/acmicpc_27389.cpp) ([링크](https://www.acmicpc.net/problem/27389))
 
