@@ -3672,6 +3672,8 @@
 
 [31216 슈퍼 소수](../problems/acmicpc_31216.cpp) ([링크](https://www.acmicpc.net/problem/31216))
 
+[31282 ЛОВНО КУЧЕ](../problems/acmicpc_31282.cpp) ([링크](https://www.acmicpc.net/problem/31282))
+
 [31307 Lines Per Hour](../problems/acmicpc_31307.cpp) ([링크](https://www.acmicpc.net/problem/31307))
 
 ## Algorithms
