@@ -140,6 +140,8 @@
 
 [1284 집 주소](../problems/acmicpc_1284.cpp) ([링크](https://www.acmicpc.net/problem/1284))
 
+[1289 트리의 가중치](../problems/acmicpc_1289.cpp) ([링크](https://www.acmicpc.net/problem/1289))
+
 [1296 데이트](../problems/acmicpc_1296.cpp) ([링크](https://www.acmicpc.net/problem/1296))
 
 [1298 룩 배치하기](../problems/acmicpc_1298.cpp) ([링크](https://www.acmicpc.net/problem/1298))
