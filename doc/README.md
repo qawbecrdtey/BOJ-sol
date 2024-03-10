@@ -498,6 +498,8 @@
 
 [2436 공약수](../problems/acmicpc_2436.cpp) ([링크](https://www.acmicpc.net/problem/2436))
 
+[2461 대표 선수](../problems/acmicpc_2461.cpp) ([링크](https://www.acmicpc.net/problem/2461))
+
 [2467 용액](../problems/acmicpc_2467.cpp) ([링크](https://www.acmicpc.net/problem/2467))
 
 [2473 세 용액](../problems/acmicpc_2473.cpp) ([링크](https://www.acmicpc.net/problem/2473))
