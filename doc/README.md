@@ -2274,6 +2274,8 @@
 
 [15712 등비수열](../problems/acmicpc_15712.cpp) ([링크](https://www.acmicpc.net/problem/15712))
 
+[15717 떡파이어](../problems/acmicpc_15717.cpp) ([링크](https://www.acmicpc.net/problem/15717))
+
 [15719 중복된 숫자](../problems/acmicpc_15719.cpp) ([링크](https://www.acmicpc.net/problem/15719))
 
 [15720 카우버거](../problems/acmicpc_15720.cpp) ([링크](https://www.acmicpc.net/problem/15720))
