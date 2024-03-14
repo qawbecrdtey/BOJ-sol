@@ -2480,6 +2480,8 @@
 
 [16940 BFS 스페셜 저지](../problems/acmicpc_16940.cpp) ([링크](https://www.acmicpc.net/problem/16940))
 
+[16943 숫자 재배치](../problems/acmicpc_16943.cpp) ([링크](https://www.acmicpc.net/problem/16943))
+
 [16953 A → B](../problems/acmicpc_16953.cpp) ([링크](https://www.acmicpc.net/problem/16953))
 
 [16965 구간과 쿼리](../problems/acmicpc_16965.cpp) ([링크](https://www.acmicpc.net/problem/16965))
