@@ -372,6 +372,8 @@
 
 [1930 정사면체](../problems/acmicpc_1930.cpp) ([링크](https://www.acmicpc.net/problem/1930))
 
+[1933 스카이라인](../problems/acmicpc_1933.cpp) ([링크](https://www.acmicpc.net/problem/1933))
+
 [1939 중량제한](../problems/acmicpc_1939.cpp) ([링크](https://www.acmicpc.net/problem/1939))
 
 [1946 신입 사원](../problems/acmicpc_1946.cpp) ([링크](https://www.acmicpc.net/problem/1946))
