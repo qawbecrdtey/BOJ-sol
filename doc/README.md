@@ -1542,6 +1542,8 @@
 
 [11024 더하기 4](../problems/acmicpc_11024.cpp) ([링크](https://www.acmicpc.net/problem/11024))
 
+[11025 요세푸스 문제 3](../problems/acmicpc_11025.cpp) ([링크](https://www.acmicpc.net/problem/11025))
+
 [11034 캥거루 세마리2](../problems/acmicpc_11034.cpp) ([링크](https://www.acmicpc.net/problem/11034))
 
 [11049 행렬 곱셈 순서](../problems/acmicpc_11049.cpp) ([링크](https://www.acmicpc.net/problem/11049))
