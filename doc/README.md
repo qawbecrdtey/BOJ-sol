@@ -454,6 +454,8 @@
 
 [2224 명제 증명](../problems/acmicpc_2224.cpp) ([링크](https://www.acmicpc.net/problem/2224))
 
+[2238 경매](../problems/acmicpc_2238.cpp) ([링크](https://www.acmicpc.net/problem/2238))
+
 [2243 사탕상자](../problems/acmicpc_2243.cpp) ([링크](https://www.acmicpc.net/problem/2243))
 
 [2250 트리의 높이와 너비](../problems/acmicpc_2250.cpp) ([링크](https://www.acmicpc.net/problem/2250))
