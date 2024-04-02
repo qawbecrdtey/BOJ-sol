@@ -2298,6 +2298,8 @@
 
 [15734 명장 남정훈](../problems/acmicpc_15734.cpp) ([링크](https://www.acmicpc.net/problem/15734))
 
+[15739 매직스퀘어](../problems/acmicpc_15739.cpp) ([링크](https://www.acmicpc.net/problem/15739))
+
 [15780 멀티탭 충분하니?](../problems/acmicpc_15780.cpp) ([링크](https://www.acmicpc.net/problem/15780))
 
 [15781 헬멧과 조끼](../problems/acmicpc_15781.cpp) ([링크](https://www.acmicpc.net/problem/15781))
