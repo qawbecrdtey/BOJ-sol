@@ -1834,6 +1834,8 @@
 
 [12993 이동3](../problems/acmicpc_12993.cpp) ([링크](https://www.acmicpc.net/problem/12993))
 
+[13007 ntopia](../problems/acmicpc_13007.cpp) ([링크](https://www.acmicpc.net/problem/13007))
+
 [13015 별 찍기 - 23](../problems/acmicpc_13015.cpp) ([링크](https://www.acmicpc.net/problem/13015))
 
 [13034 다각형 게임](../problems/acmicpc_13034.cpp) ([링크](https://www.acmicpc.net/problem/13034))
