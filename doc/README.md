@@ -1666,6 +1666,8 @@
 
 [11557 Yangjojang of The Year](../problems/acmicpc_11557.cpp) ([링크](https://www.acmicpc.net/problem/11557))
 
+[11558 The Game of Death](../problems/acmicpc_11558.cpp) ([링크](https://www.acmicpc.net/problem/11558))
+
 [11561 징검다리](../problems/acmicpc_11561.cpp) ([링크](https://www.acmicpc.net/problem/11561))
 
 [11564 점프왕 최준민](../problems/acmicpc_11564.cpp) ([링크](https://www.acmicpc.net/problem/11564))
