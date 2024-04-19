@@ -3708,6 +3708,8 @@
 
 [31307 Lines Per Hour](../problems/acmicpc_31307.cpp) ([링크](https://www.acmicpc.net/problem/31307))
 
+[31674 특별한 기술력](../problems/acmicpc_31674.cpp) ([링크](https://www.acmicpc.net/problem/31674))
+
 ## Algorithms
 
 [BFS](BFS.md)
