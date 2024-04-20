@@ -3686,6 +3686,8 @@
 
 [30457 단체줄넘기](../problems/acmicpc_30457.cpp) ([링크](https://www.acmicpc.net/problem/30457))
 
+[30510 토마에 함수](../problems/acmicpc_30510.cpp) ([링크](https://www.acmicpc.net/problem/30510))
+
 [30599 Attendance](../problems/acmicpc_30552.cpp) ([링크](https://www.acmicpc.net/problem/30552))
 
 [30599 Divisibility Trick](../problems/acmicpc_30599.cpp) ([링크](https://www.acmicpc.net/problem/30599))
