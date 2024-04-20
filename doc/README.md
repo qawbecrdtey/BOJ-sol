@@ -2728,6 +2728,8 @@
 
 [18353 병사 배치하기](../problems/acmicpc_18353.cpp) ([링크](https://www.acmicpc.net/problem/18353))
 
+[18373 N!!!...! mod P](../problems/acmicpc_18373.cpp) ([링크](https://www.acmicpc.net/problem/18373))
+
 [18398 HOMWRK](../problems/acmicpc_18398.cpp) ([링크](https://www.acmicpc.net/problem/18398))
 
 [18408 3 つの整数 (Three Integers)](../problems/acmicpc_18408.cpp) ([링크](https://www.acmicpc.net/problem/18408))
