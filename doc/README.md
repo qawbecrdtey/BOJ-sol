@@ -1798,6 +1798,8 @@
 
 [12813 이진수 연산](../problems/acmicpc_12813.cpp) ([링크](https://www.acmicpc.net/problem/12813))
 
+[12823 Critical Projects](../problems/acmicpc_12823.cpp) ([링크](https://www.acmicpc.net/problem/12823))
+
 [12837 가계부 (Hard)](../problems/acmicpc_12837.cpp) ([링크](https://www.acmicpc.net/problem/12837))
 
 [12844 XOR](../problems/acmicpc_12844.cpp) ([링크](https://www.acmicpc.net/problem/12844))
