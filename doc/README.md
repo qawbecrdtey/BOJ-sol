@@ -244,6 +244,8 @@
 
 [1543 문서 검색](../problems/acmicpc_1543.cpp) ([링크](https://www.acmicpc.net/problem/1543))
 
+[1544 사이클 단어](../problems/acmicpc_1544.cpp) ([링크](https://www.acmicpc.net/problem/1544))
+
 [1547 공](../problems/acmicpc_1547.cpp) ([링크](https://www.acmicpc.net/problem/1547))
 
 [1551 수열의 변화](../problems/acmicpc_1551.cpp) ([링크](https://www.acmicpc.net/problem/1551))
