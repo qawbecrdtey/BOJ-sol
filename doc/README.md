@@ -1914,6 +1914,8 @@
 
 [13412 서로소 쌍](../problems/acmicpc_13412.cpp) ([링크](https://www.acmicpc.net/problem/13412))
 
+[13414 수강신청](../problems/acmicpc_13414.cpp) ([링크](https://www.acmicpc.net/problem/13414))
+
 [13419 탕수육](../problems/acmicpc_13419.cpp) ([링크](https://www.acmicpc.net/problem/13419))
 
 [13423 Three Dots](../problems/acmicpc_13423.cpp) ([링크](https://www.acmicpc.net/problem/13423))
