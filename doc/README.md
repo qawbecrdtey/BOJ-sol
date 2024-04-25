@@ -2304,6 +2304,8 @@
 
 [15723 n단 논법](../problems/acmicpc_15723.cpp) ([링크](https://www.acmicpc.net/problem/15723))
 
+[15724 주지수](../problems/acmicpc_15724.cpp) ([링크](https://www.acmicpc.net/problem/15724))
+
 [15725 다항함수의 미분](../problems/acmicpc_15725.cpp) ([링크](https://www.acmicpc.net/problem/15725))
 
 [15726 이칙연산](../problems/acmicpc_15726.cpp) ([링크](https://www.acmicpc.net/problem/15726))
