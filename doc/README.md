@@ -3732,6 +3732,8 @@
 
 [31718 Double Up](../problems/acmicpc_31718.cpp) ([링크](https://www.acmicpc.net/problem/31718))
 
+[31831 과민성 대장 증후군](../problems/acmicpc_31831.cpp) ([링크](https://www.acmicpc.net/problem/31831))
+
 ## Algorithms
 
 [BFS](BFS.md)
