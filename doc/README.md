@@ -3724,6 +3724,8 @@
 
 [31307 Lines Per Hour](../problems/acmicpc_31307.cpp) ([링크](https://www.acmicpc.net/problem/31307))
 
+[31609 現れている数字 (Appearing Numbers)](../problems/acmicpc_31609.cpp) ([링크](https://www.acmicpc.net/problem/31609))
+
 [31674 특별한 기술력](../problems/acmicpc_31674.cpp) ([링크](https://www.acmicpc.net/problem/31674))
 
 [31718 Double Up](../problems/acmicpc_31718.cpp) ([링크](https://www.acmicpc.net/problem/31718))
