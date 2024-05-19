@@ -2490,6 +2490,8 @@
 
 [16795 Thread Tree](../problems/acmicpc_16795.cpp) ([링크](https://www.acmicpc.net/problem/16795))
 
+[16815 Star in Parentheses](../problems/acmicpc_16815.cpp) ([링크](https://www.acmicpc.net/problem/16815))
+
 [16861 Harshad Numbers](../problems/acmicpc_16861.cpp) ([링크](https://www.acmicpc.net/problem/16861))
 
 [16864 So You Like Your Food Hot?](../problems/acmicpc_16864.cpp) ([링크](https://www.acmicpc.net/problem/16864))
