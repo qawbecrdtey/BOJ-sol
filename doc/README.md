@@ -2330,6 +2330,8 @@
 
 [15814 야바위 대장](../problems/acmicpc_15814.cpp) ([링크](https://www.acmicpc.net/problem/15814))
 
+[15815 천재 수학자 성필](../problems/acmicpc_15815.cpp) ([링크](https://www.acmicpc.net/problem/15815))
+
 [15818 오버플로우와 모듈러](../problems/acmicpc_15818.cpp) ([링크](https://www.acmicpc.net/problem/15818))
 
 [15819 너의 핸들은](../problems/acmicpc_15819.cpp) ([링크](https://www.acmicpc.net/problem/15819))
