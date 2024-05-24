@@ -3748,6 +3748,8 @@
 
 [31869 선배님 밥 사주세요!](../problems/acmicpc_31869.cpp) ([링크](https://www.acmicpc.net/problem/31869))
 
+[31870 버블버블](../problems/acmicpc_31870.cpp) ([링크](https://www.acmicpc.net/problem/31870))
+
 ## Algorithms
 
 [BFS](BFS.md)
