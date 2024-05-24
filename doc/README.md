@@ -3744,6 +3744,8 @@
 
 [31867 홀짝홀짝](../problems/acmicpc_31867.cpp) ([링크](https://www.acmicpc.net/problem/31867))
 
+[31868 수박 게임](../problems/acmicpc_31868.cpp) ([링크](https://www.acmicpc.net/problem/31868))
+
 ## Algorithms
 
 [BFS](BFS.md)
