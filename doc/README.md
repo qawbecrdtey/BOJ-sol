@@ -3746,6 +3746,8 @@
 
 [31868 수박 게임](../problems/acmicpc_31868.cpp) ([링크](https://www.acmicpc.net/problem/31868))
 
+[31869 선배님 밥 사주세요!](../problems/acmicpc_31869.cpp) ([링크](https://www.acmicpc.net/problem/31869))
+
 ## Algorithms
 
 [BFS](BFS.md)
