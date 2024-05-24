@@ -3740,6 +3740,8 @@
 
 [31831 과민성 대장 증후군](../problems/acmicpc_31831.cpp) ([링크](https://www.acmicpc.net/problem/31831))
 
+[31866 손가락 게임](../problems/acmicpc_31866.cpp) ([링크](https://www.acmicpc.net/problem/31866))
+
 ## Algorithms
 
 [BFS](BFS.md)
