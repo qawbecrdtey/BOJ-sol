@@ -1226,6 +1226,8 @@
 
 [9094 수학적 호기심](../problems/acmicpc_9094.cpp) ([링크](https://www.acmicpc.net/problem/9094))
 
+[9196 정수 직사각형](../problems/acmicpc_9196.cpp) ([링크](https://www.acmicpc.net/problem/9196))
+
 [9205 맥주 마시면서 걸어가기](../problems/acmicpc_9205.cpp) ([링크](https://www.acmicpc.net/problem/9205))
 
 [9226 도깨비말](../problems/acmicpc_9226.cpp) ([링크](https://www.acmicpc.net/problem/9226))
