@@ -536,6 +536,8 @@
 
 [2505 두 번 뒤집기](../problems/acmicpc_2505.cpp) ([링크](https://www.acmicpc.net/problem/2505))
 
+[2508 사탕 박사 고창영](../problems/acmicpc_2508.cpp) ([링크](https://www.acmicpc.net/problem/2508))
+
 [2511 카드놀이](../problems/acmicpc_2511.cpp) ([링크](https://www.acmicpc.net/problem/2511))
 
 [2517 달리기](../problems/acmicpc_2517.cpp) ([링크](https://www.acmicpc.net/problem/2517))
