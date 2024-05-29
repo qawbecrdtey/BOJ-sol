@@ -3524,6 +3524,8 @@
 
 [26948 Plankan](../problems/acmicpc_26948.cpp) ([링크](https://www.acmicpc.net/problem/26948))
 
+[26975 Cow College](../problems/acmicpc_26975.cpp) ([링크](https://www.acmicpc.net/problem/26975))
+
 [27024 Fence Height](../problems/acmicpc_27024.cpp) ([링크](https://www.acmicpc.net/problem/27024))
 
 [27037 The Middle Squares](../problems/acmicpc_27037.cpp) ([링크](https://www.acmicpc.net/problem/27037))
