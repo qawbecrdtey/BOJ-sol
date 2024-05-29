@@ -1082,6 +1082,8 @@
 
 [6830 It’s Cold Here!](../problems/acmicpc_6830.cpp) ([링크](https://www.acmicpc.net/problem/6830))
 
+[6856 Roll the Dice](problems/acmicpc_6856.cpp) ([링크](https://www.acmicpc.net/problem/6856))
+
 [6884 소수 부분 수열](../problems/acmicpc_6884.cpp) ([링크](https://www.acmicpc.net/problem/6884))
 
 [6887 Squares](../problems/acmicpc_6887.cpp) ([링크](https://www.acmicpc.net/problem/6887))
