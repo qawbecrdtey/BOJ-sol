@@ -3686,6 +3686,8 @@
 
 [28421 곱하기와 쿼리](../problems/acmicpc_28421.cpp) ([링크](https://www.acmicpc.net/problem/28421))
 
+[28432 끝말잇기](../problems/acmicpc_28432.cpp) ([링크](https://www.acmicpc.net/problem/28432))
+
 [28444 HI-ARC=?](../problems/acmicpc_28444.cpp) ([링크](https://www.acmicpc.net/problem/28444))
 
 [28701 세제곱의 합](../problems/acmicpc_28701.cpp) ([링크](https://www.acmicpc.net/problem/28701))
