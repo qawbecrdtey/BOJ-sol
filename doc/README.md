@@ -3530,6 +3530,8 @@
 
 [26891 Tävlingssal](../problems/acmicpc_26891.cpp) ([링크](https://www.acmicpc.net/problem/26891))
 
+[26933 Receptet](../problems/acmicpc_26933.cpp) ([링크](https://www.acmicpc.net/problem/26933))
+
 [26940 Chokladkartongen](../problems/acmicpc_26940.cpp) ([링크](https://www.acmicpc.net/problem/26940))
 
 [26941 Pyramidbygge](../problems/acmicpc_26941.cpp) ([링크](https://www.acmicpc.net/problem/26941))
