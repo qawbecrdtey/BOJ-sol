@@ -3586,6 +3586,8 @@
 
 [27389 Metronome](../problems/acmicpc_27389.cpp) ([링크](https://www.acmicpc.net/problem/27389))
 
+[27435 파도반 수열 2](../problems/acmicpc_27435.cpp) ([링크](https://www.acmicpc.net/problem/27435))
+
 [27467 수학 퀴즈](../problems/acmicpc_27467.cpp) ([링크](https://www.acmicpc.net/problem/27467))
 
 [27481 Hotelier](../problems/acmicpc_27481.cpp) ([링크](https://www.acmicpc.net/problem/27481))
