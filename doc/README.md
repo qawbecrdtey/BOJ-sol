@@ -330,6 +330,8 @@
 
 [1761 정점들의 거리](../problems/acmicpc_1761.cpp) ([링크](https://www.acmicpc.net/problem/1761))
 
+[1768 Center of symmetry](../problems/acmicpc_1768.cpp) ([링크](https://www.acmicpc.net/problem/1768))
+
 [1773 폭죽쇼](../problems/acmicpc_1773.cpp) ([링크](https://www.acmicpc.net/problem/1773))
 
 [1780 종이의 개수](../problems/acmicpc_1780.cpp) ([링크](https://www.acmicpc.net/problem/1780))
