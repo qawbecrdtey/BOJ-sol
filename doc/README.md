@@ -3036,6 +3036,8 @@
 
 [22477 Kagisys](../problems/acmicpc_22477.cpp) ([링크](https://www.acmicpc.net/problem/22477))
 
+[22733 Monkey Business](../problems/acmicpc_22733.cpp) ([링크](https://www.acmicpc.net/problem/22733))
+
 [22938 백발백준하는 명사수](../problems/acmicpc_22938.cpp) ([링크](https://www.acmicpc.net/problem/22938))
 
 [22614 Infected Computer](../problems/acmicpc_22614.cpp) ([링크](https://www.acmicpc.net/problem/22614))
