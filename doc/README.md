@@ -176,6 +176,8 @@
 
 [1343 폴리오미노](../problems/acmicpc_1343.cpp) ([링크](https://www.acmicpc.net/problem/1343))
 
+[1348 주차장](../problems/acmicpc_1348.cpp) ([링크](https://www.acmicpc.net/problem/1348))
+
 [1351 무한 수열](../problems/acmicpc_1351.cpp) ([링크](https://www.acmicpc.net/problem/1351))
 
 [1354 무한 수열 2](../problems/acmicpc_1354.cpp) ([링크](https://www.acmicpc.net/problem/1354))
