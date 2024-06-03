@@ -3782,6 +3782,8 @@
 
 [31870 버블버블](../problems/acmicpc_31870.cpp) ([링크](https://www.acmicpc.net/problem/31870))
 
+[31907 GIST 찍기](../problems/acmicpc_31907.cpp) ([링크](https://www.acmicpc.net/problem/31907))
+
 [31908 커플링 매치](../problems/acmicpc_31908.cpp) ([링크](https://www.acmicpc.net/problem/31908))
 
 [31922 이 대회는 이제 제 겁니다](../problems/acmicpc_31922.cpp) ([링크](https://www.acmicpc.net/problem/31922))
