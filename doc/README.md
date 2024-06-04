@@ -2166,6 +2166,8 @@
 
 [14761 FizzBuzz](../problems/acmicpc_14761.cpp) ([링크](https://www.acmicpc.net/problem/14761))
 
+[14842 재홍의 사다리](../problems/acmicpc_14842.cpp) ([링크](https://www.acmicpc.net/problem/14842))
+
 [14860 GCD 곱](../problems/acmicpc_14860.cpp) ([링크](https://www.acmicpc.net/problem/14860))
 
 [14881 물통 문제](../problems/acmicpc_14881.cpp) ([링크](https://www.acmicpc.net/problem/14881))
