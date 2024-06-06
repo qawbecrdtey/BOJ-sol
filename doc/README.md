@@ -3074,6 +3074,8 @@
 
 [23055 공사장 표지판](../problems/acmicpc_23055.cpp) ([링크](https://www.acmicpc.net/problem/23055))
 
+[23057 도전 숫자왕](../problems/acmicpc_23057.cpp) ([링크](https://www.acmicpc.net/problem/23057))
+
 [23080 스키테일 암호](../problems/acmicpc_23080.cpp) ([링크](https://www.acmicpc.net/problem/23080))
 
 [23103 Academic Distance](../problems/acmicpc_23103.cpp) ([링크](https://www.acmicpc.net/problem/23103))
