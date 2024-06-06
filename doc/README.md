@@ -3776,6 +3776,8 @@
 
 [31307 Lines Per Hour](../problems/acmicpc_31307.cpp) ([링크](https://www.acmicpc.net/problem/31307))
 
+[31608 ハミング距離 (Hamming Distance)](../problems/acmicpc_31608.cpp) ([링크](https://www.acmicpc.net/problem/31608))
+
 [31609 現れている数字 (Appearing Numbers)](../problems/acmicpc_31609.cpp) ([링크](https://www.acmicpc.net/problem/31609))
 
 [31628 가지 한 두름 주세요](problems/acmicpc_31628.cpp) ([링크](https://www.acmicpc.net/problem/31628))
