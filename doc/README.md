@@ -2434,6 +2434,8 @@
 
 [16212 정열적인 정렬](../problems/acmicpc_16212.cpp) ([링크](https://www.acmicpc.net/problem/16212))
 
+[16244 Spaceship](../problems/acmicpc_16244.cpp) ([링크](https://www.acmicpc.net/problem/16244))
+
 [16283 Farm](../problems/acmicpc_16283.cpp) ([링크](https://www.acmicpc.net/problem/16283))
 
 [16287 Parcel](../problems/acmicpc_16287.cpp) ([링크](https://www.acmicpc.net/problem/16287))
