@@ -120,6 +120,8 @@
 
 [1253 좋다](../problems/acmicpc_1253.cpp) ([링크](https://www.acmicpc.net/problem/1253))
 
+[1254 팰린드롬 만들기](../problems/acmicpc_1254.cpp) ([링크](https://www.acmicpc.net/problem/1254))
+
 [1258 문제 할당](../problems/acmicpc_1258.cpp) ([링크](https://www.acmicpc.net/problem/1258))
 
 [1259 팰린드롬수](../problems/acmicpc_1259.cpp) ([링크](https://www.acmicpc.net/problem/1259))
