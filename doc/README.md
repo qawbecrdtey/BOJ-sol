@@ -1428,6 +1428,8 @@
 
 [10219 Meats On The Grill](../problems/acmicpc_10219.cpp) ([링크](https://www.acmicpc.net/problem/10219))
 
+[10220 Self Representing Seq](../problems/acmicpc_10220.cpp) ([링크](https://www.acmicpc.net/problem/10220))
+
 [10227 삶의 질](../problems/acmicpc_10227.cpp) ([링크](https://www.acmicpc.net/problem/10227))
 
 [10228 Memory](../problems/acmicpc_10228.cpp) ([링크](https://www.acmicpc.net/problem/10228))
