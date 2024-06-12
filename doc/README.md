@@ -3344,6 +3344,8 @@
 
 [25512 트리를 간단하게 색칠하는 최소 비용](../problems/acmicpc_25512.cpp) ([링크](https://www.acmicpc.net/problem/25512))
 
+[25513 빠른 오름차순 숫자 탐색](../problems/acmicpc_25513.cpp) ([링크](https://www.acmicpc.net/problem/25513))
+
 [25516 거리가 k이하인 트리 노드에서 사과 수확하기](../problems/acmicpc_25516.cpp) ([링크](https://www.acmicpc.net/problem/25516))
 
 [25527 Counting Peaks of Infection](../problems/acmicpc_25527.cpp) ([링크](https://www.acmicpc.net/problem/25527))
