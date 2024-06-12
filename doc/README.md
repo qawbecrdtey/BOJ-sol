@@ -2028,6 +2028,8 @@
 
 [14039 Magic Squares](../problems/acmicpc_14039.cpp) ([링크](https://www.acmicpc.net/problem/14039))
 
+[14043 Ragaman](../problems/acmicpc_14043.cpp) ([링크](https://www.acmicpc.net/problem/14043))
+
 [14065 Gorivo](../problems/acmicpc_14065.cpp) ([링크](https://www.acmicpc.net/problem/14065))
 
 [14172 Moocast](../problems/acmicpc_14172.cpp) ([링크](https://www.acmicpc.net/problem/14172))
@@ -3671,6 +3673,8 @@
 [28070 유니의 편지 쓰기](../problems/acmicpc_28070.cpp) ([링크](https://www.acmicpc.net/problem/28070))
 
 [28074 모비스](../problems/acmicpc_28074.cpp) ([링크](https://www.acmicpc.net/problem/28074))
+
+[28081 직사각형 피자](../problems/acmicpc_28081.cpp) ([링크](https://www.acmicpc.net/problem/28081))
 
 [28086 미소녀 컴퓨터 파루빗토 쨩](../problems/acmicpc_28086.cpp) ([링크](https://www.acmicpc.net/problem/28086))
 
