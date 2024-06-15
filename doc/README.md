@@ -3736,6 +3736,8 @@
 
 [29723 브실이의 입시전략](../problems/acmicpc_29723.cpp) ([링크](https://www.acmicpc.net/problem/29723))
 
+[29731 2033년 밈 투표](../problems/acmicpc_29731.cpp) ([링크](https://www.acmicpc.net/problem/29731))
+
 [29738 Goodbye, Code Jam](../problems/acmicpc_29738.cpp) ([링크](https://www.acmicpc.net/problem/29738))
 
 [29757 트리 긋기](../problems/acmicpc_29757.cpp) ([링크](https://www.acmicpc.net/problem/29757))
