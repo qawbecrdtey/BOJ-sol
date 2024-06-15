@@ -3816,6 +3816,8 @@
 
 [31922 이 대회는 이제 제 겁니다](../problems/acmicpc_31922.cpp) ([링크](https://www.acmicpc.net/problem/31922))
 
+[31952 Dihedral Group](../problems/acmicpc_31952.cpp) ([링크](https://www.acmicpc.net/problem/31952))
+
 ## Algorithms
 
 [BFS](BFS.md)
