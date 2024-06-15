@@ -1796,6 +1796,8 @@
 
 [12571 Rope Intranet (Small)](../problems/acmicpc_12571.cpp) ([링크](https://www.acmicpc.net/problem/12571))
 
+[12596 Odd Man Out (Large)](problems/acmicpc_12596.cpp) ([링크](https://www.acmicpc.net/problem/12596))
+
 [12605 단어순서 뒤집기](../problems/acmicpc_12605.cpp) ([링크](https://www.acmicpc.net/problem/12605))
 
 [12724 Minimum Scalar Product (Large)](../problems/acmicpc_12724.cpp) ([링크](https://www.acmicpc.net/problem/12724))
