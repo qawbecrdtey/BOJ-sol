@@ -920,6 +920,8 @@
 
 [5347 LCM](../problems/acmicpc_5347.cpp) ([링크](https://www.acmicpc.net/problem/5347))
 
+[5349 Duplicate SSN](../problems/acmicpc_5349.cpp) ([링크](https://www.acmicpc.net/problem/5349))
+
 [5352 Coin Collection](../problems/acmicpc_5352.cpp) ([링크](https://www.acmicpc.net/problem/5352))
 
 [5353 Open Intervals](../problems/acmicpc_5353.cpp) ([링크](https://www.acmicpc.net/problem/5353))
