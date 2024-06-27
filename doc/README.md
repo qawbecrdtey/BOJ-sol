@@ -598,6 +598,8 @@
 
 [2699 격자점 컨벡스헐](../problems/acmicpc_2699.cpp) ([링크](https://www.acmicpc.net/problem/2699))
 
+[2712 Conversions](../problems/acmicpc_2712.cpp) ([링크](https://www.acmicpc.net/problem/2712))
+
 [2725 보이는 점의 개수](../problems/acmicpc_2725.cpp) ([링크](https://www.acmicpc.net/problem/2725))
 
 [2729 이진수 덧셈](../problems/acmicpc_2729.cpp) ([링크](https://www.acmicpc.net/problem/2729))
