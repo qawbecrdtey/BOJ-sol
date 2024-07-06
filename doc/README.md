@@ -1330,6 +1330,8 @@
 
 [9661 돌 게임 7](../problems/acmicpc_9661.cpp) ([링크](https://www.acmicpc.net/problem/9661))
 
+[9662 돌 게임 8](../problems/acmicpc_9662.cpp) ([링크](https://www.acmicpc.net/problem/9662))
+
 [9693 시파르](../problems/acmicpc_9693.cpp) ([링크](https://www.acmicpc.net/problem/9693))
 
 [9699 RICE SACK](../problems/acmicpc_9699.cpp) ([링크](https://www.acmicpc.net/problem/9699))
