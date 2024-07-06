@@ -1762,6 +1762,8 @@
 
 [11868 님 게임 2](../problems/acmicpc_11868.cpp) ([링크](https://www.acmicpc.net/problem/11868))
 
+[11869 님블](../problems/acmicpc_11869.cpp) ([링크](https://www.acmicpc.net/problem/11869))
+
 [11880 개미](../problems/acmicpc_11880.cpp) ([링크](https://www.acmicpc.net/problem/11880))
 
 [11896 다각형](../problems/acmicpc_11896.cpp) ([링크](https://www.acmicpc.net/problem/11896))
