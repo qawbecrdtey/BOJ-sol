@@ -3794,6 +3794,8 @@
 
 [30991 ESC](../problems/acmicpc_30991.cpp) ([링크](https://www.acmicpc.net/problem/30991))
 
+[31052 Relocation](../problems/acmicpc_31052.cpp) ([링크](https://www.acmicpc.net/problem/31052))
+
 [31216 슈퍼 소수](../problems/acmicpc_31216.cpp) ([링크](https://www.acmicpc.net/problem/31216))
 
 [31282 ЛОВНО КУЧЕ](../problems/acmicpc_31282.cpp) ([링크](https://www.acmicpc.net/problem/31282))
