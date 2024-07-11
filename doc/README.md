@@ -2552,6 +2552,8 @@
 
 [16928 뱀과 사다리 게임](../problems/acmicpc_16928.cpp) ([링크](https://www.acmicpc.net/problem/16928))
 
+[16929 Two Dots](../problems/acmicpc_16929.cpp) ([링크](https://www.acmicpc.net/problem/16929))
+
 [16936 나3곱2](../problems/acmicpc_16936.cpp) ([링크](https://www.acmicpc.net/problem/16936))
 
 [16940 BFS 스페셜 저지](../problems/acmicpc_16940.cpp) ([링크](https://www.acmicpc.net/problem/16940))
