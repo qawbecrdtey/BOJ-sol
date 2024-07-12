@@ -3838,6 +3838,8 @@
 
 [31952 Dihedral Group](../problems/acmicpc_31952.cpp) ([링크](https://www.acmicpc.net/problem/31952))
 
+[31962 등교](../problems/acmicpc_31962.cpp) ([링크](https://www.acmicpc.net/problem/31962))
+
 [31964 반품 회수](../problems/acmicpc_31964.cpp) ([링크](https://www.acmicpc.net/problem/31964))
 
 [31994 강당 대관](../problems/acmicpc_31994.cpp) ([링크](https://www.acmicpc.net/problem/31994))
