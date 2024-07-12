@@ -3070,6 +3070,8 @@
 
 [22938 백발백준하는 명사수](../problems/acmicpc_22938.cpp) ([링크](https://www.acmicpc.net/problem/22938))
 
+[22943 수](../problems/acmicpc_22943.cpp) ([링크](https://www.acmicpc.net/problem/22943))
+
 [22614 Infected Computer](../problems/acmicpc_22614.cpp) ([링크](https://www.acmicpc.net/problem/22614))
 
 [22825 Fermat's Last Theorem](../problems/acmicpc_22825.cpp) ([링크](https://www.acmicpc.net/problem/22825))
