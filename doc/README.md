@@ -2542,6 +2542,8 @@
 
 [16879 궁전 게임](../problems/acmicpc_16879.cpp) ([링크](https://www.acmicpc.net/problem/16879))
 
+[16880 룩, 비숍, 킹, 나이트, 궁전 게임](../problems/acmicpc_16880.cpp) ([링크](https://www.acmicpc.net/problem/16880))
+
 [16881 행렬 게임](../problems/acmicpc_16881.cpp) ([링크](https://www.acmicpc.net/problem/16881))
 
 [16888 루트 게임](../problems/acmicpc_16888.cpp) ([링크](https://www.acmicpc.net/problem/16888))
