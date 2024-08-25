@@ -472,6 +472,8 @@
 
 [2243 사탕상자](../problems/acmicpc_2243.cpp) ([링크](https://www.acmicpc.net/problem/2243))
 
+[2248 이진수 찾기](../problems/acmicpc_2248.cpp) ([링크](https://www.acmicpc.net/problem/2248))
+
 [2250 트리의 높이와 너비](../problems/acmicpc_2250.cpp) ([링크](https://www.acmicpc.net/problem/2250))
 
 [2251 물통](../problems/acmicpc_2251.cpp) ([링크](https://www.acmicpc.net/problem/2251))
@@ -534,6 +536,8 @@
 
 [2491 수열](../problems/acmicpc_2491.cpp) ([링크](https://www.acmicpc.net/problem/2491))
 
+[2494 숫자 맞추기](../problems/acmicpc_2494.cpp) ([링크](https://www.acmicpc.net/problem/2494))
+
 [2502 떡 먹는 호랑이](../problems/acmicpc_2502.cpp) ([링크](https://www.acmicpc.net/problem/2502))
 
 [2503 숫자 야구](../problems/acmicpc_2503.cpp) ([링크](https://www.acmicpc.net/problem/2503))
@@ -555,6 +559,8 @@
 [2547 사탕 선생 고창영](../problems/acmicpc_2547.cpp) ([링크](https://www.acmicpc.net/problem/2547))
 
 [2548 대표 자연수](../problems/acmicpc_2548.cpp) ([링크](https://www.acmicpc.net/problem/2548))
+
+[2550 전구](../problems/acmicpc_2550.cpp) ([링크](https://www.acmicpc.net/problem/2550))
 
 [2553 마지막 팩토리얼 수](../problems/acmicpc_2553.cpp) ([링크](https://www.acmicpc.net/problem/2553))
 
