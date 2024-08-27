@@ -100,6 +100,8 @@
 
 [1222 홍준 프로그래밍 대회](../problems/acmicpc_1222.cpp) ([링크](https://www.acmicpc.net/problem/1222))
 
+[1229 육각수](../problems/acmicpc_1229.cpp) ([링크](https://www.acmicpc.net/problem/1229))
+
 [1233 주사위](../problems/acmicpc_1233.cpp) ([링크](https://www.acmicpc.net/problem/1233))
 
 [1235 학생 번호](../problems/acmicpc_1235.cpp) ([링크](https://www.acmicpc.net/problem/1235))
