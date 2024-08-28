@@ -1744,6 +1744,8 @@
 
 [11687 팩토리얼 0의 개수](../problems/acmicpc_11687.cpp) ([링크](https://www.acmicpc.net/problem/11687))
 
+[11688 최소공배수 찾기](../problems/acmicpc_11688.cpp) ([링크](https://www.acmicpc.net/problem/11688))
+
 [11690 LCM(1, 2, ..., n)](../problems/acmicpc_11690.cpp) ([링크](https://www.acmicpc.net/problem/11690))
 
 [11691 LCM(i, j)](../problems/acmicpc_11691.cpp) ([링크](https://www.acmicpc.net/problem/11691))
