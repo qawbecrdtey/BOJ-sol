@@ -2592,6 +2592,8 @@
 
 [16978 수열과 쿼리 22](../problems/acmicpc_16978.cpp) ([링크](https://www.acmicpc.net/problem/16978))
 
+[16991 외판원 순회 3](../problems/acmicpc_16991.cpp) ([링크](https://www.acmicpc.net/problem/16991))
+
 [16993 연속합과 쿼리](../problems/acmicpc_16993.cpp) ([링크](https://www.acmicpc.net/problem/16993))
 
 [17009 Winning Score](../problems/acmicpc_17009.cpp) ([링크](https://www.acmicpc.net/problem/17009))
