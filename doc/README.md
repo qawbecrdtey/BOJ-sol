@@ -390,6 +390,8 @@
 
 [1939 중량제한](../problems/acmicpc_1939.cpp) ([링크](https://www.acmicpc.net/problem/1939))
 
+[1943 동전 분배](../problems/acmicpc_1943.cpp) ([링크](https://www.acmicpc.net/problem/1943))
+
 [1946 신입 사원](../problems/acmicpc_1946.cpp) ([링크](https://www.acmicpc.net/problem/1946))
 
 [1949 우수 마을](../problems/acmicpc_1949.cpp) ([링크](https://www.acmicpc.net/problem/1949))
