@@ -76,6 +76,8 @@
 
 [1145 적어도 대부분의 배수](../problems/acmicpc_1145.cpp) ([링크](https://www.acmicpc.net/problem/1145))
 
+[1146 지그재그 서기](../problems/acmicpc_1146.cpp) ([링크](https://www.acmicpc.net/problem/1146))
+
 [1153 네 개의 소수](../problems/acmicpc_1153.cpp) ([링크](https://www.acmicpc.net/problem/1153))
 
 [1154 팀 편성](../problems/acmicpc_1154.cpp) ([링크](https://www.acmicpc.net/problem/1154))
