@@ -468,6 +468,8 @@
 
 [2207 가위바위보](../problems/acmicpc_2207.cpp) ([링크](https://www.acmicpc.net/problem/2207))
 
+[2208 보석 줍기](../problems/acmicpc_2208.cpp) ([링크](https://www.acmicpc.net/problem/2208))
+
 [2210 숫자판 점프](../problems/acmicpc_2210.cpp) ([링크](https://www.acmicpc.net/problem/2210))
 
 [2213 트리의 독립집합](../problems/acmicpc_2213.cpp) ([링크](https://www.acmicpc.net/problem/2213))
