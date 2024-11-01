@@ -2934,6 +2934,8 @@
 
 [20170 Commemorative Dice](../problems/acmicpc_20170.cpp) ([링크](https://www.acmicpc.net/problem/20170))
 
+[20186 수 고르기](../problems/acmicpc_20186.cpp) ([링크](https://www.acmicpc.net/problem/20186))
+
 [20205 교수님 그림이 깨지는데요?](../problems/acmicpc_20205.cpp) ([링크](https://www.acmicpc.net/problem/20205))
 
 [20215 Cutting Corners](../problems/acmicpc_20215.cpp) ([링크](https://www.acmicpc.net/problem/20215))
