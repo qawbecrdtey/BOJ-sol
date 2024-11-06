@@ -3888,6 +3888,8 @@
 
 [32443 Lecographically Maximum](../problems/acmicpc_32443.cpp) ([링크](https://www.acmicpc.net/problem/32443))
 
+[32616 Industry Improvements](../problems/acmicpc_32616.cpp) ([링크](https://www.acmicpc.net/problem/32616))
+
 ## Algorithms
 
 [BFS](BFS.md)
