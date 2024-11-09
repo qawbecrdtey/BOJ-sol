@@ -2550,6 +2550,8 @@
 
 [16600 Contemporary Art](../problems/acmicpc_16600.cpp) ([링크](https://www.acmicpc.net/problem/16600))
 
+[16649 Building a Stair](../problems/acmicpc_16649.cpp) ([링크](https://www.acmicpc.net/problem/16649))
+
 [16673 고려대학교에는 공식 와인이 있다](../problems/acmicpc_16673.cpp) ([링크](https://www.acmicpc.net/problem/16673))
 
 [16693 Pizza Deal](../problems/acmicpc_16693.cpp) ([링크](https://www.acmicpc.net/problem/16693))
