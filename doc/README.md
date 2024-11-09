@@ -2934,6 +2934,8 @@
 
 [20170 Commemorative Dice](../problems/acmicpc_20170.cpp) ([링크](https://www.acmicpc.net/problem/20170))
 
+[20186 수 고르기](../problems/acmicpc_20186.cpp) ([링크](https://www.acmicpc.net/problem/20186))
+
 [20205 교수님 그림이 깨지는데요?](../problems/acmicpc_20205.cpp) ([링크](https://www.acmicpc.net/problem/20205))
 
 [20215 Cutting Corners](../problems/acmicpc_20215.cpp) ([링크](https://www.acmicpc.net/problem/20215))
@@ -3885,6 +3887,10 @@
 [31994 강당 대관](../problems/acmicpc_31994.cpp) ([링크](https://www.acmicpc.net/problem/31994))
 
 [32292 ABB to BA (Easy)](../problems/acmicpc_32292.cpp) ([링크](https://www.acmicpc.net/problem/32292))
+
+[32443 Lecographically Maximum](../problems/acmicpc_32443.cpp) ([링크](https://www.acmicpc.net/problem/32443))
+
+[32616 Industry Improvements](../problems/acmicpc_32616.cpp) ([링크](https://www.acmicpc.net/problem/32616))
 
 ## Algorithms
 
