@@ -3890,6 +3890,8 @@
 
 [31994 강당 대관](../problems/acmicpc_31994.cpp) ([링크](https://www.acmicpc.net/problem/31994))
 
+[32154 SUAPC 2024 Winter](problems/acmicpc_32154.cpp) ([링크](https://www.acmicpc.net/problem/32154))
+
 [32292 ABB to BA (Easy)](../problems/acmicpc_32292.cpp) ([링크](https://www.acmicpc.net/problem/32292))
 
 [32443 Lecographically Maximum](../problems/acmicpc_32443.cpp) ([링크](https://www.acmicpc.net/problem/32443))
