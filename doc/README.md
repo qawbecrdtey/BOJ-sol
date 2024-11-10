@@ -3806,6 +3806,8 @@
 
 [30088 공포의 면담실](../problems/acmicpc_30088.cpp) ([링크](https://www.acmicpc.net/problem/30088))
 
+[30143 Cookie Piles](../problems/acmicpc_30143.cpp) ([링크](https://www.acmicpc.net/problem/30143))
+
 [30223 Cut the Cake](../problems/acmicpc_30223.cpp) ([링크](https://www.acmicpc.net/problem/30223))
 
 [30411 그래프 게임](../problems/acmicpc_30411.cpp) ([링크](https://www.acmicpc.net/problem/30411))
