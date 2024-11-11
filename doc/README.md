@@ -3902,6 +3902,8 @@
 
 [32616 Industry Improvements](../problems/acmicpc_32616.cpp) ([링크](https://www.acmicpc.net/problem/32616))
 
+[32649 GLCCDM](../problems/acmicpc_32649.cpp) ([링크](https://www.acmicpc.net/problem/32649))
+
 ## Algorithms
 
 [BFS](BFS.md)
