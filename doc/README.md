@@ -3904,6 +3904,8 @@
 
 [32649 GLCCDM](../problems/acmicpc_32649.cpp) ([링크](https://www.acmicpc.net/problem/32649))
 
+[32651 인간은 무엇인가](../problems/acmicpc_32651.cpp) ([링크](https://www.acmicpc.net/problem/32651))
+
 ## Algorithms
 
 [BFS](BFS.md)
