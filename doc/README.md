@@ -1018,6 +1018,8 @@
 
 [5958 Space Exploration](../problems/acmicpc_5958.cpp) ([링크](https://www.acmicpc.net/problem/5958))
 
+[5972 Package Delivery](../problems/acmicpc_5972.cpp) ([링크](https://www.acmicpc.net/problem/5972))
+
 [6041 MasterMind](../problems/acmicpc_6041.cpp) ([링크](https://www.acmicpc.net/problem/6041))
 
 [6060 Wheel Rotation](../problems/acmicpc_6060.cpp) ([링크](https://www.acmicpc.net/problem/6060))
