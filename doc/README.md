@@ -3910,6 +3910,8 @@
 
 [32651 인간은 무엇인가](../problems/acmicpc_32651.cpp) ([링크](https://www.acmicpc.net/problem/32651))
 
+[32652 아카라카 2](../problems/acmicpc_32652.cpp) ([링크](https://www.acmicpc.net/problem/32652))
+
 ## Algorithms
 
 [BFS](BFS.md)
