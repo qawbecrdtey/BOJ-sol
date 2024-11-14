@@ -3868,6 +3868,8 @@
 
 [31789 모험의 시작](../problems/acmicpc_31789.cpp) ([링크](https://www.acmicpc.net/problem/31789))
 
+[31827 소수 수열](../problems/acmicpc_31827.cpp) ([링크](https://www.acmicpc.net/problem/31827))
+
 [31831 과민성 대장 증후군](../problems/acmicpc_31831.cpp) ([링크](https://www.acmicpc.net/problem/31831))
 
 [31833 온데간데없을뿐더러](../problems/acmicpc_31833.cpp) ([링크](https://www.acmicpc.net/problem/31833))
