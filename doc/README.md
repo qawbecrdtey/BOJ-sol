@@ -2546,6 +2546,8 @@
 
 [16563 어려운 소인수분해](../problems/acmicpc_16563.cpp) ([링크](https://www.acmicpc.net/problem/16563))
 
+[16564 히오스 프로게이머](../problems/acmicpc_16564.cpp) ([링크](https://www.acmicpc.net/problem/16564))
+
 [16566 카드 게임](../problems/acmicpc_16566.cpp) ([링크](https://www.acmicpc.net/problem/16566))
 
 [16581 Lie Detector](../problems/acmicpc_16581.cpp) ([링크](https://www.acmicpc.net/problem/16581))
