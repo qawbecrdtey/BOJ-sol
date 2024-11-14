@@ -3918,6 +3918,8 @@
 
 [32652 아카라카 2](../problems/acmicpc_32652.cpp) ([링크](https://www.acmicpc.net/problem/32652))
 
+[32682 Which Number Kind Is It?](../problems/acmicpc_32682.cpp) ([링크](https://www.acmicpc.net/problem/32682))
+
 ## Algorithms
 
 [BFS](BFS.md)
