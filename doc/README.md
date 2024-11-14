@@ -2294,6 +2294,8 @@
 
 [15235 Olympiad Pizza](../problems/acmicpc_15235.cpp) ([링크](https://www.acmicpc.net/problem/15235))
 
+[15238 Pirates](../problems/acmicpc_15238.cpp) ([링크](https://www.acmicpc.net/problem/15238))
+
 [15239 Password check](../problems/acmicpc_15239.cpp) ([링크](https://www.acmicpc.net/problem/15239))
 
 [15272 Hissing Microphone](../problems/acmicpc_15272.cpp) ([링크](https://www.acmicpc.net/problem/15272))
