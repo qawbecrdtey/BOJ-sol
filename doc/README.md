@@ -3900,6 +3900,8 @@
 
 [31994 강당 대관](../problems/acmicpc_31994.cpp) ([링크](https://www.acmicpc.net/problem/31994))
 
+[32089 部員の変遷](problems/acmicpc_32089.cpp) ([링크](https://www.acmicpc.net/problem/32089))
+
 [32154 SUAPC 2024 Winter](problems/acmicpc_32154.cpp) ([링크](https://www.acmicpc.net/problem/32154))
 
 [32292 ABB to BA (Easy)](../problems/acmicpc_32292.cpp) ([링크](https://www.acmicpc.net/problem/32292))
