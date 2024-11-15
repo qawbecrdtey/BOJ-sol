@@ -3912,6 +3912,8 @@
 
 [32525 Duality](../problems/acmicpc_32525.cpp) ([링크](https://www.acmicpc.net/problem/32525))
 
+[32544 Human Pyramid](../problems/acmicpc_32544.cpp) ([링크](https://www.acmicpc.net/problem/32544))
+
 [32612 Expected Eyes](../problems/acmicpc_32612.cpp) ([링크](https://www.acmicpc.net/problem/32612))
 
 [32616 Industry Improvements](../problems/acmicpc_32616.cpp) ([링크](https://www.acmicpc.net/problem/32616))
