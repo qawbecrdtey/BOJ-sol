@@ -2540,6 +2540,8 @@
 
 [16516 Lipschitz Constant](../problems/acmicpc_16516.cpp) ([링크](https://www.acmicpc.net/problem/16516))
 
+[16539 Chain](../problems/acmicpc_16539.cpp) ([링크](https://www.acmicpc.net/problem/16539))
+
 [16546 Missing Runners](../problems/acmicpc_16546.cpp) ([링크](https://www.acmicpc.net/problem/16546))
 
 [16561 3의 배수](../problems/acmicpc_16561.cpp) ([링크](https://www.acmicpc.net/problem/16561))
