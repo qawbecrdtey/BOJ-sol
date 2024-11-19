@@ -960,6 +960,8 @@
 
 [5364 Escape Route](../problems/acmicpc_5364.cpp) ([링크](https://www.acmicpc.net/problem/5364))
 
+[5426 비밀 편지](../problems/acmicpc_5426.cpp) ([링크](https://www.acmicpc.net/problem/5426))
+
 [5430 AC](../problems/acmicpc_5430.cpp) ([링크](https://www.acmicpc.net/problem/5430))
 
 [5502 팰린드롬](../problems/acmicpc_5502.cpp) ([링크](https://www.acmicpc.net/problem/5502))
