@@ -3910,6 +3910,8 @@
 
 [32292 ABB to BA (Easy)](../problems/acmicpc_32292.cpp) ([링크](https://www.acmicpc.net/problem/32292))
 
+[32337 제비 통신](../problems/acmicpc_32337.cpp) ([링크](https://www.acmicpc.net/problem/32337))
+
 [32443 Lecographically Maximum](../problems/acmicpc_32443.cpp) ([링크](https://www.acmicpc.net/problem/32443))
 
 [32458 Just Round Down](../problems/acmicpc_32458.cpp) ([링크](https://www.acmicpc.net/problem/32458))
