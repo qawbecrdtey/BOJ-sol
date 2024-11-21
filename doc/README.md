@@ -3910,6 +3910,8 @@
 
 [32154 SUAPC 2024 Winter](problems/acmicpc_32154.cpp) ([링크](https://www.acmicpc.net/problem/32154))
 
+[32172 현권이와 신기한 수열](problems/acmicpc_32172.cpp) ([링크](https://www.acmicpc.net/problem/32172))
+
 [32292 ABB to BA (Easy)](../problems/acmicpc_32292.cpp) ([링크](https://www.acmicpc.net/problem/32292))
 
 [32337 제비 통신](../problems/acmicpc_32337.cpp) ([링크](https://www.acmicpc.net/problem/32337))
