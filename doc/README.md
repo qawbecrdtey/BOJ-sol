@@ -3338,6 +3338,8 @@
 
 [24924 Card Divisibility](../problems/acmicpc_24924.cpp) ([링크](https://www.acmicpc.net/problem/24924))
 
+[24936 Trip Odometer](../problems/acmicpc_24936.cpp) ([링크](https://www.acmicpc.net/problem/24936))
+
 [24937 SciComLove (2022)](../problems/acmicpc_24937.cpp) ([링크](https://www.acmicpc.net/problem/24937))
 
 [24993 KIARA is a Recursive Acronym](../problems/acmicpc_24993.cpp) ([링크](https://www.acmicpc.net/problem/24993))
