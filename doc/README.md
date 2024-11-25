@@ -702,6 +702,8 @@
 
 [3067 Coins](../problems/acmicpc_3067.cpp) ([링크](https://www.acmicpc.net/problem/3067))
 
+[3079 입국심사](../problems/acmicpc_3079.cpp) ([링크](https://www.acmicpc.net/problem/3079))
+
 [3151 합이 0](../problems/acmicpc_3151.cpp) ([링크](https://www.acmicpc.net/problem/3151))
 
 [3181 줄임말 만들기](../problems/acmicpc_3181.cpp) ([링크](https://www.acmicpc.net/problem/3181))
