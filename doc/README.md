@@ -3944,6 +3944,8 @@
 
 [32682 Which Number Kind Is It?](../problems/acmicpc_32682.cpp) ([링크](https://www.acmicpc.net/problem/32682))
 
+[32710 구구단표](../problems/acmicpc_32710.cpp) ([링크](https://www.acmicpc.net/problem/32710))
+
 ## Algorithms
 
 [BFS](BFS.md)
