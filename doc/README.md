@@ -3178,6 +3178,8 @@
 
 [23327 리그전 오브 레전드](../problems/acmicpc_23327.cpp) ([링크](https://www.acmicpc.net/problem/23327))
 
+[23335 Aliquot Sum](../problems/acmicpc_23335.cpp) ([링크](https://www.acmicpc.net/problem/23335))
+
 [23343 JavaScript](../problems/acmicpc_23343.cpp) ([링크](https://www.acmicpc.net/problem/23343))
 
 [23375 Arm Coordination](../problems/acmicpc_23375.cpp) ([링크](https://www.acmicpc.net/problem/23375))
