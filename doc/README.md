@@ -2218,6 +2218,8 @@
 
 [14731 謎紛芥索紀 (Large)](../problems/acmicpc_14731.cpp) ([링크](https://www.acmicpc.net/problem/14731))
 
+[14760 Reverse Nonogram](../problems/acmicpc_14760.cpp) ([링크](https://www.acmicpc.net/problem/14760))
+
 [14761 FizzBuzz](../problems/acmicpc_14761.cpp) ([링크](https://www.acmicpc.net/problem/14761))
 
 [14842 재홍의 사다리](../problems/acmicpc_14842.cpp) ([링크](https://www.acmicpc.net/problem/14842))
