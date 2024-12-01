@@ -2672,6 +2672,8 @@
 
 [17213 과일 서리](../problems/acmicpc_17213.cpp) ([링크](https://www.acmicpc.net/problem/17213))
 
+[17216 가장 큰 감소 부분 수열](../problems/acmicpc_17216.cpp) ([링크](https://www.acmicpc.net/problem/17216))
+
 [17219 비밀번호 찾기](../problems/acmicpc_17219.cpp) ([링크](https://www.acmicpc.net/problem/17219))
 
 [17244 아맞다우산](../problems/acmicpc_17244.cpp) ([링크](https://www.acmicpc.net/problem/17244))
