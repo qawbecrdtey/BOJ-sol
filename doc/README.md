@@ -3958,6 +3958,8 @@
 
 [32710 구구단표](../problems/acmicpc_32710.cpp) ([링크](https://www.acmicpc.net/problem/32710))
 
+[32748 $f(A+B)$](../problems/acmicpc_32748.cpp) ([링크](https://www.acmicpc.net/problem/32748))
+
 ## Algorithms
 
 [BFS](BFS.md)
