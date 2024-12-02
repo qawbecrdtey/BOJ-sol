@@ -3962,6 +3962,8 @@
 
 [32748 $f(A+B)$](../problems/acmicpc_32748.cpp) ([링크](https://www.acmicpc.net/problem/32748))
 
+[32848 Herb Mixing](../problems/acmicpc_32848.cpp) ([링크](https://www.acmicpc.net/problem/32848))
+
 ## Algorithms
 
 [BFS](BFS.md)
