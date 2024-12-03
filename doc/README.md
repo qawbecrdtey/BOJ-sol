@@ -3962,6 +3962,8 @@
 
 [32748 $f(A+B)$](../problems/acmicpc_32748.cpp) ([링크](https://www.acmicpc.net/problem/32748))
 
+[32751 햄버거](../problems/acmicpc_32751.cpp) ([링크](https://www.acmicpc.net/problem/32751))
+
 [32848 Herb Mixing](../problems/acmicpc_32848.cpp) ([링크](https://www.acmicpc.net/problem/32848))
 
 [32861 순열 복원](../problems/acmicpc_32861.cpp) ([링크](https://www.acmicpc.net/problem/32861))
