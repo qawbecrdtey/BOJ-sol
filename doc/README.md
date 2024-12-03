@@ -3968,6 +3968,8 @@
 
 [32861 순열 복원](../problems/acmicpc_32861.cpp) ([링크](https://www.acmicpc.net/problem/32861))
 
+[32866 코인의 신 건모](../problems/acmicpc_32866.cpp) ([링크](https://www.acmicpc.net/problem/32866))
+
 ## Algorithms
 
 [BFS](BFS.md)
