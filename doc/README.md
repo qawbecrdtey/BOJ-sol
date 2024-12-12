@@ -3970,6 +3970,8 @@
 
 [32866 코인의 신 건모](../problems/acmicpc_32866.cpp) ([링크](https://www.acmicpc.net/problem/32866))
 
+[32932 드론 조작](../problems/acmicpc_32932.cpp) ([링크](https://www.acmicpc.net/problem/32932))
+
 ## Algorithms
 
 [BFS](BFS.md)
