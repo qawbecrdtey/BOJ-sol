@@ -1028,6 +1028,8 @@
 
 [6041 MasterMind](../problems/acmicpc_6041.cpp) ([링크](https://www.acmicpc.net/problem/6041))
 
+[6052 Cow Pals](../problems/acmicpc_6052.cpp) ([링크](https://www.acmicpc.net/problem/6052))
+
 [6060 Wheel Rotation](../problems/acmicpc_6060.cpp) ([링크](https://www.acmicpc.net/problem/6060))
 
 [6064 카잉 달력](../problems/acmicpc_6064.cpp) ([링크](https://www.acmicpc.net/problem/6064))
