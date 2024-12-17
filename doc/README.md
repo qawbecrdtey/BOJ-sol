@@ -2698,6 +2698,8 @@
 
 [17266 어두운 굴다리](../problems/acmicpc_17266.cpp) ([링크](https://www.acmicpc.net/problem/17266))
 
+[17269 이름궁합 테스트](../problems/acmicpc_17269.cpp) ([링크](https://www.acmicpc.net/problem/17269))
+
 [17284 Vending Machine](../problems/acmicpc_17284.cpp) ([링크](https://www.acmicpc.net/problem/17284))
 
 [17285 XORChic](../problems/acmicpc_17285.cpp) ([링크](https://www.acmicpc.net/problem/17285))
