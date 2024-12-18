@@ -2420,6 +2420,8 @@
 
 [15824 너 봄에는 캡사이신이 맛있단다](../problems/acmicpc_15824.cpp) ([링크](https://www.acmicpc.net/problem/15824))
 
+[15828 Router](../problems/acmicpc_15828.cpp) ([링크](https://www.acmicpc.net/problem/15828))
+
 [15829 Hashing](../problems/acmicpc_15829.cpp) ([링크](https://www.acmicpc.net/problem/15829))
 
 [15858 Simple Arithmetic](../problems/acmicpc_15858.cpp) ([링크](https://www.acmicpc.net/problem/15858))
