@@ -3982,6 +3982,8 @@
 
 [32932 드론 조작](../problems/acmicpc_32932.cpp) ([링크](https://www.acmicpc.net/problem/32932))
 
+[32941 왜 맘대로 예약하냐고](../problems/acmicpc_32941.cpp) ([링크](https://www.acmicpc.net/problem/32941))
+
 ## Algorithms
 
 [BFS](BFS.md)
