@@ -3986,6 +3986,8 @@
 
 [32941 왜 맘대로 예약하냐고](../problems/acmicpc_32941.cpp) ([링크](https://www.acmicpc.net/problem/32941))
 
+[32981 찐 Even Number](../problems/acmicpc_32981.cpp) ([링크](https://www.acmicpc.net/problem/32981))
+
 ## Algorithms
 
 [BFS](BFS.md)
