@@ -3974,6 +3974,8 @@
 
 [32751 햄버거](../problems/acmicpc_32751.cpp) ([링크](https://www.acmicpc.net/problem/32751))
 
+[32753 네 또 수열입니다](../problems/acmicpc_32753.cpp) ([링크](https://www.acmicpc.net/problem/32753))
+
 [32848 Herb Mixing](../problems/acmicpc_32848.cpp) ([링크](https://www.acmicpc.net/problem/32848))
 
 [32861 순열 복원](../problems/acmicpc_32861.cpp) ([링크](https://www.acmicpc.net/problem/32861))
