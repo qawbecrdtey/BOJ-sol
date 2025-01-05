@@ -3992,6 +3992,8 @@
 
 [32981 찐 Even Number](../problems/acmicpc_32981.cpp) ([링크](https://www.acmicpc.net/problem/32981))
 
+[33118 ICPC Provincial](../problems/acmicpc_33118.cpp) ([링크](https://www.acmicpc.net/problem/33118))
+
 ## Algorithms
 
 [BFS](BFS.md)
