@@ -3942,6 +3942,8 @@
 
 [32292 ABB to BA (Easy)](../problems/acmicpc_32292.cpp) ([링크](https://www.acmicpc.net/problem/32292))
 
+[32328 Bronze Count](../problems/acmicpc_32328.cpp) ([링크](https://www.acmicpc.net/problem/32328))
+
 [32337 제비 통신](../problems/acmicpc_32337.cpp) ([링크](https://www.acmicpc.net/problem/32337))
 
 [32443 Lecographically Maximum](../problems/acmicpc_32443.cpp) ([링크](https://www.acmicpc.net/problem/32443))
