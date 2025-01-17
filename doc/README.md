@@ -2518,6 +2518,8 @@
 
 [16396 선 그리기](../problems/acmicpc_16396.cpp) ([링크](https://www.acmicpc.net/problem/16396))
 
+[16401 과자 나눠주기](../problems/acmicpc_16401.cpp) ([링크](https://www.acmicpc.net/problem/16401))
+
 [16404 주식회사 승범이네](../problems/acmicpc_16404.cpp) ([링크](https://www.acmicpc.net/problem/16404))
 
 [16406 Exam](../problems/acmicpc_16406.cpp) ([링크](https://www.acmicpc.net/problem/16406))
