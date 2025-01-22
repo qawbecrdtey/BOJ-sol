@@ -3354,6 +3354,8 @@
 
 [24831 Two Rabbits](../problems/acmicpc_24831.cpp) ([링크](https://www.acmicpc.net/problem/24831))
 
+[24839 Speed Typing](../problems/acmicpc_24839.cpp) ([링크](https://www.acmicpc.net/problem/24839))
+
 [24860 Counting Antibodies](../problems/acmicpc_24860.cpp) ([링크](https://www.acmicpc.net/problem/24860))
 
 [24867 Два станка](../problems/acmicpc_24867.cpp) ([링크](https://www.acmicpc.net/problem/24867))
