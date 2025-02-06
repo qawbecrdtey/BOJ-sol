@@ -3830,6 +3830,8 @@
 
 [28927 Киноманы](../problems/acmicpc_28927.cpp) ([링크](https://www.acmicpc.net/problem/28927))
 
+[29133 Фома и занимательная математика](../problems/acmicpc_29133.cpp) ([링크](https://www.acmicpc.net/problem/29133))
+
 [29332 보물 지도](../problems/acmicpc_29332.cpp) ([링크](https://www.acmicpc.net/problem/29332))
 
 [29702 FizzBuzz](../problems/acmicpc_29702.cpp) ([링크](https://www.acmicpc.net/problem/29702))
