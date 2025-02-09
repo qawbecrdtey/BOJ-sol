@@ -634,6 +634,8 @@
 
 [2776 암기왕](../problems/acmicpc_2776.cpp) ([링크](https://www.acmicpc.net/problem/2776))
 
+[2777 숫자 놀이](../problems/acmicpc_2777.cpp) ([링크](https://www.acmicpc.net/problem/2777))
+
 [2780 비밀번호](../problems/acmicpc_2780.cpp) ([링크](https://www.acmicpc.net/problem/2780))
 
 [2783 삼각 김밥](../problems/acmicpc_2783.cpp) ([링크](https://www.acmicpc.net/problem/2783))
