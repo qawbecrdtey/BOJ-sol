@@ -3868,6 +3868,8 @@
 
 [30457 단체줄넘기](../problems/acmicpc_30457.cpp) ([링크](https://www.acmicpc.net/problem/30457))
 
+[30460 스위치](../problems/acmicpc_30460.cpp) ([링크](https://www.acmicpc.net/problem/30460))
+
 [30510 토마에 함수](../problems/acmicpc_30510.cpp) ([링크](https://www.acmicpc.net/problem/30510))
 
 [30528 Prof. Fumblemore and the Collatz Conjecture](../problems/acmicpc_30528.cpp) ([링크](https://www.acmicpc.net/problem/30528))
