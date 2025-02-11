@@ -3080,6 +3080,8 @@
 
 [21336 Cheating](../problems/acmicpc_21336.cpp) ([링크](https://www.acmicpc.net/problem/21336))
 
+[21449 Красивая таблица результатов](../problems/acmicpc_21449.cpp) ([링크](https://www.acmicpc.net/problem/21449))
+
 [21553 암호 만들기](../problems/acmicpc_21553.cpp) ([링크](https://www.acmicpc.net/problem/21553))
 
 [21557 불꽃놀이](../problems/acmicpc_21557.cpp) ([링크](https://www.acmicpc.net/problem/21557))
