@@ -2040,6 +2040,8 @@
 
 [13728 행렬식과 GCD](../problems/acmicpc_13728.cpp) ([링크](https://www.acmicpc.net/problem/13728))
 
+[13737 The Calculus of Ada](../problems/acmicpc_13737.cpp) ([링크](https://www.acmicpc.net/problem/13737))
+
 [13752 히스토그램](../problems/acmicpc_13752.cpp) ([링크](https://www.acmicpc.net/problem/13752))
 
 [13771 Presents](../problems/acmicpc_13771.cpp) ([링크](https://www.acmicpc.net/problem/13771))
