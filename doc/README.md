@@ -56,6 +56,8 @@
 
 [1067 이동](../problems/acmicpc_1067.cpp) ([링크](https://www.acmicpc.net/problem/1067))
 
+[1072 게임](../problems/acmicpc_1072.cpp) ([링크](https://www.acmicpc.net/problem/1072))
+
 [1074 Z](../problems/acmicpc_1074.cpp) ([링크](https://www.acmicpc.net/problem/1074))
 
 [1080 행렬](../problems/acmicpc_1080.cpp) ([링크](https://www.acmicpc.net/problem/1080))
@@ -3163,6 +3165,8 @@
 [22966 가장 쉬운 문제를 찾는 문제](../problems/acmicpc_22966.cpp) ([링크](https://www.acmicpc.net/problem/22966))
 
 [22970 문제 재탕](../problems/acmicpc_22970.cpp) ([링크](https://www.acmicpc.net/problem/22970))
+
+[23003 Increasing Substring](../problems/acmicpc_23003.cpp) ([링크](https://www.acmicpc.net/problem/23003))
 
 [23027 1번부터 문제의 상태가…?](../problems/acmicpc_23027.cpp) ([링크](https://www.acmicpc.net/problem/23027))
 
