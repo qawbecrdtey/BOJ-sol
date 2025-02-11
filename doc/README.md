@@ -2592,6 +2592,8 @@
 
 [16693 Pizza Deal](../problems/acmicpc_16693.cpp) ([링크](https://www.acmicpc.net/problem/16693))
 
+[16724 피리 부는 사나이](../problems/acmicpc_16724.cpp) ([링크](https://www.acmicpc.net/problem/16724))
+
 [16755 Magnus](../problems/acmicpc_16755.cpp) ([링크](https://www.acmicpc.net/problem/16755))
 
 [16795 Thread Tree](../problems/acmicpc_16795.cpp) ([링크](https://www.acmicpc.net/problem/16795))
