@@ -4034,6 +4034,8 @@
 
 [33191 Yalda](../problems/acmicpc_33191.cpp) ([링크](https://www.acmicpc.net/problem/33191))
 
+[33213 Fermatovi Fakini](../problems/acmicpc_33213.cpp) ([링크](https://www.acmicpc.net/problem/33213))
+
 
 ## Algorithms
 
