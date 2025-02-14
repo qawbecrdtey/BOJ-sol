@@ -2854,6 +2854,8 @@
 
 [18268 Cow Gymnastics](../problems/acmicpc_18268.cpp) ([링크](https://www.acmicpc.net/problem/18268))
 
+[18291 비요뜨의 징검다리 건너기](../problems/acmicpc_18291.cpp) ([링크](https://www.acmicpc.net/problem/18291))
+
 [18294 Biodiversity](../problems/acmicpc_18294.cpp) ([링크](https://www.acmicpc.net/problem/18294))
 
 [18301 Rats](../problems/acmicpc_18301.cpp) ([링크](https://www.acmicpc.net/problem/18301))
