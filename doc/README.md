@@ -1352,6 +1352,8 @@
 
 [9576 책 나눠주기](../problems/acmicpc_9576.cpp) ([링크](https://www.acmicpc.net/problem/9576))
 
+[9626 크로스워드 퍼즐](../problems/acmicpc_9626.cpp) ([링크](https://www.acmicpc.net/problem/9626))
+
 [9655 돌 게임](../problems/acmicpc_9655.cpp) ([링크](https://www.acmicpc.net/problem/9655))
 
 [9657 돌 게임 3](../problems/acmicpc_9657.cpp) ([링크](https://www.acmicpc.net/problem/9657))
