@@ -3506,6 +3506,8 @@
 
 [25705 돌림판 문자열](../problems/acmicpc_25705.cpp) ([링크](https://www.acmicpc.net/problem/25705))
 
+[25706 자전거 묘기](../problems/acmicpc_25706.cpp) ([링크](https://www.acmicpc.net/problem/25706))
+
 [25708 만남의 광장](../problems/acmicpc_25708.cpp) ([링크](https://www.acmicpc.net/problem/25708))
 
 [25709 1 빼기](../problems/acmicpc_25709.cpp) ([링크](https://www.acmicpc.net/problem/25709))
