@@ -4042,6 +4042,8 @@
 
 [33213 Fermatovi Fakini](../problems/acmicpc_33213.cpp) ([링크](https://www.acmicpc.net/problem/33213))
 
+[33258 상현이의 수학 공부 대작전](../problems/acmicpc_33258.cpp) ([링크](https://www.acmicpc.net/problem/33258))
+
 
 ## Algorithms
 
