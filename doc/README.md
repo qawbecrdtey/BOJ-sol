@@ -1144,6 +1144,8 @@
 
 [6996 애너그램](../problems/acmicpc_6996.cpp) ([링크](https://www.acmicpc.net/problem/6996))
 
+[7239 Pjūklas](../problems/acmicpc_7239.cpp) ([링크](https://www.acmicpc.net/problem/7239))
+
 [7345 다항식의 나머지 연산](../problems/acmicpc_7345.cpp) ([링크](https://www.acmicpc.net/problem/7345))
 
 [7366 Counting Sheep](../problems/acmicpc_7366.cpp) ([링크](https://www.acmicpc.net/problem/7366))
