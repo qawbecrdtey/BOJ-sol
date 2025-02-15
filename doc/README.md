@@ -3930,6 +3930,8 @@
 
 [31307 Lines Per Hour](../problems/acmicpc_31307.cpp) ([링크](https://www.acmicpc.net/problem/31307))
 
+[31575 도시와 비트코인](../problems/acmicpc_31575.cpp) ([링크](https://www.acmicpc.net/problem/31575))
+
 [31608 ハミング距離 (Hamming Distance)](../problems/acmicpc_31608.cpp) ([링크](https://www.acmicpc.net/problem/31608))
 
 [31609 現れている数字 (Appearing Numbers)](../problems/acmicpc_31609.cpp) ([링크](https://www.acmicpc.net/problem/31609))
