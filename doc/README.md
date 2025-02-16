@@ -2446,6 +2446,8 @@
 
 [15858 Simple Arithmetic](../problems/acmicpc_15858.cpp) ([링크](https://www.acmicpc.net/problem/15858))
 
+[15860 Ninety-nine](../problems/acmicpc_15860.cpp) ([링크](https://www.acmicpc.net/problem/15860))
+
 [15873 공백 없는 A+B](../problems/acmicpc_15873.cpp) ([링크](https://www.acmicpc.net/problem/15873))
 
 [15892 사탕 줍는 로봇](../problems/acmicpc_15892.cpp) ([링크](https://www.acmicpc.net/problem/15892))
