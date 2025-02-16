@@ -4020,6 +4020,8 @@
 
 [32710 구구단표](../problems/acmicpc_32710.cpp) ([링크](https://www.acmicpc.net/problem/32710))
 
+[32711 홀수로 나눠라! 짝수로 나눠라!](../problems/acmicpc_32711.cpp) ([링크](https://www.acmicpc.net/problem/32711))
+
 [32748 $f(A+B)$](../problems/acmicpc_32748.cpp) ([링크](https://www.acmicpc.net/problem/32748))
 
 [32751 햄버거](../problems/acmicpc_32751.cpp) ([링크](https://www.acmicpc.net/problem/32751))
