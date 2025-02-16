@@ -1022,6 +1022,8 @@
 
 [5751 Head or Tail](../problems/acmicpc_5751.cpp) ([링크](https://www.acmicpc.net/problem/5751))
 
+[5766 Grandpa is Famous](../problems/acmicpc_5766.cpp) ([링크](https://www.acmicpc.net/problem/5766))
+
 [5893 17배](../problems/acmicpc_5893.cpp) ([링크](https://www.acmicpc.net/problem/5893))
 
 [5904 Moo 게임](../problems/acmicpc_5904.cpp) ([링크](https://www.acmicpc.net/problem/5904))
