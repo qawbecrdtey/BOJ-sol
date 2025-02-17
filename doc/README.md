@@ -3986,6 +3986,8 @@
 
 [32172 현권이와 신기한 수열](problems/acmicpc_32172.cpp) ([링크](https://www.acmicpc.net/problem/32172))
 
+[32259 가짜 금화 찾기](../problems/acmicpc_32259.cpp) ([링크](https://www.acmicpc.net/problem/32259))
+
 [32292 ABB to BA (Easy)](../problems/acmicpc_32292.cpp) ([링크](https://www.acmicpc.net/problem/32292))
 
 [32328 Bronze Count](../problems/acmicpc_32328.cpp) ([링크](https://www.acmicpc.net/problem/32328))
