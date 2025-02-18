@@ -2858,6 +2858,8 @@
 
 [18265 MooBuzz](../problems/acmicpc_18265.cpp) ([링크](https://www.acmicpc.net/problem/18265))
 
+[18269 Where Am I?](../problems/acmicpc_18269.cpp) ([링크](https://www.acmicpc.net/problem/18269))
+
 [18268 Cow Gymnastics](../problems/acmicpc_18268.cpp) ([링크](https://www.acmicpc.net/problem/18268))
 
 [18291 비요뜨의 징검다리 건너기](../problems/acmicpc_18291.cpp) ([링크](https://www.acmicpc.net/problem/18291))
