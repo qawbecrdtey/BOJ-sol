@@ -3316,6 +3316,8 @@
 
 [24196 Gömda ord](../problems/acmicpc_24196.cpp) ([링크](https://www.acmicpc.net/problem/24196))
 
+[24198 Muffinspelet](../problems/acmicpc_24198.cpp) ([링크](https://www.acmicpc.net/problem/24198))
+
 [24265 알고리즘 수업 - 알고리즘의 수행 시간 4](../problems/acmicpc_24265.cpp) ([링크](https://www.acmicpc.net/problem/24265))
 
 [24266 알고리즘 수업 - 알고리즘의 수행 시간 5](../problems/acmicpc_24266.cpp) ([링크](https://www.acmicpc.net/problem/24266))
