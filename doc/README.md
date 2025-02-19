@@ -46,6 +46,8 @@
 
 [1023 괄호 문자열](../problems/acmicpc_1023.cpp) ([링크](https://www.acmicpc.net/problem/1023))
 
+[1039 교환](../problems/acmicpc_1039.cpp) ([링크](https://www.acmicpc.net/problem/1039))
+
 [1043 거짓말](../problems/acmicpc_1043.cpp) ([링크](https://www.acmicpc.net/problem/1043))
 
 [1058 친구](../problems/acmicpc_1058.cpp) ([링크](https://www.acmicpc.net/problem/1058))
