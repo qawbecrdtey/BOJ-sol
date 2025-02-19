@@ -2364,6 +2364,8 @@
 
 [15562 네트워크](../problems/acmicpc_15562.cpp) ([링크](https://www.acmicpc.net/problem/15562))
 
+[15565 귀여운 라이언](../problems/acmicpc_15565.cpp) ([링크](https://www.acmicpc.net/problem/15565))
+
 [15576 큰 수 곱셈 (2)](../problems/acmicpc_15576.cpp) ([링크](https://www.acmicpc.net/problem/15576))
 
 [15610 Abbey Courtyard](../problems/acmicpc_15610.cpp) ([링크](https://www.acmicpc.net/problem/15610))
