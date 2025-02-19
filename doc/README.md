@@ -206,6 +206,8 @@
 
 [1408 24](../problems/acmicpc_1408.cpp) ([링크](https://www.acmicpc.net/problem/1408))
 
+[1412 일방통행](../problems/acmicpc_1412.cpp) ([링크](https://www.acmicpc.net/problem/1412))
+
 [1418 K-세준수](../problems/acmicpc_1418.cpp) ([링크](https://www.acmicpc.net/problem/1418))
 
 [1420 학교 가지마!](../problems/acmicpc_1420.cpp) ([링크](https://www.acmicpc.net/problem/1420))
