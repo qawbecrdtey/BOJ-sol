@@ -4074,6 +4074,8 @@
 
 [33258 상현이의 수학 공부 대작전](../problems/acmicpc_33258.cpp) ([링크](https://www.acmicpc.net/problem/33258))
 
+[33533 Floor Price Calculator](../problems/acmicpc_33533.cpp) ([링크](https://www.acmicpc.net/problem/33533))
+
 
 ## Algorithms
 
