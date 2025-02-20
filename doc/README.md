@@ -4076,6 +4076,8 @@
 
 [33533 Floor Price Calculator](../problems/acmicpc_33533.cpp) ([링크](https://www.acmicpc.net/problem/33533))
 
+[33540 Helping Out](../problems/acmicpc_33540.cpp) ([링크](https://www.acmicpc.net/problem/33540))
+
 
 ## Algorithms
 
