@@ -1014,6 +1014,8 @@
 
 [5648 역원소 정렬](../problems/acmicpc_5648.cpp) ([링크](https://www.acmicpc.net/problem/5648))
 
+[5666 Hot Dogs](../problems/acmicpc_5666.cpp) ([링크](https://www.acmicpc.net/problem/5666))
+
 [5676 음주 코딩](../problems/acmicpc_5676.cpp) ([링크](https://www.acmicpc.net/problem/5676))
 
 [5679 Hailstone Sequences](../problems/acmicpc_5679.cpp) ([링크](https://www.acmicpc.net/problem/5679))
