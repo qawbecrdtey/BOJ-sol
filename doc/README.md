@@ -1420,6 +1420,8 @@
 
 [9791 Encoding Binary Numbers](../problems/acmicpc_9791.cpp) ([링크](https://www.acmicpc.net/problem/9791))
 
+[9838 XMAS](../problems/acmicpc_9838.cpp) ([링크](https://www.acmicpc.net/problem/9838))
+
 [9842 Prime](../problems/acmicpc_9842.cpp) ([링크](https://www.acmicpc.net/problem/9842))
 
 [9847 4SUM](../problems/acmicpc_9847.cpp) ([링크](https://www.acmicpc.net/problem/9847))
