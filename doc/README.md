@@ -1670,6 +1670,8 @@
 
 [11292 키 큰 사람](../problems/acmicpc_11292.cpp) ([링크](https://www.acmicpc.net/problem/11292))
 
+[11295 Exercising](../problems/acmicpc_11295.cpp) ([링크](https://www.acmicpc.net/problem/11295))
+
 [11311 Jug Hard](../problems/acmicpc_11311.cpp) ([링크](https://www.acmicpc.net/problem/11311))
 
 [11312 삼각 무늬 - 2](../problems/acmicpc_11312.cpp) ([링크](https://www.acmicpc.net/problem/11312))
