@@ -2900,6 +2900,8 @@
 
 [18373 N!!!...! mod P](../problems/acmicpc_18373.cpp) ([링크](https://www.acmicpc.net/problem/18373))
 
+[18384 PRIM](../problems/acmicpc_18384.cpp) ([링크](https://www.acmicpc.net/problem/18384))
+
 [18398 HOMWRK](../problems/acmicpc_18398.cpp) ([링크](https://www.acmicpc.net/problem/18398))
 
 [18408 3 つの整数 (Three Integers)](../problems/acmicpc_18408.cpp) ([링크](https://www.acmicpc.net/problem/18408))
