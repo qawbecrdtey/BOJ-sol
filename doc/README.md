@@ -976,6 +976,8 @@
 
 [5430 AC](../problems/acmicpc_5430.cpp) ([링크](https://www.acmicpc.net/problem/5430))
 
+[5437 Dividing the Loot](../problems/acmicpc_5437.cpp) ([링크](https://www.acmicpc.net/problem/5437))
+
 [5502 팰린드롬](../problems/acmicpc_5502.cpp) ([링크](https://www.acmicpc.net/problem/5502))
 
 [5522 카드 게임](../problems/acmicpc_5522.cpp) ([링크](https://www.acmicpc.net/problem/5522))
