@@ -3622,6 +3622,8 @@
 
 [26350 Good Coin Denomination](../problems/acmicpc_26350.cpp) ([링크](https://www.acmicpc.net/problem/26350))
 
+[26428 Sort the Fabrics](../problems/acmicpc_26428.cpp) ([링크](https://www.acmicpc.net/problem/26428))
+
 [26473 連番](../problems/acmicpc_26473.cpp) ([링크](https://www.acmicpc.net/problem/26473))
 
 [26495 Big Number](../problems/acmicpc_26495.cpp) ([링크](https://www.acmicpc.net/problem/26495))
