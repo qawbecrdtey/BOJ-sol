@@ -1224,6 +1224,8 @@
 
 [8337 Rectangles 2](../problems/acmicpc_8337.cpp) ([링크](https://www.acmicpc.net/problem/8337))
 
+[8362 Near](../problems/acmicpc_8362.cpp) ([링크](https://www.acmicpc.net/problem/8362))
+
 [8370 Plane](../problems/acmicpc_8370.cpp) ([링크](https://www.acmicpc.net/problem/8370))
 
 [8394 악수](../problems/acmicpc_8394.cpp) ([링크](https://www.acmicpc.net/problem/8394))
