@@ -3808,6 +3808,8 @@
 
 [27931 Parity Constraint Closest Pair (Easy)](../problems/acmicpc_27931.cpp) ([링크](https://www.acmicpc.net/problem/27931))
 
+[27952 보디빌딩](../problems/acmicpc_27952.cpp) ([링크](https://www.acmicpc.net/problem/27952))
+
 [27982 큐브 더미](../problems/acmicpc_27982.cpp) ([링크](https://www.acmicpc.net/problem/27982))
 
 [27983 리본 (Easy)](../problems/acmicpc_27983.cpp) ([링크](https://www.acmicpc.net/problem/27983))
