@@ -4096,6 +4096,8 @@
 
 [33533 Floor Price Calculator](../problems/acmicpc_33533.cpp) ([링크](https://www.acmicpc.net/problem/33533))
 
+[33535 Impressive Beers](../problems/acmicpc_33535.cpp) ([링크](https://www.acmicpc.net/problem/33535))
+
 [33540 Helping Out](../problems/acmicpc_33540.cpp) ([링크](https://www.acmicpc.net/problem/33540))
 
 
