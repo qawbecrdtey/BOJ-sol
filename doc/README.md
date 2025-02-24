@@ -2370,6 +2370,8 @@
 
 [15480 LCA와 쿼리](../problems/acmicpc_15480.cpp) ([링크](https://www.acmicpc.net/problem/15480))
 
+[15488 나이트가 체스판을 벗어나지 않을 확률](../problems/acmicpc_15488.cpp) ([링크](https://www.acmicpc.net/problem/15488))
+
 [15517 Array Manipulation at Moloco (Hard)](../problems/acmicpc_15517.cpp) ([링크](https://www.acmicpc.net/problem/15517))
 
 [15560 구간 합 최대? 1](../problems/acmicpc_15560.cpp) ([링크](https://www.acmicpc.net/problem/15560))
