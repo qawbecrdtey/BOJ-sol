@@ -4102,6 +4102,8 @@
 
 [33540 Helping Out](../problems/acmicpc_33540.cpp) ([링크](https://www.acmicpc.net/problem/33540))
 
+[33541 2025는 무엇이 특별할까?](../problems/acmicpc_33541.cpp) ([링크](https://www.acmicpc.net/problem/33541))
+
 [33555 Hypotenuse](../problems/acmicpc_33555.cpp) ([링크](https://www.acmicpc.net/problem/33555))
 
 
