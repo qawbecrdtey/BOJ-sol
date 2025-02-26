@@ -4090,6 +4090,8 @@
 
 [33166 鉄道旅行 3 (Railway Trip 3)](../problems/acmicpc_33166.cpp) ([링크](https://www.acmicpc.net/problem/33166))
 
+[33167 じゃんけん (Rock-Scissors-Paper)](../problems/acmicpc_33167.cpp) ([링크](https://www.acmicpc.net/problem/33167))
+
 [33191 Yalda](../problems/acmicpc_33191.cpp) ([링크](https://www.acmicpc.net/problem/33191))
 
 [33213 Fermatovi Fakini](../problems/acmicpc_33213.cpp) ([링크](https://www.acmicpc.net/problem/33213))
