@@ -4088,6 +4088,8 @@
 
 [33118 ICPC Provincial](../problems/acmicpc_33118.cpp) ([링크](https://www.acmicpc.net/problem/33118))
 
+[33164 どら焼き (Dorayaki)](../problems/acmicpc_33164.cpp) ([링크](https://www.acmicpc.net/problem/33164))
+
 [33166 鉄道旅行 3 (Railway Trip 3)](../problems/acmicpc_33166.cpp) ([링크](https://www.acmicpc.net/problem/33166))
 
 [33167 じゃんけん (Rock-Scissors-Paper)](../problems/acmicpc_33167.cpp) ([링크](https://www.acmicpc.net/problem/33167))
