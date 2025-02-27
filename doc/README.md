@@ -4082,6 +4082,8 @@
 
 [32941 왜 맘대로 예약하냐고](../problems/acmicpc_32941.cpp) ([링크](https://www.acmicpc.net/problem/32941))
 
+[32969 학술대회 참가신청](../problems/acmicpc_32969.cpp) ([링크](https://www.acmicpc.net/problem/32969))
+
 [32978 아 맞다 마늘](../problems/acmicpc_32978.cpp) ([링크](https://www.acmicpc.net/problem/32978))
 
 [32981 찐 Even Number](../problems/acmicpc_32981.cpp) ([링크](https://www.acmicpc.net/problem/32981))
