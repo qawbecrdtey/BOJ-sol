@@ -3964,6 +3964,8 @@
 
 [30991 ESC](../problems/acmicpc_30991.cpp) ([링크](https://www.acmicpc.net/problem/30991))
 
+[31000 교환 분배법칙](../problems/acmicpc_31000.cpp) ([링크](https://www.acmicpc.net/problem/31000))
+
 [31047 Warehouse](../problems/acmicpc_31047.cpp) ([링크](https://www.acmicpc.net/problem/31047))
 
 [31052 Relocation](../problems/acmicpc_31052.cpp) ([링크](https://www.acmicpc.net/problem/31052))
