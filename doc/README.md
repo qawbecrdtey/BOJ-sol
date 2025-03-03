@@ -2132,6 +2132,8 @@
 
 [14226 이모티콘](../problems/acmicpc_14226.cpp) ([링크](https://www.acmicpc.net/problem/14226))
 
+[14232 보석 도둑](../problems/acmicpc_14232.cpp) ([링크](https://www.acmicpc.net/problem/14232))
+
 [14238 출근 기록](../problems/acmicpc_14238.cpp) ([링크](https://www.acmicpc.net/problem/14238))
 
 [14241 슬라임 합치기](../problems/acmicpc_14241.cpp) ([링크](https://www.acmicpc.net/problem/14241))
