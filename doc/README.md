@@ -2228,6 +2228,8 @@
 
 [14659 한조서열정리하고옴ㅋㅋ](../problems/acmicpc_14659.cpp) ([링크](https://www.acmicpc.net/problem/14659))
 
+[14671 영정이의 청소](../problems/acmicpc_14671.cpp) ([링크](https://www.acmicpc.net/problem/14671))
+
 [14675 단절점과 단절선](../problems/acmicpc_14675.cpp) ([링크](https://www.acmicpc.net/problem/14675))
 
 [14682 Shifty Sum](../problems/acmicpc_14682.cpp) ([링크](https://www.acmicpc.net/problem/14682))
