@@ -3626,6 +3626,8 @@
 
 [26090 완전한 수열](../problems/acmicpc_26090.cpp) ([링크](https://www.acmicpc.net/problem/26090))
 
+[26092 수학적인 최소 공통 조상](../problems/acmicpc_26092.cpp) ([링크](https://www.acmicpc.net/problem/26092))
+
 [26111 Parentheses Tree](../problems/acmicpc_26111.cpp) ([링크](https://www.acmicpc.net/problem/26111))
 
 [26162 인공 원소](../problems/acmicpc_26162.cpp) ([링크](https://www.acmicpc.net/problem/26162))
