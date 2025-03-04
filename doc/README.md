@@ -4122,6 +4122,8 @@
 
 [33530 Cryptography](../problems/acmicpc_33530.cpp) ([링크](https://www.acmicpc.net/problem/33530))
 
+[33532 Efficient Printing](../problems/acmicpc_33532.cpp) ([링크](https://www.acmicpc.net/problem/33532))
+
 [33533 Floor Price Calculator](../problems/acmicpc_33533.cpp) ([링크](https://www.acmicpc.net/problem/33533))
 
 [33535 Impressive Beers](../problems/acmicpc_33535.cpp) ([링크](https://www.acmicpc.net/problem/33535))
