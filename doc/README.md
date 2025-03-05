@@ -616,6 +616,8 @@
 
 [2685 님비합](../problems/acmicpc_2685.cpp) ([링크](https://www.acmicpc.net/problem/2685))
 
+[2694 합이 같은 구간](../problems/acmicpc_2694.cpp) ([링크](https://www.acmicpc.net/problem/2694))
+
 [2696 중앙값 구하기](../problems/acmicpc_2696.cpp) ([링크](https://www.acmicpc.net/problem/2696))
 
 [2697 다음수 구하기](../problems/acmicpc_2697.cpp) ([링크](https://www.acmicpc.net/problem/2697))
