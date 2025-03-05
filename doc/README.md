@@ -1230,6 +1230,8 @@
 
 [8362 Near](../problems/acmicpc_8362.cpp) ([링크](https://www.acmicpc.net/problem/8362))
 
+[8364 Idempotent Functions](../problems/acmicpc_8364.cpp) ([링크](https://www.acmicpc.net/problem/8364))
+
 [8370 Plane](../problems/acmicpc_8370.cpp) ([링크](https://www.acmicpc.net/problem/8370))
 
 [8394 악수](../problems/acmicpc_8394.cpp) ([링크](https://www.acmicpc.net/problem/8394))
