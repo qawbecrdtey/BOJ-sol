@@ -1884,6 +1884,8 @@
 
 [12756 고급 여관](../problems/acmicpc_12756.cpp) ([링크](https://www.acmicpc.net/problem/12756))
 
+[12760 최후의 승자는 누구?](../problems/acmicpc_12760.cpp) ([링크](https://www.acmicpc.net/problem/12760))
+
 [12779 상품 is 뭔들](../problems/acmicpc_12779.cpp) ([링크](https://www.acmicpc.net/problem/12779))
 
 [12781 PIZZA ALVOLOC](../problems/acmicpc_12781.cpp) ([링크](https://www.acmicpc.net/problem/12781))
