@@ -3132,6 +3132,8 @@
 
 [21336 Cheating](../problems/acmicpc_21336.cpp) ([링크](https://www.acmicpc.net/problem/21336))
 
+[21339 Contest Struggles](../problems/acmicpc_21339.cpp) ([링크](https://www.acmicpc.net/problem/21339))
+
 [21449 Красивая таблица результатов](../problems/acmicpc_21449.cpp) ([링크](https://www.acmicpc.net/problem/21449))
 
 [21553 암호 만들기](../problems/acmicpc_21553.cpp) ([링크](https://www.acmicpc.net/problem/21553))
