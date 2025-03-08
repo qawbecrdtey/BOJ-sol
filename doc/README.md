@@ -3948,6 +3948,8 @@
 
 [30223 Cut the Cake](../problems/acmicpc_30223.cpp) ([링크](https://www.acmicpc.net/problem/30223))
 
+[30354 Sum of Product of Binomial Coefficients](../problems/acmicpc_30354.cpp) ([링크](https://www.acmicpc.net/problem/30354))
+
 [30411 그래프 게임](../problems/acmicpc_30411.cpp) ([링크](https://www.acmicpc.net/problem/30411))
 
 [30454 얼룩말을 찾아라!](../problems/acmicpc_30454.cpp) ([링크](https://www.acmicpc.net/problem/30454))
