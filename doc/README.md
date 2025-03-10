@@ -1940,6 +1940,8 @@
 
 [12927 배수 스위치](../problems/acmicpc_12927.cpp) ([링크](https://www.acmicpc.net/problem/12927))
 
+[12931 두 배 더하기](../problems/acmicpc_12931.cpp) ([링크](https://www.acmicpc.net/problem/12931))
+
 [12933 오리](../problems/acmicpc_12933.cpp) ([링크](https://www.acmicpc.net/problem/12933))
 
 [12944 재미있는 숫자 놀이](../problems/acmicpc_12944.cpp) ([링크](https://www.acmicpc.net/problem/12944))
