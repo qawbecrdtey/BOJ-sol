@@ -3262,6 +3262,8 @@
 
 [23278 영화 평가](../problems/acmicpc_23278.cpp) ([링크](https://www.acmicpc.net/problem/23278))
 
+[23284 모든 스택 수열](../problems/acmicpc_23284.cpp) ([링크](https://www.acmicpc.net/problem/23284))
+
 [23287 제곱수](../problems/acmicpc_23287.cpp) ([링크](https://www.acmicpc.net/problem/23287))
 
 [23303 이 문제는 D2 입니다.](../problems/acmicpc_23303.cpp) ([링크](https://www.acmicpc.net/problem/23303))
