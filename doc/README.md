@@ -3768,6 +3768,8 @@
 
 [27073 Pasture Fences](../problems/acmicpc_27073.cpp) ([링크](https://www.acmicpc.net/problem/27073))
 
+[27087 직육면체](../problems/acmicpc_27087.cpp) ([링크](https://www.acmicpc.net/problem/27087))
+
 [27101 Metric Matrices](../problems/acmicpc_27101.cpp) ([링크](https://www.acmicpc.net/problem/27101))
 
 [27106 Making Change](../problems/acmicpc_27106.cpp) ([링크](https://www.acmicpc.net/problem/27106))
