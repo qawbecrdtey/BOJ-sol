@@ -4140,6 +4140,8 @@
 
 [33461 Šah](../problems/acmicpc_33461.cpp) ([링크](https://www.acmicpc.net/problem/33461))
 
+[33529 BINGO!](../problems/acmicpc_33529.cpp) ([링크](https://www.acmicpc.net/problem/33529))
+
 [33530 Cryptography](../problems/acmicpc_33530.cpp) ([링크](https://www.acmicpc.net/problem/33530))
 
 [33532 Efficient Printing](../problems/acmicpc_33532.cpp) ([링크](https://www.acmicpc.net/problem/33532))
