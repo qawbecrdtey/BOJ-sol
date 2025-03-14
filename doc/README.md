@@ -1530,6 +1530,8 @@
 
 [10422 괄호](../problems/acmicpc_10422.cpp) ([링크](https://www.acmicpc.net/problem/10422))
 
+[10431 줄세우기](../problems/acmicpc_10431.cpp) ([링크](https://www.acmicpc.net/problem/10431))
+
 [10434 행복한 소수](../problems/acmicpc_10434.cpp) ([링크](https://www.acmicpc.net/problem/10434))
 
 [10464 XOR](../problems/acmicpc_10464.cpp) ([링크](https://www.acmicpc.net/problem/10464))
