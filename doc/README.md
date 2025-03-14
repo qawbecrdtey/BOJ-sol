@@ -2008,6 +2008,8 @@
 
 [13279 곱의 합 쿼리](../problems/acmicpc_13279.cpp) ([링크](https://www.acmicpc.net/problem/13279))
 
+[13280 Selection of Participants of an Experiment](../problems/acmicpc_13280.cpp) ([링크](https://www.acmicpc.net/problem/13280))
+
 [13288 A New Alphabet](../problems/acmicpc_13288.cpp) ([링크](https://www.acmicpc.net/problem/13288))
 
 [13300 방 배정](../problems/acmicpc_13300.cpp) ([링크](https://www.acmicpc.net/problem/13300))
