@@ -1536,6 +1536,8 @@
 
 [10464 XOR](../problems/acmicpc_10464.cpp) ([링크](https://www.acmicpc.net/problem/10464))
 
+[10469 Eight Queens](../problems/acmicpc_10469.cpp) ([링크](https://www.acmicpc.net/problem/10469))
+
 [10480 Oddities](../problems/acmicpc_10480.cpp) ([링크](https://www.acmicpc.net/problem/10480))
 
 [10482 Goldbach’s Conjecture](../problems/acmicpc_10482.cpp) ([링크](https://www.acmicpc.net/problem/10482))
