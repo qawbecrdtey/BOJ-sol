@@ -3996,6 +3996,8 @@
 
 [30893 트리 게임](../problems/acmicpc_30893.cpp) ([링크](https://www.acmicpc.net/problem/30893))
 
+[30987 하루 피부과](../problems/acmicpc_30987.cpp) ([링크](https://www.acmicpc.net/problem/30987))
+
 [30991 ESC](../problems/acmicpc_30991.cpp) ([링크](https://www.acmicpc.net/problem/30991))
 
 [31000 교환 분배법칙](../problems/acmicpc_31000.cpp) ([링크](https://www.acmicpc.net/problem/31000))
