@@ -3944,6 +3944,8 @@
 
 [29332 보물 지도](../problems/acmicpc_29332.cpp) ([링크](https://www.acmicpc.net/problem/29332))
 
+[29487 Super Massive Black Hole](../problems/acmicpc_29487.cpp) ([링크](https://www.acmicpc.net/problem/29487))
+
 [29534 Буквы и весы](../problems/acmicpc_29534.cpp) ([링크](https://www.acmicpc.net/problem/29534))
 
 [29702 FizzBuzz](../problems/acmicpc_29702.cpp) ([링크](https://www.acmicpc.net/problem/29702))
