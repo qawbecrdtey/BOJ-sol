@@ -3440,6 +3440,8 @@
 
 [24608 Average Character](../problems/acmicpc_24608.cpp) ([링크](https://www.acmicpc.net/problem/24608))
 
+[24609 Overdraft](../problems/acmicpc_24609.cpp) ([링크](https://www.acmicpc.net/problem/24609))
+
 [24736 Football Scoring](../problems/acmicpc_24736.cpp) ([링크](https://www.acmicpc.net/problem/24736))
 
 [24742 Simple Collatz Sequence](../problems/acmicpc_24742.cpp) ([링크](https://www.acmicpc.net/problem/24742))
