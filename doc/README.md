@@ -1142,6 +1142,8 @@
 
 [6830 It’s Cold Here!](../problems/acmicpc_6830.cpp) ([링크](https://www.acmicpc.net/problem/6830))
 
+[6845 Federal Voting Age](../problems/acmicpc_6845.cpp) ([링크](https://www.acmicpc.net/problem/6845))
+
 [6856 Roll the Dice](problems/acmicpc_6856.cpp) ([링크](https://www.acmicpc.net/problem/6856))
 
 [6884 소수 부분 수열](../problems/acmicpc_6884.cpp) ([링크](https://www.acmicpc.net/problem/6884))
