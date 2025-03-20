@@ -3110,6 +3110,8 @@
 
 [20953 고고학자 예린](../problems/acmicpc_20953.cpp) ([링크](https://www.acmicpc.net/problem/20953))
 
+[20955 민서의 응급 수술](../problems/acmicpc_20955.cpp) ([링크](https://www.acmicpc.net/problem/20955))
+
 [21022 Three Points for a Win](../problems/acmicpc_21022.cpp) ([링크](https://www.acmicpc.net/problem/21022))
 
 [21032 Odd GCD Matching](../problems/acmicpc_21032.cpp) ([링크](https://www.acmicpc.net/problem/21032))
