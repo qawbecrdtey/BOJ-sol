@@ -4182,6 +4182,8 @@
 
 [33555 Hypotenuse](../problems/acmicpc_33555.cpp) ([링크](https://www.acmicpc.net/problem/33555))
 
+[33656 Island Exploration](../problems/acmicpc_33656.cpp) ([링크](https://www.acmicpc.net/problem/33656))
+
 
 ## Algorithms
 
