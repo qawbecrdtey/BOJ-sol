@@ -1642,6 +1642,8 @@
 
 [11004 K번째 수](../problems/acmicpc_11004.cpp) ([링크](https://www.acmicpc.net/problem/11004))
 
+[11008 Typing](../problems/acmicpc_11008.cpp) ([링크](https://www.acmicpc.net/problem/11008))
+
 [11024 더하기 4](../problems/acmicpc_11024.cpp) ([링크](https://www.acmicpc.net/problem/11024))
 
 [11025 요세푸스 문제 3](../problems/acmicpc_11025.cpp) ([링크](https://www.acmicpc.net/problem/11025))
