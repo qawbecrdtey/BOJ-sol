@@ -4186,6 +4186,8 @@
 
 [33656 Island Exploration](../problems/acmicpc_33656.cpp) ([링크](https://www.acmicpc.net/problem/33656))
 
+[33691 Arkain 대시보드](../problems/acmicpc_33691.cpp) ([링크](https://www.acmicpc.net/problem/33691))
+
 
 ## Algorithms
 
