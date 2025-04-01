@@ -4162,6 +4162,8 @@
 
 [33191 Yalda](../problems/acmicpc_33191.cpp) ([링크](https://www.acmicpc.net/problem/33191))
 
+[33192 Divar’s Salaries](../problems/acmicpc_33192.cpp) ([링크](https://www.acmicpc.net/problem/33192))
+
 [33213 Fermatovi Fakini](../problems/acmicpc_33213.cpp) ([링크](https://www.acmicpc.net/problem/33213))
 
 [33258 상현이의 수학 공부 대작전](../problems/acmicpc_33258.cpp) ([링크](https://www.acmicpc.net/problem/33258))
