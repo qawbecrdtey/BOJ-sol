@@ -3296,6 +3296,8 @@
 
 [23375 Arm Coordination](../problems/acmicpc_23375.cpp) ([링크](https://www.acmicpc.net/problem/23375))
 
+[23516 Least Common Divisor](../problems/acmicpc_23516.cpp) ([링크](https://www.acmicpc.net/problem/23516))
+
 [23530 Not A + B](../problems/acmicpc_23530.cpp) ([링크](https://www.acmicpc.net/problem/23530))
 
 [23538 Easy Equation](../problems/acmicpc_23538.cpp) ([링크](https://www.acmicpc.net/problem/23538)
